@@ -1,0 +1,332 @@
+1-(3-mercapto-2-methyl-propionyl)-pyrrolidine-2-carboxylic acid
+2-fluoroadenosine
+abacavir
+acamprosate
+acepromazine
+acetazolamide
+acetylcysteine
+acetylcysteine magnesium
+acetylcysteine zinc
+acitretin
+adapalene
+alendronic acid
+alfacalcidol
+alitretinoin
+alprostadil
+aluminum sulfate
+amezinium metilsulfate
+amikacin
+aminophylline
+ampicillin
+aripiprazole
+atazanavir
+atomoxetine
+azithromycin
+barium sulfate
+benzatropine
+betahistine
+biperiden
+bisacodyl
+bortezomib
+brimonidine
+budesonide
+bufylline
+bupivacaine
+buprenorphine
+bupropion
+buspirone
+butalbital
+butorphanol
+cabergoline
+caffeine
+calcium acetate
+calcium ascorbate
+calcium carbimide
+calcium carbonate
+calcium cation
+calcium chloride
+calcium citrate
+calcium glubionate anhydrous
+calcium glucoheptonate
+calcium gluconate
+calcium glycerophosphate
+calcium lactate
+calcium levulinate
+calcium magnesium potassium carbonate chloride hydroxide
+calcium pangamate
+calcium phosphate
+calcium phosphate dihydrate
+calcium saccharate
+calcium silicate
+calcium sulfate
+calcium threonate
+capecitabine
+captopril
+carbamazepine
+carbaspirin calcium
+cefpodoxime
+cefprozil
+cefuroxime
+celecoxib
+cephalexin
+cetirizine
+cetrorelix
+chenodeoxycholic acid
+chlorambucil
+chlorothiazide
+chlorpheniramine
+chlorpromazine
+chlorprothixene
+chromous sulfate
+citalopram
+clindamycin
+clobazam
+clobetasol
+clobetasol propionate
+clomifene
+clomipramine
+clopenthixol
+clopidogrel
+clorazepic acid
+clotiazepam
+cocaine
+codeine
+cortisone acetate
+cupric sulfate
+cyamemazine
+cyclizine
+cyclobenzaprine
+dapsone
+darunavir
+deflazacort
+delavirdine
+dexchlorpheniramine
+dexchlorpheniramine maleate
+dexibuprofen
+dexpropranolol
+dextromethadone
+diamorphine
+dicloxacillin
+difluprednate
+digoxin
+dihydroergotamine
+ditiocarb zinc
+docusate
+donepezil
+dorzolamide
+doxylamine
+edetate calcium disodium anhydrous
+efavirenz
+eletriptan
+emtricitabine
+enalapril
+enalaprilat
+enclomiphene
+ephedrine
+eprosartan
+ergocalciferol
+erythromycin
+escitalopram
+esketamine
+esomeprazole
+estradiol
+ethanol
+ethinylestradiol
+etizolam
+etodolac
+etonogestrel
+etoricoxib
+felbamate
+fenoterol
+fenspiride
+ferric oxide
+ferric sulfate
+ferricrocin-iron
+ferrous glycine sulfate
+ferrous sulfate anhydrous
+fexofenadine
+fluconazole
+fludarabine
+flumazenil
+fluorouracil
+fluticasone
+fluticasone propionate
+fluvoxamine
+fosamprenavir
+fosinopril
+gamma-hydroxybutyric acid
+gatifloxacin
+gentamicin
+glyburide
+goserelin
+haloperidol
+homatropine
+hydrochlorothiazide
+hydrocodone
+hydrocortisone cypionate
+hydromorphone
+hydroxy-phenyl-acetic acid 8-methyl-8-aza-bicyclo[3.2.1]oct-3-yl ester
+hydroxychloroquine
+ibuprofen
+imipramine
+indinavir
+indomethacin
+iobenguane sulfate i-123
+ipratropium
+iron
+iron azide hydrate
+isotretinoin
+ketamine
+ketoconazole
+ketorolac
+ketotifen
+labetalol
+lamotrigine
+lansoprazole
+leflunomide
+letrozole
+levobupivacaine
+levocetirizine
+levoketoconazole
+levomethadone
+levosalbutamol
+liothyronine
+liothyronine i-131
+liotrix
+lithium carbonate
+lopinavir
+loprazolam
+loratadine
+lormetazepam
+losartan
+lypressin
+magaldrate
+magnesium hydroxide
+magnesium sulfate
+mebendazole
+medroxyprogesterone
+medroxyprogesterone acetate
+mefloquine
+meperidine
+meprobamate
+mercaptopurine
+metaxalone
+metformin
+methadone
+methyldopa
+metolazone
+metronidazole
+mianserin
+miconazole
+misoprostol
+moexipril
+mometasone furoate
+montelukast
+mycophenolic acid
+n-(2-ferrocenylethyl)maleimide
+nabumetone
+nefazodone
+nelfinavir
+nevirapine
+nicardipine
+nickel sulfate
+nifedipine
+nitrazepam
+nitrofurantoin
+nizatidine
+norfloxacin
+norgestimate
+nortriptyline
+omeprazole
+orphenadrine
+oseltamivir
+oxacillin
+oxazepam
+pagoclone
+pamidronic acid
+pantoprazole
+paroxetine
+penicillamine
+pentobarbital
+pentoxifylline
+perindopril
+perospirone
+phenazopyridine
+pheneticillin
+phenylferricrocin-iron
+phylloquinone
+pimecrolimus
+pipamperone
+potassium alum
+potassium sulfate
+pramipexole
+prazepam
+primidone
+prochlorperazine
+progesterone
+propranolol
+propylthiouracil
+pseudoephedrine
+quinapril
+raloxifene
+repaglinide
+ritodrine
+rivastigmine
+rizatriptan
+rofecoxib
+ropinirole
+rotigotine
+salbutamol
+salicylamide
+salmeterol
+saquinavir
+sertraline
+sibutramine
+sirolimus
+sodium chloride
+sodium citrate
+sodium oxybate
+sodium sulfate
+stavudine
+sufentanil
+sulfadiazine
+sulfate ion
+sulfuric acid
+sumatriptan
+tacrine
+tamoxifen
+tazarotene
+telithromycin
+telmisartan
+tenofovir
+tenofovir disoproxil
+terbinafine
+terbutaline
+terconazole
+theophylline
+thiamine
+thiopental
+thioridazine
+tiagabine
+tramadol
+tretinoin
+triamcinolone
+triamterene
+triazolam
+ursodeoxycholic acid
+valdecoxib
+valproate bismuth
+valproic acid
+vecuronium
+venlafaxine
+zalcitabine
+zaleplon
+zidovudine
+zinc
+zinc dibutyldithiocarbamate
+zinc oxide
+zinc sulfate
+zinc trihydroxide
+ziprasidone
+zolpidem
+zuclopenthixo
