@@ -30,4 +30,4 @@ Using the [DrugShot](https://maayanlab.cloud/DrugShot/) API, we queried each bir
 ---
 
 ### Workflow to discover MOAs for birth defects by connecting birth defect terms to genes, drugs, and the LINCS L1000 gene expression signatures
-
+![Workflow to discover MOAs for birth defects](https://github.com/nih-cfde/ReproToxTables/blob/main/CDC-birth-defects/Screen%20Shot%202022-01-09%20at%207.08.31%20PM.png)
