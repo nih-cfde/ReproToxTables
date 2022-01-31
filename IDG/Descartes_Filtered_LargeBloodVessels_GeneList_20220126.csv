@@ -1,0 +1,561 @@
+gene_short_name	Great_vessel_assoc_disease	pvalue_more	pvalue_less	Obs
+A2ML1	1			
+AASS	1	0.018350352		
+ABCC6	1		-0.029760825	
+ABCC9	1			
+ABCD4	1	8.59799E-08		Significant, overexpressed
+ABCG5	1		-0.024593124	
+ABCG8	1			
+ABL1	1	6.87173E-06		Significant, overexpressed
+ACSL4	1		-0.001025823	
+ACTA2	1			
+ACTB	1			
+ACTL6B	1		-0.009527531	
+ACVR2B	1			
+ADAMTS10	1	0.000104845		Significant, overexpressed
+ADAR	1	0.000684854		Significant, overexpressed
+ADAT3	1			
+ADH5	1			
+ADK	1		-2.29907E-05	Significant, underexpressed
+AEBP1	1			
+AFF4	1	0.007192136		
+AGO2	1			
+ALB	1			
+ALDH18A1	1		-0.002035148	
+ALG12	1			
+ALG8	1			
+ALG9	1			
+ALX1	1			
+ALX3	1			
+AMER1	1			
+AMMECR1	1			
+ANK1	1		-0.001399939	
+ANKS6	1			
+APC2	1			
+APOB	1			
+APOE	1		-0.027306367	
+ARF1	1			
+ARFGEF2	1	0.006591678		
+ARHGAP31	1	2.9992E-39		Significant, overexpressed
+ARID1A	1			
+ARID1B	1	0.044934341		
+ARID2	1	0.019470566		
+ARX	1			
+ASCC1	1			
+ATP6V1B2	1		-0.000160044	Significant, underexpressed
+B3GALT6	1			
+B3GAT3	1		-0.034188801	
+BAP1	1	0.003900945		
+BCL11B	1		-0.00318542	
+BCOR	1	5.19311E-05		Significant, overexpressed
+BCORL1	1	9.54122E-08		Significant, overexpressed
+BCR	1	0.003011449		
+BGN	1	0.001634558		
+BICC1	1		-9.41359E-07	Significant, underexpressed
+BMP2	1	0.002843835		
+BMPR1A	1		-1.98044E-07	Significant, underexpressed
+BMPR2	1	8.67815E-17		Significant, overexpressed
+BPTF	1			
+BRAF	1	0.000300473		Significant, overexpressed
+BRCA1	1			
+BRCA2	1			
+BRF1	1			
+BRIP1	1			
+BUB1	1			
+BUB1B	1			
+C12orf57	1			
+C2CD3	1			
+CACNA1C	1			
+CALM3	1			
+CBL	1	2.34295E-13		Significant, overexpressed
+CCDC103	1			
+CCDC22	1			
+CCDC39	1			
+CCDC40	1		-0.023862536	
+CCDC65	1			
+CCNO	1			
+CD96	1		-0.001406163	
+CDC42	1	0.023660738		
+CDH2	1			
+CDK8	1			
+CDON	1		-0.000712419	Significant, underexpressed
+CEP120	1			
+CEP57	1			
+CFC1	1			
+CHD4	1			
+CHD7	1	1.02711E-06		Significant, overexpressed
+CHRM3	1	6.84795E-05		Significant, overexpressed
+CHRNG	1			
+CHST3	1	0.00049683		Significant, overexpressed
+CHUK	1			
+CITED2	1		-6.08136E-05	Significant, underexpressed
+CLCN7	1			
+COA6	1			
+COG6	1			
+COL18A1	1	1.83673E-06		Significant, overexpressed
+COL1A1	1			
+COL1A2	1			
+COL2A1	1		-0.00026447	Significant, underexpressed
+COL3A1	1			
+COL5A1	1	0.027299405		
+COL5A2	1	0.018579217		
+COMT	1			
+COQ4	1			
+COX7B	1			
+CREBBP	1	0.000682737		Significant, overexpressed
+CRELD1	1	0.000818387		Significant, overexpressed
+CRTAP	1	0.000759718		Significant, overexpressed
+CSGALNACT1	1	2.51303E-16		Significant, overexpressed
+CTCF	1	0.016055305		
+CTU2	1	0.002470138		
+CWC27	1	0.021453878		
+CXCR4	1	0.001060421		
+DACT1	1			
+DDX11	1			
+DDX59	1	0.000138507		Significant, overexpressed
+DDX6	1			
+DGCR2	1			
+DGCR6	1			
+DGCR8	1	0.045162306		
+DHCR24	1			
+DHCR7	1			
+DIS3L2	1	0.01047772		
+DLL1	1	8.42037E-09		Significant, overexpressed
+DLL3	1		-0.001109296	
+DLL4	1	1.30728E-33		Significant, overexpressed
+DNAAF1	1			
+DNAAF2	1			
+DNAAF3	1		-0.026171023	
+DNAH1	1	0.001831987		
+DNAH11	1		-0.006821917	
+DNAH5	1		-0.000512889	Significant, underexpressed
+DNAH9	1			
+DNAI1	1		-0.001402536	
+DNAI2	1			
+DNAJB11	1			
+DNAJB13	1		-0.006242545	
+DNAJC30	1			
+DNAL1	1			
+DNMT3A	1	0.002527466		
+DOCK3	1		-5.8191E-05	Significant, underexpressed
+DOCK6	1	4.50785E-34		Significant, overexpressed
+DPF2	1			
+DPM1	1			
+DRC1	1		-0.000871827	Significant, underexpressed
+DTNA	1		-0.000302798	Significant, underexpressed
+DVL3	1			
+DYNC2LI1	1		-0.007060184	
+DYRK1A	1	0.007202732		
+ECE1	1	8.19919E-21		Significant, overexpressed
+EED	1			
+EFEMP2	1	1.48385E-06		Significant, overexpressed
+EHMT1	1	0.003912849		
+EIF2AK3	1			
+EIF2AK4	1	0.00077557		Significant, overexpressed
+ELN	1	0.006967223		
+ENG	1	4.13638E-31		Significant, overexpressed
+ENPP1	1		-0.008756128	
+EOGT	1	5.67044E-07		Significant, overexpressed
+EP300	1			
+ERCC4	1	0.00288962		
+ERCC6	1			
+ERCC8	1			
+ERMARD	1			
+ESCO2	1			
+EXT2	1			
+FADD	1	0.048322005		
+FANCA	1			
+FANCB	1			
+FANCC	1			
+FANCD2	1			
+FANCE	1			
+FANCF	1			
+FANCG	1			
+FANCI	1			
+FANCL	1	0.002783674		
+FANCM	1	0.009082723		
+FBLN5	1	0.046711146		
+FBN1	1	1.59549E-06		Significant, overexpressed
+FBN2	1		-0.000404369	Significant, underexpressed
+FBXW11	1	0.035074388		
+FGF10	1		-0.000941646	Significant, underexpressed
+FGF8	1			
+FGFR1	1	1.97497E-13		Significant, overexpressed
+FGFR2	1		-0.000113658	Significant, underexpressed
+FGFR3	1			
+FIG4	1			
+FKBP14	1			
+FKTN	1			
+FLI1	1	1.31983E-25		Significant, overexpressed
+FLNA	1	0.000918677		Significant, overexpressed
+FLNB	1	4.26678E-18		Significant, overexpressed
+FLT4	1	8.56594E-22		Significant, overexpressed
+FMR1	1			
+FN1	1	9.14663E-06		Significant, overexpressed
+FOXC1	1	0.000241399		Significant, overexpressed
+FOXC2	1			
+FOXE3	1			
+FOXF1	1	0.016350175		
+FOXJ1	1		-0.039534738	
+FTO	1	0.018783008		
+G6PC3	1	0.02079645		
+GABRD	1	0.000233904		Significant, overexpressed
+GANAB	1	0.034231831		
+GAS2L2	1			
+GAS8	1			
+GATA1	1			
+GATA4	1			
+GATA5	1			
+GATA6	1			
+GBA	1		-0.033236449	
+GDF1	1			
+GJA1	1	7.60554E-05		Significant, overexpressed
+GJA5	1	1.50516E-07		Significant, overexpressed
+GJA8	1			
+GLI2	1		-0.00053808	Significant, underexpressed
+GLI3	1	0.004878318		
+GP1BB	1			
+GPC3	1		-0.005255144	
+GPC4	1			
+GPC6	1		-3.09419E-05	Significant, underexpressed
+HCCS	1			
+HDAC4	1	0.027307438		
+HES7	1			
+HGD	1		-0.009283965	
+HIBCH	1	0.018172152		
+HLA-B	1	2.53597E-06		Significant, overexpressed
+HLA-DRB1	1	0.046578068		
+HNRNPK	1			
+HPGD	1	0.004682882		
+HRAS	1			
+HSPG2	1	3.5536E-12		Significant, overexpressed
+HYDIN	1		-2.11234E-05	Significant, underexpressed
+IDS	1		-0.012546016	
+IFIH1	1	7.79719E-06		Significant, overexpressed
+IFT43	1	0.007410698		
+IGBP1	1			
+IGF2	1	0.002017208		
+IL12B	1			
+INTU	1		-0.005515676	
+JAG1	1	8.82241E-06		Significant, overexpressed
+KANSL1	1	0.012517632		
+KAT6A	1	2.21451E-11		Significant, overexpressed
+KAT6B	1			
+KAT8	1			
+KCNH1	1		-3.74377E-05	Significant, underexpressed
+KCNN3	1	0.000325605		Significant, overexpressed
+KDELR2	1			
+KDM3B	1			
+KDM4B	1			
+KDM6A	1			
+KMT2D	1	3.85325E-05		Significant, overexpressed
+KMT2E	1			
+KRAS	1	0.000131974		Significant, overexpressed
+KYNU	1		-0.000388563	Significant, underexpressed
+LARS2	1	0.042920564		
+LDLR	1	0.030257849		
+LDLRAP1	1	4.93799E-07		Significant, overexpressed
+LEMD3	1			
+LFNG	1	8.03503E-05		Significant, overexpressed
+LIFR	1	1.2161E-10		Significant, overexpressed
+LMNA	1			
+LMX1B	1		-0.005986441	
+LOX	1			
+LRRC56	1			
+LTBP4	1			
+LZTR1	1	0.001149255		
+MAD2L2	1			
+MADD	1			
+MAF	1			
+MAP1B	1	0.003923894		
+MAP2K1	1	7.70789E-06		Significant, overexpressed
+MAP3K7	1			
+MAPK1	1	0.000309729		Significant, overexpressed
+MASP1	1			
+MBTPS2	1			
+MCIDAS	1			
+MED12	1	0.00243019		
+MED13	1			
+MED13L	1			
+MED25	1		-0.007852784	
+MEGF8	1			
+MEIS2	1			
+MESP2	1			
+MFAP5	1		-0.038684116	
+MGP	1			
+MKKS	1			
+MKS1	1		-0.02610251	
+MLXIPL	1		-0.001055209	
+MMP14	1	3.84467E-05		Significant, overexpressed
+MMP2	1	0.041920317		
+MMP21	1			
+MRAS	1			
+MRPS16	1			
+MYCN	1			
+MYH11	1			
+MYH3	1			
+MYH7	1			
+MYLK	1	1.14178E-06		Significant, overexpressed
+MYOCD	1			
+MYPN	1			
+MYRF	1		-8.70678E-05	Significant, underexpressed
+MYT1L	1			
+NAA10	1	3.34536E-08		Significant, overexpressed
+NADSYN1	1	3.60168E-05		Significant, overexpressed
+NCAPG2	1			
+NCF1	1			
+NDUFB11	1			
+NEDD4L	1			
+NEK10	1		-0.003644549	
+NEK8	1			
+NEK9	1	0.00275534		
+NF1	1	9.54731E-05		Significant, overexpressed
+NFIX	1			
+NKAP	1			
+NKX2-5	1			
+NKX2-6	1			
+NME8	1		-0.004909261	
+NOD2	1		-0.001658787	
+NODAL	1	0.032916368		
+NONO	1			
+NOTCH1	1	1.86734E-29		Significant, overexpressed
+NOTCH2	1		-3.6023E-05	Significant, underexpressed
+NOTCH3	1			
+NPHP3	1	1.30739E-09		Significant, overexpressed
+NR2F2	1	9.2068E-15		Significant, overexpressed
+NRAS	1	0.018840598		
+NSD1	1	0.006010755		
+NSMCE2	1			
+NTNG2	1		-0.046225201	
+NXN	1	1.10695E-13		Significant, overexpressed
+OFD1	1		-0.000688287	Significant, underexpressed
+OTUD5	1			
+P4HA2	1			
+PACS1	1	0.030691108		
+PAH	1			
+PALB2	1	0.047924371		
+PCGF2	1	1.04448E-08		Significant, overexpressed
+PCNT	1			
+PCSK9	1		-0.016138453	
+PEX1	1			
+PEX19	1			
+PGM3	1			
+PHGDH	1			
+PIGL	1	0.034576089		
+PIGN	1		-0.003711251	
+PIGT	1			
+PIK3R2	1		-0.031155212	
+PKD1	1			
+PKD1L1	1	0.00210398		
+PKD2	1	0.00182866		
+PLCB3	1	0.043096336		
+PLOD1	1	0.001429367		
+POLA1	1			
+POLR1A	1			
+POLR1B	1			
+POLR1C	1			
+POLR1D	1			
+PORCN	1			
+PPP1CB	1		-0.007608499	
+PPP2R1A	1			
+PQBP1	1			
+PRDM16	1			
+PRDM6	1		-0.041331619	
+PRKACB	1		-0.010975455	
+PRKCD	1		-1.54104E-05	Significant, underexpressed
+PRKG1	1			
+PSMD12	1	0.042214302		
+PTCH1	1			
+PTEN	1			
+PTH1R	1			
+PTPN11	1	0.00175081		
+PTPN22	1		-0.000493615	Significant, underexpressed
+PUF60	1			
+PUS7	1			
+QRICH1	1			
+RAB23	1			
+RAC1	1	5.70491E-05		Significant, overexpressed
+RAD51	1			
+RAD51C	1			
+RAF1	1			
+RAI1	1	7.58014E-09		Significant, overexpressed
+RBM10	1			
+RBM8A	1			
+RBP4	1		-0.042560795	
+RBPJ	1		-4.85603E-05	Significant, underexpressed
+RERE	1	7.0869E-06		Significant, overexpressed
+RFWD3	1	0.040200889		
+RIN2	1	2.11624E-10		Significant, overexpressed
+RIPPLY2	1			
+RIT1	1	0.00059914		Significant, overexpressed
+RLIM	1			
+RNASEH2A	1	0.021156007		
+RNASEH2B	1		-0.014665191	
+RNASEH2C	1			
+ROBO4	1	1.40511E-29		Significant, overexpressed
+ROR2	1		-2.0264E-05	Significant, underexpressed
+RPGR	1	0.000380146		Significant, overexpressed
+RPL10	1			
+RPL11	1			
+RPL15	1			
+RPL18	1			
+RPL26	1			
+RPL27	1			
+RPL35	1			
+RPL35A	1			
+RPL5	1			
+RPS10	1			
+RPS15A	1			
+RPS17	1			
+RPS19	1			
+RPS24	1			
+RPS26	1			
+RPS27	1			
+RPS28	1	0.017407254		
+RPS29	1			
+RPS7	1			
+RRAS2	1			
+RSPH1	1		-0.012729536	
+RSPH3	1		-2.22184E-05	Significant, underexpressed
+RSPH4A	1			
+RSPH9	1		-7.24852E-05	Significant, underexpressed
+RSPO2	1		-0.007597269	
+RSPRY1	1			
+SALL1	1			
+SALL4	1			
+SAMD9	1	2.6625E-05		Significant, overexpressed
+SAMHD1	1	0.028838861		
+SATB1	1			
+SEMA3E	1		-0.002584767	
+SETD2	1			
+SF3B4	1			
+SFTPB	1			
+SH3PXD2B	1			
+SHANK3	1	3.69201E-31		Significant, overexpressed
+SHH	1		-0.011972571	
+SIK3	1			
+SIX3	1			
+SIX6	1			
+SKI	1	2.14297E-06		Significant, overexpressed
+SKIV2L	1	0.004305685		
+SLC12A2	1	1.23144E-10		Significant, overexpressed
+SLC25A24	1	3.41685E-08		Significant, overexpressed
+SLC29A3	1			
+SLC2A10	1	0.000718833		Significant, overexpressed
+SLC35A2	1			
+SLX4	1			
+SMAD3	1	6.98125E-06		Significant, overexpressed
+SMAD4	1			
+SMAD6	1	4.00763E-07		Significant, overexpressed
+SMARCA2	1	0.001274427		
+SMARCA4	1	0.045074117		
+SMARCB1	1			
+SMARCC2	1			
+SMARCD1	1	0.030770483		
+SMARCE1	1	0.002165301		
+SMC1A	1			
+SMC3	1			
+SMG8	1	0.01754274		
+SMG9	1			
+SNRPB	1	0.005502793		
+SNRPN	1		-3.05631E-06	Significant, underexpressed
+SNX10	1		-0.00140249	
+SNX14	1	0.000104628		Significant, overexpressed
+SON	1	0.006174428		
+SOS1	1	0.008644289		
+SOS2	1	0.000892831		Significant, overexpressed
+SOX11	1			
+SOX2	1		-0.01231771	
+SOX4	1			
+SPAG1	1		-0.034382267	
+SPECC1L	1	9.5908E-05		Significant, overexpressed
+SPEF2	1			
+SPEN	1			
+SRCAP	1	0.034529019		
+SRY	1			
+SSR4	1			
+STAG2	1			
+STIL	1			
+STK36	1			
+STRA6	1			
+STXBP1	1	7.04062E-05		Significant, overexpressed
+SUCLG1	1			
+SUFU	1	0.017759632		
+TAB2	1			
+TALDO1	1		-0.029907419	
+TANC2	1	0.000253667		Significant, overexpressed
+TBC1D24	1		-0.000235165	Significant, underexpressed
+TBX1	1			
+TBX2	1			
+TBX20	1		-0.006060503	
+TBX4	1			
+TBX5	1		-0.031827241	
+TCF20	1			
+TCIRG1	1	1.42784E-05		Significant, overexpressed
+TCOF1	1			
+TELO2	1			
+TFAP2B	1		-0.009032874	
+TGDS	1			
+TGFB2	1	0.023696676		
+TGFB3	1			
+TGFBR1	1			
+TGFBR2	1	8.13655E-23		Significant, overexpressed
+TGIF1	1			
+THOC6	1			
+THSD1	1	1.62596E-18		Significant, overexpressed
+TKT	1			
+TLL1	1	0.001055398		
+TMCO1	1			
+TMEM260	1			
+TMTC3	1	0.006564949		
+TNFSF11	1		-0.00068043	Significant, underexpressed
+TNRC6B	1			
+TP63	1			
+TPM2	1			
+TPM3	1	2.6626E-06		Significant, overexpressed
+TRAF7	1	0.000387992		Significant, overexpressed
+TRAIP	1			
+TRAPPC4	1	0.015439832		
+TREX1	1	0.000256845		Significant, overexpressed
+TRIP11	1			
+TRIP13	1			
+TRIP4	1			
+TRMT1	1	0.007218303		
+TRRAP	1	0.000573949		Significant, overexpressed
+TSC1	1			
+TSC2	1	7.65863E-06		Significant, overexpressed
+TSFM	1			
+TSR2	1			
+TTC12	1		-0.038331479	
+TTC37	1	0.019034171		
+UBE2A	1			
+UBE2T	1			
+UBE3B	1	0.004175052		
+UBR7	1			
+UMPS	1		-0.03650221	
+UNC45B	1			
+UQCRFS1	1			
+USP18	1			
+USP9X	1			
+VAC14	1			
+VPS33A	1			
+WAC	1	0.019591359		
+WDFY3	1	0.000446485		Significant, overexpressed
+WDPCP	1	0.007677108		
+WDR26	1			
+WDR35	1		-0.000182147	Significant, underexpressed
+WDR37	1	0.018626528		
+WNT4	1		-0.000409385	Significant, underexpressed
+WRN	1			
+WT1	1			
+XRCC2	1			
+YY1AP1	1			
+ZEB2	1		-0.010957585	
+ZFPM2	1	1.80518E-12		Significant, overexpressed
+ZIC2	1			
+ZIC3	1			
+ZMIZ1	1	1.65474E-06		Significant, overexpressed
+ZMPSTE24	1			
+ZMYND10	1		-0.008152903	
+ZNF148	1	0.000121459		Significant, overexpressed
+ZNF462	1	0.00062481		Significant, overexpressed
