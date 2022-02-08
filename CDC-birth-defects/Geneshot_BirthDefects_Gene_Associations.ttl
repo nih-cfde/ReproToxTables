@@ -1,9 +1,8 @@
 @prefix disease: <https://www.orpha.net/ORDO/> .
 @prefix gene_symbol: <https://identifiers.org/hgnc.symbol/> .
-@prefix phenotype: <https://purl.obolibrary.org/obo/> .
 @prefix relationship: <https://semanticscience.org/resource/> .
 
-phenotype:HP_0000175 a relationship:SIO_010056 ;
+<https://hpo.jax.org/app/browse/term/HP:0000175> a relationship:SIO_010056 ;
     relationship:SIO_000983 gene_symbol:AC126323.2,
         gene_symbol:AEN,
         gene_symbol:ALPK3,
@@ -55,7 +54,7 @@ phenotype:HP_0000175 a relationship:SIO_010056 ;
         gene_symbol:WNT8A,
         gene_symbol:WNT9B .
 
-phenotype:HP_0000528 a relationship:SIO_010056 ;
+<https://hpo.jax.org/app/browse/term/HP:0000528> a relationship:SIO_010056 ;
     relationship:SIO_000983 gene_symbol:BMP4,
         gene_symbol:CASP3,
         gene_symbol:CHRD,
@@ -82,7 +81,7 @@ phenotype:HP_0000528 a relationship:SIO_010056 ;
         gene_symbol:PAXIP1,
         gene_symbol:SOX2 .
 
-phenotype:HP_0000568 a relationship:SIO_010056 ;
+<https://hpo.jax.org/app/browse/term/HP:0000568> a relationship:SIO_010056 ;
     relationship:SIO_000983 gene_symbol:ADA2,
         gene_symbol:ATP6V0A1,
         gene_symbol:CECR2,
@@ -128,7 +127,7 @@ phenotype:HP_0000568 a relationship:SIO_010056 ;
         gene_symbol:VPS13A,
         gene_symbol:YBX3 .
 
-phenotype:HP_0000776 a relationship:SIO_010056 ;
+<https://hpo.jax.org/app/browse/term/HP:0000776> a relationship:SIO_010056 ;
     relationship:SIO_000983 gene_symbol:AC093627.27,
         gene_symbol:AC116345.3,
         gene_symbol:AGAP4,
@@ -180,7 +179,7 @@ phenotype:HP_0000776 a relationship:SIO_010056 ;
         gene_symbol:ZFPM2,
         gene_symbol:ZNF600 .
 
-phenotype:HP_0001539 a relationship:SIO_010056 ;
+<https://hpo.jax.org/app/browse/term/HP:0001539> a relationship:SIO_010056 ;
     relationship:SIO_000983 gene_symbol:ABHD8,
         gene_symbol:AKAP7,
         gene_symbol:ALX4,
@@ -232,7 +231,7 @@ phenotype:HP_0001539 a relationship:SIO_010056 ;
         gene_symbol:TTC3,
         gene_symbol:ZIC3 .
 
-phenotype:HP_0001543 a relationship:SIO_010056 ;
+<https://hpo.jax.org/app/browse/term/HP:0001543> a relationship:SIO_010056 ;
     relationship:SIO_000983 gene_symbol:ACHE,
         gene_symbol:ADD1,
         gene_symbol:AEBP1,
@@ -280,7 +279,7 @@ phenotype:HP_0001543 a relationship:SIO_010056 ;
         gene_symbol:TLR8,
         gene_symbol:ZFHX3 .
 
-phenotype:HP_0001636 a relationship:SIO_010056 ;
+<https://hpo.jax.org/app/browse/term/HP:0001636> a relationship:SIO_010056 ;
     relationship:SIO_000983 gene_symbol:AL512631.2,
         gene_symbol:ALDH1A2,
         gene_symbol:BSND,
@@ -332,7 +331,7 @@ phenotype:HP_0001636 a relationship:SIO_010056 ;
         gene_symbol:ZFPM2,
         gene_symbol:ZIC3 .
 
-phenotype:HP_0001642 a relationship:SIO_010056 ;
+<https://hpo.jax.org/app/browse/term/HP:0001642> a relationship:SIO_010056 ;
     relationship:SIO_000983 gene_symbol:AAMP,
         gene_symbol:AC093614.1,
         gene_symbol:ACTC1,
@@ -382,7 +381,7 @@ phenotype:HP_0001642 a relationship:SIO_010056 ;
         gene_symbol:TNC,
         gene_symbol:VCAM1 .
 
-phenotype:HP_0001660 a relationship:SIO_010056 ;
+<https://hpo.jax.org/app/browse/term/HP:0001660> a relationship:SIO_010056 ;
     relationship:SIO_000983 gene_symbol:AL354863.1,
         gene_symbol:BSND,
         gene_symbol:C8A,
@@ -434,7 +433,7 @@ phenotype:HP_0001660 a relationship:SIO_010056 ;
         gene_symbol:ZNF341,
         gene_symbol:ZNF735 .
 
-phenotype:HP_0001669 a relationship:SIO_010056 ;
+<https://hpo.jax.org/app/browse/term/HP:0001669> a relationship:SIO_010056 ;
     relationship:SIO_000983 gene_symbol:AC126323.2,
         gene_symbol:ANXA5,
         gene_symbol:BMPR2,
@@ -486,7 +485,7 @@ phenotype:HP_0001669 a relationship:SIO_010056 ;
         gene_symbol:ZNF682,
         gene_symbol:ZNF774 .
 
-phenotype:HP_0001680 a relationship:SIO_010056 ;
+<https://hpo.jax.org/app/browse/term/HP:0001680> a relationship:SIO_010056 ;
     relationship:SIO_000983 gene_symbol:ACTA2,
         gene_symbol:ADRB1,
         gene_symbol:AGTR2,
@@ -538,7 +537,7 @@ phenotype:HP_0001680 a relationship:SIO_010056 ;
         gene_symbol:TBX5,
         gene_symbol:TNNI3 .
 
-phenotype:HP_0001719 a relationship:SIO_010056 ;
+<https://hpo.jax.org/app/browse/term/HP:0001719> a relationship:SIO_010056 ;
     relationship:SIO_000983 gene_symbol:ABHD8,
         gene_symbol:AC124248.1,
         gene_symbol:AC126323.2,
@@ -590,7 +589,7 @@ phenotype:HP_0001719 a relationship:SIO_010056 ;
         gene_symbol:ZNF735,
         gene_symbol:ZNF774 .
 
-phenotype:HP_0001750 a relationship:SIO_010056 ;
+<https://hpo.jax.org/app/browse/term/HP:0001750> a relationship:SIO_010056 ;
     relationship:SIO_000983 gene_symbol:AC124248.1,
         gene_symbol:BPIFB4,
         gene_symbol:BRWD1-AS2,
@@ -642,7 +641,7 @@ phenotype:HP_0001750 a relationship:SIO_010056 ;
         gene_symbol:ZNF774,
         gene_symbol:ZSCAN31 .
 
-phenotype:HP_0001762 a relationship:SIO_010056 ;
+<https://hpo.jax.org/app/browse/term/HP:0001762> a relationship:SIO_010056 ;
     relationship:SIO_000983 gene_symbol:AARS1,
         gene_symbol:AL136524.1,
         gene_symbol:ANXA3,
@@ -694,7 +693,7 @@ phenotype:HP_0001762 a relationship:SIO_010056 ;
         gene_symbol:WDSUB1,
         gene_symbol:WNT7A .
 
-phenotype:HP_0002032 a relationship:SIO_010056 ;
+<https://hpo.jax.org/app/browse/term/HP:0002032> a relationship:SIO_010056 ;
     relationship:SIO_000983 gene_symbol:APBA3,
         gene_symbol:BRAF,
         gene_symbol:CAMK2A,
@@ -742,7 +741,7 @@ phenotype:HP_0002032 a relationship:SIO_010056 ;
         gene_symbol:ZIC3,
         gene_symbol:ZNF280A .
 
-phenotype:HP_0002084 a relationship:SIO_010056 ;
+<https://hpo.jax.org/app/browse/term/HP:0002084> a relationship:SIO_010056 ;
     relationship:SIO_000983 gene_symbol:ADAMTS18,
         gene_symbol:AHI1,
         gene_symbol:ALX3,
@@ -794,7 +793,7 @@ phenotype:HP_0002084 a relationship:SIO_010056 ;
         gene_symbol:XKR9,
         gene_symbol:ZNF830 .
 
-phenotype:HP_0002323 a relationship:SIO_010056 ;
+<https://hpo.jax.org/app/browse/term/HP:0002323> a relationship:SIO_010056 ;
     relationship:SIO_000983 gene_symbol:AMT,
         gene_symbol:APBA3,
         gene_symbol:AURKB,
@@ -846,7 +845,7 @@ phenotype:HP_0002323 a relationship:SIO_010056 ;
         gene_symbol:ZBTB4,
         gene_symbol:ZNF830 .
 
-phenotype:HP_0002414 a relationship:SIO_010056 ;
+<https://hpo.jax.org/app/browse/term/HP:0002414> a relationship:SIO_010056 ;
     relationship:SIO_000983 gene_symbol:AHCY,
         gene_symbol:AMT,
         gene_symbol:BHMT,
@@ -898,7 +897,7 @@ phenotype:HP_0002414 a relationship:SIO_010056 ;
         gene_symbol:ZIC1,
         gene_symbol:ZIC4 .
 
-phenotype:HP_0002575 a relationship:SIO_010056 ;
+<https://hpo.jax.org/app/browse/term/HP:0002575> a relationship:SIO_010056 ;
     relationship:SIO_000983 gene_symbol:APBA3,
         gene_symbol:CHD7,
         gene_symbol:DCP1B,
@@ -939,7 +938,7 @@ phenotype:HP_0002575 a relationship:SIO_010056 ;
         gene_symbol:ZIC3,
         gene_symbol:ZNF280A .
 
-phenotype:HP_0004383 a relationship:SIO_010056 ;
+<https://hpo.jax.org/app/browse/term/HP:0004383> a relationship:SIO_010056 ;
     relationship:SIO_000983 gene_symbol:ADRA2A,
         gene_symbol:BHMT,
         gene_symbol:BMP10,
@@ -991,7 +990,7 @@ phenotype:HP_0004383 a relationship:SIO_010056 ;
         gene_symbol:TCN2,
         gene_symbol:TNNI3 .
 
-phenotype:HP_0005160 a relationship:SIO_010056 ;
+<https://hpo.jax.org/app/browse/term/HP:0005160> a relationship:SIO_010056 ;
     relationship:SIO_000983 gene_symbol:ACVRL1,
         gene_symbol:ANKRD1,
         gene_symbol:ANKRD6,
@@ -1038,7 +1037,7 @@ phenotype:HP_0005160 a relationship:SIO_010056 ;
         gene_symbol:ZIC3,
         gene_symbol:ZNF3 .
 
-phenotype:HP_0006695 a relationship:SIO_010056 ;
+<https://hpo.jax.org/app/browse/term/HP:0006695> a relationship:SIO_010056 ;
     relationship:SIO_000983 gene_symbol:ACE,
         gene_symbol:AUTS2,
         gene_symbol:AXIN1,
@@ -1086,7 +1085,7 @@ phenotype:HP_0006695 a relationship:SIO_010056 ;
         gene_symbol:ZFPM2,
         gene_symbol:ZNF280A .
 
-phenotype:HP_0010316 a relationship:SIO_010056 ;
+<https://hpo.jax.org/app/browse/term/HP:0010316> a relationship:SIO_010056 ;
     relationship:SIO_000983 gene_symbol:ADAMTS9,
         gene_symbol:AFAP1,
         gene_symbol:AKAP12,
@@ -1132,7 +1131,7 @@ phenotype:HP_0010316 a relationship:SIO_010056 ;
         gene_symbol:UBE4B,
         gene_symbol:UBN1 .
 
-phenotype:HP_0010882 a relationship:SIO_010056 ;
+<https://hpo.jax.org/app/browse/term/HP:0010882> a relationship:SIO_010056 ;
     relationship:SIO_000983 gene_symbol:AC093614.1,
         gene_symbol:APBA3,
         gene_symbol:APOE,
@@ -1183,7 +1182,7 @@ phenotype:HP_0010882 a relationship:SIO_010056 ;
         gene_symbol:ZFPM2,
         gene_symbol:ZNF823 .
 
-phenotype:HP_0011611 a relationship:SIO_010056 ;
+<https://hpo.jax.org/app/browse/term/HP:0011611> a relationship:SIO_010056 ;
     relationship:SIO_000983 gene_symbol:ACTA2,
         gene_symbol:ARAP3,
         gene_symbol:CELF4,
@@ -1233,7 +1232,7 @@ phenotype:HP_0011611 a relationship:SIO_010056 ;
         gene_symbol:YTHDF3,
         gene_symbol:ZNF280A .
 
-phenotype:HP_0011662 a relationship:SIO_010056 ;
+<https://hpo.jax.org/app/browse/term/HP:0011662> a relationship:SIO_010056 ;
     relationship:SIO_000983 gene_symbol:BMP10,
         gene_symbol:BMP5,
         gene_symbol:CFC1,
@@ -1279,7 +1278,7 @@ phenotype:HP_0011662 a relationship:SIO_010056 ;
         gene_symbol:ZFPM2,
         gene_symbol:ZIC3 .
 
-phenotype:HP_0031348 a relationship:SIO_010056 ;
+<https://hpo.jax.org/app/browse/term/HP:0031348> a relationship:SIO_010056 ;
     relationship:SIO_000983 gene_symbol:ACE,
         gene_symbol:AGT,
         gene_symbol:APOE,
@@ -1304,7 +1303,7 @@ phenotype:HP_0031348 a relationship:SIO_010056 ;
         gene_symbol:ZIC3,
         gene_symbol:ZNF774 .
 
-phenotype:HP_0040064 a relationship:SIO_010056 ;
+<https://hpo.jax.org/app/browse/term/HP:0040064> a relationship:SIO_010056 ;
     relationship:SIO_000983 gene_symbol:AC104134.1,
         gene_symbol:AC126468.1,
         gene_symbol:AC138747.5,
@@ -1356,7 +1355,7 @@ phenotype:HP_0040064 a relationship:SIO_010056 ;
         gene_symbol:WASH8P,
         gene_symbol:ZSWIM6 .
 
-phenotype:HP_0410030 a relationship:SIO_010056 ;
+<https://hpo.jax.org/app/browse/term/HP:0410030> a relationship:SIO_010056 ;
     relationship:SIO_000983 gene_symbol:AC011379.2,
         gene_symbol:AC104123.1,
         gene_symbol:AEN,
@@ -1409,8 +1408,7 @@ phenotype:HP_0410030 a relationship:SIO_010056 ;
         gene_symbol:ZNF385B .
 
 disease:Orphanet_3378 a relationship:SIO_010299 ;
-    relationship:SIO_000983 <https://identifiers.org/hgnc.symbol/ABL1
->,
+    relationship:SIO_000983 gene_symbol:ABL1,
         gene_symbol:ADAM12,
         gene_symbol:ADAMTS1,
         gene_symbol:ADSL,
@@ -1467,8 +1465,7 @@ disease:Orphanet_3378 a relationship:SIO_010299 ;
         gene_symbol:RHCE,
         gene_symbol:RHD,
         gene_symbol:RUNX1,
-        <https://identifiers.org/hgnc.symbol/S100A7
->,
+        gene_symbol:S100A7,
         gene_symbol:SAP18,
         gene_symbol:SERPINF1,
         gene_symbol:SHH,
@@ -1509,8 +1506,7 @@ disease:Orphanet_3380 a relationship:SIO_010299 ;
         gene_symbol:CD200,
         gene_symbol:CD40LG,
         gene_symbol:CDKL5,
-        <https://identifiers.org/hgnc.symbol/CEP290
->,
+        gene_symbol:CEP290,
         gene_symbol:CLEC10A,
         gene_symbol:CLRN3,
         gene_symbol:COL1A1,
@@ -1557,8 +1553,7 @@ disease:Orphanet_3380 a relationship:SIO_010299 ;
         gene_symbol:PRTFDC1,
         gene_symbol:PSMB11,
         gene_symbol:RBM20,
-        <https://identifiers.org/hgnc.symbol/RCAN1
->,
+        gene_symbol:RCAN1,
         gene_symbol:RETN,
         gene_symbol:RPGRIP1L,
         gene_symbol:SERPINB2,
@@ -1629,13 +1624,10 @@ disease:Orphanet_870 a relationship:SIO_010299 ;
         gene_symbol:SH3BGR,
         gene_symbol:SPG21,
         gene_symbol:TJAP1,
-        <https://identifiers.org/hgnc.symbol/TJAP1
->,
         gene_symbol:TLCD3B,
         gene_symbol:TMEM131,
         gene_symbol:TPTE,
         gene_symbol:WDR72,
         gene_symbol:ZNF611,
-        <https://identifiers.org/hgnc.symbol/ZNF878
-> .
+        gene_symbol:ZNF878 .
 
