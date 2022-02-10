@@ -1,0 +1,521 @@
+﻿PRODUCT,NAME,SMILES,TARGET_NAME,TARGET_CLASS,ACCESSION,GENE,SWISSPROT,ACT_VALUE,ACT_TYPE,TDL
+alprazolam,alprazolam,CC1=NN=C2CN=C(C3=CC=CC=C3)C3=CC(Cl)=CC=C3N12,GABA-A receptor alpha-1/beta-2/gamma-2,Ion channel,P14867|P18507|P47870,GABRA1|GABRB2|GABRG2,GBRA1_HUMAN|GBRB2_HUMAN|GBRG2_HUMAN,7.4318,EC50,Tclin|Tclin|Tclin
+alprazolam,alprazolam,CC1=NN=C2CN=C(C3=CC=CC=C3)C3=CC(Cl)=CC=C3N12,GABA-A receptor alpha-2/beta-3/gamma-2,Ion channel,P18507|P28472|P47869,GABRA2|GABRB3|GABRG2,GBRA2_HUMAN|GBRB3_HUMAN|GBRG2_HUMAN,7.9208,EC50,Tclin|Tclin|Tclin
+alprazolam,alprazolam,CC1=NN=C2CN=C(C3=CC=CC=C3)C3=CC(Cl)=CC=C3N12,GABA-A receptor alpha-3/beta-3/gamma-2,Ion channel,P18507|P28472|P34903,GABRA3|GABRB3|GABRG2,GBRA3_HUMAN|GBRB3_HUMAN|GBRG2_HUMAN,7.1612,EC50,Tclin|Tclin|Tclin
+alprazolam,alprazolam,CC1=NN=C2CN=C(C3=CC=CC=C3)C3=CC(Cl)=CC=C3N12,GABA-A receptor alpha-5/beta-3/gamma-2,Ion channel,P18507|P28472|P31644,GABRA5|GABRB3|GABRG2,GBRA5_HUMAN|GBRB3_HUMAN|GBRG2_HUMAN,8,EC50,Tclin|Tclin|Tclin
+amiodarone hydrochloride,amiodarone,CCCCC1=C(C(=O)C2=CC(I)=C(OCCN(CC)CC)C(I)=C2)C2=C(O1)C=CC=C2,"3-beta-hydroxysteroid-Delta(8),Delta(7)-isomerase",Enzyme,Q15125,EBP,EBP_HUMAN,7.6,Ki,Tchem
+amiodarone hydrochloride,amiodarone,CCCCC1=C(C(=O)C2=CC(I)=C(OCCN(CC)CC)C(I)=C2)C2=C(O1)C=CC=C2,5-hydroxytryptamine receptor 2B,GPCR,P41595,HTR2B,5HT2B_HUMAN,6.231361899,Ki,Tclin
+amiodarone hydrochloride,amiodarone,CCCCC1=C(C(=O)C2=CC(I)=C(OCCN(CC)CC)C(I)=C2)C2=C(O1)C=CC=C2,5-hydroxytryptamine receptor 2C,GPCR,P28335,HTR2C,5HT2C_HUMAN,6.673664139,Ki,Tclin
+amiodarone hydrochloride,amiodarone,CCCCC1=C(C(=O)C2=CC(I)=C(OCCN(CC)CC)C(I)=C2)C2=C(O1)C=CC=C2,Alpha-2A adrenergic receptor,GPCR,P08913,ADRA2A,ADA2A_HUMAN,6.3,IC50,Tclin
+amiodarone hydrochloride,amiodarone,CCCCC1=C(C(=O)C2=CC(I)=C(OCCN(CC)CC)C(I)=C2)C2=C(O1)C=CC=C2,Cytochrome P450 2C9,Enzyme,P11712,CYP2C9,CP2C9_HUMAN,7.3979,EC50,Tchem
+amiodarone hydrochloride,amiodarone,CCCCC1=C(C(=O)C2=CC(I)=C(OCCN(CC)CC)C(I)=C2)C2=C(O1)C=CC=C2,Cytochrome P450 3A4,Enzyme,P08684,CYP3A4,CP3A4_HUMAN,6.22,Ki,Tclin
+amiodarone hydrochloride,amiodarone,CCCCC1=C(C(=O)C2=CC(I)=C(OCCN(CC)CC)C(I)=C2)C2=C(O1)C=CC=C2,D(3) dopamine receptor,GPCR,P35462,DRD3,DRD3_HUMAN,6.387216143,Ki,Tclin
+amiodarone hydrochloride,amiodarone,CCCCC1=C(C(=O)C2=CC(I)=C(OCCN(CC)CC)C(I)=C2)C2=C(O1)C=CC=C2,Muscarinic acetylcholine receptor M1,GPCR,P11229,CHRM1,ACM1_HUMAN,6.201349355,Ki,Tclin
+amiodarone hydrochloride,amiodarone,CCCCC1=C(C(=O)C2=CC(I)=C(OCCN(CC)CC)C(I)=C2)C2=C(O1)C=CC=C2,Muscarinic acetylcholine receptor M3,GPCR,P20309,CHRM3,ACM3_HUMAN,6.168130226,Ki,Tclin
+amiodarone hydrochloride,amiodarone,CCCCC1=C(C(=O)C2=CC(I)=C(OCCN(CC)CC)C(I)=C2)C2=C(O1)C=CC=C2,Muscarinic acetylcholine receptor M4,GPCR,P08173,CHRM4,ACM4_HUMAN,6.295849483,Ki,Tclin
+amiodarone hydrochloride,amiodarone,CCCCC1=C(C(=O)C2=CC(I)=C(OCCN(CC)CC)C(I)=C2)C2=C(O1)C=CC=C2,Sigma non-opioid intracellular receptor 1,Membrane receptor,Q99720,SIGMAR1,SGMR1_HUMAN,7,Ki,Tclin
+amiodarone hydrochloride,amiodarone,CCCCC1=C(C(=O)C2=CC(I)=C(OCCN(CC)CC)C(I)=C2)C2=C(O1)C=CC=C2,Sodium channel protein type 5 subunit alpha,Ion channel,Q14524,SCN5A,SCN5A_HUMAN,7.1,IC50,Tclin
+amiodarone hydrochloride,amiodarone,CCCCC1=C(C(=O)C2=CC(I)=C(OCCN(CC)CC)C(I)=C2)C2=C(O1)C=CC=C2,THAP domain-containing protein 1,Unclassified,Q9NVV9,THAP1,THAP1_HUMAN,6.19,IC50,Tbio
+amiodarone hydrochloride,amiodarone,CCCCC1=C(C(=O)C2=CC(I)=C(OCCN(CC)CC)C(I)=C2)C2=C(O1)C=CC=C2,Thyroid hormone receptor beta,Nuclear hormone receptor,P10828,THRB,THB_HUMAN,6.22,IC50,Tclin
+amiodarone hydrochloride,amiodarone,CCCCC1=C(C(=O)C2=CC(I)=C(OCCN(CC)CC)C(I)=C2)C2=C(O1)C=CC=C2,Tyrosine-protein kinase Fyn,Kinase,P06241,FYN,FYN_HUMAN,6.087777943,IC50,Tclin
+anastrozole,anastrozole,CC(C)(C#N)C1=CC(=CC(CN2C=NC=N2)=C1)C(C)(C)C#N,Aromatase,Enzyme,P11511,CYP19A1,CP19A_HUMAN,6.2218,IC50,Tclin
+atenolol,atenolol,CC(C)NCC(O)COC1=CC=C(CC(N)=O)C=C1,Adenosine receptor A3,GPCR,P0DMS8,ADORA3,AA3R_HUMAN,8.75,IC50,Tchem
+atenolol,atenolol,CC(C)NCC(O)COC1=CC=C(CC(N)=O)C=C1,Beta-1 adrenergic receptor,GPCR,P08588,ADRB1,ADRB1_HUMAN,7.3,Ki,Tclin
+atorvastatin,atorvastatin,CC(C)C1=C(C(=O)NC2=CC=CC=C2)C(=C(N1CC[C@@H](O)C[C@@H](O)CC(O)=O)C1=CC=C(F)C=C1)C1=CC=CC=C1,3-hydroxy-3-methylglutaryl-coenzyme A reductase,Enzyme,P04035,HMGCR,HMDH_HUMAN,8,IC50,Tclin
+atorvastatin calcium,atorvastatin,CC(C)C1=C(C(=O)NC2=CC=CC=C2)C(=C(N1CC[C@@H](O)C[C@@H](O)CC(O)=O)C1=CC=C(F)C=C1)C1=CC=CC=C1,3-hydroxy-3-methylglutaryl-coenzyme A reductase,Enzyme,P04035,HMGCR,HMDH_HUMAN,8,IC50,Tclin
+benazepril,benazepril,CCOC(=O)[C@H](CCC1=CC=CC=C1)N[C@H]1CCC2=CC=CC=C2N(CC(O)=O)C1=O,Angiotensin-converting enzyme,Enzyme,P12821,ACE,ACE_HUMAN,6.51,IC50,Tclin
+benazepril hcl,benazepril,CCOC(=O)[C@H](CCC1=CC=CC=C1)N[C@H]1CCC2=CC=CC=C2N(CC(O)=O)C1=O,Angiotensin-converting enzyme,Enzyme,P12821,ACE,ACE_HUMAN,6.51,IC50,Tclin
+benazepril hydrochloride,benazepril,CCOC(=O)[C@H](CCC1=CC=CC=C1)N[C@H]1CCC2=CC=CC=C2N(CC(O)=O)C1=O,Angiotensin-converting enzyme,Enzyme,P12821,ACE,ACE_HUMAN,6.51,IC50,Tclin
+captopril,captopril,C[C@H](CS)C(=O)N1CCC[C@H]1C(O)=O,Angiotensin-converting enzyme,Enzyme,P12821,ACE,ACE_HUMAN,8.7,Ki,Tclin
+captopril,captopril,C[C@H](CS)C(=O)N1CCC[C@H]1C(O)=O,Leukotriene A-4 hydrolase,Enzyme,P09960,LTA4H,LKHA4_HUMAN,7.15,IC50,Tchem
+captopril,captopril,C[C@H](CS)C(=O)N1CCC[C@H]1C(O)=O,Prothrombin,Enzyme,P00734,F2,THRB_HUMAN,7.32,Ki,Tclin
+captopril,captopril,C[C@H](CS)C(=O)N1CCC[C@H]1C(O)=O,Renin,Enzyme,P00797,REN,RENI_HUMAN,8.77,Ki,Tclin
+captorpil,captopril,C[C@H](CS)C(=O)N1CCC[C@H]1C(O)=O,Angiotensin-converting enzyme,Enzyme,P12821,ACE,ACE_HUMAN,8.7,Ki,Tclin
+captorpil,captopril,C[C@H](CS)C(=O)N1CCC[C@H]1C(O)=O,Leukotriene A-4 hydrolase,Enzyme,P09960,LTA4H,LKHA4_HUMAN,7.15,IC50,Tchem
+captorpil,captopril,C[C@H](CS)C(=O)N1CCC[C@H]1C(O)=O,Prothrombin,Enzyme,P00734,F2,THRB_HUMAN,7.32,Ki,Tclin
+captorpil,captopril,C[C@H](CS)C(=O)N1CCC[C@H]1C(O)=O,Renin,Enzyme,P00797,REN,RENI_HUMAN,8.77,Ki,Tclin
+carvedilol,carvedilol,COC1=C(OCCNCC(O)COC2=CC=CC3=C2C2=CC=CC=C2N3)C=CC=C1,5-hydroxytryptamine receptor 1A,GPCR,P08908,HTR1A,5HT1A_HUMAN,8.476253533,Ki,Tclin
+carvedilol,carvedilol,COC1=C(OCCNCC(O)COC2=CC=CC3=C2C2=CC=CC=C2N3)C=CC=C1,5-hydroxytryptamine receptor 2A,GPCR,P28223,HTR2A,5HT2A_HUMAN,6.931814138,Ki,Tclin
+carvedilol,carvedilol,COC1=C(OCCNCC(O)COC2=CC=CC3=C2C2=CC=CC=C2N3)C=CC=C1,5-hydroxytryptamine receptor 2B,GPCR,P41595,HTR2B,5HT2B_HUMAN,7.823908741,Ki,Tclin
+carvedilol,carvedilol,COC1=C(OCCNCC(O)COC2=CC=CC3=C2C2=CC=CC=C2N3)C=CC=C1,5-hydroxytryptamine receptor 2C,GPCR,P28335,HTR2C,5HT2C_HUMAN,7.22184875,Ki,Tclin
+carvedilol,carvedilol,COC1=C(OCCNCC(O)COC2=CC=CC3=C2C2=CC=CC=C2N3)C=CC=C1,5-hydroxytryptamine receptor 6,GPCR,P50406,HTR6,5HT6R_HUMAN,6.151810883,Ki,Tchem
+carvedilol,carvedilol,COC1=C(OCCNCC(O)COC2=CC=CC3=C2C2=CC=CC=C2N3)C=CC=C1,Alpha-1A adrenergic receptor,GPCR,P35348,ADRA1A,ADA1A_HUMAN,8.66,Ki,Tclin
+carvedilol,carvedilol,COC1=C(OCCNCC(O)COC2=CC=CC3=C2C2=CC=CC=C2N3)C=CC=C1,Alpha-1D adrenergic receptor,GPCR,P25100,ADRA1D,ADA1D_HUMAN,9.054039296,Ki,Tclin
+carvedilol,carvedilol,COC1=C(OCCNCC(O)COC2=CC=CC3=C2C2=CC=CC=C2N3)C=CC=C1,Alpha-2A adrenergic receptor,GPCR,P08913,ADRA2A,ADA2A_HUMAN,7.397940009,Ki,Tclin
+carvedilol,carvedilol,COC1=C(OCCNCC(O)COC2=CC=CC3=C2C2=CC=CC=C2N3)C=CC=C1,Alpha-2B adrenergic receptor,GPCR,P18089,ADRA2B,ADA2B_HUMAN,7.366531544,Ki,Tclin
+carvedilol,carvedilol,COC1=C(OCCNCC(O)COC2=CC=CC3=C2C2=CC=CC=C2N3)C=CC=C1,Alpha-2C adrenergic receptor,GPCR,P18825,ADRA2C,ADA2C_HUMAN,7.886056648,Ki,Tclin
+carvedilol,carvedilol,COC1=C(OCCNCC(O)COC2=CC=CC3=C2C2=CC=CC=C2N3)C=CC=C1,Beta-1 adrenergic receptor,GPCR,P08588,ADRB1,ADRB1_HUMAN,9.5,Ki,Tclin
+carvedilol,carvedilol,COC1=C(OCCNCC(O)COC2=CC=CC3=C2C2=CC=CC=C2N3)C=CC=C1,Beta-2 adrenergic receptor,GPCR,P07550,ADRB2,ADRB2_HUMAN,9.9,Ki,Tclin
+carvedilol,carvedilol,COC1=C(OCCNCC(O)COC2=CC=CC3=C2C2=CC=CC=C2N3)C=CC=C1,Beta-3 adrenergic receptor,GPCR,P13945,ADRB3,ADRB3_HUMAN,9.4,Ki,Tclin
+carvedilol,carvedilol,COC1=C(OCCNCC(O)COC2=CC=CC3=C2C2=CC=CC=C2N3)C=CC=C1,D(1A) dopamine receptor,GPCR,P21728,DRD1,DRD1_HUMAN,6.125518182,Ki,Tclin
+carvedilol,carvedilol,COC1=C(OCCNCC(O)COC2=CC=CC3=C2C2=CC=CC=C2N3)C=CC=C1,D(2) dopamine receptor,GPCR,P14416,DRD2,DRD2_HUMAN,7.30980392,Ki,Tclin
+carvedilol,carvedilol,COC1=C(OCCNCC(O)COC2=CC=CC3=C2C2=CC=CC=C2N3)C=CC=C1,D(3) dopamine receptor,GPCR,P35462,DRD3,DRD3_HUMAN,6.707743929,Ki,Tclin
+carvedilol,carvedilol,COC1=C(OCCNCC(O)COC2=CC=CC3=C2C2=CC=CC=C2N3)C=CC=C1,Potassium voltage-gated channel subfamily H member 2,Ion channel,Q12809,KCNH2,KCNH2_HUMAN,6.46,IC50,Tclin
+carvedilol,carvedilol,COC1=C(OCCNCC(O)COC2=CC=CC3=C2C2=CC=CC=C2N3)C=CC=C1,Sodium-dependent dopamine transporter,Transporter,Q01959,SLC6A3,SC6A3_HUMAN,6.17327748,Ki,Tclin
+carvedilol,carvedilol,COC1=C(OCCNCC(O)COC2=CC=CC3=C2C2=CC=CC=C2N3)C=CC=C1,Sodium-dependent noradrenaline transporter,Transporter,P23975,SLC6A2,SC6A2_HUMAN,6.273272791,Ki,Tclin
+carvedilol,carvedilol,COC1=C(OCCNCC(O)COC2=CC=CC3=C2C2=CC=CC=C2N3)C=CC=C1,Sodium-dependent serotonin transporter,Transporter,P31645,SLC6A4,SC6A4_HUMAN,6.928117993,Ki,Tclin
+chlorambucil,chlorambucil,OC(=O)CCCC1=CC=C(C=C1)N(CCCl)CCCl,Cathepsin D,Enzyme,P07339,CTSD,CATD_HUMAN,8.93,IC50,Tchem
+chlorambucil,chlorambucil,OC(=O)CCCC1=CC=C(C=C1)N(CCCl)CCCl,Cathepsin E,Enzyme,P14091,CTSE,CATE_HUMAN,8.78,IC50,Tchem
+chlorambucil,chlorambucil,OC(=O)CCCC1=CC=C(C=C1)N(CCCl)CCCl,Disintegrin and metalloproteinase domain-containing protein 9,Enzyme,Q13443,ADAM9,ADAM9_HUMAN,7.25,IC50,Tchem
+clofarabine,clofarabine,NC1=C2N=CN([C@@H]3O[C@H](CO)[C@@H](O)[C@@H]3F)C2=NC(Cl)=N1,Ribonucleoside-diphosphate reductase large subunit,Enzyme,P23921,RRM1,RIR1_HUMAN,8.3,IC50,Tclin
+clofarabine,clofarabine,NC1=C2N=CN([C@@H]3O[C@H](CO)[C@@H](O)[C@@H]3F)C2=NC(Cl)=N1,Ribonucleoside-diphosphate reductase subunit M2,Enzyme,P31350,RRM2,RIR2_HUMAN,8.3,IC50,Tclin
+clomiphene citrate,clomifene,CCN(CC)CCOC1=CC=C(C=C1)C(=C(Cl)C1=CC=CC=C1)C1=CC=CC=C1,"3-beta-hydroxysteroid-Delta(8),Delta(7)-isomerase",Enzyme,Q15125,EBP,EBP_HUMAN,9,Ki,Tchem
+clomiphene citrate,clomifene,CCN(CC)CCOC1=CC=C(C=C1)C(=C(Cl)C1=CC=CC=C1)C1=CC=CC=C1,5-hydroxytryptamine receptor 2A,GPCR,P28223,HTR2A,5HT2A_HUMAN,6.024568191,Ki,Tclin
+clomiphene citrate,clomifene,CCN(CC)CCOC1=CC=C(C=C1)C(=C(Cl)C1=CC=CC=C1)C1=CC=CC=C1,5-hydroxytryptamine receptor 2B,GPCR,P41595,HTR2B,5HT2B_HUMAN,6.061980903,Ki,Tclin
+clomiphene citrate,clomifene,CCN(CC)CCOC1=CC=C(C=C1)C(=C(Cl)C1=CC=CC=C1)C1=CC=CC=C1,5-hydroxytryptamine receptor 2C,GPCR,P28335,HTR2C,5HT2C_HUMAN,6.176525771,Ki,Tclin
+clomiphene citrate,clomifene,CCN(CC)CCOC1=CC=C(C=C1)C(=C(Cl)C1=CC=CC=C1)C1=CC=CC=C1,Alpha-2A adrenergic receptor,GPCR,P08913,ADRA2A,ADA2A_HUMAN,6.454692884,Ki,Tclin
+clomiphene citrate,clomifene,CCN(CC)CCOC1=CC=C(C=C1)C(=C(Cl)C1=CC=CC=C1)C1=CC=CC=C1,Alpha-2B adrenergic receptor,GPCR,P18089,ADRA2B,ADA2B_HUMAN,6.142064735,Ki,Tclin
+clomiphene citrate,clomifene,CCN(CC)CCOC1=CC=C(C=C1)C(=C(Cl)C1=CC=CC=C1)C1=CC=CC=C1,Alpha-2C adrenergic receptor,GPCR,P18825,ADRA2C,ADA2C_HUMAN,6.66756154,Ki,Tclin
+clomiphene citrate,clomifene,CCN(CC)CCOC1=CC=C(C=C1)C(=C(Cl)C1=CC=CC=C1)C1=CC=CC=C1,D(3) dopamine receptor,GPCR,P35462,DRD3,DRD3_HUMAN,6.348721986,Ki,Tclin
+clomiphene citrate,clomifene,CCN(CC)CCOC1=CC=C(C=C1)C(=C(Cl)C1=CC=CC=C1)C1=CC=CC=C1,Estrogen receptor,Nuclear hormone receptor,P03372,ESR1,ESR1_HUMAN,8.886056648,Ki,Tclin
+clomiphene citrate,clomifene,CCN(CC)CCOC1=CC=C(C=C1)C(=C(Cl)C1=CC=CC=C1)C1=CC=CC=C1,Muscarinic acetylcholine receptor M1,GPCR,P11229,CHRM1,ACM1_HUMAN,6.406713933,Ki,Tclin
+clomiphene citrate,clomifene,CCN(CC)CCOC1=CC=C(C=C1)C(=C(Cl)C1=CC=CC=C1)C1=CC=CC=C1,Muscarinic acetylcholine receptor M3,GPCR,P20309,CHRM3,ACM3_HUMAN,6.35753548,Ki,Tclin
+clomiphene citrate,clomifene,CCN(CC)CCOC1=CC=C(C=C1)C(=C(Cl)C1=CC=CC=C1)C1=CC=CC=C1,Muscarinic acetylcholine receptor M4,GPCR,P08173,CHRM4,ACM4_HUMAN,6.638272164,Ki,Tclin
+clomiphene citrate,clomifene,CCN(CC)CCOC1=CC=C(C=C1)C(=C(Cl)C1=CC=CC=C1)C1=CC=CC=C1,Potassium voltage-gated channel subfamily H member 2,Ion channel,Q12809,KCNH2,KCNH2_HUMAN,6.7447,IC50,Tclin
+clomiphene citrate,clomifene,CCN(CC)CCOC1=CC=C(C=C1)C(=C(Cl)C1=CC=CC=C1)C1=CC=CC=C1,Prostaglandin G/H synthase 1,Enzyme,P23219,PTGS1,PGH1_HUMAN,6.460923901,IC50,Tclin
+clomiphene citrate,clomifene,CCN(CC)CCOC1=CC=C(C=C1)C(=C(Cl)C1=CC=CC=C1)C1=CC=CC=C1,Sigma non-opioid intracellular receptor 1,Membrane receptor,Q99720,SIGMAR1,SGMR1_HUMAN,8.1,Ki,Tclin
+clomiphene citrate,clomifene,CCN(CC)CCOC1=CC=C(C=C1)C(=C(Cl)C1=CC=CC=C1)C1=CC=CC=C1,Sodium-dependent dopamine transporter,Transporter,Q01959,SLC6A3,SC6A3_HUMAN,6.205511953,Ki,Tclin
+clomiphene citrate,clomifene,CCN(CC)CCOC1=CC=C(C=C1)C(=C(Cl)C1=CC=CC=C1)C1=CC=CC=C1,Sodium-dependent noradrenaline transporter,Transporter,P23975,SLC6A2,SC6A2_HUMAN,6.068033885,Ki,Tclin
+clomiphene citrate,clomifene,CCN(CC)CCOC1=CC=C(C=C1)C(=C(Cl)C1=CC=CC=C1)C1=CC=CC=C1,Sodium-dependent serotonin transporter,Transporter,P31645,SLC6A4,SC6A4_HUMAN,6.469800302,Ki,Tclin
+clonazepam,clonazepam,[O-][N+](=O)C1=CC=C2NC(=O)CN=C(C2=C1)C1=C(Cl)C=CC=C1,GABA-A receptor alpha-1/beta-2/gamma-2,Ion channel,P14867|P18507|P47870,GABRA1|GABRB2|GABRG2,GBRA1_HUMAN|GBRB2_HUMAN|GBRG2_HUMAN,8.0706,Ki,Tclin|Tclin|Tclin
+clonazepam,clonazepam,[O-][N+](=O)C1=CC=C2NC(=O)CN=C(C2=C1)C1=C(Cl)C=CC=C1,GABA-A receptor; anion channel,Ion channel,O00591|O14764|P14867|P18505|P18507|P28472|P31644|P34903|P47869|P47870|P48169|P78334|Q16445|Q8N1C3|Q99928|Q9UN88,GABRA1|GABRA2|GABRA3|GABRA4|GABRA5|GABRA6|GABRB1|GABRB2|GABRB3|GABRD|GABRE|GABRG1|GABRG2|GABRG3|GABRP|GABRQ,GBRA1_HUMAN|GBRA2_HUMAN|GBRA3_HUMAN|GBRA4_HUMAN|GBRA5_HUMAN|GBRA6_HUMAN|GBRB1_HUMAN|GBRB2_HUMAN|GBRB3_HUMAN|GBRD_HUMAN|GBRE_HUMAN|GBRG1_HUMAN|GBRG2_HUMAN|GBRG3_HUMAN|GBRP_HUMAN|GBRT_HUMAN,9.069999695,Ki,Tclin|Tclin|Tclin|Tclin|Tclin|Tclin|Tclin|Tclin|Tclin|Tclin|Tclin|Tclin|Tclin|Tclin|Tclin|Tclin
+clonullzepam,clonazepam,[O-][N+](=O)C1=CC=C2NC(=O)CN=C(C2=C1)C1=C(Cl)C=CC=C1,GABA-A receptor alpha-1/beta-2/gamma-2,Ion channel,P14867|P18507|P47870,GABRA1|GABRB2|GABRG2,GBRA1_HUMAN|GBRB2_HUMAN|GBRG2_HUMAN,8.0706,Ki,Tclin|Tclin|Tclin
+clonullzepam,clonazepam,[O-][N+](=O)C1=CC=C2NC(=O)CN=C(C2=C1)C1=C(Cl)C=CC=C1,GABA-A receptor; anion channel,Ion channel,O00591|O14764|P14867|P18505|P18507|P28472|P31644|P34903|P47869|P47870|P48169|P78334|Q16445|Q8N1C3|Q99928|Q9UN88,GABRA1|GABRA2|GABRA3|GABRA4|GABRA5|GABRA6|GABRB1|GABRB2|GABRB3|GABRD|GABRE|GABRG1|GABRG2|GABRG3|GABRP|GABRQ,GBRA1_HUMAN|GBRA2_HUMAN|GBRA3_HUMAN|GBRA4_HUMAN|GBRA5_HUMAN|GBRA6_HUMAN|GBRB1_HUMAN|GBRB2_HUMAN|GBRB3_HUMAN|GBRD_HUMAN|GBRE_HUMAN|GBRG1_HUMAN|GBRG2_HUMAN|GBRG3_HUMAN|GBRP_HUMAN|GBRT_HUMAN,9.069999695,Ki,Tclin|Tclin|Tclin|Tclin|Tclin|Tclin|Tclin|Tclin|Tclin|Tclin|Tclin|Tclin|Tclin|Tclin|Tclin|Tclin
+cytarabine,cytarabine,NC1=NC(=O)N(C=C1)[C@@H]1O[C@H](CO)[C@@H](O)[C@@H]1O,Prostatic acid phosphatase,Enzyme,P15309,ACPP,PPAP_HUMAN,7,GI50,Tchem
+danazol,danazol,C[C@]12CC[C@H]3[C@@H](CCC4=CC5=C(C[C@]34C)C=NO5)[C@@H]1CC[C@@]2(O)C#C,Cytochrome P450 2C9,Enzyme,P11712,CYP2C9,CP2C9_HUMAN,6.522878745,IC50,Tchem
+danazol,danazol,C[C@]12CC[C@H]3[C@@H](CCC4=CC5=C(C[C@]34C)C=NO5)[C@@H]1CC[C@@]2(O)C#C,Sex hormone-binding globulin,Secreted,P04278,SHBG,SHBG_HUMAN,8.2,Kd,Tchem
+dantrolene,dantrolene,[O-][N+](=O)C1=CC=C(C=C1)C1=CC=C(O1)\C=N\N1CC(=O)NC1=O,Ryanodine receptor 1,Ion channel,P21817,RYR1,RYR1_HUMAN,6.757,Ki,Tclin
+dasatinib,dasatinib,CC1=NC(NC2=NC=C(S2)C(=O)NC2=C(C)C=CC=C2Cl)=CC(=N1)N1CCN(CCO)CC1,Abelson tyrosine-protein kinase 2,Kinase,P42684,ABL2,ABL2_HUMAN,9.77,Kd,Tchem
+dasatinib,dasatinib,CC1=NC(NC2=NC=C(S2)C(=O)NC2=C(C)C=CC=C2Cl)=CC(=N1)N1CCN(CCO)CC1,Activated CDC42 kinase 1,Kinase,Q07912,TNK2,ACK1_HUMAN,8.25,Kd,Tclin
+dasatinib,dasatinib,CC1=NC(NC2=NC=C(S2)C(=O)NC2=C(C)C=CC=C2Cl)=CC(=N1)N1CCN(CCO)CC1,Activin receptor type-1,Kinase,Q04771,ACVR1,ACVR1_HUMAN,6.21,Kd,Tchem
+dasatinib,dasatinib,CC1=NC(NC2=NC=C(S2)C(=O)NC2=C(C)C=CC=C2Cl)=CC(=N1)N1CCN(CCO)CC1,Activin receptor type-1B,Kinase,P36896,ACVR1B,ACV1B_HUMAN,6.48,Kd,Tchem
+dasatinib,dasatinib,CC1=NC(NC2=NC=C(S2)C(=O)NC2=C(C)C=CC=C2Cl)=CC(=N1)N1CCN(CCO)CC1,Activin receptor type-2A,Kinase,P27037,ACVR2A,AVR2A_HUMAN,6.68,Kd,Tbio
+dasatinib,dasatinib,CC1=NC(NC2=NC=C(S2)C(=O)NC2=C(C)C=CC=C2Cl)=CC(=N1)N1CCN(CCO)CC1,Activin receptor type-2B,Kinase,Q13705,ACVR2B,AVR2B_HUMAN,6.24,Kd,Tchem
+dasatinib,dasatinib,CC1=NC(NC2=NC=C(S2)C(=O)NC2=C(C)C=CC=C2Cl)=CC(=N1)N1CCN(CCO)CC1,Bcr/Abl fusion protein,Kinase,P00519|P11274,ABL1|BCR,ABL1_HUMAN|BCR_HUMAN,9.100000381,IC50,Tclin|Tclin
+dasatinib,dasatinib,CC1=NC(NC2=NC=C(S2)C(=O)NC2=C(C)C=CC=C2Cl)=CC(=N1)N1CCN(CCO)CC1,Bone morphogenetic protein receptor type-1B,Kinase,O00238,BMPR1B,BMR1B_HUMAN,7.28,Kd,Tbio
+dasatinib,dasatinib,CC1=NC(NC2=NC=C(S2)C(=O)NC2=C(C)C=CC=C2Cl)=CC(=N1)N1CCN(CCO)CC1,"Chaperone activity of bc1 complex-like, mitochondrial",Kinase,Q8NI60,COQ8A,COQ8A_HUMAN,6.72,Kd,Tbio
+dasatinib,dasatinib,CC1=NC(NC2=NC=C(S2)C(=O)NC2=C(C)C=CC=C2Cl)=CC(=N1)N1CCN(CCO)CC1,Cyclin-G-associated kinase,Kinase,O14976,GAK,GAK_HUMAN,8.59,Kd,Tchem
+dasatinib,dasatinib,CC1=NC(NC2=NC=C(S2)C(=O)NC2=C(C)C=CC=C2Cl)=CC(=N1)N1CCN(CCO)CC1,Cytoplasmic tyrosine-protein kinase BMX,Kinase,P51813,BMX,BMX_HUMAN,8.85,Kd,Tchem
+dasatinib,dasatinib,CC1=NC(NC2=NC=C(S2)C(=O)NC2=C(C)C=CC=C2Cl)=CC(=N1)N1CCN(CCO)CC1,Discoidin domain-containing receptor 2,Kinase,Q16832,DDR2,DDR2_HUMAN,8.52,Kd,Tchem
+dasatinib,dasatinib,CC1=NC(NC2=NC=C(S2)C(=O)NC2=C(C)C=CC=C2Cl)=CC(=N1)N1CCN(CCO)CC1,Dual specificity mitogen-activated protein kinase kinase 5,Kinase,Q13163,MAP2K5,MP2K5_HUMAN,8.48,Kd,Tchem
+dasatinib,dasatinib,CC1=NC(NC2=NC=C(S2)C(=O)NC2=C(C)C=CC=C2Cl)=CC(=N1)N1CCN(CCO)CC1,Dual specificity testis-specific protein kinase 1,Kinase,Q15569,TESK1,TESK1_HUMAN,7.48,Kd,Tbio
+dasatinib,dasatinib,CC1=NC(NC2=NC=C(S2)C(=O)NC2=C(C)C=CC=C2Cl)=CC(=N1)N1CCN(CCO)CC1,Ephrin type-A receptor 1,Kinase,P21709,EPHA1,EPHA1_HUMAN,8.39,Kd,Tchem
+dasatinib,dasatinib,CC1=NC(NC2=NC=C(S2)C(=O)NC2=C(C)C=CC=C2Cl)=CC(=N1)N1CCN(CCO)CC1,Ephrin type-A receptor 2,Kinase,P29317,EPHA2,EPHA2_HUMAN,9.07,Kd,Tclin
+dasatinib,dasatinib,CC1=NC(NC2=NC=C(S2)C(=O)NC2=C(C)C=CC=C2Cl)=CC(=N1)N1CCN(CCO)CC1,Ephrin type-A receptor 3,Kinase,P29320,EPHA3,EPHA3_HUMAN,10.03,Kd,Tchem
+dasatinib,dasatinib,CC1=NC(NC2=NC=C(S2)C(=O)NC2=C(C)C=CC=C2Cl)=CC(=N1)N1CCN(CCO)CC1,Ephrin type-A receptor 4,Kinase,P54764,EPHA4,EPHA4_HUMAN,8.92,Kd,Tchem
+dasatinib,dasatinib,CC1=NC(NC2=NC=C(S2)C(=O)NC2=C(C)C=CC=C2Cl)=CC(=N1)N1CCN(CCO)CC1,Ephrin type-A receptor 5,Kinase,P54756,EPHA5,EPHA5_HUMAN,9.62,Kd,Tchem
+dasatinib,dasatinib,CC1=NC(NC2=NC=C(S2)C(=O)NC2=C(C)C=CC=C2Cl)=CC(=N1)N1CCN(CCO)CC1,Ephrin type-A receptor 8,Kinase,P29322,EPHA8,EPHA8_HUMAN,9.62,Kd,Tchem
+dasatinib,dasatinib,CC1=NC(NC2=NC=C(S2)C(=O)NC2=C(C)C=CC=C2Cl)=CC(=N1)N1CCN(CCO)CC1,Ephrin type-B receptor 1,Kinase,P54762,EPHB1,EPHB1_HUMAN,9.35,Kd,Tchem
+dasatinib,dasatinib,CC1=NC(NC2=NC=C(S2)C(=O)NC2=C(C)C=CC=C2Cl)=CC(=N1)N1CCN(CCO)CC1,Ephrin type-B receptor 2,Kinase,P29323,EPHB2,EPHB2_HUMAN,9.41,Kd,Tchem
+dasatinib,dasatinib,CC1=NC(NC2=NC=C(S2)C(=O)NC2=C(C)C=CC=C2Cl)=CC(=N1)N1CCN(CCO)CC1,Ephrin type-B receptor 3,Kinase,P54753,EPHB3,EPHB3_HUMAN,8.16,Kd,Tchem
+dasatinib,dasatinib,CC1=NC(NC2=NC=C(S2)C(=O)NC2=C(C)C=CC=C2Cl)=CC(=N1)N1CCN(CCO)CC1,Ephrin type-B receptor 4,Kinase,P54760,EPHB4,EPHB4_HUMAN,9.47,Kd,Tchem
+dasatinib,dasatinib,CC1=NC(NC2=NC=C(S2)C(=O)NC2=C(C)C=CC=C2Cl)=CC(=N1)N1CCN(CCO)CC1,Ephrin type-B receptor 6,Kinase,O15197,EPHB6,EPHB6_HUMAN,10.41,Kd,Tchem
+dasatinib,dasatinib,CC1=NC(NC2=NC=C(S2)C(=O)NC2=C(C)C=CC=C2Cl)=CC(=N1)N1CCN(CCO)CC1,Epidermal growth factor receptor,Kinase,P00533,EGFR,EGFR_HUMAN,7.1,Kd,Tclin
+dasatinib,dasatinib,CC1=NC(NC2=NC=C(S2)C(=O)NC2=C(C)C=CC=C2Cl)=CC(=N1)N1CCN(CCO)CC1,Epithelial discoidin domain-containing receptor 1,Kinase,Q08345,DDR1,DDR1_HUMAN,9.16,Kd,Tchem
+dasatinib,dasatinib,CC1=NC(NC2=NC=C(S2)C(=O)NC2=C(C)C=CC=C2Cl)=CC(=N1)N1CCN(CCO)CC1,LIM domain kinase 1,Kinase,P53667,LIMK1,LIMK1_HUMAN,6.24,Kd,Tchem
+dasatinib,dasatinib,CC1=NC(NC2=NC=C(S2)C(=O)NC2=C(C)C=CC=C2Cl)=CC(=N1)N1CCN(CCO)CC1,LIM domain kinase 2,Kinase,P53671,LIMK2,LIMK2_HUMAN,7.07,Kd,Tchem
+dasatinib,dasatinib,CC1=NC(NC2=NC=C(S2)C(=O)NC2=C(C)C=CC=C2Cl)=CC(=N1)N1CCN(CCO)CC1,MAP kinase p38,Kinase,O15264|P53778|Q15759|Q16539,MAPK11|MAPK12|MAPK13|MAPK14,MK11_HUMAN|MK12_HUMAN|MK13_HUMAN|MK14_HUMAN,7,IC50,Tchem|Tchem|Tchem|Tchem
+dasatinib,dasatinib,CC1=NC(NC2=NC=C(S2)C(=O)NC2=C(C)C=CC=C2Cl)=CC(=N1)N1CCN(CCO)CC1,Macrophage colony-stimulating factor 1 receptor,Kinase,P07333,CSF1R,CSF1R_HUMAN,9.24,Kd,Tclin
+dasatinib,dasatinib,CC1=NC(NC2=NC=C(S2)C(=O)NC2=C(C)C=CC=C2Cl)=CC(=N1)N1CCN(CCO)CC1,Mast/stem cell growth factor receptor Kit,Kinase,P10721,KIT,KIT_HUMAN,9.24,Kd,Tclin
+dasatinib,dasatinib,CC1=NC(NC2=NC=C(S2)C(=O)NC2=C(C)C=CC=C2Cl)=CC(=N1)N1CCN(CCO)CC1,Membrane-associated tyrosine- and threonine-specific cdc2-inhibitory kinase,Kinase,Q99640,PKMYT1,PMYT1_HUMAN,6.89,Kd,Tchem
+dasatinib,dasatinib,CC1=NC(NC2=NC=C(S2)C(=O)NC2=C(C)C=CC=C2Cl)=CC(=N1)N1CCN(CCO)CC1,Misshapen-like kinase 1,Kinase,Q8N4C8,MINK1,MINK1_HUMAN,6.37,Kd,Tchem
+dasatinib,dasatinib,CC1=NC(NC2=NC=C(S2)C(=O)NC2=C(C)C=CC=C2Cl)=CC(=N1)N1CCN(CCO)CC1,Mitogen-activated protein kinase 11,Kinase,Q15759,MAPK11,MK11_HUMAN,6.39,Kd,Tchem
+dasatinib,dasatinib,CC1=NC(NC2=NC=C(S2)C(=O)NC2=C(C)C=CC=C2Cl)=CC(=N1)N1CCN(CCO)CC1,Mitogen-activated protein kinase 14,Kinase,Q16539,MAPK14,MK14_HUMAN,7.57,Kd,Tchem
+dasatinib,dasatinib,CC1=NC(NC2=NC=C(S2)C(=O)NC2=C(C)C=CC=C2Cl)=CC(=N1)N1CCN(CCO)CC1,Mitogen-activated protein kinase kinase kinase 19,Kinase,Q56UN5,MAP3K19,M3K19_HUMAN,7.1,Kd,Tchem
+dasatinib,dasatinib,CC1=NC(NC2=NC=C(S2)C(=O)NC2=C(C)C=CC=C2Cl)=CC(=N1)N1CCN(CCO)CC1,Mitogen-activated protein kinase kinase kinase 2,Kinase,Q9Y2U5,MAP3K2,M3K2_HUMAN,6.85,Kd,Tchem
+dasatinib,dasatinib,CC1=NC(NC2=NC=C(S2)C(=O)NC2=C(C)C=CC=C2Cl)=CC(=N1)N1CCN(CCO)CC1,Mitogen-activated protein kinase kinase kinase 3,Kinase,Q99759,MAP3K3,M3K3_HUMAN,6.55,Kd,Tchem
+dasatinib,dasatinib,CC1=NC(NC2=NC=C(S2)C(=O)NC2=C(C)C=CC=C2Cl)=CC(=N1)N1CCN(CCO)CC1,Mitogen-activated protein kinase kinase kinase 4,Kinase,Q9Y6R4,MAP3K4,M3K4_HUMAN,6.51,Kd,Tbio
+dasatinib,dasatinib,CC1=NC(NC2=NC=C(S2)C(=O)NC2=C(C)C=CC=C2Cl)=CC(=N1)N1CCN(CCO)CC1,Mitogen-activated protein kinase kinase kinase MLT,Kinase,Q9NYL2,ZAK,MLTK_HUMAN,7.35,Kd,Tchem
+dasatinib,dasatinib,CC1=NC(NC2=NC=C(S2)C(=O)NC2=C(C)C=CC=C2Cl)=CC(=N1)N1CCN(CCO)CC1,Mitogen-activated protein kinase kinase kinase kinase 1,Kinase,Q92918,MAP4K1,M4K1_HUMAN,6.01,Kd,Tchem
+dasatinib,dasatinib,CC1=NC(NC2=NC=C(S2)C(=O)NC2=C(C)C=CC=C2Cl)=CC(=N1)N1CCN(CCO)CC1,Mitogen-activated protein kinase kinase kinase kinase 3,Kinase,Q8IVH8,MAP4K3,M4K3_HUMAN,6.19,Kd,Tchem
+dasatinib,dasatinib,CC1=NC(NC2=NC=C(S2)C(=O)NC2=C(C)C=CC=C2Cl)=CC(=N1)N1CCN(CCO)CC1,Mitogen-activated protein kinase kinase kinase kinase 5,Kinase,Q9Y4K4,MAP4K5,M4K5_HUMAN,7.35,Kd,Tchem
+dasatinib,dasatinib,CC1=NC(NC2=NC=C(S2)C(=O)NC2=C(C)C=CC=C2Cl)=CC(=N1)N1CCN(CCO)CC1,Myelin transcription factor 1,Unclassified,Q01538,MYT1,MYT1_HUMAN,7.2,IC50,Tchem
+dasatinib,dasatinib,CC1=NC(NC2=NC=C(S2)C(=O)NC2=C(C)C=CC=C2Cl)=CC(=N1)N1CCN(CCO)CC1,Non-receptor tyrosine-protein kinase TYK2,Kinase,P29597,TYK2,TYK2_HUMAN,6.96,Kd,Tclin
+dasatinib,dasatinib,CC1=NC(NC2=NC=C(S2)C(=O)NC2=C(C)C=CC=C2Cl)=CC(=N1)N1CCN(CCO)CC1,Platelet-derived growth factor receptor alpha,Kinase,P16234,PDGFRA,PGFRA_HUMAN,9.33,Kd,Tclin
+dasatinib,dasatinib,CC1=NC(NC2=NC=C(S2)C(=O)NC2=C(C)C=CC=C2Cl)=CC(=N1)N1CCN(CCO)CC1,Platelet-derived growth factor receptor beta,Kinase,P09619,PDGFRB,PGFRB_HUMAN,9.2,Kd,Tclin
+dasatinib,dasatinib,CC1=NC(NC2=NC=C(S2)C(=O)NC2=C(C)C=CC=C2Cl)=CC(=N1)N1CCN(CCO)CC1,Protein-tyrosine kinase 6,Kinase,Q13882,PTK6,PTK6_HUMAN,8.11,Kd,Tchem
+dasatinib,dasatinib,CC1=NC(NC2=NC=C(S2)C(=O)NC2=C(C)C=CC=C2Cl)=CC(=N1)N1CCN(CCO)CC1,Proto-oncogene tyrosine-protein kinase Src,Kinase,P12931,SRC,SRC_HUMAN,9.68,Kd,Tclin
+dasatinib,dasatinib,CC1=NC(NC2=NC=C(S2)C(=O)NC2=C(C)C=CC=C2Cl)=CC(=N1)N1CCN(CCO)CC1,Proto-oncogene tyrosine-protein kinase receptor Ret,Kinase,P07949,RET,RET_HUMAN,6.41,Kd,Tclin
+dasatinib,dasatinib,CC1=NC(NC2=NC=C(S2)C(=O)NC2=C(C)C=CC=C2Cl)=CC(=N1)N1CCN(CCO)CC1,RAF proto-oncogene serine/threonine-protein kinase,Kinase,P04049,RAF1,RAF1_HUMAN,6.24,Kd,Tclin
+dasatinib,dasatinib,CC1=NC(NC2=NC=C(S2)C(=O)NC2=C(C)C=CC=C2Cl)=CC(=N1)N1CCN(CCO)CC1,Receptor tyrosine-protein kinase erbB-3,Kinase,P21860,ERBB3,ERBB3_HUMAN,7.74,Kd,Tchem
+dasatinib,dasatinib,CC1=NC(NC2=NC=C(S2)C(=O)NC2=C(C)C=CC=C2Cl)=CC(=N1)N1CCN(CCO)CC1,Receptor tyrosine-protein kinase erbB-4,Kinase,Q15303,ERBB4,ERBB4_HUMAN,7.26,Kd,Tclin
+dasatinib,dasatinib,CC1=NC(NC2=NC=C(S2)C(=O)NC2=C(C)C=CC=C2Cl)=CC(=N1)N1CCN(CCO)CC1,Receptor-interacting serine/threonine-protein kinase 2,Kinase,O43353,RIPK2,RIPK2_HUMAN,7.51,Kd,Tchem
+dasatinib,dasatinib,CC1=NC(NC2=NC=C(S2)C(=O)NC2=C(C)C=CC=C2Cl)=CC(=N1)N1CCN(CCO)CC1,STE20-like serine/threonine-protein kinase,Kinase,Q9H2G2,SLK,SLK_HUMAN,6.14,Kd,Tchem
+dasatinib,dasatinib,CC1=NC(NC2=NC=C(S2)C(=O)NC2=C(C)C=CC=C2Cl)=CC(=N1)N1CCN(CCO)CC1,Serine/threonine-protein kinase 35,Kinase,Q8TDR2,STK35,STK35_HUMAN,6.11,Kd,Tchem
+dasatinib,dasatinib,CC1=NC(NC2=NC=C(S2)C(=O)NC2=C(C)C=CC=C2Cl)=CC(=N1)N1CCN(CCO)CC1,Serine/threonine-protein kinase 36,Kinase,Q9NRP7,STK36,STK36_HUMAN,6.68,Kd,Tbio
+dasatinib,dasatinib,CC1=NC(NC2=NC=C(S2)C(=O)NC2=C(C)C=CC=C2Cl)=CC(=N1)N1CCN(CCO)CC1,Serine/threonine-protein kinase B-raf,Kinase,P15056,BRAF,BRAF_HUMAN,6.3,Kd,Tclin
+dasatinib,dasatinib,CC1=NC(NC2=NC=C(S2)C(=O)NC2=C(C)C=CC=C2Cl)=CC(=N1)N1CCN(CCO)CC1,Serine/threonine-protein kinase NLK,Kinase,Q9UBE8,NLK,NLK_HUMAN,6.59,Kd,Tchem
+dasatinib,dasatinib,CC1=NC(NC2=NC=C(S2)C(=O)NC2=C(C)C=CC=C2Cl)=CC(=N1)N1CCN(CCO)CC1,Serine/threonine-protein kinase Nek11,Kinase,Q8NG66,NEK11,NEK11_HUMAN,6.33,Kd,Tbio
+dasatinib,dasatinib,CC1=NC(NC2=NC=C(S2)C(=O)NC2=C(C)C=CC=C2Cl)=CC(=N1)N1CCN(CCO)CC1,Serine/threonine-protein kinase SIK1,Kinase,P57059,SIK1,SIK1_HUMAN,8.41,Kd,Tchem
+dasatinib,dasatinib,CC1=NC(NC2=NC=C(S2)C(=O)NC2=C(C)C=CC=C2Cl)=CC(=N1)N1CCN(CCO)CC1,Serine/threonine-protein kinase SIK2,Kinase,Q9H0K1,SIK2,SIK2_HUMAN,8.19,Kd,Tchem
+dasatinib,dasatinib,CC1=NC(NC2=NC=C(S2)C(=O)NC2=C(C)C=CC=C2Cl)=CC(=N1)N1CCN(CCO)CC1,Serine/threonine-protein kinase SIK3,Kinase,Q9Y2K2,SIK3,SIK3_HUMAN,7.55,Kd,Tchem
+dasatinib,dasatinib,CC1=NC(NC2=NC=C(S2)C(=O)NC2=C(C)C=CC=C2Cl)=CC(=N1)N1CCN(CCO)CC1,Serine/threonine-protein kinase TNNI3K,Kinase,Q59H18,TNNI3K,TNI3K_HUMAN,7.96,Kd,Tchem
+dasatinib,dasatinib,CC1=NC(NC2=NC=C(S2)C(=O)NC2=C(C)C=CC=C2Cl)=CC(=N1)N1CCN(CCO)CC1,Serine/threonine-protein kinase receptor R3,Kinase,P37023,ACVRL1,ACVL1_HUMAN,6.34,Kd,Tchem
+dasatinib,dasatinib,CC1=NC(NC2=NC=C(S2)C(=O)NC2=C(C)C=CC=C2Cl)=CC(=N1)N1CCN(CCO)CC1,TGF-beta receptor type-1,Kinase,P36897,TGFBR1,TGFR1_HUMAN,6.64,Kd,Tchem
+dasatinib,dasatinib,CC1=NC(NC2=NC=C(S2)C(=O)NC2=C(C)C=CC=C2Cl)=CC(=N1)N1CCN(CCO)CC1,Tyrosine-protein kinase ABL1,Kinase,P00519,ABL1,ABL1_HUMAN,9.6,IC50,Tclin
+dasatinib,dasatinib,CC1=NC(NC2=NC=C(S2)C(=O)NC2=C(C)C=CC=C2Cl)=CC(=N1)N1CCN(CCO)CC1,Tyrosine-protein kinase BTK,Kinase,Q06187,BTK,BTK_HUMAN,8.85,Kd,Tclin
+dasatinib,dasatinib,CC1=NC(NC2=NC=C(S2)C(=O)NC2=C(C)C=CC=C2Cl)=CC(=N1)N1CCN(CCO)CC1,Tyrosine-protein kinase Blk,Kinase,P51451,BLK,BLK_HUMAN,9.68,Kd,Tchem
+dasatinib,dasatinib,CC1=NC(NC2=NC=C(S2)C(=O)NC2=C(C)C=CC=C2Cl)=CC(=N1)N1CCN(CCO)CC1,Tyrosine-protein kinase CSK,Kinase,P41240,CSK,CSK_HUMAN,9,Kd,Tchem
+dasatinib,dasatinib,CC1=NC(NC2=NC=C(S2)C(=O)NC2=C(C)C=CC=C2Cl)=CC(=N1)N1CCN(CCO)CC1,Tyrosine-protein kinase FRK,Kinase,P42685,FRK,FRK_HUMAN,9.51,Kd,Tchem
+dasatinib,dasatinib,CC1=NC(NC2=NC=C(S2)C(=O)NC2=C(C)C=CC=C2Cl)=CC(=N1)N1CCN(CCO)CC1,Tyrosine-protein kinase Fgr,Kinase,P09769,FGR,FGR_HUMAN,9.3,Kd,Tchem
+dasatinib,dasatinib,CC1=NC(NC2=NC=C(S2)C(=O)NC2=C(C)C=CC=C2Cl)=CC(=N1)N1CCN(CCO)CC1,Tyrosine-protein kinase Fyn,Kinase,P06241,FYN,FYN_HUMAN,9.1,Kd,Tclin
+dasatinib,dasatinib,CC1=NC(NC2=NC=C(S2)C(=O)NC2=C(C)C=CC=C2Cl)=CC(=N1)N1CCN(CCO)CC1,Tyrosine-protein kinase HCK,Kinase,P08631,HCK,HCK_HUMAN,9.46,Kd,Tclin
+dasatinib,dasatinib,CC1=NC(NC2=NC=C(S2)C(=O)NC2=C(C)C=CC=C2Cl)=CC(=N1)N1CCN(CCO)CC1,Tyrosine-protein kinase JAK3,Kinase,P52333,JAK3,JAK3_HUMAN,6.19,Kd,Tclin
+dasatinib,dasatinib,CC1=NC(NC2=NC=C(S2)C(=O)NC2=C(C)C=CC=C2Cl)=CC(=N1)N1CCN(CCO)CC1,Tyrosine-protein kinase Lck,Kinase,P06239,LCK,LCK_HUMAN,9.7,Kd,Tclin
+dasatinib,dasatinib,CC1=NC(NC2=NC=C(S2)C(=O)NC2=C(C)C=CC=C2Cl)=CC(=N1)N1CCN(CCO)CC1,Tyrosine-protein kinase Lyn,Kinase,P07948,LYN,LYN_HUMAN,9.24,Kd,Tclin
+dasatinib,dasatinib,CC1=NC(NC2=NC=C(S2)C(=O)NC2=C(C)C=CC=C2Cl)=CC(=N1)N1CCN(CCO)CC1,Tyrosine-protein kinase Srms,Kinase,Q9H3Y6,SRMS,SRMS_HUMAN,7.89,Kd,Tchem
+dasatinib,dasatinib,CC1=NC(NC2=NC=C(S2)C(=O)NC2=C(C)C=CC=C2Cl)=CC(=N1)N1CCN(CCO)CC1,Tyrosine-protein kinase TXK,Kinase,P42681,TXK,TXK_HUMAN,8.68,Kd,Tchem
+dasatinib,dasatinib,CC1=NC(NC2=NC=C(S2)C(=O)NC2=C(C)C=CC=C2Cl)=CC(=N1)N1CCN(CCO)CC1,Tyrosine-protein kinase Tec,Kinase,P42680,TEC,TEC_HUMAN,7.89,Kd,Tchem
+dasatinib,dasatinib,CC1=NC(NC2=NC=C(S2)C(=O)NC2=C(C)C=CC=C2Cl)=CC(=N1)N1CCN(CCO)CC1,Tyrosine-protein kinase Yes,Kinase,P07947,YES1,YES_HUMAN,9.52,Kd,Tclin
+dasatinib,dasatinib,CC1=NC(NC2=NC=C(S2)C(=O)NC2=C(C)C=CC=C2Cl)=CC(=N1)N1CCN(CCO)CC1,Wee1-like protein kinase 2,Kinase,P0C1S8,WEE2,WEE2_HUMAN,6.7,Kd,Tbio
+demeclocycline hydrochloride,demeclocycline,CN(C)[C@H]1[C@@H]2C[C@@H]3[C@H](O)C4=C(Cl)C=CC(O)=C4C(=O)C3=C(O)[C@]2(O)C(=O)C(C(N)=O)=C1O,Estrogen receptor beta,Nuclear hormone receptor,Q92731,ESR2,ESR2_HUMAN,7.210000038,IC50,Tclin
+dextroamphetamine sulfate,dexamfetamine,C[C@H](N)CC1=CC=CC=C1,Sodium-dependent dopamine transporter,Transporter,Q01959,SLC6A3,SC6A3_HUMAN,6.68,Ki,Tclin
+dextroamphetamine sulfate,dexamfetamine,C[C@H](N)CC1=CC=CC=C1,Sodium-dependent noradrenaline transporter,Transporter,P23975,SLC6A2,SC6A2_HUMAN,7,Ki,Tclin
+dextroamphetamine sulfate,dexamfetamine,C[C@H](N)CC1=CC=CC=C1,Trace amine-associated receptor 1,GPCR,Q96RJ0,TAAR1,TAAR1_HUMAN,6.87,EC50,Tclin
+diazepam,diazepam,CN1C2=CC=C(Cl)C=C2C(=NCC1=O)C1=CC=CC=C1,Adenosine receptor A3,GPCR,P0DMS8,ADORA3,AA3R_HUMAN,7.92,IC50,Tchem
+diazepam,diazepam,CN1C2=CC=C(Cl)C=C2C(=NCC1=O)C1=CC=CC=C1,GABA A receptor alpha-3/beta-2/gamma-2,Ion channel,P18507|P34903|P47870,GABRA3|GABRB2|GABRG2,GBRA3_HUMAN|GBRB2_HUMAN|GBRG2_HUMAN,7.9393,Ki,Tclin|Tclin|Tclin
+diazepam,diazepam,CN1C2=CC=C(Cl)C=C2C(=NCC1=O)C1=CC=CC=C1,GABA A receptor alpha-3/beta-2/gamma-3,Ion channel,P34903|P47870|Q99928,GABRA3|GABRB2|GABRG3,GBRA3_HUMAN|GBRB2_HUMAN|GBRG3_HUMAN,6.6655,Ki,Tclin|Tclin|Tclin
+diazepam,diazepam,CN1C2=CC=C(Cl)C=C2C(=NCC1=O)C1=CC=CC=C1,GABA A receptor alpha-5/beta-2/gamma-2,Ion channel,P18507|P31644|P47870,GABRA5|GABRB2|GABRG2,GBRA5_HUMAN|GBRB2_HUMAN|GBRG2_HUMAN,8.0044,Ki,Tclin|Tclin|Tclin
+diazepam,diazepam,CN1C2=CC=C(Cl)C=C2C(=NCC1=O)C1=CC=CC=C1,GABA A receptor alpha-5/beta-2/gamma-3,Ion channel,P31644|P47870|Q99928,GABRA5|GABRB2|GABRG3,GBRA5_HUMAN|GBRB2_HUMAN|GBRG3_HUMAN,7.2034,Ki,Tclin|Tclin|Tclin
+diazepam,diazepam,CN1C2=CC=C(Cl)C=C2C(=NCC1=O)C1=CC=CC=C1,GABA A receptor alpha-5/beta-3/gamma-3,Ion channel,P28472|P31644|Q99928,GABRA5|GABRB3|GABRG3,GBRA5_HUMAN|GBRB3_HUMAN|GBRG3_HUMAN,7.2034,Ki,Tclin|Tclin|Tclin
+diazepam,diazepam,CN1C2=CC=C(Cl)C=C2C(=NCC1=O)C1=CC=CC=C1,GABA-A receptor alpha-1/beta-2/gamma-2,Ion channel,P14867|P18507|P47870,GABRA1|GABRB2|GABRG2,GBRA1_HUMAN|GBRB2_HUMAN|GBRG2_HUMAN,7.1427,EC50,Tclin|Tclin|Tclin
+diazepam,diazepam,CN1C2=CC=C(Cl)C=C2C(=NCC1=O)C1=CC=CC=C1,GABA-A receptor alpha-1/beta-2/gamma-3,Ion channel,P14867|P47870|Q99928,GABRA1|GABRB2|GABRG3,GBRA1_HUMAN|GBRB2_HUMAN|GBRG3_HUMAN,6.7055,Ki,Tclin|Tclin|Tclin
+diazepam,diazepam,CN1C2=CC=C(Cl)C=C2C(=NCC1=O)C1=CC=CC=C1,GABA-A receptor alpha-1/beta-3/gamma-2,Ion channel,P14867|P18507|P28472,GABRA1|GABRB3|GABRG2,GBRA1_HUMAN|GBRB3_HUMAN|GBRG2_HUMAN,7.8539,Ki,Tclin|Tclin|Tclin
+diazepam,diazepam,CN1C2=CC=C(Cl)C=C2C(=NCC1=O)C1=CC=CC=C1,GABA-A receptor alpha-2/beta-3/gamma-2,Ion channel,P18507|P28472|P47869,GABRA2|GABRB3|GABRG2,GBRA2_HUMAN|GBRB3_HUMAN|GBRG2_HUMAN,7.699,Ki,Tclin|Tclin|Tclin
+diazepam,diazepam,CN1C2=CC=C(Cl)C=C2C(=NCC1=O)C1=CC=CC=C1,GABA-A receptor alpha-3/beta-3/gamma-2,Ion channel,P18507|P28472|P34903,GABRA3|GABRB3|GABRG2,GBRA3_HUMAN|GBRB3_HUMAN|GBRG2_HUMAN,7.65,Ki,Tclin|Tclin|Tclin
+diazepam,diazepam,CN1C2=CC=C(Cl)C=C2C(=NCC1=O)C1=CC=CC=C1,GABA-A receptor alpha-5/beta-3/gamma-2,Ion channel,P18507|P28472|P31644,GABRA5|GABRB3|GABRG2,GBRA5_HUMAN|GBRB3_HUMAN|GBRG2_HUMAN,7.9586,Ki,Tclin|Tclin|Tclin
+diazepam,diazepam,CN1C2=CC=C(Cl)C=C2C(=NCC1=O)C1=CC=CC=C1,Gamma-aminobutyric acid receptor subunit alpha-5,Ion channel,P31644,GABRA5,GBRA5_HUMAN,7.639999866,Kd,Tclin
+dihydroergotamine mesylate,dihydroergotamine,CN1C[C@@H](C[C@H]2[C@H]1CC1=CNC3=CC=CC2=C13)C(=O)N[C@]1(C)O[C@@]2(O)[C@@H]3CCCN3C(=O)[C@H](CC3=CC=CC=C3)N2C1=O,5-hydroxytryptamine receptor 1A,GPCR,P08908,HTR1A,5HT1A_HUMAN,9.42365865,Ki,Tclin
+dihydroergotamine mesylate,dihydroergotamine,CN1C[C@@H](C[C@H]2[C@H]1CC1=CNC3=CC=CC2=C13)C(=O)N[C@]1(C)O[C@@]2(O)[C@@H]3CCCN3C(=O)[C@H](CC3=CC=CC=C3)N2C1=O,5-hydroxytryptamine receptor 1B,GPCR,P28222,HTR1B,5HT1B_HUMAN,9.2,Ki,Tclin
+dihydroergotamine mesylate,dihydroergotamine,CN1C[C@@H](C[C@H]2[C@H]1CC1=CNC3=CC=CC2=C13)C(=O)N[C@]1(C)O[C@@]2(O)[C@@H]3CCCN3C(=O)[C@H](CC3=CC=CC=C3)N2C1=O,5-hydroxytryptamine receptor 1D,GPCR,P28221,HTR1D,5HT1D_HUMAN,9.9,Ki,Tclin
+dihydroergotamine mesylate,dihydroergotamine,CN1C[C@@H](C[C@H]2[C@H]1CC1=CNC3=CC=CC2=C13)C(=O)N[C@]1(C)O[C@@]2(O)[C@@H]3CCCN3C(=O)[C@H](CC3=CC=CC=C3)N2C1=O,5-hydroxytryptamine receptor 1F,GPCR,P30939,HTR1F,5HT1F_HUMAN,7.1,Ki,Tclin
+dihydroergotamine mesylate,dihydroergotamine,CN1C[C@@H](C[C@H]2[C@H]1CC1=CNC3=CC=CC2=C13)C(=O)N[C@]1(C)O[C@@]2(O)[C@@H]3CCCN3C(=O)[C@H](CC3=CC=CC=C3)N2C1=O,5-hydroxytryptamine receptor 2A,GPCR,P28223,HTR2A,5HT2A_HUMAN,8.643974143,Ki,Tclin
+dihydroergotamine mesylate,dihydroergotamine,CN1C[C@@H](C[C@H]2[C@H]1CC1=CNC3=CC=CC2=C13)C(=O)N[C@]1(C)O[C@@]2(O)[C@@H]3CCCN3C(=O)[C@H](CC3=CC=CC=C3)N2C1=O,5-hydroxytryptamine receptor 2B,GPCR,P41595,HTR2B,5HT2B_HUMAN,8.363512104,Ki,Tclin
+dihydroergotamine mesylate,dihydroergotamine,CN1C[C@@H](C[C@H]2[C@H]1CC1=CNC3=CC=CC2=C13)C(=O)N[C@]1(C)O[C@@]2(O)[C@@H]3CCCN3C(=O)[C@H](CC3=CC=CC=C3)N2C1=O,5-hydroxytryptamine receptor 2C,GPCR,P28335,HTR2C,5HT2C_HUMAN,7.327902142,Ki,Tclin
+dihydroergotamine mesylate,dihydroergotamine,CN1C[C@@H](C[C@H]2[C@H]1CC1=CNC3=CC=CC2=C13)C(=O)N[C@]1(C)O[C@@]2(O)[C@@H]3CCCN3C(=O)[C@H](CC3=CC=CC=C3)N2C1=O,5-hydroxytryptamine receptor 7,GPCR,P34969,HTR7,5HT7R_HUMAN,8,Ki,Tclin
+dihydroergotamine mesylate,dihydroergotamine,CN1C[C@@H](C[C@H]2[C@H]1CC1=CNC3=CC=CC2=C13)C(=O)N[C@]1(C)O[C@@]2(O)[C@@H]3CCCN3C(=O)[C@H](CC3=CC=CC=C3)N2C1=O,Alpha-1D adrenergic receptor,GPCR,P25100,ADRA1D,ADA1D_HUMAN,8.690369833,Ki,Tclin
+dihydroergotamine mesylate,dihydroergotamine,CN1C[C@@H](C[C@H]2[C@H]1CC1=CNC3=CC=CC2=C13)C(=O)N[C@]1(C)O[C@@]2(O)[C@@H]3CCCN3C(=O)[C@H](CC3=CC=CC=C3)N2C1=O,Alpha-2A adrenergic receptor,GPCR,P08913,ADRA2A,ADA2A_HUMAN,9.412289035,Ki,Tclin
+dihydroergotamine mesylate,dihydroergotamine,CN1C[C@@H](C[C@H]2[C@H]1CC1=CNC3=CC=CC2=C13)C(=O)N[C@]1(C)O[C@@]2(O)[C@@H]3CCCN3C(=O)[C@H](CC3=CC=CC=C3)N2C1=O,Alpha-2B adrenergic receptor,GPCR,P18089,ADRA2B,ADA2B_HUMAN,8.752026734,Ki,Tclin
+dihydroergotamine mesylate,dihydroergotamine,CN1C[C@@H](C[C@H]2[C@H]1CC1=CNC3=CC=CC2=C13)C(=O)N[C@]1(C)O[C@@]2(O)[C@@H]3CCCN3C(=O)[C@H](CC3=CC=CC=C3)N2C1=O,Alpha-2C adrenergic receptor,GPCR,P18825,ADRA2C,ADA2C_HUMAN,8.821023053,Ki,Tclin
+dihydroergotamine mesylate,dihydroergotamine,CN1C[C@@H](C[C@H]2[C@H]1CC1=CNC3=CC=CC2=C13)C(=O)N[C@]1(C)O[C@@]2(O)[C@@H]3CCCN3C(=O)[C@H](CC3=CC=CC=C3)N2C1=O,D(2) dopamine receptor,GPCR,P14416,DRD2,DRD2_HUMAN,8.528708289,Ki,Tclin
+dihydroergotamine mesylate,dihydroergotamine,CN1C[C@@H](C[C@H]2[C@H]1CC1=CNC3=CC=CC2=C13)C(=O)N[C@]1(C)O[C@@]2(O)[C@@H]3CCCN3C(=O)[C@H](CC3=CC=CC=C3)N2C1=O,D(3) dopamine receptor,GPCR,P35462,DRD3,DRD3_HUMAN,8.742321425,Ki,Tclin
+divalproex sodium,valproic acid,CCCC(CCC)C(O)=O,Histone deacetylase 1,Enzyme,Q13547,HDAC1,HDAC1_HUMAN,6.4,IC50,Tclin
+docetaxel,docetaxel,CC(=O)O[C@@]12CO[C@@H]1C[C@H](O)[C@]1(C)[C@@H]2[C@H](OC(=O)C2=CC=CC=C2)[C@]2(O)C[C@H](OC(=O)[C@H](O)[C@@H](NC(=O)OC(C)(C)C)C3=CC=CC=C3)C(C)=C([C@@H](O)C1=O)C2(C)C,Epidermal growth factor receptor,Kinase,P00533,EGFR,EGFR_HUMAN,9.0862,Kd,Tclin
+docetaxel,docetaxel,CC(=O)O[C@@]12CO[C@@H]1C[C@H](O)[C@]1(C)[C@@H]2[C@H](OC(=O)C2=CC=CC=C2)[C@]2(O)C[C@H](OC(=O)[C@H](O)[C@@H](NC(=O)OC(C)(C)C)C3=CC=CC=C3)C(C)=C([C@@H](O)C1=O)C2(C)C,Growth hormone-releasing hormone receptor,GPCR,Q02643,GHRHR,GHRHR_HUMAN,9.85,IC50,Tclin
+docetaxel,docetaxel,CC(=O)O[C@@]12CO[C@@H]1C[C@H](O)[C@]1(C)[C@@H]2[C@H](OC(=O)C2=CC=CC=C2)[C@]2(O)C[C@H](OC(=O)[C@H](O)[C@@H](NC(=O)OC(C)(C)C)C3=CC=CC=C3)C(C)=C([C@@H](O)C1=O)C2(C)C,Substance-K receptor,GPCR,P21452,TACR2,NK2R_HUMAN,6.283162277,Ki,Tchem
+docetaxel,docetaxel,CC(=O)O[C@@]12CO[C@@H]1C[C@H](O)[C@]1(C)[C@@H]2[C@H](OC(=O)C2=CC=CC=C2)[C@]2(O)C[C@H](OC(=O)[C@H](O)[C@@H](NC(=O)OC(C)(C)C)C3=CC=CC=C3)C(C)=C([C@@H](O)C1=O)C2(C)C,Tubulin beta,Tumour-associated antigen,P04350|P07437|P68371|Q13509|Q13885|Q3ZCM7|Q9BUF5|Q9BVA1|Q9H4B7,TUBB|TUBB1|TUBB2A|TUBB2B|TUBB3|TUBB4A|TUBB4B|TUBB6|TUBB8,TBB1_HUMAN|TBB2A_HUMAN|TBB2B_HUMAN|TBB3_HUMAN|TBB4A_HUMAN|TBB4B_HUMAN|TBB5_HUMAN|TBB6_HUMAN|TBB8_HUMAN,6.698999882,ID50,Tclin|Tclin|Tclin|Tclin|Tclin|Tclin|Tclin|Tclin|Tclin
+doxorubicin hydrochloride,doxorubicin,COC1=C2C(=O)C3=C(C(O)=C4C[C@](O)(C[C@H](O[C@H]5C[C@H](N)[C@H](O)[C@H](C)O5)C4=C3O)C(=O)CO)C(=O)C2=CC=C1,Aurora kinase A,Kinase,O14965,AURKA,AURKA_HUMAN,7.4,IC50,Tchem
+dutasteride,dutasteride,C[C@]12CC[C@H]3[C@@H](CC[C@H]4NC(=O)C=C[C@]34C)[C@@H]1CC[C@@H]2C(=O)NC1=C(C=CC(=C1)C(F)(F)F)C(F)(F)F,3-oxo-5-alpha-steroid 4-dehydrogenase 1,Enzyme,P18405,SRD5A1,S5A1_HUMAN,8.49,IC50,Tclin
+dutasteride,dutasteride,C[C@]12CC[C@H]3[C@@H](CC[C@H]4NC(=O)C=C[C@]34C)[C@@H]1CC[C@@H]2C(=O)NC1=C(C=CC(=C1)C(F)(F)F)C(F)(F)F,3-oxo-5-alpha-steroid 4-dehydrogenase 2,Enzyme,P31213,SRD5A2,S5A2_HUMAN,9.2,IC50,Tclin
+dutasteride,dutasteride,C[C@]12CC[C@H]3[C@@H](CC[C@H]4NC(=O)C=C[C@]34C)[C@@H]1CC[C@@H]2C(=O)NC1=C(C=CC(=C1)C(F)(F)F)C(F)(F)F,Glycine receptor subunit alpha-1,Ion channel,P23415,GLRA1,GLRA1_HUMAN,6.480000019,EC50,Tclin
+ergotamine tartrate,ergotamine,CN1C[C@@H](C=C2[C@H]1CC1=CNC3=CC=CC2=C13)C(=O)N[C@]1(C)O[C@@]2(O)[C@@H]3CCCN3C(=O)[C@H](CC3=CC=CC=C3)N2C1=O,5-hydroxytryptamine receptor 1A,GPCR,P08908,HTR1A,5HT1A_HUMAN,9.353596274,Ki,Tclin
+ergotamine tartrate,ergotamine,CN1C[C@@H](C=C2[C@H]1CC1=CNC3=CC=CC2=C13)C(=O)N[C@]1(C)O[C@@]2(O)[C@@H]3CCCN3C(=O)[C@H](CC3=CC=CC=C3)N2C1=O,5-hydroxytryptamine receptor 1B,GPCR,P28222,HTR1B,5HT1B_HUMAN,8.68,Ki,Tclin
+ergotamine tartrate,ergotamine,CN1C[C@@H](C=C2[C@H]1CC1=CNC3=CC=CC2=C13)C(=O)N[C@]1(C)O[C@@]2(O)[C@@H]3CCCN3C(=O)[C@H](CC3=CC=CC=C3)N2C1=O,5-hydroxytryptamine receptor 1D,GPCR,P28221,HTR1D,5HT1D_HUMAN,9.1,Ki,Tclin
+ergotamine tartrate,ergotamine,CN1C[C@@H](C=C2[C@H]1CC1=CNC3=CC=CC2=C13)C(=O)N[C@]1(C)O[C@@]2(O)[C@@H]3CCCN3C(=O)[C@H](CC3=CC=CC=C3)N2C1=O,5-hydroxytryptamine receptor 1E,GPCR,P28566,HTR1E,5HT1E_HUMAN,6.3,Ki,Tchem
+ergotamine tartrate,ergotamine,CN1C[C@@H](C=C2[C@H]1CC1=CNC3=CC=CC2=C13)C(=O)N[C@]1(C)O[C@@]2(O)[C@@H]3CCCN3C(=O)[C@H](CC3=CC=CC=C3)N2C1=O,5-hydroxytryptamine receptor 1F,GPCR,P30939,HTR1F,5HT1F_HUMAN,6.8,Ki,Tclin
+ergotamine tartrate,ergotamine,CN1C[C@@H](C=C2[C@H]1CC1=CNC3=CC=CC2=C13)C(=O)N[C@]1(C)O[C@@]2(O)[C@@H]3CCCN3C(=O)[C@H](CC3=CC=CC=C3)N2C1=O,5-hydroxytryptamine receptor 2A,GPCR,P28223,HTR2A,5HT2A_HUMAN,9,Ki,Tclin
+ergotamine tartrate,ergotamine,CN1C[C@@H](C=C2[C@H]1CC1=CNC3=CC=CC2=C13)C(=O)N[C@]1(C)O[C@@]2(O)[C@@H]3CCCN3C(=O)[C@H](CC3=CC=CC=C3)N2C1=O,5-hydroxytryptamine receptor 2B,GPCR,P41595,HTR2B,5HT2B_HUMAN,8.9,Ki,Tclin
+ergotamine tartrate,ergotamine,CN1C[C@@H](C=C2[C@H]1CC1=CNC3=CC=CC2=C13)C(=O)N[C@]1(C)O[C@@]2(O)[C@@H]3CCCN3C(=O)[C@H](CC3=CC=CC=C3)N2C1=O,5-hydroxytryptamine receptor 2C,GPCR,P28335,HTR2C,5HT2C_HUMAN,8.7,Ki,Tclin
+ergotamine tartrate,ergotamine,CN1C[C@@H](C=C2[C@H]1CC1=CNC3=CC=CC2=C13)C(=O)N[C@]1(C)O[C@@]2(O)[C@@H]3CCCN3C(=O)[C@H](CC3=CC=CC=C3)N2C1=O,5-hydroxytryptamine receptor 5A,GPCR,P47898,HTR5A,5HT5A_HUMAN,7.85,Ki,Tchem
+ergotamine tartrate,ergotamine,CN1C[C@@H](C=C2[C@H]1CC1=CNC3=CC=CC2=C13)C(=O)N[C@]1(C)O[C@@]2(O)[C@@H]3CCCN3C(=O)[C@H](CC3=CC=CC=C3)N2C1=O,5-hydroxytryptamine receptor 6,GPCR,P50406,HTR6,5HT6R_HUMAN,8.6,Ki,Tchem
+ergotamine tartrate,ergotamine,CN1C[C@@H](C=C2[C@H]1CC1=CNC3=CC=CC2=C13)C(=O)N[C@]1(C)O[C@@]2(O)[C@@H]3CCCN3C(=O)[C@H](CC3=CC=CC=C3)N2C1=O,Alpha-1D adrenergic receptor,GPCR,P25100,ADRA1D,ADA1D_HUMAN,8.4867824,Ki,Tclin
+ergotamine tartrate,ergotamine,CN1C[C@@H](C=C2[C@H]1CC1=CNC3=CC=CC2=C13)C(=O)N[C@]1(C)O[C@@]2(O)[C@@H]3CCCN3C(=O)[C@H](CC3=CC=CC=C3)N2C1=O,Alpha-2A adrenergic receptor,GPCR,P08913,ADRA2A,ADA2A_HUMAN,9.099086932,Ki,Tclin
+ergotamine tartrate,ergotamine,CN1C[C@@H](C=C2[C@H]1CC1=CNC3=CC=CC2=C13)C(=O)N[C@]1(C)O[C@@]2(O)[C@@H]3CCCN3C(=O)[C@H](CC3=CC=CC=C3)N2C1=O,Alpha-2B adrenergic receptor,GPCR,P18089,ADRA2B,ADA2B_HUMAN,8.754487332,Ki,Tclin
+ergotamine tartrate,ergotamine,CN1C[C@@H](C=C2[C@H]1CC1=CNC3=CC=CC2=C13)C(=O)N[C@]1(C)O[C@@]2(O)[C@@H]3CCCN3C(=O)[C@H](CC3=CC=CC=C3)N2C1=O,Alpha-2C adrenergic receptor,GPCR,P18825,ADRA2C,ADA2C_HUMAN,8.742321425,Ki,Tclin
+ergotamine tartrate,ergotamine,CN1C[C@@H](C=C2[C@H]1CC1=CNC3=CC=CC2=C13)C(=O)N[C@]1(C)O[C@@]2(O)[C@@H]3CCCN3C(=O)[C@H](CC3=CC=CC=C3)N2C1=O,D(1A) dopamine receptor,GPCR,P21728,DRD1,DRD1_HUMAN,6.063486258,Ki,Tclin
+ergotamine tartrate,ergotamine,CN1C[C@@H](C=C2[C@H]1CC1=CNC3=CC=CC2=C13)C(=O)N[C@]1(C)O[C@@]2(O)[C@@H]3CCCN3C(=O)[C@H](CC3=CC=CC=C3)N2C1=O,D(1B) dopamine receptor,GPCR,P21918,DRD5,DRD5_HUMAN,6.769551079,Ki,Tchem
+ergotamine tartrate,ergotamine,CN1C[C@@H](C=C2[C@H]1CC1=CNC3=CC=CC2=C13)C(=O)N[C@]1(C)O[C@@]2(O)[C@@H]3CCCN3C(=O)[C@H](CC3=CC=CC=C3)N2C1=O,D(2) dopamine receptor,GPCR,P14416,DRD2,DRD2_HUMAN,8.844663963,Ki,Tclin
+ergotamine tartrate,ergotamine,CN1C[C@@H](C=C2[C@H]1CC1=CNC3=CC=CC2=C13)C(=O)N[C@]1(C)O[C@@]2(O)[C@@H]3CCCN3C(=O)[C@H](CC3=CC=CC=C3)N2C1=O,D(3) dopamine receptor,GPCR,P35462,DRD3,DRD3_HUMAN,8.835647144,Ki,Tclin
+ergotamine tartrate,ergotamine,CN1C[C@@H](C=C2[C@H]1CC1=CNC3=CC=CC2=C13)C(=O)N[C@]1(C)O[C@@]2(O)[C@@H]3CCCN3C(=O)[C@H](CC3=CC=CC=C3)N2C1=O,Muscarinic acetylcholine receptor M1,GPCR,P11229,CHRM1,ACM1_HUMAN,6.064492734,Ki,Tclin
+ergotamine tartrate,ergotamine,CN1C[C@@H](C=C2[C@H]1CC1=CNC3=CC=CC2=C13)C(=O)N[C@]1(C)O[C@@]2(O)[C@@H]3CCCN3C(=O)[C@H](CC3=CC=CC=C3)N2C1=O,Muscarinic acetylcholine receptor M2,GPCR,P08172,CHRM2,ACM2_HUMAN,6.040481623,Ki,Tclin
+estradiol,estradiol,C[C@]12CC[C@H]3[C@@H](CCC4=C3C=CC(O)=C4)[C@@H]1CC[C@@H]2O,Aldehyde oxidase,Enzyme,Q06278,AOX1,AOXA_HUMAN,6.5376,IC50,Tbio
+estradiol,estradiol,C[C@]12CC[C@H]3[C@@H](CCC4=C3C=CC(O)=C4)[C@@H]1CC[C@@H]2O,Androgen receptor,Nuclear hormone receptor,P10275,AR,ANDR_HUMAN,7.72,IC50,Tclin
+estradiol,estradiol,C[C@]12CC[C@H]3[C@@H](CCC4=C3C=CC(O)=C4)[C@@H]1CC[C@@H]2O,Estrogen receptor,Nuclear hormone receptor,P03372,ESR1,ESR1_HUMAN,10.3,EC50,Tclin
+estradiol,estradiol,C[C@]12CC[C@H]3[C@@H](CCC4=C3C=CC(O)=C4)[C@@H]1CC[C@@H]2O,Estrogen receptor beta,Nuclear hormone receptor,Q92731,ESR2,ESR2_HUMAN,9.7,EC50,Tclin
+estradiol,estradiol,C[C@]12CC[C@H]3[C@@H](CCC4=C3C=CC(O)=C4)[C@@H]1CC[C@@H]2O,G-protein coupled estrogen receptor 1,GPCR,Q99527,GPER1,GPER1_HUMAN,9.52,EC50,Tchem
+estradiol,estradiol,C[C@]12CC[C@H]3[C@@H](CCC4=C3C=CC(O)=C4)[C@@H]1CC[C@@H]2O,Sex hormone-binding globulin,Secreted,P04278,SHBG,SHBG_HUMAN,8.83,Kd,Tchem
+estradiol,estradiol,C[C@]12CC[C@H]3[C@@H](CCC4=C3C=CC(O)=C4)[C@@H]1CC[C@@H]2O,Steroid hormone receptor ERR1,Nuclear hormone receptor,P11474,ESRRA,ERR1_HUMAN,8.44,IC50,Tchem
+estradiol,estradiol,C[C@]12CC[C@H]3[C@@H](CCC4=C3C=CC(O)=C4)[C@@H]1CC[C@@H]2O,Steroid hormone receptor ERR2,Nuclear hormone receptor,O95718,ESRRB,ERR2_HUMAN,8.49,IC50,Tchem
+estradiol pellet,estradiol,C[C@]12CC[C@H]3[C@@H](CCC4=C3C=CC(O)=C4)[C@@H]1CC[C@@H]2O,Aldehyde oxidase,Enzyme,Q06278,AOX1,AOXA_HUMAN,6.5376,IC50,Tbio
+estradiol pellet,estradiol,C[C@]12CC[C@H]3[C@@H](CCC4=C3C=CC(O)=C4)[C@@H]1CC[C@@H]2O,Androgen receptor,Nuclear hormone receptor,P10275,AR,ANDR_HUMAN,7.72,IC50,Tclin
+estradiol pellet,estradiol,C[C@]12CC[C@H]3[C@@H](CCC4=C3C=CC(O)=C4)[C@@H]1CC[C@@H]2O,Estrogen receptor,Nuclear hormone receptor,P03372,ESR1,ESR1_HUMAN,10.3,EC50,Tclin
+estradiol pellet,estradiol,C[C@]12CC[C@H]3[C@@H](CCC4=C3C=CC(O)=C4)[C@@H]1CC[C@@H]2O,Estrogen receptor beta,Nuclear hormone receptor,Q92731,ESR2,ESR2_HUMAN,9.7,EC50,Tclin
+estradiol pellet,estradiol,C[C@]12CC[C@H]3[C@@H](CCC4=C3C=CC(O)=C4)[C@@H]1CC[C@@H]2O,G-protein coupled estrogen receptor 1,GPCR,Q99527,GPER1,GPER1_HUMAN,9.52,EC50,Tchem
+estradiol pellet,estradiol,C[C@]12CC[C@H]3[C@@H](CCC4=C3C=CC(O)=C4)[C@@H]1CC[C@@H]2O,Sex hormone-binding globulin,Secreted,P04278,SHBG,SHBG_HUMAN,8.83,Kd,Tchem
+estradiol pellet,estradiol,C[C@]12CC[C@H]3[C@@H](CCC4=C3C=CC(O)=C4)[C@@H]1CC[C@@H]2O,Steroid hormone receptor ERR1,Nuclear hormone receptor,P11474,ESRRA,ERR1_HUMAN,8.44,IC50,Tchem
+estradiol pellet,estradiol,C[C@]12CC[C@H]3[C@@H](CCC4=C3C=CC(O)=C4)[C@@H]1CC[C@@H]2O,Steroid hormone receptor ERR2,Nuclear hormone receptor,O95718,ESRRB,ERR2_HUMAN,8.49,IC50,Tchem
+etoposide,etoposide,COC1=CC(=CC(OC)=C1O)[C@H]1[C@@H]2[C@H](COC2=O)[C@H](O[C@@H]2O[C@@H]3CO[C@@H](C)O[C@H]3[C@H](O)[C@H]2O)C2=C1C=C1OCOC1=C2,DNA topoisomerase 2-alpha,Enzyme,P11388,TOP2A,TOP2A_HUMAN,7.3,IC50,Tclin
+finasteride,finasteride,CC(C)(C)NC(=O)[C@H]1CC[C@H]2[C@@H]3CC[C@H]4NC(=O)C=C[C@]4(C)[C@H]3CC[C@]12C,3-oxo-5-alpha-steroid 4-dehydrogenase 1,Enzyme,P18405,SRD5A1,S5A1_HUMAN,7.58,IC50,Tclin
+finasteride,finasteride,CC(C)(C)NC(=O)[C@H]1CC[C@H]2[C@@H]3CC[C@H]4NC(=O)C=C[C@]4(C)[C@H]3CC[C@]12C,3-oxo-5-alpha-steroid 4-dehydrogenase 2,Enzyme,P31213,SRD5A2,S5A2_HUMAN,8.26,IC50,Tclin
+fluvastatin,fluvastatin,CC(C)N1C(\C=C\[C@H](O)C[C@H](O)CC(O)=O)=C(C2=C1C=CC=C2)C1=CC=C(F)C=C1,3-hydroxy-3-methylglutaryl-coenzyme A reductase,Enzyme,P04035,HMGCR,HMDH_HUMAN,7.55,IC50,Tclin
+fluvastatin,fluvastatin,CC(C)N1C(\C=C\[C@H](O)C[C@H](O)CC(O)=O)=C(C2=C1C=CC=C2)C1=CC=C(F)C=C1,Cytochrome P450 2C9,Enzyme,P11712,CYP2C9,CP2C9_HUMAN,6.397940009,IC50,Tchem
+fluvastatin sodium,fluvastatin,CC(C)N1C(\C=C\[C@H](O)C[C@H](O)CC(O)=O)=C(C2=C1C=CC=C2)C1=CC=C(F)C=C1,3-hydroxy-3-methylglutaryl-coenzyme A reductase,Enzyme,P04035,HMGCR,HMDH_HUMAN,7.55,IC50,Tclin
+fluvastatin sodium,fluvastatin,CC(C)N1C(\C=C\[C@H](O)C[C@H](O)CC(O)=O)=C(C2=C1C=CC=C2)C1=CC=C(F)C=C1,Cytochrome P450 2C9,Enzyme,P11712,CYP2C9,CP2C9_HUMAN,6.397940009,IC50,Tchem
+fosinopirl sodium,fosinopril,CCC(=O)O[C@@H](O[P@](=O)(CCCCC1=CC=CC=C1)CC(=O)N1C[C@@H](C[C@H]1C(O)=O)C1CCCCC1)C(C)C,Angiotensin-converting enzyme,Enzyme,P12821,ACE,ACE_HUMAN,9,IC50,Tclin
+fosinopril,fosinopril,CCC(=O)O[C@@H](O[P@](=O)(CCCCC1=CC=CC=C1)CC(=O)N1C[C@@H](C[C@H]1C(O)=O)C1CCCCC1)C(C)C,Angiotensin-converting enzyme,Enzyme,P12821,ACE,ACE_HUMAN,9,IC50,Tclin
+fosinopril sodium,fosinopril,CCC(=O)O[C@@H](O[P@](=O)(CCCCC1=CC=CC=C1)CC(=O)N1C[C@@H](C[C@H]1C(O)=O)C1CCCCC1)C(C)C,Angiotensin-converting enzyme,Enzyme,P12821,ACE,ACE_HUMAN,9,IC50,Tclin
+irbesartan,irbesartan,CCCCC1=NC2(CCCC2)C(=O)N1CC1=CC=C(C=C1)C1=CC=CC=C1C1=NN=NN1,Type-1 angiotensin II receptor,GPCR,P30556,AGTR1,AGTR1_HUMAN,9.1,Ki,Tclin
+leflunomide,leflunomide,CC1=C(C=NO1)C(=O)NC1=CC=C(C=C1)C(F)(F)F,Cytochrome P450 1A2,Enzyme,P05177,CYP1A2,CP1A2_HUMAN,6.301029996,IC50,Tchem
+letrozole,letrozole,N#CC1=CC=C(C=C1)C(N1C=NC=N1)C1=CC=C(C=C1)C#N,Aromatase,Enzyme,P11511,CYP19A1,CP19A_HUMAN,8.22,IC50,Tclin
+leuprolide acetate,leuprorelin,CCNC(=O)[C@@H]1CCCN1C(=O)[C@H](CCCNC(N)=N)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](CC(C)C)NC(=O)[C@H](CC1=CC=C(O)C=C1)NC(=O)[C@H](CO)NC(=O)[C@H](CC1=CNC2=C1C=CC=C2)NC(=O)[C@H](CC1=CNC=N1)NC(=O)[C@@H]1CCC(=O)N1,Gonadotropin-releasing hormone receptor,GPCR,P30968,GNRHR,GNRHR_HUMAN,9.5229,IC50,Tclin
+lisinopril,lisinopril,NCCCC[C@H](N[C@@H](CCC1=CC=CC=C1)C(O)=O)C(=O)N1CCC[C@H]1C(O)=O,Angiotensin-converting enzyme,Enzyme,P12821,ACE,ACE_HUMAN,8.92,IC50,Tclin
+lorazepam,lorazepam,OC1N=C(C2=CC(Cl)=CC=C2NC1=O)C1=C(Cl)C=CC=C1,GABA-A receptor alpha-1/beta-3/gamma-2,Ion channel,P14867|P18507|P28472,GABRA1|GABRB3|GABRG2,GBRA1_HUMAN|GBRB3_HUMAN|GBRG2_HUMAN,8.456,IC50,Tclin|Tclin|Tclin
+losartan potassium,losartan,CCCCC1=NC(Cl)=C(CO)N1CC1=CC=C(C=C1)C1=C(C=CC=C1)C1=NN=NN1,Angiotensin II receptor,GPCR,P30556|P50052,AGTR1|AGTR2,AGTR1_HUMAN|AGTR2_HUMAN,8.43,Kd,Tchem|Tclin
+losartan potassium,losartan,CCCCC1=NC(Cl)=C(CO)N1CC1=CC=C(C=C1)C1=C(C=CC=C1)C1=NN=NN1,Angiotensin-converting enzyme,Enzyme,P12821,ACE,ACE_HUMAN,7.72,IC50,Tclin
+losartan potassium,losartan,CCCCC1=NC(Cl)=C(CO)N1CC1=CC=C(C=C1)C1=C(C=CC=C1)C1=NN=NN1,Type-1 angiotensin II receptor,GPCR,P30556,AGTR1,AGTR1_HUMAN,9.48,IC50,Tclin
+losartan potassium tablet,losartan,CCCCC1=NC(Cl)=C(CO)N1CC1=CC=C(C=C1)C1=C(C=CC=C1)C1=NN=NN1,Angiotensin II receptor,GPCR,P30556|P50052,AGTR1|AGTR2,AGTR1_HUMAN|AGTR2_HUMAN,8.43,Kd,Tchem|Tclin
+losartan potassium tablet,losartan,CCCCC1=NC(Cl)=C(CO)N1CC1=CC=C(C=C1)C1=C(C=CC=C1)C1=NN=NN1,Angiotensin-converting enzyme,Enzyme,P12821,ACE,ACE_HUMAN,7.72,IC50,Tclin
+losartan potassium tablet,losartan,CCCCC1=NC(Cl)=C(CO)N1CC1=CC=C(C=C1)C1=C(C=CC=C1)C1=NN=NN1,Type-1 angiotensin II receptor,GPCR,P30556,AGTR1,AGTR1_HUMAN,9.48,IC50,Tclin
+lovastatin,lovastatin,CC[C@H](C)C(=O)O[C@H]1C[C@@H](C)C=C2C=C[C@H](C)[C@H](CC[C@@H]3C[C@@H](O)CC(=O)O3)[C@@H]12,3-hydroxy-3-methylglutaryl-coenzyme A reductase,Enzyme,P04035,HMGCR,HMDH_HUMAN,7.67,IC50,Tclin
+lovastatin,lovastatin,CC[C@H](C)C(=O)O[C@H]1C[C@@H](C)C=C2C=C[C@H](C)[C@H](CC[C@@H]3C[C@@H](O)CC(=O)O3)[C@@H]12,Hydroxycarboxylic acid receptor 2,GPCR,Q8TDS4,HCAR2,HCAR2_HUMAN,7.3,IC50,Tclin
+lovastatin,lovastatin,CC[C@H](C)C(=O)O[C@H]1C[C@@H](C)C=C2C=C[C@H](C)[C@H](CC[C@@H]3C[C@@H](O)CC(=O)O3)[C@@H]12,Hydroxycarboxylic acid receptor 3,GPCR,P49019,HCAR3,HCAR3_HUMAN,6.53,IC50,Tbio
+medroxyprogesterone,medroxyprogesterone,C[C@H]1C[C@H]2[C@@H]3CC[C@](OC(C)=O)(C(C)=O)[C@@]3(C)CC[C@@H]2[C@@]2(C)CCC(=O)C=C12,Aldo-keto reductase family 1 member C3,Enzyme,P42330,AKR1C3,AK1C3_HUMAN,6.52,IC50,Tchem
+medroxyprogesterone,medroxyprogesterone,C[C@H]1C[C@H]2[C@@H]3CC[C@](OC(C)=O)(C(C)=O)[C@@]3(C)CC[C@@H]2[C@@]2(C)CCC(=O)C=C12,Androgen receptor,Nuclear hormone receptor,P10275,AR,ANDR_HUMAN,8.2,EC50,Tclin
+medroxyprogesterone,medroxyprogesterone,C[C@H]1C[C@H]2[C@@H]3CC[C@](OC(C)=O)(C(C)=O)[C@@]3(C)CC[C@@H]2[C@@]2(C)CCC(=O)C=C12,Estrogen receptor,Nuclear hormone receptor,P03372|Q92731,ESR1|ESR2,ESR1_HUMAN|ESR2_HUMAN,6.03,IC50,Tclin|Tclin
+medroxyprogesterone,medroxyprogesterone,C[C@H]1C[C@H]2[C@@H]3CC[C@](OC(C)=O)(C(C)=O)[C@@]3(C)CC[C@@H]2[C@@]2(C)CCC(=O)C=C12,Glucocorticoid receptor,Nuclear hormone receptor,P04150,NR3C1,GCR_HUMAN,7.88,Ki,Tclin
+medroxyprogesterone,medroxyprogesterone,C[C@H]1C[C@H]2[C@@H]3CC[C@](OC(C)=O)(C(C)=O)[C@@]3(C)CC[C@@H]2[C@@]2(C)CCC(=O)C=C12,Progesterone receptor,Nuclear hormone receptor,P06401,PGR,PRGR_HUMAN,9.59,EC50,Tclin
+medroxyprogesterone,medroxyprogesterone,C[C@H]1C[C@H]2[C@@H]3CC[C@](OC(C)=O)(C(C)=O)[C@@]3(C)CC[C@@H]2[C@@]2(C)CCC(=O)C=C12,Sex hormone-binding globulin,Secreted,P04278,SHBG,SHBG_HUMAN,6.2,Kd,Tchem
+medroxyprogesterone acetate,medroxyprogesterone,C[C@H]1C[C@H]2[C@@H]3CC[C@](OC(C)=O)(C(C)=O)[C@@]3(C)CC[C@@H]2[C@@]2(C)CCC(=O)C=C12,Aldo-keto reductase family 1 member C3,Enzyme,P42330,AKR1C3,AK1C3_HUMAN,6.52,IC50,Tchem
+medroxyprogesterone acetate,medroxyprogesterone,C[C@H]1C[C@H]2[C@@H]3CC[C@](OC(C)=O)(C(C)=O)[C@@]3(C)CC[C@@H]2[C@@]2(C)CCC(=O)C=C12,Androgen receptor,Nuclear hormone receptor,P10275,AR,ANDR_HUMAN,8.2,EC50,Tclin
+medroxyprogesterone acetate,medroxyprogesterone,C[C@H]1C[C@H]2[C@@H]3CC[C@](OC(C)=O)(C(C)=O)[C@@]3(C)CC[C@@H]2[C@@]2(C)CCC(=O)C=C12,Estrogen receptor,Nuclear hormone receptor,P03372|Q92731,ESR1|ESR2,ESR1_HUMAN|ESR2_HUMAN,6.03,IC50,Tclin|Tclin
+medroxyprogesterone acetate,medroxyprogesterone,C[C@H]1C[C@H]2[C@@H]3CC[C@](OC(C)=O)(C(C)=O)[C@@]3(C)CC[C@@H]2[C@@]2(C)CCC(=O)C=C12,Glucocorticoid receptor,Nuclear hormone receptor,P04150,NR3C1,GCR_HUMAN,7.88,Ki,Tclin
+medroxyprogesterone acetate,medroxyprogesterone,C[C@H]1C[C@H]2[C@@H]3CC[C@](OC(C)=O)(C(C)=O)[C@@]3(C)CC[C@@H]2[C@@]2(C)CCC(=O)C=C12,Progesterone receptor,Nuclear hormone receptor,P06401,PGR,PRGR_HUMAN,9.59,EC50,Tclin
+medroxyprogesterone acetate,medroxyprogesterone,C[C@H]1C[C@H]2[C@@H]3CC[C@](OC(C)=O)(C(C)=O)[C@@]3(C)CC[C@@H]2[C@@]2(C)CCC(=O)C=C12,Sex hormone-binding globulin,Secreted,P04278,SHBG,SHBG_HUMAN,6.2,Kd,Tchem
+megestrol acetate,megestrol acetate,CC(=O)O[C@@]1(CC[C@H]2[C@@H]3C=C(C)C4=CC(=O)CC[C@]4(C)[C@H]3CC[C@]12C)C(C)=O,Glucocorticoid receptor,Nuclear hormone receptor,P04150,NR3C1,GCR_HUMAN,8.057000407,Ki,Tclin
+methotrexate,methotrexate,CN(CC1=CN=C2N=C(N)N=C(N)C2=N1)C1=CC=C(C=C1)C(=O)N[C@@H](CCC(O)=O)C(O)=O,Dihydrofolate reductase,Enzyme,P00374,DHFR,DYR_HUMAN,8.92,Ki,Tclin
+methotrexate,methotrexate,CN(CC1=CN=C2N=C(N)N=C(N)C2=N1)C1=CC=C(C=C1)C(=O)N[C@@H](CCC(O)=O)C(O)=O,Folate receptor alpha,Membrane receptor,P15328,FOLR1,FOLR1_HUMAN,6.940000057,IC50,Tchem
+methotrexate,methotrexate,CN(CC1=CN=C2N=C(N)N=C(N)C2=N1)C1=CC=C(C=C1)C(=O)N[C@@H](CCC(O)=O)C(O)=O,Folate receptor beta,Membrane receptor,P14207,FOLR2,FOLR2_HUMAN,6.96999979,IC50,Tchem
+methotrexate,methotrexate,CN(CC1=CN=C2N=C(N)N=C(N)C2=N1)C1=CC=C(C=C1)C(=O)N[C@@H](CCC(O)=O)C(O)=O,Proton-coupled folate transporter,Transporter,Q96NT5,SLC46A1,PCFT_HUMAN,6.920000076,IC50,Tchem
+methotrexate,methotrexate,CN(CC1=CN=C2N=C(N)N=C(N)C2=N1)C1=CC=C(C=C1)C(=O)N[C@@H](CCC(O)=O)C(O)=O,Thymidylate synthase,Enzyme,P04818,TYMS,TYSY_HUMAN,6.22,Ki,Tclin
+methylene blue,methylthioninium chloride,CN(C)C1=CC2=[S+]C3=CC(=CC=C3N=C2C=C1)N(C)C,Amine oxidase [flavin-containing] A,Enzyme,P21397,MAOA,AOFA_HUMAN,7.150000095,IC50,Tclin
+methylene blue,methylthioninium chloride,CN(C)C1=CC2=[S+]C3=CC(=CC=C3N=C2C=C1)N(C)C,Amyloid beta A4 protein,Unclassified,P05067,APP,A4_HUMAN,6.26,IC50,(null)
+methyltestosterone,methyltestosterone,C[C@]1(O)CC[C@H]2[C@@H]3CCC4=CC(=O)CC[C@]4(C)[C@H]3CC[C@]12C,Androgen receptor,Nuclear hormone receptor,P10275,AR,ANDR_HUMAN,9.66,EC50,Tclin
+methyltestosterone,methyltestosterone,C[C@]1(O)CC[C@H]2[C@@H]3CCC4=CC(=O)CC[C@]4(C)[C@H]3CC[C@]12C,Glucocorticoid receptor,Nuclear hormone receptor,P04150,NR3C1,GCR_HUMAN,6.076755981,Ki,Tclin
+methyltestosterone,methyltestosterone,C[C@]1(O)CC[C@H]2[C@@H]3CCC4=CC(=O)CC[C@]4(C)[C@H]3CC[C@]12C,Sex hormone-binding globulin,Secreted,P04278,SHBG,SHBG_HUMAN,8.43,Kd,Tchem
+midazolam,midazolam,CC1=NC=C2CN=C(C3=CC(Cl)=CC=C3N12)C1=C(F)C=CC=C1,GABA A receptor alpha-3/beta-2/gamma-2,Ion channel,P18507|P34903|P47870,GABRA3|GABRB2|GABRG2,GBRA3_HUMAN|GBRB2_HUMAN|GBRG2_HUMAN,8.4437,Ki,Tclin|Tclin|Tclin
+midazolam,midazolam,CC1=NC=C2CN=C(C3=CC(Cl)=CC=C3N12)C1=C(F)C=CC=C1,GABA A receptor alpha-3/beta-2/gamma-3,Ion channel,P34903|P47870|Q99928,GABRA3|GABRB2|GABRG3,GBRA3_HUMAN|GBRB2_HUMAN|GBRG3_HUMAN,7.6126,Ki,Tclin|Tclin|Tclin
+midazolam,midazolam,CC1=NC=C2CN=C(C3=CC(Cl)=CC=C3N12)C1=C(F)C=CC=C1,GABA A receptor alpha-5/beta-2/gamma-2,Ion channel,P18507|P31644|P47870,GABRA5|GABRB2|GABRG2,GBRA5_HUMAN|GBRB2_HUMAN|GBRG2_HUMAN,9.1249,Ki,Tclin|Tclin|Tclin
+midazolam,midazolam,CC1=NC=C2CN=C(C3=CC(Cl)=CC=C3N12)C1=C(F)C=CC=C1,GABA A receptor alpha-5/beta-2/gamma-3,Ion channel,P31644|P47870|Q99928,GABRA5|GABRB2|GABRG3,GBRA5_HUMAN|GBRB2_HUMAN|GBRG3_HUMAN,8.2596,Ki,Tclin|Tclin|Tclin
+midazolam,midazolam,CC1=NC=C2CN=C(C3=CC(Cl)=CC=C3N12)C1=C(F)C=CC=C1,GABA A receptor alpha-5/beta-3/gamma-3,Ion channel,P28472|P31644|Q99928,GABRA5|GABRB3|GABRG3,GBRA5_HUMAN|GBRB3_HUMAN|GBRG3_HUMAN,8.2596,Ki,Tclin|Tclin|Tclin
+midazolam,midazolam,CC1=NC=C2CN=C(C3=CC(Cl)=CC=C3N12)C1=C(F)C=CC=C1,GABA-A receptor alpha-1/beta-2/gamma-2,Ion channel,P14867|P18507|P47870,GABRA1|GABRB2|GABRG2,GBRA1_HUMAN|GBRB2_HUMAN|GBRG2_HUMAN,8.7447,Ki,Tclin|Tclin|Tclin
+midazolam,midazolam,CC1=NC=C2CN=C(C3=CC(Cl)=CC=C3N12)C1=C(F)C=CC=C1,GABA-A receptor alpha-1/beta-2/gamma-3,Ion channel,P14867|P47870|Q99928,GABRA1|GABRB2|GABRG3,GBRA1_HUMAN|GBRB2_HUMAN|GBRG3_HUMAN,7.7496,Ki,Tclin|Tclin|Tclin
+midazolam,midazolam,CC1=NC=C2CN=C(C3=CC(Cl)=CC=C3N12)C1=C(F)C=CC=C1,GABA-A receptor alpha-5/beta-3/gamma-2,Ion channel,P18507|P28472|P31644,GABRA5|GABRB3|GABRG2,GBRA5_HUMAN|GBRB3_HUMAN|GBRG2_HUMAN,9.1249,Ki,Tclin|Tclin|Tclin
+midazolam hydrochloride,midazolam,CC1=NC=C2CN=C(C3=CC(Cl)=CC=C3N12)C1=C(F)C=CC=C1,GABA A receptor alpha-3/beta-2/gamma-2,Ion channel,P18507|P34903|P47870,GABRA3|GABRB2|GABRG2,GBRA3_HUMAN|GBRB2_HUMAN|GBRG2_HUMAN,8.4437,Ki,Tclin|Tclin|Tclin
+midazolam hydrochloride,midazolam,CC1=NC=C2CN=C(C3=CC(Cl)=CC=C3N12)C1=C(F)C=CC=C1,GABA A receptor alpha-3/beta-2/gamma-3,Ion channel,P34903|P47870|Q99928,GABRA3|GABRB2|GABRG3,GBRA3_HUMAN|GBRB2_HUMAN|GBRG3_HUMAN,7.6126,Ki,Tclin|Tclin|Tclin
+midazolam hydrochloride,midazolam,CC1=NC=C2CN=C(C3=CC(Cl)=CC=C3N12)C1=C(F)C=CC=C1,GABA A receptor alpha-5/beta-2/gamma-2,Ion channel,P18507|P31644|P47870,GABRA5|GABRB2|GABRG2,GBRA5_HUMAN|GBRB2_HUMAN|GBRG2_HUMAN,9.1249,Ki,Tclin|Tclin|Tclin
+midazolam hydrochloride,midazolam,CC1=NC=C2CN=C(C3=CC(Cl)=CC=C3N12)C1=C(F)C=CC=C1,GABA A receptor alpha-5/beta-2/gamma-3,Ion channel,P31644|P47870|Q99928,GABRA5|GABRB2|GABRG3,GBRA5_HUMAN|GBRB2_HUMAN|GBRG3_HUMAN,8.2596,Ki,Tclin|Tclin|Tclin
+midazolam hydrochloride,midazolam,CC1=NC=C2CN=C(C3=CC(Cl)=CC=C3N12)C1=C(F)C=CC=C1,GABA A receptor alpha-5/beta-3/gamma-3,Ion channel,P28472|P31644|Q99928,GABRA5|GABRB3|GABRG3,GBRA5_HUMAN|GBRB3_HUMAN|GBRG3_HUMAN,8.2596,Ki,Tclin|Tclin|Tclin
+midazolam hydrochloride,midazolam,CC1=NC=C2CN=C(C3=CC(Cl)=CC=C3N12)C1=C(F)C=CC=C1,GABA-A receptor alpha-1/beta-2/gamma-2,Ion channel,P14867|P18507|P47870,GABRA1|GABRB2|GABRG2,GBRA1_HUMAN|GBRB2_HUMAN|GBRG2_HUMAN,8.7447,Ki,Tclin|Tclin|Tclin
+midazolam hydrochloride,midazolam,CC1=NC=C2CN=C(C3=CC(Cl)=CC=C3N12)C1=C(F)C=CC=C1,GABA-A receptor alpha-1/beta-2/gamma-3,Ion channel,P14867|P47870|Q99928,GABRA1|GABRB2|GABRG3,GBRA1_HUMAN|GBRB2_HUMAN|GBRG3_HUMAN,7.7496,Ki,Tclin|Tclin|Tclin
+midazolam hydrochloride,midazolam,CC1=NC=C2CN=C(C3=CC(Cl)=CC=C3N12)C1=C(F)C=CC=C1,GABA-A receptor alpha-5/beta-3/gamma-2,Ion channel,P18507|P28472|P31644,GABRA5|GABRB3|GABRG2,GBRA5_HUMAN|GBRB3_HUMAN|GBRG2_HUMAN,9.1249,Ki,Tclin|Tclin|Tclin
+misoprostol,misoprostol,CCCCC(C)(O)C\C=C\[C@H]1[C@H](O)CC(=O)[C@@H]1CCCCCCC(=O)OC,Prostaglandin E2 receptor EP2 subtype,GPCR,P43116,PTGER2,PE2R2_HUMAN,7.5,Ki,Tclin
+misoprostol,misoprostol,CCCCC(C)(O)C\C=C\[C@H]1[C@H](O)CC(=O)[C@@H]1CCCCCCC(=O)OC,Prostaglandin E2 receptor EP3 subtype,GPCR,P43115,PTGER3,PE2R3_HUMAN,8.1,Ki,Tclin
+misoprostol,misoprostol,CCCCC(C)(O)C\C=C\[C@H]1[C@H](O)CC(=O)[C@@H]1CCCCCCC(=O)OC,Prostaglandin E2 receptor EP4 subtype,GPCR,P35408,PTGER4,PE2R4_HUMAN,7.6,Ki,Tclin
+mitoxantrone,mitoxantrone,OCCNCCNC1=CC=C(NCCNCCO)C2=C1C(=O)C1=C(O)C=CC(O)=C1C2=O,Multidrug and toxin extrusion protein 1,Transporter,Q96FL8,SLC47A1,S47A1_HUMAN,6.72,IC50,Tchem
+mitoxantrone,mitoxantrone,OCCNCCNC1=CC=C(NCCNCCO)C2=C1C(=O)C1=C(O)C=CC(O)=C1C2=O,Multidrug and toxin extrusion protein 2,Transporter,Q86VL8,SLC47A2,S47A2_HUMAN,6.28,IC50,Tchem
+mitoxantrone,mitoxantrone,OCCNCCNC1=CC=C(NCCNCCO)C2=C1C(=O)C1=C(O)C=CC(O)=C1C2=O,Multidrug resistance-associated protein 1,Transporter,P33527,ABCC1,MRP1_HUMAN,6.2869,IC50,Tchem
+mitoxantrone,mitoxantrone,OCCNCCNC1=CC=C(NCCNCCO)C2=C1C(=O)C1=C(O)C=CC(O)=C1C2=O,Muscarinic acetylcholine receptor M1,GPCR,P11229,CHRM1,ACM1_HUMAN,6.744004273,Ki,Tclin
+mitoxantrone,mitoxantrone,OCCNCCNC1=CC=C(NCCNCCO)C2=C1C(=O)C1=C(O)C=CC(O)=C1C2=O,Muscarinic acetylcholine receptor M2,GPCR,P08172,CHRM2,ACM2_HUMAN,7.108462542,Ki,Tclin
+mitoxantrone,mitoxantrone,OCCNCCNC1=CC=C(NCCNCCO)C2=C1C(=O)C1=C(O)C=CC(O)=C1C2=O,Muscarinic acetylcholine receptor M4,GPCR,P08173,CHRM4,ACM4_HUMAN,7.046723663,Ki,Tclin
+mitoxantrone,mitoxantrone,OCCNCCNC1=CC=C(NCCNCCO)C2=C1C(=O)C1=C(O)C=CC(O)=C1C2=O,Serine/threonine-protein kinase pim-1,Kinase,P11309,PIM1,PIM1_HUMAN,7.29,IC50,Tchem
+moexipril hydrochloride,moexipril,CCOC(=O)[C@H](CCC1=CC=CC=C1)N[C@@H](C)C(=O)N1CC2=CC(OC)=C(OC)C=C2C[C@H]1C(O)=O,Angiotensin-converting enzyme,Enzyme,P12821,ACE,ACE_HUMAN,8.59,IC50,Tclin
+mycophenilic acid,mycophenolic acid,COC1=C(C\C=C(/C)CCC(O)=O)C(O)=C2C(=O)OCC2=C1C,Inosine-5'-monophosphate dehydrogenase 1,Enzyme,P20839,IMPDH1,IMDH1_HUMAN,7.48,Ki,Tclin
+mycophenilic acid,mycophenolic acid,COC1=C(C\C=C(/C)CCC(O)=O)C(O)=C2C(=O)OCC2=C1C,Inosine-5'-monophosphate dehydrogenase 2,Enzyme,P12268,IMPDH2,IMDH2_HUMAN,8.22,Ki,Tclin
+mycophenolate mofetil,mycophenolate mofetil,COC1=C(C)C2=C(C(=O)OC2)C(O)=C1C\C=C(/C)CCC(=O)OCCN1CCOCC1,Inosine-5'-monophosphate dehydrogenase 1,Enzyme,P20839,IMPDH1,IMDH1_HUMAN,7.481485844,Ki,Tclin
+mycophenolate mofetil,mycophenolate mofetil,COC1=C(C)C2=C(C(=O)OC2)C(O)=C1C\C=C(/C)CCC(=O)OCCN1CCOCC1,Inosine-5'-monophosphate dehydrogenase 2,Enzyme,P12268,IMPDH2,IMDH2_HUMAN,8.154901505,Ki,Tclin
+neomycin sulfate,neomycin,(null),Transient receptor potential cation channel subfamily V member 1,Ion channel,Q8NER1,TRPV1,TRPV1_HUMAN,6.4,IC50,Tclin
+nicotine,nicotine,CN1CCC[C@H]1C1=CC=CN=C1,Neuronal acetylcholine receptor subunit alpha-3,Ion channel,P32297,CHRNA3,ACHA3_HUMAN,7.349999905,IC50,Tclin
+nicotine,nicotine,CN1CCC[C@H]1C1=CC=CN=C1,Neuronal acetylcholine receptor; alpha2/beta2,Ion channel,P17787|Q15822,CHRNA2|CHRNB2,ACHA2_HUMAN|ACHB2_HUMAN,8.260000229,Ki,Tchem|Tclin
+nicotine,nicotine,CN1CCC[C@H]1C1=CC=CN=C1,Neuronal acetylcholine receptor; alpha2/beta4,Ion channel,P30926|Q15822,CHRNA2|CHRNB4,ACHA2_HUMAN|ACHB4_HUMAN,7.150000095,Ki,Tchem|Tclin
+nicotine,nicotine,CN1CCC[C@H]1C1=CC=CN=C1,Neuronal acetylcholine receptor; alpha3/alpha6/beta2/beta3,Ion channel,P17787|P32297|Q05901|Q15825,CHRNA3|CHRNA6|CHRNB2|CHRNB3,ACHA3_HUMAN|ACHA6_HUMAN|ACHB2_HUMAN|ACHB3_HUMAN,7.070000172,IC50,Tchem|Tchem|Tclin|Tclin
+nicotine,nicotine,CN1CCC[C@H]1C1=CC=CN=C1,Neuronal acetylcholine receptor; alpha3/beta2,Ion channel,P17787|P32297,CHRNA3|CHRNB2,ACHA3_HUMAN|ACHB2_HUMAN,7.8539,Ki,Tclin|Tclin
+nicotine,nicotine,CN1CCC[C@H]1C1=CC=CN=C1,Neuronal acetylcholine receptor; alpha4/beta2,Ion channel,P17787|P43681,CHRNA4|CHRNB2,ACHA4_HUMAN|ACHB2_HUMAN,8.56,Ki,Tclin|Tclin
+nicotine,nicotine,CN1CCC[C@H]1C1=CC=CN=C1,Neuronal acetylcholine receptor; alpha4/beta4,Ion channel,P30926|P43681,CHRNA4|CHRNB4,ACHA4_HUMAN|ACHB4_HUMAN,7.639999866,Ki,Tclin|Tclin
+nicotine,nicotine,CN1CCC[C@H]1C1=CC=CN=C1,Potassium voltage-gated channel subfamily D member 3,Ion channel,Q9UK17,KCND3,KCND3_HUMAN,7.4,IC50,Tclin
+norethindrone,norethindrone acetate,CC(=O)O[C@]1(CC[C@H]2[C@@H]3CCC4=CC(=O)CC[C@@H]4[C@H]3CC[C@]12C)C#C,Androgen receptor,Nuclear hormone receptor,P10275,AR,ANDR_HUMAN,7.12,IC50,Tclin
+norethindrone,norethindrone acetate,CC(=O)O[C@]1(CC[C@H]2[C@@H]3CCC4=CC(=O)CC[C@@H]4[C@H]3CC[C@]12C)C#C,Cytochrome P450 2C19,Enzyme,P33261,CYP2C19,CP2CJ_HUMAN,6.096910013,IC50,Tchem
+norethindrone,norethindrone acetate,CC(=O)O[C@]1(CC[C@H]2[C@@H]3CCC4=CC(=O)CC[C@@H]4[C@H]3CC[C@]12C)C#C,Estrogen receptor,Nuclear hormone receptor,P03372,ESR1,ESR1_HUMAN,6.64,Ki,Tclin
+norethindrone,norethindrone acetate,CC(=O)O[C@]1(CC[C@H]2[C@@H]3CCC4=CC(=O)CC[C@@H]4[C@H]3CC[C@]12C)C#C,Glucocorticoid receptor,Nuclear hormone receptor,P04150,NR3C1,GCR_HUMAN,6.53313238,Ki,Tclin
+norethindrone,norethindrone acetate,CC(=O)O[C@]1(CC[C@H]2[C@@H]3CCC4=CC(=O)CC[C@@H]4[C@H]3CC[C@]12C)C#C,Progesterone receptor,Nuclear hormone receptor,P06401,PGR,PRGR_HUMAN,11.2596,ED50,Tclin
+norethindrone,norethindrone acetate,CC(=O)O[C@]1(CC[C@H]2[C@@H]3CCC4=CC(=O)CC[C@@H]4[C@H]3CC[C@]12C)C#C,Sex hormone-binding globulin,Secreted,P04278,SHBG,SHBG_HUMAN,7.97,Kd,Tchem
+norethindrone acetate,norethindrone acetate,CC(=O)O[C@]1(CC[C@H]2[C@@H]3CCC4=CC(=O)CC[C@@H]4[C@H]3CC[C@]12C)C#C,Androgen receptor,Nuclear hormone receptor,P10275,AR,ANDR_HUMAN,7.12,IC50,Tclin
+norethindrone acetate,norethindrone acetate,CC(=O)O[C@]1(CC[C@H]2[C@@H]3CCC4=CC(=O)CC[C@@H]4[C@H]3CC[C@]12C)C#C,Cytochrome P450 2C19,Enzyme,P33261,CYP2C19,CP2CJ_HUMAN,6.096910013,IC50,Tchem
+norethindrone acetate,norethindrone acetate,CC(=O)O[C@]1(CC[C@H]2[C@@H]3CCC4=CC(=O)CC[C@@H]4[C@H]3CC[C@]12C)C#C,Estrogen receptor,Nuclear hormone receptor,P03372,ESR1,ESR1_HUMAN,6.64,Ki,Tclin
+norethindrone acetate,norethindrone acetate,CC(=O)O[C@]1(CC[C@H]2[C@@H]3CCC4=CC(=O)CC[C@@H]4[C@H]3CC[C@]12C)C#C,Glucocorticoid receptor,Nuclear hormone receptor,P04150,NR3C1,GCR_HUMAN,6.53313238,Ki,Tclin
+norethindrone acetate,norethindrone acetate,CC(=O)O[C@]1(CC[C@H]2[C@@H]3CCC4=CC(=O)CC[C@@H]4[C@H]3CC[C@]12C)C#C,Progesterone receptor,Nuclear hormone receptor,P06401,PGR,PRGR_HUMAN,11.2596,ED50,Tclin
+norethindrone acetate,norethindrone acetate,CC(=O)O[C@]1(CC[C@H]2[C@@H]3CCC4=CC(=O)CC[C@@H]4[C@H]3CC[C@]12C)C#C,Sex hormone-binding globulin,Secreted,P04278,SHBG,SHBG_HUMAN,7.97,Kd,Tchem
+olmesartan medoxomil,olmesartan medoxomil,CCCC1=NC(=C(N1CC1=CC=C(C=C1)C1=C(C=CC=C1)C1=NN=NN1)C(=O)OCC1=C(C)OC(=O)O1)C(C)(C)O,Type-1 angiotensin II receptor,GPCR,P30556,AGTR1,AGTR1_HUMAN,8.1,IC50,Tclin
+orlistat,orlistat,CCCCCCCCCCC[C@@H](C[C@@H]1OC(=O)[C@H]1CCCCCC)OC(=O)[C@H](CC(C)C)NC=O,Abhydrolase domain-containing protein 16A,Enzyme,O95870,ABHD16A,ABHGA_HUMAN,7.52,IC50,Tchem
+orlistat,orlistat,CCCCCCCCCCC[C@@H](C[C@@H]1OC(=O)[C@H]1CCCCCC)OC(=O)[C@H](CC(C)C)NC=O,Monoacylglycerol lipase ABHD12,Enzyme,Q8N2K0,ABHD12,ABD12_HUMAN,7.1,IC50,Tchem
+orlistat,orlistat,CCCCCCCCCCC[C@@H](C[C@@H]1OC(=O)[C@H]1CCCCCC)OC(=O)[C@H](CC(C)C)NC=O,Monoacylglycerol lipase ABHD6,Enzyme,Q9BV23,ABHD6,ABHD6_HUMAN,7.320000172,IC50,Tchem
+orlistat,orlistat,CCCCCCCCCCC[C@@H](C[C@@H]1OC(=O)[C@H]1CCCCCC)OC(=O)[C@H](CC(C)C)NC=O,Pancreatic triacylglycerol lipase,Enzyme,P16233,PNLIP,LIPP_HUMAN,8.9,IC50,Tclin
+orlistat,orlistat,CCCCCCCCCCC[C@@H](C[C@@H]1OC(=O)[C@H]1CCCCCC)OC(=O)[C@H](CC(C)C)NC=O,Platelet-activating factor acetylhydrolase,Enzyme,Q13093,PLA2G7,PAFA_HUMAN,7.3,IC50,Tchem
+orlistat,orlistat,CCCCCCCCCCC[C@@H](C[C@@H]1OC(=O)[C@H]1CCCCCC)OC(=O)[C@H](CC(C)C)NC=O,Sn1-specific diacylglycerol lipase alpha,Enzyme,Q9Y4D2,DAGLA,DGLA_HUMAN,8,IC50,Tchem
+orlistat,orlistat,CCCCCCCCCCC[C@@H](C[C@@H]1OC(=O)[C@H]1CCCCCC)OC(=O)[C@H](CC(C)C)NC=O,Sn1-specific diacylglycerol lipase beta,Enzyme,Q8NCG7,DAGLB,DGLB_HUMAN,7.22,IC50,Tchem
+paclitaxel,paclitaxel,CC(=O)O[C@@H]1C2=C(C)[C@H](C[C@@](O)([C@@H](OC(=O)C3=CC=CC=C3)[C@@H]3[C@@]4(CO[C@@H]4C[C@H](O)[C@@]3(C)C1=O)OC(C)=O)C2(C)C)OC(=O)[C@H](O)[C@@H](NC(=O)C1=CC=CC=C1)C1=CC=CC=C1,Tubulin beta,Tumour-associated antigen,P04350|P07437|P68371|Q13509|Q13885|Q3ZCM7|Q9BUF5|Q9BVA1|Q9H4B7,TUBB|TUBB1|TUBB2A|TUBB2B|TUBB3|TUBB4A|TUBB4B|TUBB6|TUBB8,TBB1_HUMAN|TBB2A_HUMAN|TBB2B_HUMAN|TBB3_HUMAN|TBB4A_HUMAN|TBB4B_HUMAN|TBB5_HUMAN|TBB6_HUMAN|TBB8_HUMAN,8.05,EC50,Tclin|Tclin|Tclin|Tclin|Tclin|Tclin|Tclin|Tclin|Tclin
+paclitaxel,paclitaxel,CC(=O)O[C@@H]1C2=C(C)[C@H](C[C@@](O)([C@@H](OC(=O)C3=CC=CC=C3)[C@@H]3[C@@]4(CO[C@@H]4C[C@H](O)[C@@]3(C)C1=O)OC(C)=O)C2(C)C)OC(=O)[C@H](O)[C@@H](NC(=O)C1=CC=CC=C1)C1=CC=CC=C1,Tubulin beta chain,Structural,P07437,TUBB,TBB5_HUMAN,8.05,EC50,Tclin
+paclitaxel,paclitaxel,CC(=O)O[C@@H]1C2=C(C)[C@H](C[C@@](O)([C@@H](OC(=O)C3=CC=CC=C3)[C@@H]3[C@@]4(CO[C@@H]4C[C@H](O)[C@@]3(C)C1=O)OC(C)=O)C2(C)C)OC(=O)[C@H](O)[C@@H](NC(=O)C1=CC=CC=C1)C1=CC=CC=C1,Tubulin beta-3 chain,Structural,Q13509,TUBB3,TBB3_HUMAN,8.109999657,IC50,Tclin
+pamidronate disodium,pamidronic acid,NCCC(O)(P(O)(O)=O)P(O)(O)=O,Farnesyl pyrophosphate synthase,Enzyme,P14324,FDPS,FPPS_HUMAN,7.25,Ki,Tclin
+paroxetine,paroxetine,FC1=CC=C(C=C1)[C@@H]1CCNC[C@H]1COC1=CC2=C(OCO2)C=C1,Muscarinic acetylcholine receptor M1,GPCR,P11229,CHRM1,ACM1_HUMAN,7.455931956,Ki,Tclin
+paroxetine,paroxetine,FC1=CC=C(C=C1)[C@@H]1CCNC[C@H]1COC1=CC2=C(OCO2)C=C1,Muscarinic acetylcholine receptor M2,GPCR,P08172,CHRM2,ACM2_HUMAN,6.723538196,Ki,Tclin
+paroxetine,paroxetine,FC1=CC=C(C=C1)[C@@H]1CCNC[C@H]1COC1=CC2=C(OCO2)C=C1,Muscarinic acetylcholine receptor M3,GPCR,P20309,CHRM3,ACM3_HUMAN,7.420216403,Ki,Tclin
+paroxetine,paroxetine,FC1=CC=C(C=C1)[C@@H]1CCNC[C@H]1COC1=CC2=C(OCO2)C=C1,Muscarinic acetylcholine receptor M4,GPCR,P08173,CHRM4,ACM4_HUMAN,7.468521083,Ki,Tclin
+paroxetine,paroxetine,FC1=CC=C(C=C1)[C@@H]1CCNC[C@H]1COC1=CC2=C(OCO2)C=C1,Muscarinic acetylcholine receptor M5,GPCR,P08912,CHRM5,ACM5_HUMAN,7.050609993,Ki,Tclin
+paroxetine,paroxetine,FC1=CC=C(C=C1)[C@@H]1CCNC[C@H]1COC1=CC2=C(OCO2)C=C1,Sodium-dependent dopamine transporter,Transporter,Q01959,SLC6A3,SC6A3_HUMAN,6.3098,Kd,Tclin
+paroxetine,paroxetine,FC1=CC=C(C=C1)[C@@H]1CCNC[C@H]1COC1=CC2=C(OCO2)C=C1,Sodium-dependent noradrenaline transporter,Transporter,P23975,SLC6A2,SC6A2_HUMAN,7.3979,Kd,Tclin
+paroxetine,paroxetine,FC1=CC=C(C=C1)[C@@H]1CCNC[C@H]1COC1=CC2=C(OCO2)C=C1,Sodium-dependent serotonin transporter,Transporter,P31645,SLC6A4,SC6A4_HUMAN,10.4,Ki,Tclin
+paroxetine,paroxetine,FC1=CC=C(C=C1)[C@@H]1CCNC[C@H]1COC1=CC2=C(OCO2)C=C1,Substance-P receptor,GPCR,P25103,TACR1,NK1R_HUMAN,6.05,IC50,Tclin
+paroxetine hydrochloride,paroxetine,FC1=CC=C(C=C1)[C@@H]1CCNC[C@H]1COC1=CC2=C(OCO2)C=C1,Muscarinic acetylcholine receptor M1,GPCR,P11229,CHRM1,ACM1_HUMAN,7.455931956,Ki,Tclin
+paroxetine hydrochloride,paroxetine,FC1=CC=C(C=C1)[C@@H]1CCNC[C@H]1COC1=CC2=C(OCO2)C=C1,Muscarinic acetylcholine receptor M2,GPCR,P08172,CHRM2,ACM2_HUMAN,6.723538196,Ki,Tclin
+paroxetine hydrochloride,paroxetine,FC1=CC=C(C=C1)[C@@H]1CCNC[C@H]1COC1=CC2=C(OCO2)C=C1,Muscarinic acetylcholine receptor M3,GPCR,P20309,CHRM3,ACM3_HUMAN,7.420216403,Ki,Tclin
+paroxetine hydrochloride,paroxetine,FC1=CC=C(C=C1)[C@@H]1CCNC[C@H]1COC1=CC2=C(OCO2)C=C1,Muscarinic acetylcholine receptor M4,GPCR,P08173,CHRM4,ACM4_HUMAN,7.468521083,Ki,Tclin
+paroxetine hydrochloride,paroxetine,FC1=CC=C(C=C1)[C@@H]1CCNC[C@H]1COC1=CC2=C(OCO2)C=C1,Muscarinic acetylcholine receptor M5,GPCR,P08912,CHRM5,ACM5_HUMAN,7.050609993,Ki,Tclin
+paroxetine hydrochloride,paroxetine,FC1=CC=C(C=C1)[C@@H]1CCNC[C@H]1COC1=CC2=C(OCO2)C=C1,Sodium-dependent dopamine transporter,Transporter,Q01959,SLC6A3,SC6A3_HUMAN,6.3098,Kd,Tclin
+paroxetine hydrochloride,paroxetine,FC1=CC=C(C=C1)[C@@H]1CCNC[C@H]1COC1=CC2=C(OCO2)C=C1,Sodium-dependent noradrenaline transporter,Transporter,P23975,SLC6A2,SC6A2_HUMAN,7.3979,Kd,Tclin
+paroxetine hydrochloride,paroxetine,FC1=CC=C(C=C1)[C@@H]1CCNC[C@H]1COC1=CC2=C(OCO2)C=C1,Sodium-dependent serotonin transporter,Transporter,P31645,SLC6A4,SC6A4_HUMAN,10.4,Ki,Tclin
+paroxetine hydrochloride,paroxetine,FC1=CC=C(C=C1)[C@@H]1CCNC[C@H]1COC1=CC2=C(OCO2)C=C1,Substance-P receptor,GPCR,P25103,TACR1,NK1R_HUMAN,6.05,IC50,Tclin
+paroxetine hydrochloride anhydrous,paroxetine,FC1=CC=C(C=C1)[C@@H]1CCNC[C@H]1COC1=CC2=C(OCO2)C=C1,Muscarinic acetylcholine receptor M1,GPCR,P11229,CHRM1,ACM1_HUMAN,7.455931956,Ki,Tclin
+paroxetine hydrochloride anhydrous,paroxetine,FC1=CC=C(C=C1)[C@@H]1CCNC[C@H]1COC1=CC2=C(OCO2)C=C1,Muscarinic acetylcholine receptor M2,GPCR,P08172,CHRM2,ACM2_HUMAN,6.723538196,Ki,Tclin
+paroxetine hydrochloride anhydrous,paroxetine,FC1=CC=C(C=C1)[C@@H]1CCNC[C@H]1COC1=CC2=C(OCO2)C=C1,Muscarinic acetylcholine receptor M3,GPCR,P20309,CHRM3,ACM3_HUMAN,7.420216403,Ki,Tclin
+paroxetine hydrochloride anhydrous,paroxetine,FC1=CC=C(C=C1)[C@@H]1CCNC[C@H]1COC1=CC2=C(OCO2)C=C1,Muscarinic acetylcholine receptor M4,GPCR,P08173,CHRM4,ACM4_HUMAN,7.468521083,Ki,Tclin
+paroxetine hydrochloride anhydrous,paroxetine,FC1=CC=C(C=C1)[C@@H]1CCNC[C@H]1COC1=CC2=C(OCO2)C=C1,Muscarinic acetylcholine receptor M5,GPCR,P08912,CHRM5,ACM5_HUMAN,7.050609993,Ki,Tclin
+paroxetine hydrochloride anhydrous,paroxetine,FC1=CC=C(C=C1)[C@@H]1CCNC[C@H]1COC1=CC2=C(OCO2)C=C1,Sodium-dependent dopamine transporter,Transporter,Q01959,SLC6A3,SC6A3_HUMAN,6.3098,Kd,Tclin
+paroxetine hydrochloride anhydrous,paroxetine,FC1=CC=C(C=C1)[C@@H]1CCNC[C@H]1COC1=CC2=C(OCO2)C=C1,Sodium-dependent noradrenaline transporter,Transporter,P23975,SLC6A2,SC6A2_HUMAN,7.3979,Kd,Tclin
+paroxetine hydrochloride anhydrous,paroxetine,FC1=CC=C(C=C1)[C@@H]1CCNC[C@H]1COC1=CC2=C(OCO2)C=C1,Sodium-dependent serotonin transporter,Transporter,P31645,SLC6A4,SC6A4_HUMAN,10.4,Ki,Tclin
+paroxetine hydrochloride anhydrous,paroxetine,FC1=CC=C(C=C1)[C@@H]1CCNC[C@H]1COC1=CC2=C(OCO2)C=C1,Substance-P receptor,GPCR,P25103,TACR1,NK1R_HUMAN,6.05,IC50,Tclin
+perindopril erbumine,perindopril,CCC[C@H](N[C@@H](C)C(=O)N1[C@H]2CCCC[C@H]2C[C@H]1C(O)=O)C(=O)OCC,Angiotensin-converting enzyme,Enzyme,P12821,ACE,ACE_HUMAN,8.82,IC50,Tclin
+pravastatin sodium,pravastatin,CC[C@H](C)C(=O)O[C@H]1C[C@H](O)C=C2C=C[C@H](C)[C@H](CC[C@@H](O)C[C@@H](O)CC(O)=O)[C@@H]12,3-hydroxy-3-methylglutaryl-coenzyme A reductase,Enzyme,P04035,HMGCR,HMDH_HUMAN,7.52,IC50,Tclin
+pravatatin,pravastatin,CC[C@H](C)C(=O)O[C@H]1C[C@H](O)C=C2C=C[C@H](C)[C@H](CC[C@@H](O)C[C@@H](O)CC(O)=O)[C@@H]12,3-hydroxy-3-methylglutaryl-coenzyme A reductase,Enzyme,P04035,HMGCR,HMDH_HUMAN,7.52,IC50,Tclin
+quinapril,quinapril,CCOC(=O)[C@H](CCC1=CC=CC=C1)N[C@@H](C)C(=O)N1CC2=CC=CC=C2C[C@H]1C(O)=O,Angiotensin-converting enzyme,Enzyme,P12821,ACE,ACE_HUMAN,8.08,IC50,Tclin
+quinapril hydrochloride,quinapril,CCOC(=O)[C@H](CCC1=CC=CC=C1)N[C@@H](C)C(=O)N1CC2=CC=CC=C2C[C@H]1C(O)=O,Angiotensin-converting enzyme,Enzyme,P12821,ACE,ACE_HUMAN,8.08,IC50,Tclin
+raloxifene,raloxifene,OC1=CC=C(C=C1)C1=C(C(=O)C2=CC=C(OCCN3CCCCC3)C=C2)C2=C(S1)C=C(O)C=C2,"3-beta-hydroxysteroid-Delta(8),Delta(7)-isomerase",Enzyme,Q15125,EBP,EBP_HUMAN,9,Ki,Tchem
+raloxifene,raloxifene,OC1=CC=C(C=C1)C1=C(C(=O)C2=CC=C(OCCN3CCCCC3)C=C2)C2=C(S1)C=C(O)C=C2,5-hydroxytryptamine receptor 1D,GPCR,P28221,HTR1D,5HT1D_HUMAN,6.5229,Ki,Tclin
+raloxifene,raloxifene,OC1=CC=C(C=C1)C1=C(C(=O)C2=CC=C(OCCN3CCCCC3)C=C2)C2=C(S1)C=C(O)C=C2,5-hydroxytryptamine receptor 2A,GPCR,P28223,HTR2A,5HT2A_HUMAN,6.382999659,Ki,Tclin
+raloxifene,raloxifene,OC1=CC=C(C=C1)C1=C(C(=O)C2=CC=C(OCCN3CCCCC3)C=C2)C2=C(S1)C=C(O)C=C2,5-hydroxytryptamine receptor 2B,GPCR,P41595,HTR2B,5HT2B_HUMAN,7.16,Ki,Tclin
+raloxifene,raloxifene,OC1=CC=C(C=C1)C1=C(C(=O)C2=CC=C(OCCN3CCCCC3)C=C2)C2=C(S1)C=C(O)C=C2,5-hydroxytryptamine receptor 2C,GPCR,P28335,HTR2C,5HT2C_HUMAN,6.209714836,Ki,Tclin
+raloxifene,raloxifene,OC1=CC=C(C=C1)C1=C(C(=O)C2=CC=C(OCCN3CCCCC3)C=C2)C2=C(S1)C=C(O)C=C2,5-hydroxytryptamine receptor 6,GPCR,P50406,HTR6,5HT6R_HUMAN,6.3,Ki,Tchem
+raloxifene,raloxifene,OC1=CC=C(C=C1)C1=C(C(=O)C2=CC=C(OCCN3CCCCC3)C=C2)C2=C(S1)C=C(O)C=C2,Acetylcholinesterase,Enzyme,P22303,ACHE,ACES_HUMAN,6.397940009,IC50,Tclin
+raloxifene,raloxifene,OC1=CC=C(C=C1)C1=C(C(=O)C2=CC=C(OCCN3CCCCC3)C=C2)C2=C(S1)C=C(O)C=C2,Aldehyde oxidase,Enzyme,Q06278,AOX1,AOXA_HUMAN,8.5376,IC50,Tbio
+raloxifene,raloxifene,OC1=CC=C(C=C1)C1=C(C(=O)C2=CC=C(OCCN3CCCCC3)C=C2)C2=C(S1)C=C(O)C=C2,Alpha-1D adrenergic receptor,GPCR,P25100,ADRA1D,ADA1D_HUMAN,6.320572103,Ki,Tclin
+raloxifene,raloxifene,OC1=CC=C(C=C1)C1=C(C(=O)C2=CC=C(OCCN3CCCCC3)C=C2)C2=C(S1)C=C(O)C=C2,Alpha-2A adrenergic receptor,GPCR,P08913,ADRA2A,ADA2A_HUMAN,6.20481541,Ki,Tclin
+raloxifene,raloxifene,OC1=CC=C(C=C1)C1=C(C(=O)C2=CC=C(OCCN3CCCCC3)C=C2)C2=C(S1)C=C(O)C=C2,Alpha-2C adrenergic receptor,GPCR,P18825,ADRA2C,ADA2C_HUMAN,6.970616222,Ki,Tclin
+raloxifene,raloxifene,OC1=CC=C(C=C1)C1=C(C(=O)C2=CC=C(OCCN3CCCCC3)C=C2)C2=C(S1)C=C(O)C=C2,D(2) dopamine receptor,GPCR,P14416,DRD2,DRD2_HUMAN,6.407823243,Ki,Tclin
+raloxifene,raloxifene,OC1=CC=C(C=C1)C1=C(C(=O)C2=CC=C(OCCN3CCCCC3)C=C2)C2=C(S1)C=C(O)C=C2,D(3) dopamine receptor,GPCR,P35462,DRD3,DRD3_HUMAN,6.274905479,Ki,Tclin
+raloxifene,raloxifene,OC1=CC=C(C=C1)C1=C(C(=O)C2=CC=C(OCCN3CCCCC3)C=C2)C2=C(S1)C=C(O)C=C2,Estrogen receptor,Nuclear hormone receptor,P03372,ESR1,ESR1_HUMAN,9.4,IC50,Tclin
+raloxifene,raloxifene,OC1=CC=C(C=C1)C1=C(C(=O)C2=CC=C(OCCN3CCCCC3)C=C2)C2=C(S1)C=C(O)C=C2,Estrogen receptor beta,Nuclear hormone receptor,Q92731,ESR2,ESR2_HUMAN,8,EC50,Tclin
+raloxifene,raloxifene,OC1=CC=C(C=C1)C1=C(C(=O)C2=CC=C(OCCN3CCCCC3)C=C2)C2=C(S1)C=C(O)C=C2,G-protein coupled estrogen receptor 1,GPCR,Q99527,GPER1,GPER1_HUMAN,6.5,EC50,Tchem
+raloxifene,raloxifene,OC1=CC=C(C=C1)C1=C(C(=O)C2=CC=C(OCCN3CCCCC3)C=C2)C2=C(S1)C=C(O)C=C2,Interleukin-6,Cytokine,P05231,IL6,IL6_HUMAN,8.05,IC50,Tclin
+raloxifene,raloxifene,OC1=CC=C(C=C1)C1=C(C(=O)C2=CC=C(OCCN3CCCCC3)C=C2)C2=C(S1)C=C(O)C=C2,Kappa-type opioid receptor,GPCR,P41145,OPRK1,OPRK_HUMAN,6.19314197,Ki,Tclin
+raloxifene,raloxifene,OC1=CC=C(C=C1)C1=C(C(=O)C2=CC=C(OCCN3CCCCC3)C=C2)C2=C(S1)C=C(O)C=C2,Mu-type opioid receptor,GPCR,P35372,OPRM1,OPRM_HUMAN,6.321481621,Ki,Tclin
+raloxifene,raloxifene,OC1=CC=C(C=C1)C1=C(C(=O)C2=CC=C(OCCN3CCCCC3)C=C2)C2=C(S1)C=C(O)C=C2,Sigma non-opioid intracellular receptor 1,Membrane receptor,Q99720,SIGMAR1,SGMR1_HUMAN,7.42,Ki,Tclin
+raloxifene,raloxifene,OC1=CC=C(C=C1)C1=C(C(=O)C2=CC=C(OCCN3CCCCC3)C=C2)C2=C(S1)C=C(O)C=C2,Sodium-dependent noradrenaline transporter,Transporter,P23975,SLC6A2,SC6A2_HUMAN,6.552841969,Ki,Tclin
+raloxifene hydrochloride,raloxifene,OC1=CC=C(C=C1)C1=C(C(=O)C2=CC=C(OCCN3CCCCC3)C=C2)C2=C(S1)C=C(O)C=C2,"3-beta-hydroxysteroid-Delta(8),Delta(7)-isomerase",Enzyme,Q15125,EBP,EBP_HUMAN,9,Ki,Tchem
+raloxifene hydrochloride,raloxifene,OC1=CC=C(C=C1)C1=C(C(=O)C2=CC=C(OCCN3CCCCC3)C=C2)C2=C(S1)C=C(O)C=C2,5-hydroxytryptamine receptor 1D,GPCR,P28221,HTR1D,5HT1D_HUMAN,6.5229,Ki,Tclin
+raloxifene hydrochloride,raloxifene,OC1=CC=C(C=C1)C1=C(C(=O)C2=CC=C(OCCN3CCCCC3)C=C2)C2=C(S1)C=C(O)C=C2,5-hydroxytryptamine receptor 2A,GPCR,P28223,HTR2A,5HT2A_HUMAN,6.382999659,Ki,Tclin
+raloxifene hydrochloride,raloxifene,OC1=CC=C(C=C1)C1=C(C(=O)C2=CC=C(OCCN3CCCCC3)C=C2)C2=C(S1)C=C(O)C=C2,5-hydroxytryptamine receptor 2B,GPCR,P41595,HTR2B,5HT2B_HUMAN,7.16,Ki,Tclin
+raloxifene hydrochloride,raloxifene,OC1=CC=C(C=C1)C1=C(C(=O)C2=CC=C(OCCN3CCCCC3)C=C2)C2=C(S1)C=C(O)C=C2,5-hydroxytryptamine receptor 2C,GPCR,P28335,HTR2C,5HT2C_HUMAN,6.209714836,Ki,Tclin
+raloxifene hydrochloride,raloxifene,OC1=CC=C(C=C1)C1=C(C(=O)C2=CC=C(OCCN3CCCCC3)C=C2)C2=C(S1)C=C(O)C=C2,5-hydroxytryptamine receptor 6,GPCR,P50406,HTR6,5HT6R_HUMAN,6.3,Ki,Tchem
+raloxifene hydrochloride,raloxifene,OC1=CC=C(C=C1)C1=C(C(=O)C2=CC=C(OCCN3CCCCC3)C=C2)C2=C(S1)C=C(O)C=C2,Acetylcholinesterase,Enzyme,P22303,ACHE,ACES_HUMAN,6.397940009,IC50,Tclin
+raloxifene hydrochloride,raloxifene,OC1=CC=C(C=C1)C1=C(C(=O)C2=CC=C(OCCN3CCCCC3)C=C2)C2=C(S1)C=C(O)C=C2,Aldehyde oxidase,Enzyme,Q06278,AOX1,AOXA_HUMAN,8.5376,IC50,Tbio
+raloxifene hydrochloride,raloxifene,OC1=CC=C(C=C1)C1=C(C(=O)C2=CC=C(OCCN3CCCCC3)C=C2)C2=C(S1)C=C(O)C=C2,Alpha-1D adrenergic receptor,GPCR,P25100,ADRA1D,ADA1D_HUMAN,6.320572103,Ki,Tclin
+raloxifene hydrochloride,raloxifene,OC1=CC=C(C=C1)C1=C(C(=O)C2=CC=C(OCCN3CCCCC3)C=C2)C2=C(S1)C=C(O)C=C2,Alpha-2A adrenergic receptor,GPCR,P08913,ADRA2A,ADA2A_HUMAN,6.20481541,Ki,Tclin
+raloxifene hydrochloride,raloxifene,OC1=CC=C(C=C1)C1=C(C(=O)C2=CC=C(OCCN3CCCCC3)C=C2)C2=C(S1)C=C(O)C=C2,Alpha-2C adrenergic receptor,GPCR,P18825,ADRA2C,ADA2C_HUMAN,6.970616222,Ki,Tclin
+raloxifene hydrochloride,raloxifene,OC1=CC=C(C=C1)C1=C(C(=O)C2=CC=C(OCCN3CCCCC3)C=C2)C2=C(S1)C=C(O)C=C2,D(2) dopamine receptor,GPCR,P14416,DRD2,DRD2_HUMAN,6.407823243,Ki,Tclin
+raloxifene hydrochloride,raloxifene,OC1=CC=C(C=C1)C1=C(C(=O)C2=CC=C(OCCN3CCCCC3)C=C2)C2=C(S1)C=C(O)C=C2,D(3) dopamine receptor,GPCR,P35462,DRD3,DRD3_HUMAN,6.274905479,Ki,Tclin
+raloxifene hydrochloride,raloxifene,OC1=CC=C(C=C1)C1=C(C(=O)C2=CC=C(OCCN3CCCCC3)C=C2)C2=C(S1)C=C(O)C=C2,Estrogen receptor,Nuclear hormone receptor,P03372,ESR1,ESR1_HUMAN,9.4,IC50,Tclin
+raloxifene hydrochloride,raloxifene,OC1=CC=C(C=C1)C1=C(C(=O)C2=CC=C(OCCN3CCCCC3)C=C2)C2=C(S1)C=C(O)C=C2,Estrogen receptor beta,Nuclear hormone receptor,Q92731,ESR2,ESR2_HUMAN,8,EC50,Tclin
+raloxifene hydrochloride,raloxifene,OC1=CC=C(C=C1)C1=C(C(=O)C2=CC=C(OCCN3CCCCC3)C=C2)C2=C(S1)C=C(O)C=C2,G-protein coupled estrogen receptor 1,GPCR,Q99527,GPER1,GPER1_HUMAN,6.5,EC50,Tchem
+raloxifene hydrochloride,raloxifene,OC1=CC=C(C=C1)C1=C(C(=O)C2=CC=C(OCCN3CCCCC3)C=C2)C2=C(S1)C=C(O)C=C2,Interleukin-6,Cytokine,P05231,IL6,IL6_HUMAN,8.05,IC50,Tclin
+raloxifene hydrochloride,raloxifene,OC1=CC=C(C=C1)C1=C(C(=O)C2=CC=C(OCCN3CCCCC3)C=C2)C2=C(S1)C=C(O)C=C2,Kappa-type opioid receptor,GPCR,P41145,OPRK1,OPRK_HUMAN,6.19314197,Ki,Tclin
+raloxifene hydrochloride,raloxifene,OC1=CC=C(C=C1)C1=C(C(=O)C2=CC=C(OCCN3CCCCC3)C=C2)C2=C(S1)C=C(O)C=C2,Mu-type opioid receptor,GPCR,P35372,OPRM1,OPRM_HUMAN,6.321481621,Ki,Tclin
+raloxifene hydrochloride,raloxifene,OC1=CC=C(C=C1)C1=C(C(=O)C2=CC=C(OCCN3CCCCC3)C=C2)C2=C(S1)C=C(O)C=C2,Sigma non-opioid intracellular receptor 1,Membrane receptor,Q99720,SIGMAR1,SGMR1_HUMAN,7.42,Ki,Tclin
+raloxifene hydrochloride,raloxifene,OC1=CC=C(C=C1)C1=C(C(=O)C2=CC=C(OCCN3CCCCC3)C=C2)C2=C(S1)C=C(O)C=C2,Sodium-dependent noradrenaline transporter,Transporter,P23975,SLC6A2,SC6A2_HUMAN,6.552841969,Ki,Tclin
+ramipril,ramipril,CCOC(=O)[C@H](CCC1=CC=CC=C1)N[C@@H](C)C(=O)N1[C@H]2CCC[C@H]2C[C@H]1C(O)=O,Angiotensin-converting enzyme,Enzyme,P12821,ACE,ACE_HUMAN,8.3418,Ki,Tclin
+rosuvastatin calcium,rosuvastatin,CC(C)C1=C(\C=C\[C@@H](O)C[C@@H](O)CC(O)=O)C(=NC(=N1)N(C)S(C)(=O)=O)C1=CC=C(F)C=C1,3-hydroxy-3-methylglutaryl-coenzyme A reductase,Enzyme,P04035,HMGCR,HMDH_HUMAN,9.05,Ki,Tclin
+simvastatin,simvastatin,CCC(C)(C)C(=O)O[C@H]1C[C@@H](C)C=C2C=C[C@H](C)[C@H](CC[C@@H]3C[C@@H](O)CC(=O)O3)[C@@H]12,3-hydroxy-3-methylglutaryl-coenzyme A reductase,Enzyme,P04035,HMGCR,HMDH_HUMAN,7.77,IC50,Tclin
+tamoxifen citrate,tamoxifen,CC\C(=C(/C1=CC=CC=C1)C1=CC=C(OCCN(C)C)C=C1)C1=CC=CC=C1,"3-beta-hydroxysteroid-Delta(8),Delta(7)-isomerase",Enzyme,Q15125,EBP,EBP_HUMAN,8.301,Ki,Tchem
+tamoxifen citrate,tamoxifen,CC\C(=C(/C1=CC=CC=C1)C1=CC=C(OCCN(C)C)C=C1)C1=CC=CC=C1,5-hydroxytryptamine receptor 2C,GPCR,P28335,HTR2C,5HT2C_HUMAN,6.617982957,Ki,Tclin
+tamoxifen citrate,tamoxifen,CC\C(=C(/C1=CC=CC=C1)C1=CC=C(OCCN(C)C)C=C1)C1=CC=CC=C1,Alpha-2A adrenergic receptor,GPCR,P08913,ADRA2A,ADA2A_HUMAN,6.139063379,Ki,Tclin
+tamoxifen citrate,tamoxifen,CC\C(=C(/C1=CC=CC=C1)C1=CC=C(OCCN(C)C)C=C1)C1=CC=CC=C1,Anti-estrogen binding site (AEBS),Enzyme,Q15125|Q9UBM7,DHCR7|EBP,DHCR7_HUMAN|EBP_HUMAN,9,Kd,Tchem|Tchem
+tamoxifen citrate,tamoxifen,CC\C(=C(/C1=CC=CC=C1)C1=CC=C(OCCN(C)C)C=C1)C1=CC=CC=C1,D(3) dopamine receptor,GPCR,P35462,DRD3,DRD3_HUMAN,6.438898616,Ki,Tclin
+tamoxifen citrate,tamoxifen,CC\C(=C(/C1=CC=CC=C1)C1=CC=C(OCCN(C)C)C=C1)C1=CC=CC=C1,Emopamil-binding protein-like,Unclassified,Q9BY08,EBPL,EBPL_HUMAN,8.55,Ki,Tchem
+tamoxifen citrate,tamoxifen,CC\C(=C(/C1=CC=CC=C1)C1=CC=C(OCCN(C)C)C=C1)C1=CC=CC=C1,Estrogen receptor,Nuclear hormone receptor,P03372,ESR1,ESR1_HUMAN,7.51,Ki,Tclin
+tamoxifen citrate,tamoxifen,CC\C(=C(/C1=CC=CC=C1)C1=CC=C(OCCN(C)C)C=C1)C1=CC=CC=C1,Estrogen-related receptor gamma,Nuclear hormone receptor,P62508,ESRRG,ERR3_HUMAN,7.1,Ki,Tchem
+tamoxifen citrate,tamoxifen,CC\C(=C(/C1=CC=CC=C1)C1=CC=C(OCCN(C)C)C=C1)C1=CC=CC=C1,G-protein coupled estrogen receptor 1,GPCR,Q99527,GPER1,GPER1_HUMAN,7.5,IC50,Tchem
+tamoxifen citrate,tamoxifen,CC\C(=C(/C1=CC=CC=C1)C1=CC=C(OCCN(C)C)C=C1)C1=CC=CC=C1,Multidrug resistance protein 1,Transporter,P08183,ABCB1,MDR1_HUMAN,7,Ki,Tchem
+tamoxifen citrate,tamoxifen,CC\C(=C(/C1=CC=CC=C1)C1=CC=C(OCCN(C)C)C=C1)C1=CC=CC=C1,Muscarinic acetylcholine receptor M1,GPCR,P11229,CHRM1,ACM1_HUMAN,6.166852888,Ki,Tclin
+tamoxifen citrate,tamoxifen,CC\C(=C(/C1=CC=CC=C1)C1=CC=C(OCCN(C)C)C=C1)C1=CC=CC=C1,Muscarinic acetylcholine receptor M3,GPCR,P20309,CHRM3,ACM3_HUMAN,6.200659451,Ki,Tclin
+tamoxifen citrate,tamoxifen,CC\C(=C(/C1=CC=CC=C1)C1=CC=C(OCCN(C)C)C=C1)C1=CC=CC=C1,Muscarinic acetylcholine receptor M4,GPCR,P08173,CHRM4,ACM4_HUMAN,6.172630727,Ki,Tclin
+tamoxifen citrate,tamoxifen,CC\C(=C(/C1=CC=CC=C1)C1=CC=C(OCCN(C)C)C=C1)C1=CC=CC=C1,Nuclear receptor subfamily 1 group I member 2,Nuclear hormone receptor,O75469,NR1I2,NR1I2_HUMAN,7.4559,Ki,Tchem
+tamoxifen citrate,tamoxifen,CC\C(=C(/C1=CC=CC=C1)C1=CC=C(OCCN(C)C)C=C1)C1=CC=CC=C1,Progesterone receptor,Nuclear hormone receptor,P06401,PGR,PRGR_HUMAN,6.89,IC50,Tclin
+tamoxifen citrate,tamoxifen,CC\C(=C(/C1=CC=CC=C1)C1=CC=C(OCCN(C)C)C=C1)C1=CC=CC=C1,Sigma non-opioid intracellular receptor 1,Membrane receptor,Q99720,SIGMAR1,SGMR1_HUMAN,7.5,Ki,Tclin
+tamoxifen citrate,tamoxifen,CC\C(=C(/C1=CC=CC=C1)C1=CC=C(OCCN(C)C)C=C1)C1=CC=CC=C1,Steroid hormone receptor ERR1,Nuclear hormone receptor,P11474,ESRRA,ERR1_HUMAN,6.7,IC50,Tchem
+tamoxifen citrate,tamoxifen,CC\C(=C(/C1=CC=CC=C1)C1=CC=C(OCCN(C)C)C=C1)C1=CC=CC=C1,Thromboxane-A synthase,Enzyme,P24557,TBXAS1,THAS_HUMAN,6.038104526,IC50,Tchem
+tazarotene,tazarotene,CCOC(=O)C1=CN=C(C=C1)C#CC1=CC=C2SCCC(C)(C)C2=C1,Retinoic acid receptor alpha,Nuclear hormone receptor,P10276,RARA,RARA_HUMAN,7.2,EC50,Tclin
+tazarotene,tazarotene,CCOC(=O)C1=CN=C(C=C1)C#CC1=CC=C2SCCC(C)(C)C2=C1,Retinoic acid receptor beta,Nuclear hormone receptor,P10826,RARB,RARB_HUMAN,9.1,EC50,Tclin
+tazarotene,tazarotene,CCOC(=O)C1=CN=C(C=C1)C#CC1=CC=C2SCCC(C)(C)C2=C1,Retinoic acid receptor gamma,Nuclear hormone receptor,P13631,RARG,RARG_HUMAN,7.4,EC50,Tclin
+telmisartan,telmisartan,CCCC1=NC2=C(C=C(C=C2C)C2=NC3=C(C=CC=C3)N2C)N1CC1=CC=C(C=C1)C1=C(C=CC=C1)C(O)=O,Type-1 angiotensin II receptor,GPCR,P30556,AGTR1,AGTR1_HUMAN,9.31,IC50,Tclin
+telmisartan,telmisartan,CCCC1=NC2=C(C=C(C=C2C)C2=NC3=C(C=CC=C3)N2C)N1CC1=CC=C(C=C1)C1=C(C=CC=C1)C(O)=O,Type-2 angiotensin II receptor,GPCR,P50052,AGTR2,AGTR2_HUMAN,9.48,IC50,Tchem
+testosterone,testosterone,C[C@]12CC[C@H]3[C@@H](CCC4=CC(=O)CC[C@]34C)[C@@H]1CC[C@@H]2O,Androgen receptor,Nuclear hormone receptor,P10275,AR,ANDR_HUMAN,9.2,EC50,Tclin
+testosterone,testosterone,C[C@]12CC[C@H]3[C@@H](CCC4=CC(=O)CC[C@]34C)[C@@H]1CC[C@@H]2O,Aromatase,Enzyme,P11511,CYP19A1,CP19A_HUMAN,6.22,Ki,Tclin
+testosterone,testosterone,C[C@]12CC[C@H]3[C@@H](CCC4=CC(=O)CC[C@]34C)[C@@H]1CC[C@@H]2O,Corticosteroid-binding globulin,Secreted,P08185,SERPINA6,CBG_HUMAN,6.72,Ki,Tbio
+testosterone,testosterone,C[C@]12CC[C@H]3[C@@H](CCC4=CC(=O)CC[C@]34C)[C@@H]1CC[C@@H]2O,Sex hormone-binding globulin,Secreted,P04278,SHBG,SHBG_HUMAN,9.2,Kd,Tchem
+thioguanine,thioguanine,NC1=NC2=C(NC=N2)C(=S)N1,Prostaglandin G/H synthase 1,Enzyme,P23219,PTGS1,PGH1_HUMAN,6.221125528,IC50,Tclin
+topiramate,topiramate,CC1(C)O[C@@H]2CO[C@@]3(COS(N)(=O)=O)OC(C)(C)O[C@H]3[C@@H]2O1,Carbonic anhydrase 1,Enzyme,P00915,CA1,CAH1_HUMAN,6.6,Ki,Tclin
+topiramate,topiramate,CC1(C)O[C@@H]2CO[C@@]3(COS(N)(=O)=O)OC(C)(C)O[C@H]3[C@@H]2O1,Carbonic anhydrase 12,Enzyme,O43570,CA12,CAH12_HUMAN,8.42,Ki,Tclin
+topiramate,topiramate,CC1(C)O[C@@H]2CO[C@@]3(COS(N)(=O)=O)OC(C)(C)O[C@H]3[C@@H]2O1,Carbonic anhydrase 13,Enzyme,Q8N1Q1,CA13,CAH13_HUMAN,7.33,Ki,Tclin
+topiramate,topiramate,CC1(C)O[C@@H]2CO[C@@]3(COS(N)(=O)=O)OC(C)(C)O[C@H]3[C@@H]2O1,Carbonic anhydrase 2,Enzyme,P00918,CA2,CAH2_HUMAN,8.3,Ki,Tclin
+topiramate,topiramate,CC1(C)O[C@@H]2CO[C@@]3(COS(N)(=O)=O)OC(C)(C)O[C@H]3[C@@H]2O1,"Carbonic anhydrase 5A, mitochondrial",Enzyme,P35218,CA5A,CAH5A_HUMAN,7.6,Kd,Tclin
+topiramate,topiramate,CC1(C)O[C@@H]2CO[C@@]3(COS(N)(=O)=O)OC(C)(C)O[C@H]3[C@@H]2O1,"Carbonic anhydrase 5B, mitochondrial",Enzyme,Q9Y2D0,CA5B,CAH5B_HUMAN,7.52,Ki,Tclin
+topiramate,topiramate,CC1(C)O[C@@H]2CO[C@@]3(COS(N)(=O)=O)OC(C)(C)O[C@H]3[C@@H]2O1,Carbonic anhydrase 6,Enzyme,P23280,CA6,CAH6_HUMAN,7.35,Ki,Tclin
+topiramate,topiramate,CC1(C)O[C@@H]2CO[C@@]3(COS(N)(=O)=O)OC(C)(C)O[C@H]3[C@@H]2O1,Carbonic anhydrase 7,Enzyme,P43166,CA7,CAH7_HUMAN,9.06,Ki,Tclin
+topiramate,topiramate,CC1(C)O[C@@H]2CO[C@@]3(COS(N)(=O)=O)OC(C)(C)O[C@H]3[C@@H]2O1,Carbonic anhydrase 9,Enzyme,Q16790,CA9,CAH9_HUMAN,7.24,Ki,Tclin
+topiramate,topiramate,CC1(C)O[C@@H]2CO[C@@]3(COS(N)(=O)=O)OC(C)(C)O[C@H]3[C@@H]2O1,Carbonic anhydrase V,Enzyme,P35218|Q9Y2D0,CA5A|CA5B,CAH5A_HUMAN|CAH5B_HUMAN,7.6,Ki,Tclin|Tclin
+topiramate tablet,topiramate,CC1(C)O[C@@H]2CO[C@@]3(COS(N)(=O)=O)OC(C)(C)O[C@H]3[C@@H]2O1,Carbonic anhydrase 1,Enzyme,P00915,CA1,CAH1_HUMAN,6.6,Ki,Tclin
+topiramate tablet,topiramate,CC1(C)O[C@@H]2CO[C@@]3(COS(N)(=O)=O)OC(C)(C)O[C@H]3[C@@H]2O1,Carbonic anhydrase 12,Enzyme,O43570,CA12,CAH12_HUMAN,8.42,Ki,Tclin
+topiramate tablet,topiramate,CC1(C)O[C@@H]2CO[C@@]3(COS(N)(=O)=O)OC(C)(C)O[C@H]3[C@@H]2O1,Carbonic anhydrase 13,Enzyme,Q8N1Q1,CA13,CAH13_HUMAN,7.33,Ki,Tclin
+topiramate tablet,topiramate,CC1(C)O[C@@H]2CO[C@@]3(COS(N)(=O)=O)OC(C)(C)O[C@H]3[C@@H]2O1,Carbonic anhydrase 2,Enzyme,P00918,CA2,CAH2_HUMAN,8.3,Ki,Tclin
+topiramate tablet,topiramate,CC1(C)O[C@@H]2CO[C@@]3(COS(N)(=O)=O)OC(C)(C)O[C@H]3[C@@H]2O1,"Carbonic anhydrase 5A, mitochondrial",Enzyme,P35218,CA5A,CAH5A_HUMAN,7.6,Kd,Tclin
+topiramate tablet,topiramate,CC1(C)O[C@@H]2CO[C@@]3(COS(N)(=O)=O)OC(C)(C)O[C@H]3[C@@H]2O1,"Carbonic anhydrase 5B, mitochondrial",Enzyme,Q9Y2D0,CA5B,CAH5B_HUMAN,7.52,Ki,Tclin
+topiramate tablet,topiramate,CC1(C)O[C@@H]2CO[C@@]3(COS(N)(=O)=O)OC(C)(C)O[C@H]3[C@@H]2O1,Carbonic anhydrase 6,Enzyme,P23280,CA6,CAH6_HUMAN,7.35,Ki,Tclin
+topiramate tablet,topiramate,CC1(C)O[C@@H]2CO[C@@]3(COS(N)(=O)=O)OC(C)(C)O[C@H]3[C@@H]2O1,Carbonic anhydrase 7,Enzyme,P43166,CA7,CAH7_HUMAN,9.06,Ki,Tclin
+topiramate tablet,topiramate,CC1(C)O[C@@H]2CO[C@@]3(COS(N)(=O)=O)OC(C)(C)O[C@H]3[C@@H]2O1,Carbonic anhydrase 9,Enzyme,Q16790,CA9,CAH9_HUMAN,7.24,Ki,Tclin
+topiramate tablet,topiramate,CC1(C)O[C@@H]2CO[C@@]3(COS(N)(=O)=O)OC(C)(C)O[C@H]3[C@@H]2O1,Carbonic anhydrase V,Enzyme,P35218|Q9Y2D0,CA5A|CA5B,CAH5A_HUMAN|CAH5B_HUMAN,7.6,Ki,Tclin|Tclin
+topotecan,topotecan,CC[C@@]1(O)C(=O)OCC2=C1C=C1N(CC3=CC4=C(CN(C)C)C(O)=CC=C4N=C13)C2=O,DNA topoisomerase 1,Enzyme,P11387,TOP1,TOP1_HUMAN,7.58,Kd,Tclin
+topotecan,topotecan,CC[C@@]1(O)C(=O)OCC2=C1C=C1N(CC3=CC4=C(CN(C)C)C(O)=CC=C4N=C13)C2=O,Hypoxia-inducible factor 1-alpha,Transcription factor,Q16665,HIF1A,HIF1A_HUMAN,7.22,IC50,Tchem
+topotecan hydrochloride,topotecan,CC[C@@]1(O)C(=O)OCC2=C1C=C1N(CC3=CC4=C(CN(C)C)C(O)=CC=C4N=C13)C2=O,DNA topoisomerase 1,Enzyme,P11387,TOP1,TOP1_HUMAN,7.58,Kd,Tclin
+topotecan hydrochloride,topotecan,CC[C@@]1(O)C(=O)OCC2=C1C=C1N(CC3=CC4=C(CN(C)C)C(O)=CC=C4N=C13)C2=O,Hypoxia-inducible factor 1-alpha,Transcription factor,Q16665,HIF1A,HIF1A_HUMAN,7.22,IC50,Tchem
+trandolapril,trandolapril,CCOC(=O)[C@H](CCC1=CC=CC=C1)N[C@@H](C)C(=O)N1[C@H]2CCCC[C@@H]2C[C@H]1C(O)=O,Angiotensin-converting enzyme,Enzyme,P12821,ACE,ACE_HUMAN,8.12,IC50,Tclin
+trandolapril tablets,trandolapril,CCOC(=O)[C@H](CCC1=CC=CC=C1)N[C@@H](C)C(=O)N1[C@H]2CCCC[C@@H]2C[C@H]1C(O)=O,Angiotensin-converting enzyme,Enzyme,P12821,ACE,ACE_HUMAN,8.12,IC50,Tclin
+tretinoin,tretinoin,C\C(\C=C\C1=C(C)CCCC1(C)C)=C/C=C/C(/C)=C/C(O)=O,11-cis retinol dehydrogenase,Enzyme,Q92781,RDH5,RDH1_HUMAN,7,Ki,Tbio
+tretinoin,tretinoin,C\C(\C=C\C1=C(C)CCCC1(C)C)=C/C=C/C(/C)=C/C(O)=O,5-hydroxytryptamine receptor 2B,GPCR,P41595,HTR2B,5HT2B_HUMAN,6.642065153,Ki,Tclin
+tretinoin,tretinoin,C\C(\C=C\C1=C(C)CCCC1(C)C)=C/C=C/C(/C)=C/C(O)=O,Mitogen-activated protein kinase 1,Kinase,P28482,MAPK1,MK01_HUMAN,6.239577517,IC50,Tchem
+tretinoin,tretinoin,C\C(\C=C\C1=C(C)CCCC1(C)C)=C/C=C/C(/C)=C/C(O)=O,Nuclear receptor ROR-alpha,Nuclear hormone receptor,P35398,RORA,RORA_HUMAN,6.699999809,IC50,Tchem
+tretinoin,tretinoin,C\C(\C=C\C1=C(C)CCCC1(C)C)=C/C=C/C(/C)=C/C(O)=O,Nuclear receptor ROR-beta,Nuclear hormone receptor,Q92753,RORB,RORB_HUMAN,9.82,IC50,Tchem
+tretinoin,tretinoin,C\C(\C=C\C1=C(C)CCCC1(C)C)=C/C=C/C(/C)=C/C(O)=O,Nuclear receptor ROR-gamma,Nuclear hormone receptor,P51449,RORC,RORG_HUMAN,6.699999809,IC50,Tchem
+tretinoin,tretinoin,C\C(\C=C\C1=C(C)CCCC1(C)C)=C/C=C/C(/C)=C/C(O)=O,Peroxisome proliferator-activated receptor delta,Nuclear hormone receptor,Q03181,PPARD,PPARD_HUMAN,7.8,Kd,Tchem
+tretinoin,tretinoin,C\C(\C=C\C1=C(C)CCCC1(C)C)=C/C=C/C(/C)=C/C(O)=O,Retinoic acid receptor RXR-alpha,Nuclear hormone receptor,P19793,RXRA,RXRA_HUMAN,9.4,Ki,Tclin
+tretinoin,tretinoin,C\C(\C=C\C1=C(C)CCCC1(C)C)=C/C=C/C(/C)=C/C(O)=O,Retinoic acid receptor RXR-beta,Nuclear hormone receptor,P28702,RXRB,RXRB_HUMAN,9.3,Ki,Tclin
+tretinoin,tretinoin,C\C(\C=C\C1=C(C)CCCC1(C)C)=C/C=C/C(/C)=C/C(O)=O,Retinoic acid receptor RXR-gamma,Nuclear hormone receptor,P48443,RXRG,RXRG_HUMAN,8.85,Ki,Tclin
+tretinoin,tretinoin,C\C(\C=C\C1=C(C)CCCC1(C)C)=C/C=C/C(/C)=C/C(O)=O,Retinoic acid receptor alpha,Nuclear hormone receptor,P10276,RARA,RARA_HUMAN,6.7,EC50,Tclin
+tretinoin,tretinoin,C\C(\C=C\C1=C(C)CCCC1(C)C)=C/C=C/C(/C)=C/C(O)=O,Retinoic acid receptor beta,Nuclear hormone receptor,P10826,RARB,RARB_HUMAN,6.7,EC50,Tclin
+tretinoin,tretinoin,C\C(\C=C\C1=C(C)CCCC1(C)C)=C/C=C/C(/C)=C/C(O)=O,Retinoic acid receptor gamma,Nuclear hormone receptor,P13631,RARG,RARG_HUMAN,6.7,EC50,Tclin
+triazolam,triazolam,CC1=NN=C2CN=C(C3=CC(Cl)=CC=C3N12)C1=C(Cl)C=CC=C1,GABA A receptor alpha-3/beta-2/gamma-2,Ion channel,P18507|P34903|P47870,GABRA3|GABRB2|GABRG2,GBRA3_HUMAN|GBRB2_HUMAN|GBRG2_HUMAN,8.8761,Ki,Tclin|Tclin|Tclin
+triazolam,triazolam,CC1=NN=C2CN=C(C3=CC(Cl)=CC=C3N12)C1=C(Cl)C=CC=C1,GABA A receptor alpha-3/beta-2/gamma-3,Ion channel,P34903|P47870|Q99928,GABRA3|GABRB2|GABRG3,GBRA3_HUMAN|GBRB2_HUMAN|GBRG3_HUMAN,8.1079,Ki,Tclin|Tclin|Tclin
+triazolam,triazolam,CC1=NN=C2CN=C(C3=CC(Cl)=CC=C3N12)C1=C(Cl)C=CC=C1,GABA A receptor alpha-5/beta-2/gamma-2,Ion channel,P18507|P31644|P47870,GABRA5|GABRB2|GABRG2,GBRA5_HUMAN|GBRB2_HUMAN|GBRG2_HUMAN,9.2218,Ki,Tclin|Tclin|Tclin
+triazolam,triazolam,CC1=NN=C2CN=C(C3=CC(Cl)=CC=C3N12)C1=C(Cl)C=CC=C1,GABA A receptor alpha-5/beta-2/gamma-3,Ion channel,P31644|P47870|Q99928,GABRA5|GABRB2|GABRG3,GBRA5_HUMAN|GBRB2_HUMAN|GBRG3_HUMAN,8.699,Ki,Tclin|Tclin|Tclin
+triazolam,triazolam,CC1=NN=C2CN=C(C3=CC(Cl)=CC=C3N12)C1=C(Cl)C=CC=C1,GABA A receptor alpha-5/beta-3/gamma-3,Ion channel,P28472|P31644|Q99928,GABRA5|GABRB3|GABRG3,GBRA5_HUMAN|GBRB3_HUMAN|GBRG3_HUMAN,8.699,Ki,Tclin|Tclin|Tclin
+triazolam,triazolam,CC1=NN=C2CN=C(C3=CC(Cl)=CC=C3N12)C1=C(Cl)C=CC=C1,GABA-A receptor,Ion channel,O14764|P14867|P18505|P18507|P28472|P31644|P34903|P47869|P47870|P48169|Q16445|Q8N1C3|Q99928,GABRA1|GABRA2|GABRA3|GABRA4|GABRA5|GABRA6|GABRB1|GABRB2|GABRB3|GABRD|GABRG1|GABRG2|GABRG3,GBRA1_HUMAN|GBRA2_HUMAN|GBRA3_HUMAN|GBRA4_HUMAN|GBRA5_HUMAN|GBRA6_HUMAN|GBRB1_HUMAN|GBRB2_HUMAN|GBRB3_HUMAN|GBRD_HUMAN|GBRG1_HUMAN|GBRG2_HUMAN|GBRG3_HUMAN,9.100000381,Ki,Tclin|Tclin|Tclin|Tclin|Tclin|Tclin|Tclin|Tclin|Tclin|Tclin|Tclin|Tclin|Tclin
+triazolam,triazolam,CC1=NN=C2CN=C(C3=CC(Cl)=CC=C3N12)C1=C(Cl)C=CC=C1,GABA-A receptor alpha-1/beta-2/gamma-2,Ion channel,P14867|P18507|P47870,GABRA1|GABRB2|GABRG2,GBRA1_HUMAN|GBRB2_HUMAN|GBRG2_HUMAN,9.1549,Ki,Tclin|Tclin|Tclin
+triazolam,triazolam,CC1=NN=C2CN=C(C3=CC(Cl)=CC=C3N12)C1=C(Cl)C=CC=C1,GABA-A receptor alpha-1/beta-2/gamma-3,Ion channel,P14867|P47870|Q99928,GABRA1|GABRB2|GABRG3,GBRA1_HUMAN|GBRB2_HUMAN|GBRG3_HUMAN,8.6383,Ki,Tclin|Tclin|Tclin
+triazolam,triazolam,CC1=NN=C2CN=C(C3=CC(Cl)=CC=C3N12)C1=C(Cl)C=CC=C1,GABA-A receptor alpha-1/beta-3/gamma-2,Ion channel,P14867|P18507|P28472,GABRA1|GABRB3|GABRG2,GBRA1_HUMAN|GBRB3_HUMAN|GBRG2_HUMAN,9.0969,Ki,Tclin|Tclin|Tclin
+triazolam,triazolam,CC1=NN=C2CN=C(C3=CC(Cl)=CC=C3N12)C1=C(Cl)C=CC=C1,GABA-A receptor alpha-2/beta-3/gamma-2,Ion channel,P18507|P28472|P47869,GABRA2|GABRB3|GABRG2,GBRA2_HUMAN|GBRB3_HUMAN|GBRG2_HUMAN,9.2291,Ki,Tclin|Tclin|Tclin
+triazolam,triazolam,CC1=NN=C2CN=C(C3=CC(Cl)=CC=C3N12)C1=C(Cl)C=CC=C1,GABA-A receptor alpha-3/beta-3/gamma-2,Ion channel,P18507|P28472|P34903,GABRA3|GABRB3|GABRG2,GBRA3_HUMAN|GBRB3_HUMAN|GBRG2_HUMAN,8.8447,Ki,Tclin|Tclin|Tclin
+triazolam,triazolam,CC1=NN=C2CN=C(C3=CC(Cl)=CC=C3N12)C1=C(Cl)C=CC=C1,GABA-A receptor alpha-5/beta-3/gamma-2,Ion channel,P18507|P28472|P31644,GABRA5|GABRB3|GABRG2,GBRA5_HUMAN|GBRB3_HUMAN|GBRG2_HUMAN,9.02,Ki,Tclin|Tclin|Tclin
+valproic acid,valproic acid,CCCC(CCC)C(O)=O,Histone deacetylase 1,Enzyme,Q13547,HDAC1,HDAC1_HUMAN,6.4,IC50,Tclin
+vinblastine sulfate,vinblastine,CC[C@]1(O)C[C@@H]2CN(C1)CCC1=C(NC3=CC=CC=C13)[C@@](C2)(C(=O)OC)C1=C(OC)C=C2N(C)[C@@H]3[C@]4(CCN5CC=C[C@](CC)([C@@H]45)[C@@H](OC(C)=O)[C@]3(O)C(=O)OC)C2=C1,Multidrug resistance protein 1,Transporter,P08183,ABCB1,MDR1_HUMAN,7,Ki,Tchem
+vinblastine sulfate,vinblastine,CC[C@]1(O)C[C@@H]2CN(C1)CCC1=C(NC3=CC=CC=C13)[C@@](C2)(C(=O)OC)C1=C(OC)C=C2N(C)[C@@H]3[C@]4(CCN5CC=C[C@](CC)([C@@H]45)[C@@H](OC(C)=O)[C@]3(O)C(=O)OC)C2=C1,Tubulin beta,Tumour-associated antigen,P04350|P07437|P68371|Q13509|Q13885|Q3ZCM7|Q9BUF5|Q9BVA1|Q9H4B7,TUBB|TUBB1|TUBB2A|TUBB2B|TUBB3|TUBB4A|TUBB4B|TUBB6|TUBB8,TBB1_HUMAN|TBB2A_HUMAN|TBB2B_HUMAN|TBB3_HUMAN|TBB4A_HUMAN|TBB4B_HUMAN|TBB5_HUMAN|TBB6_HUMAN|TBB8_HUMAN,9,IC50,Tclin|Tclin|Tclin|Tclin|Tclin|Tclin|Tclin|Tclin|Tclin
+zoledronic acid,zoledronic acid,OC(CN1C=CN=C1)(P(O)(O)=O)P(O)(O)=O,Carbonic anhydrase 12,Enzyme,O43570,CA12,CAH12_HUMAN,6.5,IC50,Tclin
+zoledronic acid,zoledronic acid,OC(CN1C=CN=C1)(P(O)(O)=O)P(O)(O)=O,Carbonic anhydrase 14,Enzyme,Q9ULX7,CA14,CAH14_HUMAN,7.04,IC50,Tclin
+zoledronic acid,zoledronic acid,OC(CN1C=CN=C1)(P(O)(O)=O)P(O)(O)=O,Carbonic anhydrase 2,Enzyme,P00918,CA2,CAH2_HUMAN,7.21,IC50,Tclin
+zoledronic acid,zoledronic acid,OC(CN1C=CN=C1)(P(O)(O)=O)P(O)(O)=O,Farnesyl pyrophosphate synthase,Enzyme,P14324,FDPS,FPPS_HUMAN,10.15,Ki,Tclin
