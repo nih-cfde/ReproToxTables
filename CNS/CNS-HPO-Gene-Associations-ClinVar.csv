@@ -1,0 +1,68 @@
+HPO.Accession,HPO.Term,Gene.Symbol
+HP:0001272,cerebellar atrophy,MT-ATP6
+HP:0001273,abnormal corpus callosum morphology,COL4A1
+HP:0001273,abnormal corpus callosum morphology,C12orf57
+HP:0001273,abnormal corpus callosum morphology,CLTC
+HP:0001320,cerebellar vermis hypoplasia,WDR37
+HP:0001320,cerebellar vermis hypoplasia,STXBP1
+HP:0001320,cerebellar vermis hypoplasia,FOXP1
+HP:0001320,cerebellar vermis hypoplasia,TMEM67
+HP:0001321,cerebellar hypoplasia,CASK
+HP:0001321,cerebellar hypoplasia,WDR37
+HP:0001321,cerebellar hypoplasia,DKC1
+HP:0001321,cerebellar hypoplasia,SPTAN1
+HP:0001321,cerebellar hypoplasia,PMM2
+HP:0001321,cerebellar hypoplasia,DDX3X
+HP:0001321,cerebellar hypoplasia,TUBB2A
+HP:0001321,cerebellar hypoplasia,TSEN54
+HP:0001321,cerebellar hypoplasia,STXBP1
+HP:0001321,cerebellar hypoplasia,L1CAM
+HP:0001321,cerebellar hypoplasia,FOXP1
+HP:0001321,cerebellar hypoplasia,PLA2G6
+HP:0001321,cerebellar hypoplasia,ATAD3A
+HP:0001321,cerebellar hypoplasia,KIAA0586
+HP:0001321,cerebellar hypoplasia,RARS2
+HP:0002079,hypoplasia of the corpus callosum,AP4M1
+HP:0002120,cerebral cortical atrophy,SPG7
+HP:0002180,neurodegeneration,STXBP1
+HP:0002180,neurodegeneration,CYP2U1
+HP:0002180,neurodegeneration,PANK2
+HP:0002363,abnormal brainstem morphology,TUBA1A
+HP:0002363,abnormal brainstem morphology,POMT1
+HP:0002500,abnormal cerebral white matter morphology,KARS1
+HP:0002500,abnormal cerebral white matter morphology,EIF2B5
+HP:0002500,abnormal cerebral white matter morphology,DHX30
+HP:0002539,cortical dysplasia,TSC1
+HP:0006872,cerebral hypoplasia,TCF4
+HP:0006955,olivopontocerebellar hypoplasia,TSEN54
+HP:0007333,hypoplasia of the frontal lobes,TBR1
+HP:0007333,hypoplasia of the frontal lobes,-
+HP:0007370,aplasia/hypoplasia of the corpus callosum,TBR1
+HP:0009713,spinal hemangioblastoma,VHL
+HP:0012443,abnormality of brain morphology,DHCR7
+HP:0012443,abnormality of brain morphology,SACS
+HP:0012443,abnormality of brain morphology,PRUNE1
+HP:0012443,abnormality of brain morphology,SPG11
+HP:0012443,abnormality of brain morphology,ASXL1
+HP:0012443,abnormality of brain morphology,CNTN4
+HP:0012443,abnormality of brain morphology,TUBB
+HP:0012443,abnormality of brain morphology,RBM8A
+HP:0012443,abnormality of brain morphology,MTRFR
+HP:0012443,abnormality of brain morphology,MCPH1
+HP:0012443,abnormality of brain morphology,NIPBL
+HP:0012444,brain atrophy,AP4M1
+HP:0012444,brain atrophy,WWOX
+HP:0012751,abnormal basal ganglia mri signal intensity,MT-TE
+HP:0012759,neurodevelopmental abnormality,GNB1
+HP:0012759,neurodevelopmental abnormality,CDC42
+HP:0012759,neurodevelopmental abnormality,ASNS
+HP:0012759,neurodevelopmental abnormality,SON
+HP:0012759,neurodevelopmental abnormality,PRMT7
+HP:0012759,neurodevelopmental abnormality,TCF20
+HP:0012759,neurodevelopmental abnormality,AHDC1
+HP:0012759,neurodevelopmental abnormality,GRIA3
+HP:0012759,neurodevelopmental abnormality,TFE3
+HP:0012759,neurodevelopmental abnormality,PTPN11
+HP:0012759,neurodevelopmental abnormality,DDX3X
+HP:0032046,focal cortical dysplasia,TBR1
+HP:0032046,focal cortical dysplasia,TSC2
