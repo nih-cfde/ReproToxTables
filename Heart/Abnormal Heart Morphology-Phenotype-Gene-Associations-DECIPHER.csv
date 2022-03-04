@@ -1,0 +1,504 @@
+HPO Accession,HPO Term,Gene Symbol
+HP:0001646,Abnormal aortic valve morphology,XYLT2
+HP:0011994,Abnormal atrial septum morphology,SALL4
+HP:0001671,Abnormal cardiac septum morphology,KIF7
+HP:0001671,Abnormal cardiac septum morphology,NSDHL
+HP:0001671,Abnormal cardiac septum morphology,MKS1
+HP:0001671,Abnormal cardiac septum morphology,RBM8A
+HP:0001671,Abnormal cardiac septum morphology,ATP6V1E1
+HP:0001671,Abnormal cardiac septum morphology,ATP6V1A
+HP:0001627,Abnormal heart morphology,OFD1
+HP:0001627,Abnormal heart morphology,FREM2
+HP:0001627,Abnormal heart morphology,GLI3
+HP:0001627,Abnormal heart morphology,MED12
+HP:0001627,Abnormal heart morphology,FRAS1
+HP:0001627,Abnormal heart morphology,DHRS3
+HP:0001654,Abnormal heart valve morphology,GUSB
+HP:0001654,Abnormal heart valve morphology,ARSB
+HP:0001654,Abnormal heart valve morphology,IDS
+HP:0001654,Abnormal heart valve morphology,GLB1
+HP:0001654,Abnormal heart valve morphology,GALNS
+HP:0011103,Abnormal left ventricular outflow tract morphology,HOXA1
+HP:0010438,Abnormal ventricular septum morphology,NR2F2
+HP:0010438,Abnormal ventricular septum morphology,SALL4
+HP:0004380,Aortic valve calcification,DDX58
+HP:0004380,Aortic valve calcification,IFIH1
+HP:0001670,Asymmetric septal hypertrophy,SGSH
+HP:0001670,Asymmetric septal hypertrophy,HGSNAT
+HP:0001670,Asymmetric septal hypertrophy,GNS
+HP:0001670,Asymmetric septal hypertrophy,NAGLU
+HP:0001631,Atrial septal defect,HRAS
+HP:0001631,Atrial septal defect,PIGO
+HP:0001631,Atrial septal defect,AMER1
+HP:0001631,Atrial septal defect,SMARCE1
+HP:0001631,Atrial septal defect,B3GALT6
+HP:0001631,Atrial septal defect,BCOR
+HP:0001631,Atrial septal defect,SRCAP
+HP:0001631,Atrial septal defect,EVC
+HP:0001631,Atrial septal defect,NR2F2
+HP:0001631,Atrial septal defect,FLNB
+HP:0001631,Atrial septal defect,STRA6
+HP:0001631,Atrial septal defect,HCCS
+HP:0001631,Atrial septal defect,ARHGAP31
+HP:0001631,Atrial septal defect,ZEB2
+HP:0001631,Atrial septal defect,SMARCA4
+HP:0001631,Atrial septal defect,TLL1
+HP:0001631,Atrial septal defect,KDM6A
+HP:0001631,Atrial septal defect,HRAS
+HP:0001631,Atrial septal defect,GATA4
+HP:0001631,Atrial septal defect,ABCD4
+HP:0001631,Atrial septal defect,FOXC1
+HP:0001631,Atrial septal defect,UMPS
+HP:0001631,Atrial septal defect,MAP2K1
+HP:0001631,Atrial septal defect,FBN2
+HP:0001631,Atrial septal defect,CCBE1
+HP:0001631,Atrial septal defect,RNU4ATAC
+HP:0001631,Atrial septal defect,KRAS
+HP:0001631,Atrial septal defect,TBX5
+HP:0001631,Atrial septal defect,KMT2D
+HP:0001631,Atrial septal defect,UBR1
+HP:0001631,Atrial septal defect,ARID1A
+HP:0001631,Atrial septal defect,PIK3R2
+HP:0001631,Atrial septal defect,LMNA
+HP:0001631,Atrial septal defect,NAA10
+HP:0001631,Atrial septal defect,SETBP1
+HP:0001631,Atrial septal defect,PIGA
+HP:0001631,Atrial septal defect,BRAF
+HP:0001631,Atrial septal defect,SMARCA2
+HP:0001631,Atrial septal defect,COX7B
+HP:0001631,Atrial septal defect,MED12
+HP:0001631,Atrial septal defect,CEP290
+HP:0001631,Atrial septal defect,CHST14
+HP:0001631,Atrial septal defect,RAF1
+HP:0001631,Atrial septal defect,PTPN11
+HP:0001631,Atrial septal defect,CEP57
+HP:0001631,Atrial septal defect,IRX5
+HP:0001631,Atrial septal defect,KANSL1
+HP:0001631,Atrial septal defect,TMCO1
+HP:0001631,Atrial septal defect,FGFR2
+HP:0001631,Atrial septal defect,AKT3
+HP:0001631,Atrial septal defect,TGFBR1
+HP:0001631,Atrial septal defect,CCND2
+HP:0001631,Atrial septal defect,ATIC
+HP:0001631,Atrial septal defect,ESCO2
+HP:0001631,Atrial septal defect,RBM8A
+HP:0001631,Atrial septal defect,EFTUD2
+HP:0001631,Atrial septal defect,EVC2
+HP:0001631,Atrial septal defect,BBS2
+HP:0001631,Atrial septal defect,MAP2K2
+HP:0001631,Atrial septal defect,RAB23
+HP:0001631,Atrial septal defect,FKTN
+HP:0001631,Atrial septal defect,CHD7
+HP:0001631,Atrial septal defect,DHCR7
+HP:0001631,Atrial septal defect,PIGN
+HP:0001631,Atrial septal defect,MEGF8
+HP:0001631,Atrial septal defect,PQBP1
+HP:0001631,Atrial septal defect,GPC6
+HP:0001631,Atrial septal defect,TXNL4A
+HP:0001631,Atrial septal defect,SMARCB1
+HP:0001631,Atrial septal defect,NSD1
+HP:0001631,Atrial septal defect,KAT6B
+HP:0001631,Atrial septal defect,ASXL1
+HP:0001631,Atrial septal defect,CREBBP
+HP:0001631,Atrial septal defect,SHOC2
+HP:0001631,Atrial septal defect,XYLT2
+HP:0001631,Atrial septal defect,GPX4
+HP:0001631,Atrial septal defect,H1-4
+HP:0001631,Atrial septal defect,ABL1
+HP:0001631,Atrial septal defect,LZTR1
+HP:0001631,Atrial septal defect,TRAF7
+HP:0001631,Atrial septal defect,HNRNPK
+HP:0011995,Atrial septal dilatation,KRAS
+HP:0006695,Atrioventricular canal defect,GATA4
+HP:0001647,Bicuspid aortic valve,ACTB
+HP:0001647,Bicuspid aortic valve,B3GALT6
+HP:0001647,Bicuspid aortic valve,ABCC9
+HP:0001647,Bicuspid aortic valve,IFT122
+HP:0001647,Bicuspid aortic valve,FBN2
+HP:0001647,Bicuspid aortic valve,NOTCH1
+HP:0001647,Bicuspid aortic valve,KANSL1
+HP:0001647,Bicuspid aortic valve,TGFBR1
+HP:0001647,Bicuspid aortic valve,TGFB2
+HP:0001647,Bicuspid aortic valve,BBS2
+HP:0001647,Bicuspid aortic valve,SNIP1
+HP:0005182,Bicuspid pulmonary valve,TGFBR1
+HP:0010617,Cardiac fibroma,PTCH1
+HP:0011672,Cardiac myxoma,MYH8
+HP:0009729,Cardiac rhabdomyoma,TSC1
+HP:0009729,Cardiac rhabdomyoma,PTCH1
+HP:0009729,Cardiac rhabdomyoma,TSC2
+HP:0001640,Cardiomegaly,PSMB8
+HP:0001640,Cardiomegaly,HEXB
+HP:0001640,Cardiomegaly,IGF2
+HP:0001640,Cardiomegaly,ABCC9
+HP:0001640,Cardiomegaly,NEU1
+HP:0001640,Cardiomegaly,SLC22A5
+HP:0001640,Cardiomegaly,SLC17A5
+HP:0001640,Cardiomegaly,GAA
+HP:0001640,Cardiomegaly,NAGLU
+HP:0001640,Cardiomegaly,GBA
+HP:0001640,Cardiomegaly,FUCA1
+HP:0001640,Cardiomegaly,LAMP2
+HP:0001640,Cardiomegaly,GNPTAB
+HP:0001640,Cardiomegaly,DDX58
+HP:0001640,Cardiomegaly,LBR
+HP:0001640,Cardiomegaly,CDKN1C
+HP:0001640,Cardiomegaly,PEX7
+HP:0001640,Cardiomegaly,IFIH1
+HP:0001638,Cardiomyopathy,PCCA
+HP:0001638,Cardiomyopathy,HADHA
+HP:0001638,Cardiomyopathy,AGL
+HP:0001638,Cardiomyopathy,SLC25A20
+HP:0001638,Cardiomyopathy,IGF2
+HP:0001638,Cardiomyopathy,MTRFR
+HP:0001638,Cardiomyopathy,PMM2
+HP:0001638,Cardiomyopathy,LDB3
+HP:0001638,Cardiomyopathy,NEU1
+HP:0001638,Cardiomyopathy,POMT1
+HP:0001638,Cardiomyopathy,ACADS
+HP:0001638,Cardiomyopathy,ARSB
+HP:0001638,Cardiomyopathy,RAB3GAP2
+HP:0001638,Cardiomyopathy,HPS1
+HP:0001638,Cardiomyopathy,LMNA
+HP:0001638,Cardiomyopathy,CDKN1C
+HP:0001638,Cardiomyopathy,MMUT
+HP:0001638,Cardiomyopathy,PEX7
+HP:0001638,Cardiomyopathy,FIG4
+HP:0001638,Cardiomyopathy,PCCB
+HP:0001638,Cardiomyopathy,DMD
+HP:0001638,Cardiomyopathy,GPC3
+HP:0001638,Cardiomyopathy,D2HGDH
+HP:0001638,Cardiomyopathy,C1QBP
+HP:0001638,Cardiomyopathy,ATP6V1E1
+HP:0001638,Cardiomyopathy,NDUFB8
+HP:0001674,Complete atrioventricular canal defect,HYLS1
+HP:0005129,Congenital hypertrophy of left ventricle,ABCC9
+HP:0001710,Conotruncal defect,EHMT1
+HP:0001648,Cor pulmonale,FLNA
+HP:0001651,Dextrocardia,MMP21
+HP:0001644,Dilated cardiomyopathy,HADH
+HP:0001644,Dilated cardiomyopathy,FKRP
+HP:0001644,Dilated cardiomyopathy,DPM3
+HP:0001644,Dilated cardiomyopathy,TTN
+HP:0001644,Dilated cardiomyopathy,MYH6
+HP:0001644,Dilated cardiomyopathy,DOLK
+HP:0001644,Dilated cardiomyopathy,BOLA3
+HP:0001644,Dilated cardiomyopathy,UBR1
+HP:0001644,Dilated cardiomyopathy,EPG5
+HP:0001644,Dilated cardiomyopathy,ALMS1
+HP:0001644,Dilated cardiomyopathy,LAMP2
+HP:0001644,Dilated cardiomyopathy,ERBB3
+HP:0001644,Dilated cardiomyopathy,ACAD9
+HP:0001644,Dilated cardiomyopathy,GLB1
+HP:0001644,Dilated cardiomyopathy,TAFAZZIN
+HP:0001644,Dilated cardiomyopathy,BBS2
+HP:0001644,Dilated cardiomyopathy,POLG
+HP:0001644,Dilated cardiomyopathy,LMNA
+HP:0001644,Dilated cardiomyopathy,FKTN
+HP:0001644,Dilated cardiomyopathy,PGM1
+HP:0001644,Dilated cardiomyopathy,DMD
+HP:0001719,Double outlet right ventricle,GDF1
+HP:0001719,Double outlet right ventricle,CHD7
+HP:0001706,Endocardial fibroelastosis,IDUA
+HP:0001706,Endocardial fibroelastosis,SLC22A5
+HP:0001706,Endocardial fibroelastosis,TAFAZZIN
+HP:0005152,Histiocytoid cardiomyopathy,HCCS
+HP:0001639,Hypertrophic cardiomyopathy,HRAS
+HP:0001639,Hypertrophic cardiomyopathy,HADH
+HP:0001639,Hypertrophic cardiomyopathy,MTO1
+HP:0001639,Hypertrophic cardiomyopathy,FTO
+HP:0001639,Hypertrophic cardiomyopathy,MRPS22
+HP:0001639,Hypertrophic cardiomyopathy,PET100
+HP:0001639,Hypertrophic cardiomyopathy,FHL1
+HP:0001639,Hypertrophic cardiomyopathy,MYH6
+HP:0001639,Hypertrophic cardiomyopathy,HRAS
+HP:0001639,Hypertrophic cardiomyopathy,SURF1
+HP:0001639,Hypertrophic cardiomyopathy,NDUFV1
+HP:0001639,Hypertrophic cardiomyopathy,AGK
+HP:0001639,Hypertrophic cardiomyopathy,MAP2K1
+HP:0001639,Hypertrophic cardiomyopathy,TTC19
+HP:0001639,Hypertrophic cardiomyopathy,SLC22A5
+HP:0001639,Hypertrophic cardiomyopathy,KRAS
+HP:0001639,Hypertrophic cardiomyopathy,BRAF
+HP:0001639,Hypertrophic cardiomyopathy,ELAC2
+HP:0001639,Hypertrophic cardiomyopathy,PTPN11
+HP:0001639,Hypertrophic cardiomyopathy,NDUFS7
+HP:0001639,Hypertrophic cardiomyopathy,FAH
+HP:0001639,Hypertrophic cardiomyopathy,RAF1
+HP:0001639,Hypertrophic cardiomyopathy,PTPN11
+HP:0001639,Hypertrophic cardiomyopathy,LAMP2
+HP:0001639,Hypertrophic cardiomyopathy,SDHAF1
+HP:0001639,Hypertrophic cardiomyopathy,COA5
+HP:0001639,Hypertrophic cardiomyopathy,GNPTAB
+HP:0001639,Hypertrophic cardiomyopathy,SCO2
+HP:0001639,Hypertrophic cardiomyopathy,COX10
+HP:0001639,Hypertrophic cardiomyopathy,SOS1
+HP:0001639,Hypertrophic cardiomyopathy,COX14
+HP:0001639,Hypertrophic cardiomyopathy,ACAD9
+HP:0001639,Hypertrophic cardiomyopathy,NDUFS4
+HP:0001639,Hypertrophic cardiomyopathy,GLB1
+HP:0001639,Hypertrophic cardiomyopathy,TAFAZZIN
+HP:0001639,Hypertrophic cardiomyopathy,KLF1
+HP:0001639,Hypertrophic cardiomyopathy,SCO1
+HP:0001639,Hypertrophic cardiomyopathy,COA8
+HP:0001639,Hypertrophic cardiomyopathy,MAP2K2
+HP:0001639,Hypertrophic cardiomyopathy,NRAS
+HP:0001639,Hypertrophic cardiomyopathy,COX15
+HP:0001639,Hypertrophic cardiomyopathy,TMEM70
+HP:0001639,Hypertrophic cardiomyopathy,NDUFS1
+HP:0001639,Hypertrophic cardiomyopathy,COQ8A
+HP:0001639,Hypertrophic cardiomyopathy,NUBPL
+HP:0001639,Hypertrophic cardiomyopathy,ACADVL
+HP:0001639,Hypertrophic cardiomyopathy,COX6B1
+HP:0001639,Hypertrophic cardiomyopathy,FOXRED1
+HP:0001639,Hypertrophic cardiomyopathy,NDUFA1
+HP:0001639,Hypertrophic cardiomyopathy,SHOC2
+HP:0001639,Hypertrophic cardiomyopathy,SLC25A4
+HP:0001639,Hypertrophic cardiomyopathy,LZTR1
+HP:0001961,Hypoplastic heart,CHRNA1
+HP:0005156,Hypoplastic left atrium,STRA6
+HP:0004383,Hypoplastic left heart,NR2F2
+HP:0004383,Hypoplastic left heart,GJA1
+HP:0004383,Hypoplastic left heart,TBX5
+HP:0004383,Hypoplastic left heart,MYRF
+HP:0001712,Left ventricular hypertrophy,BBS9
+HP:0001712,Left ventricular hypertrophy,TRIM32
+HP:0001712,Left ventricular hypertrophy,MKKS
+HP:0001712,Left ventricular hypertrophy,BBS10
+HP:0001712,Left ventricular hypertrophy,NKX2-5
+HP:0001712,Left ventricular hypertrophy,BBS4
+HP:0001712,Left ventricular hypertrophy,FKRP
+HP:0001712,Left ventricular hypertrophy,BBS5
+HP:0001712,Left ventricular hypertrophy,ARL6
+HP:0001712,Left ventricular hypertrophy,BBS1
+HP:0001712,Left ventricular hypertrophy,MTRFR
+HP:0001712,Left ventricular hypertrophy,LDB3
+HP:0001712,Left ventricular hypertrophy,TTC8
+HP:0001712,Left ventricular hypertrophy,COQ9
+HP:0001712,Left ventricular hypertrophy,EPG5
+HP:0001712,Left ventricular hypertrophy,CEP290
+HP:0001712,Left ventricular hypertrophy,MKS1
+HP:0001712,Left ventricular hypertrophy,WDPCP
+HP:0001712,Left ventricular hypertrophy,POMT2
+HP:0001712,Left ventricular hypertrophy,BBS2
+HP:0001712,Left ventricular hypertrophy,BBS7
+HP:0001712,Left ventricular hypertrophy,BBS12
+HP:0011599,Mesocardia,SRCAP
+HP:0005136,Mitral annular calcification,FBN1
+HP:0005136,Mitral annular calcification,FBN1
+HP:0004382,Mitral valve calcification,DDX58
+HP:0004382,Mitral valve calcification,IFIH1
+HP:0001634,Mitral valve prolapse,COL1A1
+HP:0001634,Mitral valve prolapse,HRAS
+HP:0001634,Mitral valve prolapse,ABCC6
+HP:0001634,Mitral valve prolapse,BCOR
+HP:0001634,Mitral valve prolapse,FLNA
+HP:0001634,Mitral valve prolapse,HRAS
+HP:0001634,Mitral valve prolapse,FBN2
+HP:0001634,Mitral valve prolapse,FMR1
+HP:0001634,Mitral valve prolapse,FLNA
+HP:0001634,Mitral valve prolapse,CBS
+HP:0001634,Mitral valve prolapse,FBN1
+HP:0001634,Mitral valve prolapse,TGFBR1
+HP:0001634,Mitral valve prolapse,FBN1
+HP:0001634,Mitral valve prolapse,TGFB2
+HP:0001634,Mitral valve prolapse,SKI
+HP:0001634,Mitral valve prolapse,SMAD4
+HP:0001634,Mitral valve prolapse,XYLT2
+HP:0011623,Muscular ventricular septal defect,GATA6
+HP:0001685,Myocardial fibrosis,LAMP2
+HP:0001685,Myocardial fibrosis,FKTN
+HP:0001700,Myocardial necrosis,LAMP2
+HP:0001655,Patent foramen ovale,GATA6
+HP:0001655,Patent foramen ovale,COL11A1
+HP:0001655,Patent foramen ovale,TBX20
+HP:0001655,Patent foramen ovale,PHGDH
+HP:0001655,Patent foramen ovale,PSPH
+HP:0001698,Pericardial effusion,PTPN14
+HP:0001698,Pericardial effusion,ABCC9
+HP:0001698,Pericardial effusion,PMM2
+HP:0001698,Pericardial effusion,CCBE1
+HP:0001698,Pericardial effusion,LMNA
+HP:0001698,Pericardial effusion,KCNJ8
+HP:0005183,Pericardial lymphangiectasia,CCBE1
+HP:0011682,Perimembranous ventricular septal defect,GATA6
+HP:0011682,Perimembranous ventricular septal defect,ATRX
+HP:0004969,peripheral pulmonary stenosis,IFT43
+HP:0004969,peripheral pulmonary stenosis,PIGL
+HP:0004969,peripheral pulmonary stenosis,MGP
+HP:0005148,Pulmonary valve defects,KIF7
+HP:0001723,Restrictive cardiomyopathy,ABCC6
+HP:0001684,Secundum atrial septal defect,NKX2-5
+HP:0001684,Secundum atrial septal defect,NF1
+HP:0001684,Secundum atrial septal defect,BBS2
+HP:0001750,Single ventricle,STRA6
+HP:0001750,Single ventricle,NSDHL
+HP:0001696,Situs inversus totalis,PRRX1
+HP:0001696,Situs inversus totalis,DNAAF11
+HP:0001696,Situs inversus totalis,DNAAF3
+HP:0001696,Situs inversus totalis,UBR1
+HP:0001696,Situs inversus totalis,ODAD1
+HP:0001696,Situs inversus totalis,DNAAF5
+HP:0001696,Situs inversus totalis,CCDC103
+HP:0001696,Situs inversus totalis,PQBP1
+HP:0001696,Situs inversus totalis,DRC1
+HP:0001696,Situs inversus totalis,MMP21
+HP:0001696,Situs inversus totalis,PKD1L1
+HP:0001696,Situs inversus totalis,ODAD4
+HP:0001696,Situs inversus totalis,DNAH5
+HP:0001696,Situs inversus totalis,PRRX1
+HP:0001682,Subvalvular aortic stenosis,NKX2-5
+HP:0001682,Subvalvular aortic stenosis,PTPN11
+HP:0001682,Subvalvular aortic stenosis,CEP57
+HP:0001682,Subvalvular aortic stenosis,DDX58
+HP:0001682,Subvalvular aortic stenosis,HDAC4
+HP:0001682,Subvalvular aortic stenosis,IFIH1
+HP:0001636,Tetralogy of Fallot,SALL1
+HP:0001636,Tetralogy of Fallot,NKX2-5
+HP:0001636,Tetralogy of Fallot,TBX1
+HP:0001636,Tetralogy of Fallot,SMARCE1
+HP:0001636,Tetralogy of Fallot,STRA6
+HP:0001636,Tetralogy of Fallot,ARHGAP31
+HP:0001636,Tetralogy of Fallot,SMARCA4
+HP:0001636,Tetralogy of Fallot,ALX1
+HP:0001636,Tetralogy of Fallot,PIGL
+HP:0001636,Tetralogy of Fallot,ZFPM2
+HP:0001636,Tetralogy of Fallot,NKX2-5
+HP:0001636,Tetralogy of Fallot,RNU4ATAC
+HP:0001636,Tetralogy of Fallot,GATA6
+HP:0001636,Tetralogy of Fallot,ARID1A
+HP:0001636,Tetralogy of Fallot,SMARCA2
+HP:0001636,Tetralogy of Fallot,COX7B
+HP:0001636,Tetralogy of Fallot,ALX3
+HP:0001636,Tetralogy of Fallot,TTC37
+HP:0001636,Tetralogy of Fallot,RBM8A
+HP:0001636,Tetralogy of Fallot,GDF1
+HP:0001636,Tetralogy of Fallot,HIBCH
+HP:0001636,Tetralogy of Fallot,FOXC2
+HP:0001636,Tetralogy of Fallot,RAB23
+HP:0001636,Tetralogy of Fallot,SF3B4
+HP:0001636,Tetralogy of Fallot,CHD7
+HP:0001636,Tetralogy of Fallot,MEGF8
+HP:0001636,Tetralogy of Fallot,FIG4
+HP:0001636,Tetralogy of Fallot,PQBP1
+HP:0001636,Tetralogy of Fallot,SMARCB1
+HP:0001636,Tetralogy of Fallot,DDX11
+HP:0001669,Transposition of the great arteries,MED13L
+HP:0001669,Transposition of the great arteries,PIGL
+HP:0001669,Transposition of the great arteries,GATA6
+HP:0001669,Transposition of the great arteries,GDF1
+HP:0001669,Transposition of the great arteries,PHGDH
+HP:0001669,Transposition of the great arteries,PSPH
+HP:0001669,Transposition of the great arteries,RAB23
+HP:0001669,Transposition of the great arteries,FKTN
+HP:0001669,Transposition of the great arteries,MEGF8
+HP:0001669,Transposition of the great arteries,GPC3
+HP:0001704,Tricuspid valve prolapse,FLNA
+HP:0001704,Tricuspid valve prolapse,FBN1
+HP:0001704,Tricuspid valve prolapse,FBN1
+HP:0001714,Ventricular hypertrophy,CHST3
+HP:0001714,Ventricular hypertrophy,SLC2A10
+HP:0001714,Ventricular hypertrophy,AGL
+HP:0001714,Ventricular hypertrophy,SLC25A20
+HP:0001714,Ventricular hypertrophy,COX7B
+HP:0001629,Ventricular septal defect,CHST3
+HP:0001629,Ventricular septal defect,HRAS
+HP:0001629,Ventricular septal defect,TBX3
+HP:0001629,Ventricular septal defect,AMER1
+HP:0001629,Ventricular septal defect,SALL1
+HP:0001629,Ventricular septal defect,FTO
+HP:0001629,Ventricular septal defect,NKX2-5
+HP:0001629,Ventricular septal defect,TBX1
+HP:0001629,Ventricular septal defect,SMARCE1
+HP:0001629,Ventricular septal defect,B3GALT6
+HP:0001629,Ventricular septal defect,BCOR
+HP:0001629,Ventricular septal defect,ADAMTS18
+HP:0001629,Ventricular septal defect,FLNB
+HP:0001629,Ventricular septal defect,STRA6
+HP:0001629,Ventricular septal defect,HCCS
+HP:0001629,Ventricular septal defect,PEX16
+HP:0001629,Ventricular septal defect,ARHGAP31
+HP:0001629,Ventricular septal defect,FGFR2
+HP:0001629,Ventricular septal defect,MGAT2
+HP:0001629,Ventricular septal defect,ZEB2
+HP:0001629,Ventricular septal defect,SMARCA4
+HP:0001629,Ventricular septal defect,PIGL
+HP:0001629,Ventricular septal defect,HRAS
+HP:0001629,Ventricular septal defect,GATA4
+HP:0001629,Ventricular septal defect,PEX26
+HP:0001629,Ventricular septal defect,HYLS1
+HP:0001629,Ventricular septal defect,UMPS
+HP:0001629,Ventricular septal defect,PEX19
+HP:0001629,Ventricular septal defect,ROR2
+HP:0001629,Ventricular septal defect,FBN2
+HP:0001629,Ventricular septal defect,LRP2
+HP:0001629,Ventricular septal defect,CCBE1
+HP:0001629,Ventricular septal defect,SHANK3
+HP:0001629,Ventricular septal defect,TBX5
+HP:0001629,Ventricular septal defect,PEX3
+HP:0001629,Ventricular septal defect,KMT2D
+HP:0001629,Ventricular septal defect,UBR1
+HP:0001629,Ventricular septal defect,ARID1A
+HP:0001629,Ventricular septal defect,CD96
+HP:0001629,Ventricular septal defect,TP63
+HP:0001629,Ventricular septal defect,PIK3R2
+HP:0001629,Ventricular septal defect,NAA10
+HP:0001629,Ventricular septal defect,KRAS
+HP:0001629,Ventricular septal defect,PEX12
+HP:0001629,Ventricular septal defect,NIPBL
+HP:0001629,Ventricular septal defect,SMARCA2
+HP:0001629,Ventricular septal defect,PEX6
+HP:0001629,Ventricular septal defect,TTC7A
+HP:0001629,Ventricular septal defect,MED12
+HP:0001629,Ventricular septal defect,CEP290
+HP:0001629,Ventricular septal defect,PTPN11
+HP:0001629,Ventricular septal defect,CEP57
+HP:0001629,Ventricular septal defect,CKAP2L
+HP:0001629,Ventricular septal defect,PEX14
+HP:0001629,Ventricular septal defect,PEX2
+HP:0001629,Ventricular septal defect,KANSL1
+HP:0001629,Ventricular septal defect,SOS1
+HP:0001629,Ventricular septal defect,AKT3
+HP:0001629,Ventricular septal defect,CCND2
+HP:0001629,Ventricular septal defect,TTC37
+HP:0001629,Ventricular septal defect,SOX2
+HP:0001629,Ventricular septal defect,ERBB3
+HP:0001629,Ventricular septal defect,PIK3CA
+HP:0001629,Ventricular septal defect,ESCO2
+HP:0001629,Ventricular septal defect,RBM8A
+HP:0001629,Ventricular septal defect,EFTUD2
+HP:0001629,Ventricular septal defect,PHGDH
+HP:0001629,Ventricular septal defect,FOXC2
+HP:0001629,Ventricular septal defect,PSPH
+HP:0001629,Ventricular septal defect,PEX10
+HP:0001629,Ventricular septal defect,GLI3
+HP:0001629,Ventricular septal defect,RAB23
+HP:0001629,Ventricular septal defect,MGP
+HP:0001629,Ventricular septal defect,CHD7
+HP:0001629,Ventricular septal defect,DHCR7
+HP:0001629,Ventricular septal defect,PEX5
+HP:0001629,Ventricular septal defect,MEGF8
+HP:0001629,Ventricular septal defect,FIG4
+HP:0001629,Ventricular septal defect,PQBP1
+HP:0001629,Ventricular septal defect,GPC6
+HP:0001629,Ventricular septal defect,TXNL4A
+HP:0001629,Ventricular septal defect,SMARCB1
+HP:0001629,Ventricular septal defect,PALB2
+HP:0001629,Ventricular septal defect,LRP5
+HP:0001629,Ventricular septal defect,FBN1
+HP:0001629,Ventricular septal defect,NSD1
+HP:0001629,Ventricular septal defect,VIPAS39
+HP:0001629,Ventricular septal defect,DDX11
+HP:0001629,Ventricular septal defect,KAT6B
+HP:0001629,Ventricular septal defect,ASXL1
+HP:0001629,Ventricular septal defect,CREBBP
+HP:0001629,Ventricular septal defect,GPC3
+HP:0001629,Ventricular septal defect,SHOC2
+HP:0001629,Ventricular septal defect,TMEM260
+HP:0001629,Ventricular septal defect,ABL1
+HP:0001629,Ventricular septal defect,COLEC10
+HP:0001629,Ventricular septal defect,TRAF7
+HP:0001629,Ventricular septal defect,HNRNPK
+HP:0001629,Ventricular septal defect,MYOCD
+HP:0001629,Ventricular septal defect,MYRF
+HP:0005144,Ventricular septal hypertrophy,SYNE1

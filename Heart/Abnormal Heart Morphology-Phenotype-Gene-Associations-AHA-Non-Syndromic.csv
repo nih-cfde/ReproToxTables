@@ -1,0 +1,28 @@
+Table 8. Disease Genes for Nonsyndromic Congenital Cardiovascular Disease,,,,,
+,,,,,
+Gene,Cardiovascular Malformation,Nonsyndromic (NS) or Syndromic (S),Gene MIM,References,Type
+ CITED2,"ASD, VSD",NS,602937,342,Transcription factors
+ GATA4,"ASD, VSD, AVSD, PVS, TOF",NS,600576,"113, 343–350",Transcription factors
+ GATA6,"PTA, TOF",NS,601656,351–355,Transcription factors
+ MED13L,TGA,NS,608771,356,Transcription factors
+ NR2F2,"AVSD, AS, CoA, VSD, HLHS, TOF",NS,107773,357,Transcription factors
+ NKX2-5,"ASD, atrioventricular conduction delay, TOF, HLHS",NS,600584,358–363,Transcription factors
+ NKX2.6,PTA,NS,611770,"364, 365",Transcription factors
+ TBX20,"ASD, VSD, MS, DCM",NS,606061,366–369,Transcription factors
+ ZFPM2/FOG2,"TOF, DORV",NS,603693,370–372,Transcription factors
+ ACVR1/ALK2,AVSD,NS,102576,373,Cell signaling and adhesion proteins
+ CRELD1,"ASD, AVSD",NS,607170,374–376,Cell signaling and adhesion proteins
+ GJA1,"HLHS, VSD, PA",S (oculodentodigital dysplasia) and NS,121014,377–379,Cell signaling and adhesion proteins
+ JAG1,"TOF, PVS, PAS",S (Alagille syndrome) and NS,601920,380–382,Cell signaling and adhesion proteins
+ NOTCH1,"BAV, AS, HLHS, TOF, PVS",S (Adams-Oliver syndrome) and NS,190198,"141, 185, 383–385",Cell signaling and adhesion proteins
+ PDGFRA,TAPVR,NS,173490,386,Cell signaling and adhesion proteins
+ SMAD6,"BAV, CoA, AS",NS,602931,387,Cell signaling and adhesion proteins
+ TAB2,"BAV, AS, TOF",NS,605101,388,Cell signaling and adhesion proteins
+ ACTC1,"ASD, HCM, DCM, LVNC",NS,102540,"389, 390",Structural proteins
+ DCHS1,MVP,NS,603057,333,Structural proteins
+ ELN,SVAS,S (Williams-Beuren syndrome) and NS,130160,"80, 391–393",Structural proteins
+ MYH6,"ASD, HCM, DCM",NS,160710,394–396,Structural proteins
+ MYH7,"Ebstein’s anomaly, LVNC, HCM, DCM",NS,160760,"397, 398",Structural proteins
+ MYH11,"PDA, TAA",NS,160745,"399, 400",Structural proteins
+,,,,,
+,"AS indicates aortic valve stenosis; ASD, atrial septal defect; AVSD, atrioventricular septal defect; BAV, bicuspid aortic valve; CoA, coarctation of aorta; DCM, dilated cardiomyopathy; DORV, double-outlet right ventricle; HCM, hypertrophic cardiomyopathy; HLHS, hypoplastic left heart syndrome; LVNC, left ventricular noncompaction cardiomyopathy; MIM, Mendelian Inheritance in Man; MS, mitral valve stenosis; MVP, mitral valve prolapse; NS, nonsyndromic; PA, pulmonary atresia; PAS, pulmonary artery stenosis; PDA, patent ductus arteriosus; PS, pulmonic valve stenosis; PTA, persistent truncus arteriosus; PVS, pulmonary vein stenosis; S, syndromic; SVAS, supravalvar aortic stenosis; TAA, thoracic aortic aneurysm; TAPVR, total anomalous pulmonary venous return; TGA, transposition of great arteries; TOF, tetralogy of Fallot; and VSD, ventricular septal defect.",,,,

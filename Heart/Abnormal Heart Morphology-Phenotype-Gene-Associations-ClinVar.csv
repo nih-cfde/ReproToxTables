@@ -1,0 +1,153 @@
+HPO Accession,HPO Term,Gene Symbol
+HP:0001646,Abnormal aortic valve morphology,SOS1
+HP:0001627,Abnormal heart morphology,TBX5
+HP:0001627,Abnormal heart morphology,JAG1
+HP:0001627,Abnormal heart morphology,MAPK1
+HP:0001627,Abnormal heart morphology,NODAL
+HP:0001627,Abnormal heart morphology,NOTCH1
+HP:0001627,Abnormal heart morphology,MYRF
+HP:0001627,Abnormal heart morphology,DYNC2H1
+HP:0001627,Abnormal heart morphology,PUS3
+HP:0001627,Abnormal heart morphology,ZRSR2
+HP:0001627,Abnormal heart morphology,NONO
+HP:0001627,Abnormal heart morphology,ROBO1
+HP:0001711,Abnormal left ventricle morphology,MYH11
+HP:0001633,Abnormal mitral valve morphology,ESRRG;RRP15;TGFB2;SPATA17;GPATCH2;USH2A
+HP:0001670,Asymmetric septal hypertrophy,MYBPC3
+HP:0001670,Asymmetric septal hypertrophy,MYH7
+HP:0001631,Atrial septal defect,DMD
+HP:0001631,Atrial septal defect,CHD7
+HP:0006695,Atrioventricular canal defect,TBX5
+HP:0001647,Bicuspid aortic valve,TAB2
+HP:0001647,Bicuspid aortic valve,DSP
+HP:0001647,Bicuspid aortic valve,ROBO4
+HP:0012818,Biventricular noncompaction cardiomyopathy,MYH7
+HP:0009729,Cardiac rhabdomyoma,TSC1
+HP:0001638,Cardiomyopathy,RBM20
+HP:0001638,Cardiomyopathy,TMEM43
+HP:0001638,Cardiomyopathy,PKP2
+HP:0001638,Cardiomyopathy,PRKAG2
+HP:0001638,Cardiomyopathy,MYBPC3
+HP:0001638,Cardiomyopathy,GLA
+HP:0001638,Cardiomyopathy,TNNT2
+HP:0001638,Cardiomyopathy,TNNI3
+HP:0001638,Cardiomyopathy,TNNC1
+HP:0001638,Cardiomyopathy,TPM1
+HP:0001638,Cardiomyopathy,TTR
+HP:0001638,Cardiomyopathy,PLN
+HP:0001638,Cardiomyopathy,MYL2
+HP:0001638,Cardiomyopathy,MYH7
+HP:0001638,Cardiomyopathy,LMNA
+HP:0001638,Cardiomyopathy,ACTC1
+HP:0001638,Cardiomyopathy,MYL3
+HP:0001638,Cardiomyopathy,DSP
+HP:0001638,Cardiomyopathy,TTN
+HP:0001638,Cardiomyopathy,LAMP2
+HP:0001638,Cardiomyopathy,RYR2
+HP:0001638,Cardiomyopathy,MIPEP
+HP:0001638,Cardiomyopathy,C1QTNF9;C1QTNF9B;MIPEP;PCOTH;SACS;SGCG;SPATA13;TNFRSF19
+HP:0001638,Cardiomyopathy,DSG2
+HP:0001638,Cardiomyopathy,UQCRFS1
+HP:0001638,Cardiomyopathy,TAFAZZIN
+HP:0001638,Cardiomyopathy,DSC2
+HP:0001638,Cardiomyopathy,CSRP3
+HP:0001638,Cardiomyopathy,DPM3
+HP:0001638,Cardiomyopathy,VCL
+HP:0001638,Cardiomyopathy,MYH6
+HP:0001638,Cardiomyopathy,JUP
+HP:0001638,Cardiomyopathy,ABCC9
+HP:0001710,Conotruncal defect,FOXH1
+HP:0001651,Dextrocardia,MYRF
+HP:0001644,Dilated cardiomyopathy,RBM20
+HP:0001644,Dilated cardiomyopathy,TMEM43
+HP:0001644,Dilated cardiomyopathy,TCAP
+HP:0001644,Dilated cardiomyopathy,SCN5A
+HP:0001644,Dilated cardiomyopathy,TNNT2
+HP:0001644,Dilated cardiomyopathy,PLN
+HP:0001644,Dilated cardiomyopathy,MYH7
+HP:0001644,Dilated cardiomyopathy,LMNA
+HP:0001644,Dilated cardiomyopathy,BAG3
+HP:0001644,Dilated cardiomyopathy,TPM1
+HP:0001644,Dilated cardiomyopathy,TAFAZZIN
+HP:0001644,Dilated cardiomyopathy,MYBPC3
+HP:0001644,Dilated cardiomyopathy,TNNI3
+HP:0001644,Dilated cardiomyopathy,DES
+HP:0001644,Dilated cardiomyopathy,DSP
+HP:0001644,Dilated cardiomyopathy,TTN
+HP:0001644,Dilated cardiomyopathy,SGCB
+HP:0001644,Dilated cardiomyopathy,ACTN2
+HP:0001644,Dilated cardiomyopathy,LAMP2
+HP:0001644,Dilated cardiomyopathy,FLNC
+HP:0001644,Dilated cardiomyopathy,DMD
+HP:0001644,Dilated cardiomyopathy,PPP1R13L
+HP:0001644,Dilated cardiomyopathy,CASZ1
+HP:0001644,Dilated cardiomyopathy,ACTC1
+HP:0001644,Dilated cardiomyopathy,VCL
+HP:0001644,Dilated cardiomyopathy,"covers 19 genes, none of which curated to show dosage sensitivity"
+HP:0001644,Dilated cardiomyopathy,"covers 22 genes, none of which curated to show dosage sensitivity"
+HP:0001644,Dilated cardiomyopathy,SCO2
+HP:0001644,Dilated cardiomyopathy,MYZAP
+HP:0001644,Dilated cardiomyopathy,NEBL
+HP:0005152,Histiocytoid cardiomyopathy,NDUFB11
+HP:0001639,Hypertrophic cardiomyopathy,TMEM43
+HP:0001639,Hypertrophic cardiomyopathy,PRKAG2
+HP:0001639,Hypertrophic cardiomyopathy,MYBPC3
+HP:0001639,Hypertrophic cardiomyopathy,LAMP2
+HP:0001639,Hypertrophic cardiomyopathy,GLA
+HP:0001639,Hypertrophic cardiomyopathy,TNNT2
+HP:0001639,Hypertrophic cardiomyopathy,TNNI3
+HP:0001639,Hypertrophic cardiomyopathy,TNNC1
+HP:0001639,Hypertrophic cardiomyopathy,TPM1
+HP:0001639,Hypertrophic cardiomyopathy,PTPN11
+HP:0001639,Hypertrophic cardiomyopathy,PLN
+HP:0001639,Hypertrophic cardiomyopathy,MYL3
+HP:0001639,Hypertrophic cardiomyopathy,MYL2
+HP:0001639,Hypertrophic cardiomyopathy,MYH7
+HP:0001639,Hypertrophic cardiomyopathy,ACTC1
+HP:0001639,Hypertrophic cardiomyopathy,ACTN2
+HP:0001639,Hypertrophic cardiomyopathy,TTN
+HP:0001639,Hypertrophic cardiomyopathy,TRIM63
+HP:0001639,Hypertrophic cardiomyopathy,CASR
+HP:0001639,Hypertrophic cardiomyopathy,ALPK3
+HP:0001639,Hypertrophic cardiomyopathy,CSRP3
+HP:0031329,Interstitial cardiac fibrosis,TTN
+HP:0001712,Left ventricular hypertrophy,MYBPC3
+HP:0030682,Left ventricular noncompaction,MYH7
+HP:0030682,Left ventricular noncompaction,LMNA
+HP:0030682,Left ventricular noncompaction,MYBPC3
+HP:0030682,Left ventricular noncompaction,MIPEP
+HP:0030682,Left ventricular noncompaction,C1QTNF9;C1QTNF9B;MIPEP;PCOTH;SACS;SGCG;SPATA13;TNFRSF19
+HP:0030682,Left ventricular noncompaction,ACTC1
+HP:0011664,Left ventricular noncompaction cardiomyopathy,MYH7
+HP:0011664,Left ventricular noncompaction cardiomyopathy,DSP
+HP:0011664,Left ventricular noncompaction cardiomyopathy,MYBPC3
+HP:0011664,Left ventricular noncompaction cardiomyopathy,TBX5
+HP:0011664,Left ventricular noncompaction cardiomyopathy,TTN
+HP:0011664,Left ventricular noncompaction cardiomyopathy,RYR2
+HP:0011664,Left ventricular noncompaction cardiomyopathy,SCN5A
+HP:0011664,Left ventricular noncompaction cardiomyopathy,TAFAZZIN
+HP:0001634,Mitral valve prolapse,PACS1
+HP:0001634,Mitral valve prolapse,TTN
+HP:0001634,Mitral valve prolapse,FBN1
+HP:0012819,Myocarditis,ABCD1
+HP:0012817,Noncompaction cardiomyopathy,TTN
+HP:0001698,Pericardial effusion,SERPINA11
+HP:0004969,peripheral pulmonary stenosis,DLX3
+HP:0001723,Restrictive cardiomyopathy,TNNI3
+HP:0001723,Restrictive cardiomyopathy,MYH7
+HP:0001723,Restrictive cardiomyopathy,TNNT2
+HP:0001723,Restrictive cardiomyopathy,FLNC
+HP:0011663,Right ventricular cardiomyopathy,DSP
+HP:0001684,Secundum atrial septal defect,TAB2
+HP:0001684,Secundum atrial septal defect,TBX5
+HP:0001696,Situs inversus totalis,PKD1L1
+HP:0001696,Situs inversus totalis,CCDC103
+HP:0001696,Situs inversus totalis,MNS1
+HP:0001636,Tetralogy of Fallot,JAG1
+HP:0001636,Tetralogy of Fallot,NIPBL
+HP:0001636,Tetralogy of Fallot,GATA6
+HP:0001636,Tetralogy of Fallot,TBX1
+HP:0001636,Tetralogy of Fallot,ROBO1
+HP:0001714,Ventricular hypertrophy,PKHD1
+HP:0001629,Ventricular septal defect,TBX5
+HP:0001629,Ventricular septal defect,FOXF1
