@@ -1,0 +1,711 @@
+@prefix compound: <https://identifiers.org/lincs.smallmolecule:> .
+@prefix obo: <http://purl.obolibrary.org/obo/> .
+@prefix relationship: <https://semanticscience.org/resource/> .
+@prefix chebi: <http://purl.obolibrary.org/obo/chebi#> .
+
+compound:LSM-1242 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_863 .
+
+compound:LSM-1248 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;   relationship:SIO_000993 obo:DOID_863 .
+
+compound:LSM-1251 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_863 .
+
+compound:LSM-1289 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_863 .
+
+compound:LSM-1297 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_1287 .
+
+compound:LSM-1298 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_1287 .
+
+compound:LSM-1303 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_863 .
+
+compound:LSM-1346 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_1287 .
+
+compound:LSM-1354 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_1287 .
+
+compound:LSM-1359 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_1287 .
+
+compound:LSM-1367 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_863 .
+
+compound:LSM-1405 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_74 .
+
+compound:LSM-1425 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_863 .
+
+compound:LSM-1440 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_1287 .
+
+compound:LSM-1451 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_863 .
+
+compound:LSM-1483 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_863 .
+
+compound:LSM-1488 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_863 .
+
+compound:LSM-1503 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_74 .
+
+compound:LSM-1519 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_1287 .
+
+compound:LSM-1526 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_1287 .
+
+compound:LSM-1569 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_863 .
+
+compound:LSM-1614 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_863 .
+
+compound:LSM-1622 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_1287 .
+
+compound:LSM-1626 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_863 .
+
+compound:LSM-1633 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_1287 .
+
+compound:LSM-1635 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_863 .
+
+compound:LSM-1647 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_863 .
+
+compound:LSM-1659 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_1287 .
+
+compound:LSM-1664 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_1287 .
+
+compound:LSM-1672 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_863 .
+
+compound:LSM-1687 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_863 .
+
+compound:LSM-1703 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_1287 .
+
+compound:LSM-1718 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_863 .
+
+compound:LSM-1725 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_1287,
+        obo:DOID_863 .
+
+compound:LSM-1728 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_863 .
+
+compound:LSM-1731 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_863 .
+
+compound:LSM-1758 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_863 .
+
+compound:LSM-1773 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_863 .
+
+compound:LSM-1778 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_1287 .
+
+compound:LSM-1799 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_1287 .
+
+compound:LSM-1852 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_1287 .
+
+compound:LSM-1877 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_863 .
+
+compound:LSM-1880 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_1287 .
+
+compound:LSM-1905 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_863 .
+
+compound:LSM-1914 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_863 .
+
+compound:LSM-1930 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_74 .
+
+compound:LSM-1938 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_1287 .
+
+compound:LSM-1948 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_1287 .
+
+compound:LSM-1955 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_1287 .
+
+compound:LSM-1961 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_1287 .
+
+compound:LSM-2026 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_863 .
+
+compound:LSM-2072 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_863 .
+
+compound:LSM-2093 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_863 .
+
+compound:LSM-2106 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_863 .
+
+compound:LSM-2124 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_863 .
+
+compound:LSM-2132 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_863 .
+
+compound:LSM-2135 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_863 .
+
+compound:LSM-2194 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_863 .
+
+compound:LSM-2198 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_863 .
+
+compound:LSM-2219 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_1287 .
+
+compound:LSM-2224 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_863 .
+
+compound:LSM-2272 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_863 .
+
+compound:LSM-2280 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_1287 .
+
+compound:LSM-2323 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_1287 .
+
+compound:LSM-2359 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_863 .
+
+compound:LSM-2380 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_1287 .
+
+compound:LSM-2421 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_863 .
+
+compound:LSM-2490 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_1287 .
+
+compound:LSM-2511 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_74 .
+
+compound:LSM-2553 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_1287 .
+
+compound:LSM-2557 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_863 .
+
+compound:LSM-2621 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_863 .
+
+compound:LSM-2645 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_863 .
+
+compound:LSM-2700 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_863 .
+
+compound:LSM-2779 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_863 .
+
+compound:LSM-2791 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_863 .
+
+compound:LSM-2816 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_863 .
+
+compound:LSM-2822 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_863 .
+
+compound:LSM-2850 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_1287 .
+
+compound:LSM-2852 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_863 .
+
+compound:LSM-2864 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_863 .
+
+compound:LSM-2962 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_863 .
+
+compound:LSM-2965 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_1287 .
+
+compound:LSM-3001 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_863 .
+
+compound:LSM-3062 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_1287 .
+
+compound:LSM-3138 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_1287 .
+
+compound:LSM-3161 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_863 .
+
+compound:LSM-3165 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_863 .
+
+compound:LSM-3171 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_863 .
+
+compound:LSM-3254 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_1287 .
+
+compound:LSM-3275 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_863 .
+
+compound:LSM-3304 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_863 .
+
+compound:LSM-3325 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_863 .
+
+compound:LSM-3349 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_1287 .
+
+compound:LSM-3452 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_863 .
+
+compound:LSM-3491 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_1287 .
+
+compound:LSM-3512 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_863 .
+
+compound:LSM-3525 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_863 .
+
+compound:LSM-3583 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_863 .
+
+compound:LSM-3610 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_863 .
+
+compound:LSM-3736 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_74 .
+
+compound:LSM-3749 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_863 .
+
+compound:LSM-3755 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_863 .
+
+compound:LSM-3771 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_1287 .
+
+compound:LSM-3782 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_863 .
+
+compound:LSM-3852 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_1287 .
+
+compound:LSM-3885 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_1287 .
+
+compound:LSM-3907 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_1287 .
+
+compound:LSM-3967 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_863 .
+
+compound:LSM-4017 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_863 .
+
+compound:LSM-4062 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_1287 .
+
+compound:LSM-4085 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_1287 .
+
+compound:LSM-4104 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_863 .
+
+compound:LSM-4162 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_863 .
+
+compound:LSM-4176 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_1287 .
+
+compound:LSM-4199 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_74 .
+
+compound:LSM-4209 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_863 .
+
+compound:LSM-4261 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_74 .
+
+compound:LSM-4285 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_863 .
+
+compound:LSM-4301 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_1287 .
+
+compound:LSM-4304 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_863 .
+
+compound:LSM-4329 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_1287 .
+
+compound:LSM-4384 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_1287 .
+
+compound:LSM-4412 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_863 .
+
+compound:LSM-4466 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_863 .
+
+compound:LSM-4620 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_863 .
+
+compound:LSM-4891 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_863 .
+
+compound:LSM-4893 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_863 .
+
+compound:LSM-4957 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_1287 .
+
+compound:LSM-4958 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_863 .
+
+compound:LSM-4959 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_863 .
+
+compound:LSM-4961 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_863 .
+
+compound:LSM-4967 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_863 .
+
+compound:LSM-4995 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_863 .
+
+compound:LSM-5065 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_863 .
+
+compound:LSM-5066 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_863 .
+
+compound:LSM-5069 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_863 .
+
+compound:LSM-5071 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_1287 .
+
+compound:LSM-5088 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_863 .
+
+compound:LSM-5109 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_863 .
+
+compound:LSM-5118 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_863 .
+
+compound:LSM-5141 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_74 .
+
+compound:LSM-5157 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_863 .
+
+compound:LSM-5174 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_1287 .
+
+compound:LSM-5189 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_863 .
+
+compound:LSM-5195 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_863 .
+
+compound:LSM-5202 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_863 .
+
+compound:LSM-5218 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_863 .
+
+compound:LSM-5223 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_863 .
+
+compound:LSM-5251 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_1287 .
+
+compound:LSM-5256 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_863 .
+
+compound:LSM-5278 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_1287 .
+
+compound:LSM-5288 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_863 .
+
+compound:LSM-5314 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_1287 .
+
+compound:LSM-5317 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_863 .
+
+compound:LSM-5318 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_1287 .
+
+compound:LSM-5345 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_1287 .
+
+compound:LSM-5347 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_1287 .
+
+compound:LSM-5371 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_863 .
+
+compound:LSM-5388 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_74 .
+
+compound:LSM-5391 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_74 .
+
+compound:LSM-5393 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_863 .
+
+compound:LSM-5404 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_74 .
+
+compound:LSM-5436 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_1287 .
+
+compound:LSM-5457 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_863 .
+
+compound:LSM-5459 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_863 .
+
+compound:LSM-5464 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_863 .
+
+compound:LSM-5470 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_863 .
+
+compound:LSM-5472 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_1287 .
+
+compound:LSM-5474 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_863 .
+
+compound:LSM-5481 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_1287 .
+
+compound:LSM-5487 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_863 .
+
+compound:LSM-5491 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_1287 .
+
+compound:LSM-5503 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_863 .
+
+compound:LSM-5508 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_74 .
+
+compound:LSM-5512 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_863 .
+
+compound:LSM-5521 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_863 .
+
+compound:LSM-5523 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_74 .
+
+compound:LSM-5543 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_863 .
+
+compound:LSM-5546 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_1287 .
+
+compound:LSM-5547 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_1287 .
+
+compound:LSM-5549 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_863 .
+
+compound:LSM-5552 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_863 .
+
+compound:LSM-5557 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_863 .
+
+compound:LSM-5572 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_863 .
+
+compound:LSM-5580 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_863 .
+
+compound:LSM-5581 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_863 .
+
+compound:LSM-5588 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_863 .
+
+compound:LSM-5592 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_863 .
+
+compound:LSM-5593 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_863 .
+
+compound:LSM-5596 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_863 .
+
+compound:LSM-5612 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_1287 .
+
+compound:LSM-5620 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_863 .
+
+compound:LSM-5628 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_863 .
+
+compound:LSM-5640 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_863 .
+
+compound:LSM-5641 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_863 .
+
+compound:LSM-5646 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_863 .
+
+compound:LSM-5663 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_863 .
+
+compound:LSM-5689 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_1287 .
+
+compound:LSM-5690 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_863 .
+
+compound:LSM-5701 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_863 .
+
+compound:LSM-5770 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_863 .
+
+compound:LSM-5778 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_863 .
+
+compound:LSM-5800 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_863 .
+
+compound:LSM-5806 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_863 .
+
+compound:LSM-5808 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_863 .
+
+compound:LSM-5814 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_1287 .
+
+compound:LSM-5836 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_863 .
+
+compound:LSM-5838 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_863 .
+
+compound:LSM-5854 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_863 .
+
+compound:LSM-5855 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_863 .
+
+compound:LSM-5860 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_1287 .
+
+compound:LSM-5877 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_863 .
+
+compound:LSM-5883 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_1287 .
+
+compound:LSM-5916 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_863 .
+
+compound:LSM-5917 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_863 .
+
+compound:LSM-5920 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_863 .
+
+compound:LSM-5922 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_863 .
+
+compound:LSM-5945 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_863 .
+
+compound:LSM-5954 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_863 .
+
+compound:LSM-5967 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_863 .
+
+compound:LSM-5968 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_1287 .
+
+compound:LSM-5972 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_1287 .
+
+compound:LSM-5984 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_863 .
+
+compound:LSM-5985 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_863 .
+
+compound:LSM-6020 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_863 .
+
+compound:LSM-6031 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_863 .
+
+compound:LSM-6032 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_863 .
+
+compound:LSM-6068 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_863 .
+
+compound:LSM-6190 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_863 .
+
+compound:LSM-6235 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_863 .
+
+compound:LSM-6237 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_863 .
+
+compound:LSM-6272 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_863 .
+
+compound:LSM-6348 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_863 .
+
+compound:LSM-6474 a chebi:23367 ;
+     relationship:000228 obi:0000040 ;  relationship:SIO_000993 obo:DOID_863 .
+
