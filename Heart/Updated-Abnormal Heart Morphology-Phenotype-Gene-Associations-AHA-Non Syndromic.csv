@@ -1,0 +1,34 @@
+HPO Accession,HPO Term,Gene Symbol
+HP:0001629,Ventricular septal defect,GJA1
+HP:0001629,Ventricular septal defect,TBX20
+HP:0001629,Ventricular septal defect,CITED2
+HP:0001629,Ventricular septal defect,GATA4
+HP:0001629,Ventricular septal defect,NR2F2
+HP:0001631,Atrial septal defect,ACTC1
+HP:0001631,Atrial septal defect,CITED2
+HP:0001631,Atrial septal defect,TBX20
+HP:0001631,Atrial septal defect,CITED2
+HP:0001631,Atrial septal defect,GATA4
+HP:0001631,Atrial septal defect,MYH6
+HP:0001631,Atrial septal defect,NKX2-5
+HP:0001631,Atrial septal defect,CRELD1
+HP:0001636,Tetralogy of Fallot,GATA4
+HP:0001636,Tetralogy of Fallot,GATA6
+HP:0001636,Tetralogy of Fallot,ZFPM2/FOG2
+HP:0001636,Tetralogy of Fallot,JAG1
+HP:0001636,Tetralogy of Fallot,NOTCH1
+HP:0001636,Tetralogy of Fallot,NKX2-5
+HP:0001636,Tetralogy of Fallot,NR2F2
+HP:0001636,Tetralogy of Fallot,TAB2
+HP:0001647,Bicuspid aortic valve,NOTCH1
+HP:0001647,Bicuspid aortic valve,SMAD6
+HP:0001647,Bicuspid aortic valve,TAB2
+HP:0001719,Double outlet right ventricle,ZFPM2/FOG2
+HP:0004383,Hypoplastic left heart,GJA1
+HP:0004383,Hypoplastic left heart,NOTCH1
+HP:0004383,Hypoplastic left heart,NR2F2
+HP:0004383,Hypoplastic left heart,NKX2-5
+HP:0006695,Atrioventricular septal defect,CRELD1
+HP:0006695,Atrioventricular septal defect,GATA4
+HP:0006695,Atrioventricular septal defect,NR2F2
+HP:0006695,Atrioventricular septal defect,ACVR1/ALK2

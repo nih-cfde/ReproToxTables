@@ -1,0 +1,35 @@
+HPO Accession,HPO Term,Gene Symbol
+HP:0001627,Abnormal heart morphology,NODAL
+HP:0001627,Abnormal heart morphology,NOTCH1
+HP:0001627,Abnormal heart morphology,MYRF
+HP:0001627,Abnormal heart morphology,DYNC2H1
+HP:0001627,Abnormal heart morphology,MAPK1
+HP:0001627,Abnormal heart morphology,PUS3
+HP:0001627,Abnormal heart morphology,ZRSR2
+HP:0001627,Abnormal heart morphology,NONO
+HP:0001627,Abnormal heart morphology,ROBO1
+HP:0001627,Abnormal heart morphology,TBX5
+HP:0001627,Abnormal heart morphology,JAG1
+HP:0001629,Ventricular septal defect,TBX5
+HP:0001629,Ventricular septal defect,FOXF1
+HP:0001631,Atrial septal defect,CHD7
+HP:0001631,Atrial septal defect,DMD
+HP:0001633,Abnormal mitral valve morphology,ESRRG;RRP15;TGFB2;SPATA17;GPATCH2;USH2A
+HP:0001636,Tetralogy of Fallot,JAG1
+HP:0001636,Tetralogy of Fallot,GATA6
+HP:0001636,Tetralogy of Fallot,TBX1
+HP:0001636,Tetralogy of Fallot,ROBO1
+HP:0001636,Tetralogy of Fallot,NIPBL
+HP:0001646,Abnormal aortic valve morphology,SOS1
+HP:0001647,Bicuspid aortic valve,DSP
+HP:0001647,Bicuspid aortic valve,ROBO4
+HP:0001647,Bicuspid aortic valve,TAB2
+HP:0001651,Dextrocardia,MYRF
+HP:0001684,Secundum atrial septal defect,TAB2
+HP:0001684,Secundum atrial septal defect,TBX5
+HP:0001696,Situs inversus totalis,CCDC103
+HP:0001696,Situs inversus totalis,MNS1
+HP:0001696,Situs inversus totalis,PKD1L1
+HP:0001710,Conotruncal defect,FOXH1
+HP:0001711,Abnormal left ventricle morphology,MYH11
+HP:0006695,Atrioventricular canal defect,TBX5
