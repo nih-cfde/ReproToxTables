@@ -1,0 +1,244 @@
+﻿NAME,SMILES,TARGET_NAME,TARGET_CLASS,ACCESSION,GENE,SWISSPROT,ACT_VALUE,ACT_TYPE,TDL
+afatinib,CN(C)C\C=C\C(=O)NC1=CC2=C(C=C1O[C@H]1CCOC1)N=CN=C2NC1=CC(Cl)=C(F)C=C1,Tyrosine-protein kinase ABL1,Kinase,P00519,ABL1,ABL1_HUMAN,6.64,Kd,Tclin
+axitinib,CNC(=O)C1=C(SC2=CC=C3C(NN=C3\C=C\C3=CC=CC=N3)=C2)C=CC=C1,Tyrosine-protein kinase ABL1,Kinase,P00519,ABL1,ABL1_HUMAN,8.82,Kd,Tclin
+bosutinib,COC1=CC2=C(C=C1OCCCN1CCN(C)CC1)N=CC(C#N)=C2NC1=CC(OC)=C(Cl)C=C1Cl,Tyrosine-protein kinase ABL1,Kinase,P00519,ABL1,ABL1_HUMAN,10.54,Kd,Tclin
+crizotinib,C[C@@H](OC1=C(N)N=CC(=C1)C1=CN(N=C1)C1CCNCC1)C1=C(Cl)C=CC(F)=C1Cl,Tyrosine-protein kinase ABL1,Kinase,P00519,ABL1,ABL1_HUMAN,8,Kd,Tclin
+dasatinib,CC1=NC(NC2=NC=C(S2)C(=O)NC2=C(C)C=CC=C2Cl)=CC(=N1)N1CCN(CCO)CC1,Tyrosine-protein kinase ABL1,Kinase,P00519,ABL1,ABL1_HUMAN,9.6,IC50,Tclin
+erlotinib,COCCOC1=CC2=C(C=C1OCCOC)C(NC1=CC=CC(=C1)C#C)=NC=N2,Tyrosine-protein kinase ABL1,Kinase,P00519,ABL1,ABL1_HUMAN,7.24,Kd,Tclin
+gefitinib,COC1=C(OCCCN2CCOCC2)C=C2C(NC3=CC(Cl)=C(F)C=C3)=NC=NC2=C1,Tyrosine-protein kinase ABL1,Kinase,P00519,ABL1,ABL1_HUMAN,6.64,Kd,Tclin
+imatinib,CN1CCN(CC2=CC=C(C=C2)C(=O)NC2=CC=C(C)C(NC3=NC=CC(=N3)C3=CN=CC=C3)=C2)CC1,Tyrosine-protein kinase ABL1,Kinase,P00519,ABL1,ABL1_HUMAN,8.96,Kd,Tclin
+midostaurin,CO[C@@H]1[C@@H](C[C@H]2O[C@]1(C)N1C3=CC=CC=C3C3=C4CNC(=O)C4=C4C5=CC=CC=C5N2C4=C13)N(C)C(=O)C1=CC=CC=C1,Tyrosine-protein kinase ABL1,Kinase,P00519,ABL1,ABL1_HUMAN,6.1,Kd,Tclin
+nilotinib,CC1=CN(C=N1)C1=CC(=CC(NC(=O)C2=CC(NC3=NC=CC(=N3)C3=CN=CC=C3)=C(C)C=C2)=C1)C(F)(F)F,Tyrosine-protein kinase ABL1,Kinase,P00519,ABL1,ABL1_HUMAN,8.44,Kd,Tclin
+nintedanib,COC(=O)C1=CC2=C(C=C1)\C(=C(\NC1=CC=C(C=C1)N(C)C(=O)CN1CCN(C)CC1)C1=CC=CC=C1)C(=O)N2,Tyrosine-protein kinase ABL1,Kinase,P00519,ABL1,ABL1_HUMAN,8,Kd,Tclin
+pazopanib,CN(C1=CC2=NN(C)C(C)=C2C=C1)C1=NC(NC2=CC(=C(C)C=C2)S(N)(=O)=O)=NC=C1,Tyrosine-protein kinase ABL1,Kinase,P00519,ABL1,ABL1_HUMAN,6.42,Kd,Tclin
+ponatinib,CN1CCN(CC2=CC=C(NC(=O)C3=CC=C(C)C(=C3)C#CC3=CN=C4C=CC=NN34)C=C2C(F)(F)F)CC1,Tyrosine-protein kinase ABL1,Kinase,P00519,ABL1,ABL1_HUMAN,9.431797981,IC50,Tclin
+radotinib,CC1=CN(C=N1)C1=CC(NC(=O)C2=CC=C(C)C(NC3=NC=CC(=N3)C3=CN=CC=N3)=C2)=CC(=C1)C(F)(F)F,Tyrosine-protein kinase ABL1,Kinase,P00519,ABL1,ABL1_HUMAN,7.514278412,IC50,Tclin
+sorafenib,CNC(=O)C1=CC(OC2=CC=C(NC(=O)NC3=CC=C(Cl)C(=C3)C(F)(F)F)C=C2)=CC=N1,Tyrosine-protein kinase ABL1,Kinase,P00519,ABL1,ABL1_HUMAN,6.89,Kd,Tclin
+sunitinib,CCN(CC)CCNC(=O)C1=C(C)NC(\C=C2/C(=O)NC3=C2C=C(F)C=C3)=C1C,Tyrosine-protein kinase ABL1,Kinase,P00519,ABL1,ABL1_HUMAN,7.26,Kd,Tclin
+vandetanib,COC1=C(OCC2CCN(C)CC2)C=C2N=CN=C(NC3=C(F)C=C(Br)C=C3)C2=C1,Tyrosine-protein kinase ABL1,Kinase,P00519,ABL1,ABL1_HUMAN,8.05,Kd,Tclin
+dasatinib,CC1=NC(NC2=NC=C(S2)C(=O)NC2=C(C)C=CC=C2Cl)=CC(=N1)N1CCN(CCO)CC1,Activin receptor type-2B,Kinase,Q13705,ACVR2B,AVR2B_HUMAN,6.24,Kd,Tchem
+bosutinib,COC1=CC2=C(C=C1OCCCN1CCN(C)CC1)N=CC(C#N)=C2NC1=CC(OC)=C(Cl)C=C1Cl,Bone morphogenetic protein receptor type-2,Kinase,Q13873,BMPR2,BMPR2_HUMAN,6.24,Kd,Tchem
+nintedanib,COC(=O)C1=CC2=C(C=C1)\C(=C(\NC1=CC=C(C=C1)N(C)C(=O)CN1CCN(C)CC1)C1=CC=CC=C1)C(=O)N2,Bone morphogenetic protein receptor type-2,Kinase,Q13873,BMPR2,BMPR2_HUMAN,7.25,Kd,Tchem
+ruxolitinib,N#CC[C@H](C1CCCC1)N1C=C(C=N1)C1=C2C=CNC2=NC=N1,Bone morphogenetic protein receptor type-2,Kinase,Q13873,BMPR2,BMPR2_HUMAN,6.03,Kd,Tchem
+sunitinib,CCN(CC)CCNC(=O)C1=C(C)NC(\C=C2/C(=O)NC3=C2C=C(F)C=C3)=C1C,Bone morphogenetic protein receptor type-2,Kinase,Q13873,BMPR2,BMPR2_HUMAN,6.24,Kd,Tchem
+dabrafenib,CC(C)(C)C1=NC(=C(S1)C1=NC(N)=NC=C1)C1=C(F)C(NS(=O)(=O)C2=C(F)C=CC=C2F)=CC=C1,Serine/threonine-protein kinase B-raf,Kinase,P15056,BRAF,BRAF_HUMAN,9.1549015,IC50,Tclin
+dasatinib,CC1=NC(NC2=NC=C(S2)C(=O)NC2=C(C)C=CC=C2Cl)=CC(=N1)N1CCN(CCO)CC1,Serine/threonine-protein kinase B-raf,Kinase,P15056,BRAF,BRAF_HUMAN,6.3,Kd,Tclin
+encorafenib,COC(=O)N[C@@H](C)CNC1=NC(=CC=N1)C1=CN(N=C1C1=C(F)C(NS(C)(=O)=O)=CC(Cl)=C1)C(C)C,Serine/threonine-protein kinase B-raf,Kinase,P15056,BRAF,BRAF_HUMAN,9.327902,IC50,Tclin
+nilotinib,CC1=CN(C=N1)C1=CC(=CC(NC(=O)C2=CC(NC3=NC=CC(=N3)C3=CN=CC=C3)=C(C)C=C2)=C1)C(F)(F)F,Serine/threonine-protein kinase B-raf,Kinase,P15056,BRAF,BRAF_HUMAN,6.24,Kd,Tclin
+pazopanib,CN(C1=CC2=NN(C)C(C)=C2C=C1)C1=NC(NC2=CC(=C(C)C=C2)S(N)(=O)=O)=NC=C1,Serine/threonine-protein kinase B-raf,Kinase,P15056,BRAF,BRAF_HUMAN,6.37,Kd,Tclin
+regorafenib,CNC(=O)C1=CC(OC2=CC(F)=C(NC(=O)NC3=CC(=C(Cl)C=C3)C(F)(F)F)C=C2)=CC=N1,Serine/threonine-protein kinase B-raf,Kinase,P15056,BRAF,BRAF_HUMAN,7.55,IC50,Tclin
+sorafenib,CNC(=O)C1=CC(OC2=CC=C(NC(=O)NC3=CC=C(Cl)C(=C3)C(F)(F)F)C=C2)=CC=N1,Serine/threonine-protein kinase B-raf,Kinase,P15056,BRAF,BRAF_HUMAN,7.66,Ki,Tclin
+vemurafenib,CCCS(=O)(=O)NC1=CC=C(F)C(C(=O)C2=CNC3=NC=C(C=C23)C2=CC=C(Cl)C=C2)=C1F,Serine/threonine-protein kinase B-raf,Kinase,P15056,BRAF,BRAF_HUMAN,7.68,IC50,Tclin
+diltiazem,COC1=CC=C(C=C1)[C@@H]1SC2=CC=CC=C2N(CCN(C)C)C(=O)[C@@H]1OC(C)=O,Voltage-dependent L-type calcium channel subunit alpha-1C,Ion channel,Q13936,CACNA1C,CAC1C_HUMAN,7.3188,IC50,Tclin
+nifedipine,COC(=O)C1=C(C)NC(C)=C(C1C1=C(C=CC=C1)[N+]([O-])=O)C(=O)OC,Voltage-dependent L-type calcium channel subunit alpha-1C,Ion channel,Q13936,CACNA1C,CAC1C_HUMAN,9.4,Kd,Tclin
+nisoldipine,COC(=O)C1=C(C)NC(C)=C(C1C1=C(C=CC=C1)[N+]([O-])=O)C(=O)OCC(C)C,Voltage-dependent L-type calcium channel subunit alpha-1C,Ion channel,Q13936,CACNA1C,CAC1C_HUMAN,7.1,IC50,Tclin
+ponatinib,CN1CCN(CC2=CC=C(NC(=O)C3=CC=C(C)C(=C3)C#CC3=CN=C4C=CC=NN34)C=C2C(F)(F)F)CC1,Cyclin-dependent kinase 8,Kinase,P49336,CDK8,CDK8_HUMAN,8.17,Kd,Tchem
+sorafenib,CNC(=O)C1=CC(OC2=CC=C(NC(=O)NC3=CC=C(Cl)C(=C3)C(F)(F)F)C=C2)=CC=N1,Cyclin-dependent kinase 8,Kinase,P49336,CDK8,CDK8_HUMAN,6.51,Kd,Tchem
+acetylcholine,CC(=O)OCC[N+](C)(C)C,Muscarinic acetylcholine receptor M3,GPCR,P20309,CHRM3,ACM3_HUMAN,6.66,EC50,Tclin
+aclidinium bromide,OC(C(=O)O[C@H]1C[N+]2(CCCOC3=CC=CC=C3)CCC1CC2)(C1=CC=CS1)C1=CC=CS1,Muscarinic acetylcholine receptor M3,GPCR,P20309,CHRM3,ACM3_HUMAN,10.15,Ki,Tclin
+amiodarone,CCCCC1=C(C(=O)C2=CC(I)=C(OCCN(CC)CC)C(I)=C2)C2=C(O1)C=CC=C2,Muscarinic acetylcholine receptor M3,GPCR,P20309,CHRM3,ACM3_HUMAN,6.168130226,Ki,Tclin
+amitriptyline,CN(C)CCC=C1C2=CC=CC=C2CCC2=C1C=CC=C2,Muscarinic acetylcholine receptor M3,GPCR,P20309,CHRM3,ACM3_HUMAN,7.89,Ki,Tclin
+amoxapine,ClC1=CC=C2OC3=C(C=CC=C3)N=C(N3CCNCC3)C2=C1,Muscarinic acetylcholine receptor M3,GPCR,P20309,CHRM3,ACM3_HUMAN,6.4225082,Ki,Tclin
+astemizole,COC1=CC=C(CCN2CCC(CC2)NC2=NC3=C(C=CC=C3)N2CC2=CC=C(F)C=C2)C=C1,Muscarinic acetylcholine receptor M3,GPCR,P20309,CHRM3,ACM3_HUMAN,6.749579998,Ki,Tclin
+atropine,CN1[C@H]2CC[C@@H]1C[C@@H](C2)OC(=O)C(CO)C1=CC=CC=C1,Muscarinic acetylcholine receptor M3,GPCR,P20309,CHRM3,ACM3_HUMAN,9.5,Ki,Tclin
+benzatropine,CN1[C@H]2CC[C@@H]1C[C@@H](C2)OC(C1=CC=CC=C1)C1=CC=CC=C1,Muscarinic acetylcholine receptor M3,GPCR,P20309,CHRM3,ACM3_HUMAN,8.9586,Ki,Tclin
+benzethonium,CC(C)(C)CC(C)(C)C1=CC=C(OCCOCC[N+](C)(C)CC2=CC=CC=C2)C=C1,Muscarinic acetylcholine receptor M3,GPCR,P20309,CHRM3,ACM3_HUMAN,7.091514981,Ki,Tclin
+bietamiverine,CCN(CC)CCOC(=O)C(N1CCCCC1)C1=CC=CC=C1,Muscarinic acetylcholine receptor M3,GPCR,P20309,CHRM3,ACM3_HUMAN,6.73,Ki,Tclin
+biperiden,OC(CCN1CCCCC1)(C1CC2CC1C=C2)C1=CC=CC=C1,Muscarinic acetylcholine receptor M3,GPCR,P20309,CHRM3,ACM3_HUMAN,8.41,Kd,Tclin
+carbachol,C[N+](C)(C)CCOC(N)=O,Muscarinic acetylcholine receptor M3,GPCR,P20309,CHRM3,ACM3_HUMAN,8.699,EC50,Tclin
+cevimeline,CC1OC2(CS1)CN1CCC2CC1,Muscarinic acetylcholine receptor M3,GPCR,P20309,CHRM3,ACM3_HUMAN,7.3188,EC50,Tclin
+chlorpromazine,CN(C)CCCN1C2=CC=CC=C2SC2=C1C=C(Cl)C=C2,Muscarinic acetylcholine receptor M3,GPCR,P20309,CHRM3,ACM3_HUMAN,7.25091362,Ki,Tclin
+chlorprothixene,CN(C)CC\C=C1\C2=CC=CC=C2SC2=C1C=C(Cl)C=C2,Muscarinic acetylcholine receptor M3,GPCR,P20309,CHRM3,ACM3_HUMAN,7.657577319,Ki,Tclin
+cinnarizine,C(\C=C\C1=CC=CC=C1)N1CCN(CC1)C(C1=CC=CC=C1)C1=CC=CC=C1,Muscarinic acetylcholine receptor M3,GPCR,P20309,CHRM3,ACM3_HUMAN,6.790484985,Ki,Tclin
+clemastine,CN1CCC[C@@H]1CCO[C@](C)(C1=CC=CC=C1)C1=CC=C(Cl)C=C1,Muscarinic acetylcholine receptor M3,GPCR,P20309,CHRM3,ACM3_HUMAN,8.083546051,Ki,Tclin
+clidinium,C[N+]12CCC(CC1)C(C2)OC(=O)C(O)(C1=CC=CC=C1)C1=CC=CC=C1,Muscarinic acetylcholine receptor M3,GPCR,P20309,CHRM3,ACM3_HUMAN,9.6,Ki,Tclin
+clomifene,CCN(CC)CCOC1=CC=C(C=C1)C(=C(Cl)C1=CC=CC=C1)C1=CC=CC=C1,Muscarinic acetylcholine receptor M3,GPCR,P20309,CHRM3,ACM3_HUMAN,6.35753548,Ki,Tclin
+clomipramine,CN(C)CCCN1C2=CC(Cl)=CC=C2CCC2=C1C=CC=C2,Muscarinic acetylcholine receptor M3,GPCR,P20309,CHRM3,ACM3_HUMAN,7.443697499,Ki,Tclin
+clozapine,CN1CCN(CC1)C1=NC2=CC(Cl)=CC=C2NC2=C1C=CC=C2,Muscarinic acetylcholine receptor M3,GPCR,P20309,CHRM3,ACM3_HUMAN,7.5911,Ki,Tclin
+cyamemazine,CC(CN(C)C)CN1C2=CC=CC=C2SC2=C1C=C(C=C2)C#N,Muscarinic acetylcholine receptor M3,GPCR,P20309,CHRM3,ACM3_HUMAN,7.494850159,Ki,Tclin
+cyclizine,CN1CCN(CC1)C(C1=CC=CC=C1)C1=CC=CC=C1,Muscarinic acetylcholine receptor M3,GPCR,P20309,CHRM3,ACM3_HUMAN,6.798602876,Ki,Tclin
+cyclobenzaprine,CN(C)CCC=C1C2=CC=CC=C2C=CC2=C1C=CC=C2,Muscarinic acetylcholine receptor M3,GPCR,P20309,CHRM3,ACM3_HUMAN,8.22184875,Ki,Tclin
+cyproheptadine,CN1CCC(CC1)=C1C2=CC=CC=C2C=CC2=C1C=CC=C2,Muscarinic acetylcholine receptor M3,GPCR,P20309,CHRM3,ACM3_HUMAN,8,Ki,Tclin
+darifenacin,NC(=O)C([C@@H]1CCN(CCC2=CC=C3OCCC3=C2)C1)(C1=CC=CC=C1)C1=CC=CC=C1,Muscarinic acetylcholine receptor M3,GPCR,P20309,CHRM3,ACM3_HUMAN,9.52,Kd,Tclin
+desipramine,CNCCCN1C2=CC=CC=C2CCC2=C1C=CC=C2,Muscarinic acetylcholine receptor M3,GPCR,P20309,CHRM3,ACM3_HUMAN,6.68,Ki,Tclin
+desloratadine,ClC1=CC=C2C(CCC3=C(N=CC=C3)C2=C2CCNCC2)=C1,Muscarinic acetylcholine receptor M3,GPCR,P20309,CHRM3,ACM3_HUMAN,7.49,Ki,Tclin
+dexchlorpheniramine,CN(C)CC[C@@H](C1=CC=C(Cl)C=C1)C1=CC=CC=N1,Muscarinic acetylcholine receptor M3,GPCR,P20309,CHRM3,ACM3_HUMAN,6.262012674,Ki,Tclin
+dicycloverine,CCN(CC)CCOC(=O)C1(CCCCC1)C1CCCCC1,Muscarinic acetylcholine receptor M3,GPCR,P20309,CHRM3,ACM3_HUMAN,9.032920266,Ki,Tclin
+dimenhydrinate,(null),Muscarinic acetylcholine receptor M3,GPCR,P20309,CHRM3,ACM3_HUMAN,7.022276395,Ki,Tclin
+dimetindene,CC(C1=C(CCN(C)C)CC2=C1C=CC=C2)C1=CC=CC=N1,Muscarinic acetylcholine receptor M3,GPCR,P20309,CHRM3,ACM3_HUMAN,6.72,Ki,Tclin
+diphenhydramine,CN(C)CCOC(C1=CC=CC=C1)C1=CC=CC=C1,Muscarinic acetylcholine receptor M3,GPCR,P20309,CHRM3,ACM3_HUMAN,6.6402,Ki,Tclin
+diphenidol,OC(CCCN1CCCCC1)(C1=CC=CC=C1)C1=CC=CC=C1,Muscarinic acetylcholine receptor M3,GPCR,P20309,CHRM3,ACM3_HUMAN,7.283996656,Ki,Tclin
+dosulepin,CN(C)CC\C=C1/C2=CC=CC=C2CSC2=CC=CC=C12,Muscarinic acetylcholine receptor M3,GPCR,P20309,CHRM3,ACM3_HUMAN,7.4202,Ki,Tclin
+doxepin,CN(C)CCC=C1C2=CC=CC=C2COC2=C1C=CC=C2,Muscarinic acetylcholine receptor M3,GPCR,P20309,CHRM3,ACM3_HUMAN,7.284,Ki,Tclin
+ebastine,CC(C)(C)C1=CC=C(C=C1)C(=O)CCCN1CCC(CC1)OC(C1=CC=CC=C1)C1=CC=CC=C1,Muscarinic acetylcholine receptor M3,GPCR,P20309,CHRM3,ACM3_HUMAN,6.862645889,Ki,Tclin
+econazole,ClC1=CC=C(COC(CN2C=CN=C2)C2=C(Cl)C=C(Cl)C=C2)C=C1,Muscarinic acetylcholine receptor M3,GPCR,P20309,CHRM3,ACM3_HUMAN,6.42136079,Ki,Tclin
+femoxetine,COC1=CC=C(OC[C@H]2CN(C)CC[C@@H]2C2=CC=CC=C2)C=C1,Muscarinic acetylcholine receptor M3,GPCR,P20309,CHRM3,ACM3_HUMAN,6.657577319,Ki,Tclin
+fesoterodine,CC(C)N(CC[C@H](C1=CC=CC=C1)C1=C(OC(=O)C(C)C)C=CC(CO)=C1)C(C)C,Muscarinic acetylcholine receptor M3,GPCR,P20309,CHRM3,ACM3_HUMAN,6.2706,Ki,Tclin
+flunarizine,FC1=CC=C(C=C1)C(N1CCN(C\C=C\C2=CC=CC=C2)CC1)C1=CC=C(F)C=C1,Muscarinic acetylcholine receptor M3,GPCR,P20309,CHRM3,ACM3_HUMAN,6.504455662,Ki,Tclin
+gentian violet,CN(C)C1=CC=C(C=C1)C(C1=CC=C(C=C1)N(C)C)=C1C=CC(C=C1)=[N+](C)C,Muscarinic acetylcholine receptor M3,GPCR,P20309,CHRM3,ACM3_HUMAN,6.037157319,Ki,Tclin
+glycopyrronium bromide,C[N+]1(C)CCC(C1)OC(=O)C(O)(C1CCCC1)C1=CC=CC=C1,Muscarinic acetylcholine receptor M3,GPCR,P20309,CHRM3,ACM3_HUMAN,9.640000343,Ki,Tclin
+hexocyclium,C[N+]1(C)CCN(CC(O)(C2CCCCC2)C2=CC=CC=C2)CC1,Muscarinic acetylcholine receptor M3,GPCR,P20309,CHRM3,ACM3_HUMAN,8.9,Ki,Tclin
+homatropine,CN1[C@H]2CC[C@@H]1C[C@@H](C2)OC(=O)C(O)C1=CC=CC=C1,Muscarinic acetylcholine receptor M3,GPCR,P20309,CHRM3,ACM3_HUMAN,7.795880017,Ki,Tclin
+hyoscyamine,CN1[C@H]2CC[C@@H]1C[C@@H](C2)OC(=O)[C@H](CO)C1=CC=CC=C1,Muscarinic acetylcholine receptor M3,GPCR,P20309,CHRM3,ACM3_HUMAN,9.8,Ki,Tclin
+imidafenacin,CC1=NC=CN1CCC(C(N)=O)(C1=CC=CC=C1)C1=CC=CC=C1,Muscarinic acetylcholine receptor M3,GPCR,P20309,CHRM3,ACM3_HUMAN,9.498940468,Kb,Tclin
+imipramine,CN(C)CCCN1C2=CC=CC=C2CCC2=C1C=CC=C2,Muscarinic acetylcholine receptor M3,GPCR,P20309,CHRM3,ACM3_HUMAN,7.2218,Ki,Tclin
+ipratropium,CC(C)[N+]1(C)[C@H]2CC[C@@H]1C[C@@H](C2)OC(=O)C(CO)C1=CC=CC=C1,Muscarinic acetylcholine receptor M3,GPCR,P20309,CHRM3,ACM3_HUMAN,9.2924,Ki,Tclin
+ketotifen,CN1CCC(CC1)=C1C2=C(SC=C2)C(=O)CC2=C1C=CC=C2,Muscarinic acetylcholine receptor M3,GPCR,P20309,CHRM3,ACM3_HUMAN,6.5771,Ki,Tclin
+lofepramine,CN(CCCN1C2=CC=CC=C2CCC2=C1C=CC=C2)CC(=O)C1=CC=C(Cl)C=C1,Muscarinic acetylcholine receptor M3,GPCR,P20309,CHRM3,ACM3_HUMAN,6.8861,Ki,Tclin
+loxapine,CN1CCN(CC1)C1=NC2=C(OC3=CC=C(Cl)C=C13)C=CC=C2,Muscarinic acetylcholine receptor M3,GPCR,P20309,CHRM3,ACM3_HUMAN,6.913640022,Ki,Tclin
+maprotiline,CNCCCC12CCC(C3=CC=CC=C13)C1=C2C=CC=C1,Muscarinic acetylcholine receptor M3,GPCR,P20309,CHRM3,ACM3_HUMAN,7,Ki,Tclin
+mepacrine,CCN(CC)CCCC(C)NC1=C2C=C(OC)C=CC2=NC2=CC(Cl)=CC=C12,Muscarinic acetylcholine receptor M3,GPCR,P20309,CHRM3,ACM3_HUMAN,6.575118363,Ki,Tclin
+mepenzolate,C[N+]1(C)CCCC(C1)OC(=O)C(O)(C1=CC=CC=C1)C1=CC=CC=C1,Muscarinic acetylcholine receptor M3,GPCR,P20309,CHRM3,ACM3_HUMAN,8.59,Ki,Tclin
+mequitazine,C(C1CN2CCC1CC2)N1C2=CC=CC=C2SC2=CC=CC=C12,Muscarinic acetylcholine receptor M3,GPCR,P20309,CHRM3,ACM3_HUMAN,8.27572413,Ki,Tclin
+mesoridazine,CN1CCCCC1CCN1C2=CC=CC=C2SC2=C1C=C(C=C2)S(C)=O,Muscarinic acetylcholine receptor M3,GPCR,P20309,CHRM3,ACM3_HUMAN,7.045757294,Ki,Tclin
+methscopolamine,C[N+]1(C)[C@H]2C[C@@H](C[C@@H]1[C@H]1O[C@@H]21)OC(=O)[C@H](CO)C1=CC=CC=C1,Muscarinic acetylcholine receptor M3,GPCR,P20309,CHRM3,ACM3_HUMAN,10.4,Ki,Tclin
+mianserin,CN1CCN2C(C1)C1=C(CC3=C2C=CC=C3)C=CC=C1,Muscarinic acetylcholine receptor M3,GPCR,P20309,CHRM3,ACM3_HUMAN,6.525783736,Ki,Tclin
+miconazole,ClC1=CC(Cl)=C(COC(CN2C=CN=C2)C2=C(Cl)C=C(Cl)C=C2)C=C1,Muscarinic acetylcholine receptor M3,GPCR,P20309,CHRM3,ACM3_HUMAN,6.175223538,Ki,Tclin
+nortriptyline,CNCCC=C1C2=CC=CC=C2CCC2=C1C=CC=C2,Muscarinic acetylcholine receptor M3,GPCR,P20309,CHRM3,ACM3_HUMAN,7.301,Ki,Tclin
+olanzapine,CN1CCN(CC1)C1=NC2=CC=CC=C2NC2=C1C=C(C)S2,Muscarinic acetylcholine receptor M3,GPCR,P20309,CHRM3,ACM3_HUMAN,7.136,Ki,Tclin
+orphenadrine,CN(C)CCOC(C1=CC=CC=C1)C1=C(C)C=CC=C1,Muscarinic acetylcholine receptor M3,GPCR,P20309,CHRM3,ACM3_HUMAN,7.431798276,Ki,Tclin
+oxiconazole,ClC1=CC(Cl)=C(CO\N=C(/CN2C=CN=C2)C2=C(Cl)C=C(Cl)C=C2)C=C1,Muscarinic acetylcholine receptor M3,GPCR,P20309,CHRM3,ACM3_HUMAN,6.017547849,Ki,Tclin
+oxybutynin,CCN(CC)CC#CCOC(=O)C(O)(C1CCCCC1)C1=CC=CC=C1,Muscarinic acetylcholine receptor M3,GPCR,P20309,CHRM3,ACM3_HUMAN,9.11,Ki,Tclin
+paroxetine,FC1=CC=C(C=C1)[C@@H]1CCNC[C@H]1COC1=CC2=C(OCO2)C=C1,Muscarinic acetylcholine receptor M3,GPCR,P20309,CHRM3,ACM3_HUMAN,7.420216403,Ki,Tclin
+pecazine,CN1CCCC(CN2C3=CC=CC=C3SC3=CC=CC=C23)C1,Muscarinic acetylcholine receptor M3,GPCR,P20309,CHRM3,ACM3_HUMAN,7.397940009,Ki,Tclin
+perhexiline,C(C(C1CCCCC1)C1CCCCC1)C1CCCCN1,Muscarinic acetylcholine receptor M3,GPCR,P20309,CHRM3,ACM3_HUMAN,6.179798541,Ki,Tclin
+pilocarpine,CC[C@H]1[C@@H](CC2=CN=CN2C)COC1=O,Muscarinic acetylcholine receptor M3,GPCR,P20309,CHRM3,ACM3_HUMAN,6.96999979,EC50,Tclin
+pirenzepine,CN1CCN(CC(=O)N2C3=CC=CC=C3C(=O)NC3=C2N=CC=C3)CC1,Muscarinic acetylcholine receptor M3,GPCR,P20309,CHRM3,ACM3_HUMAN,6.61,Ki,Tclin
+pridinol,OC(CCN1CCCCC1)(C1=CC=CC=C1)C1=CC=CC=C1,Muscarinic acetylcholine receptor M3,GPCR,P20309,CHRM3,ACM3_HUMAN,8.19382,Ki,Tclin
+prochlorperazine,CN1CCN(CCCN2C3=CC=CC=C3SC3=C2C=C(Cl)C=C3)CC1,Muscarinic acetylcholine receptor M3,GPCR,P20309,CHRM3,ACM3_HUMAN,6.493494968,Ki,Tclin
+procyclidine,OC(CCN1CCCC1)(C1CCCCC1)C1=CC=CC=C1,Muscarinic acetylcholine receptor M3,GPCR,P20309,CHRM3,ACM3_HUMAN,7.906578541,Ki,Tclin
+promazine,CN(C)CCCN1C2=CC=CC=C2SC2=C1C=CC=C2,Muscarinic acetylcholine receptor M3,GPCR,P20309,CHRM3,ACM3_HUMAN,7.055517328,Ki,Tclin
+promethazine,CC(CN1C2=CC=CC=C2SC2=C1C=CC=C2)N(C)C,Muscarinic acetylcholine receptor M3,GPCR,P20309,CHRM3,ACM3_HUMAN,8.381951903,Ki,Tclin
+propantheline,CC(C)[N+](C)(CCOC(=O)C1C2=CC=CC=C2OC2=C1C=CC=C2)C(C)C,Muscarinic acetylcholine receptor M3,GPCR,P20309,CHRM3,ACM3_HUMAN,10,Ki,Tclin
+protriptyline,CNCCCC1C2=CC=CC=C2C=CC2=C1C=CC=C2,Muscarinic acetylcholine receptor M3,GPCR,P20309,CHRM3,ACM3_HUMAN,7,Ki,Tclin
+revefenacin,CN(CCN1CCC(CC1)OC(=O)NC1=C(C=CC=C1)C1=CC=CC=C1)C(=O)C1=CC=C(CN2CCC(CC2)C(N)=O)C=C1,Muscarinic acetylcholine receptor M3,GPCR,P20309,CHRM3,ACM3_HUMAN,9.75,Ki,Tclin
+sabcomeline,CO\N=C(/C#N)[C@H]1CN2CCC1CC2,Muscarinic acetylcholine receptor M3,GPCR,P20309,CHRM3,ACM3_HUMAN,7.22,IC50,Tclin
+scopolamine,CN1[C@H]2C[C@H](C[C@@H]1[C@H]1O[C@@H]21)OC(=O)[C@H](CO)C1=CC=CC=C1,Muscarinic acetylcholine receptor M3,GPCR,P20309,CHRM3,ACM3_HUMAN,9.4,Ki,Tclin
+solifenacin,O=C(O[C@H]1CN2CCC1CC2)N1CCC2=CC=CC=C2[C@@H]1C1=CC=CC=C1,Muscarinic acetylcholine receptor M3,GPCR,P20309,CHRM3,ACM3_HUMAN,6.88,IC50,Tclin
+sulconazole,ClC1=CC=C(CS[C@@H](CN2C=CN=C2)C2=CC=C(Cl)C=C2Cl)C=C1,Muscarinic acetylcholine receptor M3,GPCR,P20309,CHRM3,ACM3_HUMAN,6.142064735,Ki,Tclin
+suloctidil,CCCCCCCCNC(C)C(O)C1=CC=C(SC(C)C)C=C1,Muscarinic acetylcholine receptor M3,GPCR,P20309,CHRM3,ACM3_HUMAN,6.008773924,Ki,Tclin
+tamoxifen,CC\C(=C(/C1=CC=CC=C1)C1=CC=C(OCCN(C)C)C=C1)C1=CC=CC=C1,Muscarinic acetylcholine receptor M3,GPCR,P20309,CHRM3,ACM3_HUMAN,6.200659451,Ki,Tclin
+thioridazine,CSC1=CC=C2SC3=CC=CC=C3N(CCC3CCCCN3C)C2=C1,Muscarinic acetylcholine receptor M3,GPCR,P20309,CHRM3,ACM3_HUMAN,7.595220089,Ki,Tclin
+tiotropium bromide,C[N+]1(C)[C@H]2C[C@H](C[C@@H]1[C@H]1O[C@@H]21)OC(=O)C(O)(C1=CC=CS1)C1=CC=CS1,Muscarinic acetylcholine receptor M3,GPCR,P20309,CHRM3,ACM3_HUMAN,11.1,Ki,Tclin
+tolterodine,CC(C)N(CC[C@H](C1=CC=CC=C1)C1=C(O)C=CC(C)=C1)C(C)C,Muscarinic acetylcholine receptor M3,GPCR,P20309,CHRM3,ACM3_HUMAN,8.49,Ki,Tclin
+trihexyphenidyl,OC(CCN1CCCCC1)(C1CCCCC1)C1=CC=CC=C1,Muscarinic acetylcholine receptor M3,GPCR,P20309,CHRM3,ACM3_HUMAN,7.58,IC50,Tclin
+tropicamide,CCN(CC1=CC=NC=C1)C(=O)C(CO)C1=CC=CC=C1,Muscarinic acetylcholine receptor M3,GPCR,P20309,CHRM3,ACM3_HUMAN,7.522878745,Ki,Tclin
+umeclidinium,OC(C1=CC=CC=C1)(C1=CC=CC=C1)C12CC[N+](CCOCC3=CC=CC=C3)(CC1)CC2,Muscarinic acetylcholine receptor M3,GPCR,P20309,CHRM3,ACM3_HUMAN,10.22184849,Ki,Tclin
+valethamate,CCC(C)C(C(=O)OCC[N+](C)(CC)CC)C1=CC=CC=C1,Muscarinic acetylcholine receptor M3,GPCR,P20309,CHRM3,ACM3_HUMAN,8.25,Ki,Tclin
+xanomeline,CCCCCCOC1=NSN=C1C1=CCCN(C)C1,Muscarinic acetylcholine receptor M3,GPCR,P20309,CHRM3,ACM3_HUMAN,7.89,Ki,Tclin
+zotepine,CN(C)CCOC1=CC2=C(SC3=CC=C(Cl)C=C13)C=CC=C2,Muscarinic acetylcholine receptor M3,GPCR,P20309,CHRM3,ACM3_HUMAN,7.136677265,Ki,Tclin
+sunitinib,CCN(CC)CCNC(=O)C1=C(C)NC(\C=C2/C(=O)NC3=C2C=C(F)C=C3)=C1C,Inhibitor of nuclear factor kappa-B kinase subunit alpha,Kinase,O15111,CHUK,IKKA_HUMAN,6.28,Kd,Tchem
+entacapone,CCN(CC)C(=O)C(=C\C1=CC(=C(O)C(O)=C1)[N+]([O-])=O)\C#N,Catechol O-methyltransferase,Enzyme,P21964,COMT,COMT_HUMAN,9.522878647,Ki,Tclin
+opicapone,CC1=C(C2=NOC(=N2)C2=CC(O)=C(O)C(=C2)[N+]([O-])=O)C(Cl)=[N+]([O-])C(C)=C1Cl,Catechol O-methyltransferase,Enzyme,P21964,COMT,COMT_HUMAN,9,Ki,Tclin
+tolcapone,CC1=CC=C(C=C1)C(=O)C1=CC(=C(O)C(O)=C1)[N+]([O-])=O,Catechol O-methyltransferase,Enzyme,P21964,COMT,COMT_HUMAN,9.568635941,Ki,Tclin
+plerixafor,C(N1CCCNCCNCCCNCC1)C1=CC=C(CN2CCCNCCNCCCNCC2)C=C1,C-X-C chemokine receptor type 4,GPCR,P61073,CXCR4,CXCR4_HUMAN,6.05,Ki,Tclin
+afatinib,CN(C)C\C=C\C(=O)NC1=CC2=C(C=C1O[C@H]1CCOC1)N=CN=C2NC1=CC(Cl)=C(F)C=C1,Dual specificity tyrosine-phosphorylation-regulated kinase 1A,Kinase,Q13627,DYRK1A,DYR1A_HUMAN,6.01,Kd,Tchem
+midostaurin,CO[C@@H]1[C@@H](C[C@H]2O[C@]1(C)N1C3=CC=CC=C3C3=C4CNC(=O)C4=C4C5=CC=CC=C5N2C4=C13)N(C)C(=O)C1=CC=CC=C1,Dual specificity tyrosine-phosphorylation-regulated kinase 1A,Kinase,Q13627,DYRK1A,DYR1A_HUMAN,7,Kd,Tchem
+ruboxistaurin,CN(C)C[C@@H]1CCN2C=C(C3=CC=CC=C23)C2=C(C(=O)NC2=O)C2=CN(CCO1)C1=CC=CC=C21,Dual specificity tyrosine-phosphorylation-regulated kinase 1A,Kinase,Q13627,DYRK1A,DYR1A_HUMAN,6.6,Kd,Tchem
+ruxolitinib,N#CC[C@H](C1CCCC1)N1C=C(C=N1)C1=C2C=CNC2=NC=N1,Dual specificity tyrosine-phosphorylation-regulated kinase 1A,Kinase,Q13627,DYRK1A,DYR1A_HUMAN,6.04,Kd,Tchem
+sunitinib,CCN(CC)CCNC(=O)C1=C(C)NC(\C=C2/C(=O)NC3=C2C=C(F)C=C3)=C1C,Dual specificity tyrosine-phosphorylation-regulated kinase 1A,Kinase,Q13627,DYRK1A,DYR1A_HUMAN,6.7,Kd,Tchem
+racecadotril,CC(=O)SCC(CC1=CC=CC=C1)C(=O)NCC(=O)OCC1=CC=CC=C1,Endothelin-converting enzyme 1,Unclassified,P42892,ECE1,ECE1_HUMAN,8.1,IC50,(null)
+bosutinib,COC1=CC2=C(C=C1OCCCN1CCN(C)CC1)N=CC(C#N)=C2NC1=CC(OC)=C(Cl)C=C1Cl,Eukaryotic translation initiation factor 2-alpha kinase 4,Kinase,Q9P2K8,EIF2AK4,E2AK4_HUMAN,6.57,Kd,Tchem
+midostaurin,CO[C@@H]1[C@@H](C[C@H]2O[C@]1(C)N1C3=CC=CC=C3C3=C4CNC(=O)C4=C4C5=CC=CC=C5N2C4=C13)N(C)C(=O)C1=CC=CC=C1,Eukaryotic translation initiation factor 2-alpha kinase 4,Kinase,Q9P2K8,EIF2AK4,E2AK4_HUMAN,7.41,Kd,Tchem
+neratinib,CCOC1=CC2=NC=C(C#N)C(NC3=CC=C(OCC4=CC=CC=N4)C(Cl)=C3)=C2C=C1NC(=O)\C=C\CN(C)C,Eukaryotic translation initiation factor 2-alpha kinase 4,Kinase,Q9P2K8,EIF2AK4,E2AK4_HUMAN,7.02,Kd,Tchem
+sunitinib,CCN(CC)CCNC(=O)C1=C(C)NC(\C=C2/C(=O)NC3=C2C=C(F)C=C3)=C1C,Eukaryotic translation initiation factor 2-alpha kinase 4,Kinase,Q9P2K8,EIF2AK4,E2AK4_HUMAN,6.74,Kd,Tchem
+axitinib,CNC(=O)C1=C(SC2=CC=C3C(NN=C3\C=C\C3=CC=CC=N3)=C2)C=CC=C1,Fibroblast growth factor receptor 1,Kinase,P11362,FGFR1,FGFR1_HUMAN,6.42,Kd,Tclin
+erdafitinib,COC1=CC(=CC(OC)=C1)N(CCNC(C)C)C1=CC2=NC(=CN=C2C=C1)C1=CN(C)N=C1,Fibroblast growth factor receptor 1,Kinase,P11362,FGFR1,FGFR1_HUMAN,8.9208,IC50,Tclin
+lenvatinib,COC1=CC2=C(C=C1C(N)=O)C(OC1=CC=C(NC(=O)NC3CC3)C(Cl)=C1)=CC=N2,Fibroblast growth factor receptor 1,Kinase,P11362,FGFR1,FGFR1_HUMAN,7.337242126,IC50,Tclin
+nintedanib,COC(=O)C1=CC2=C(C=C1)\C(=C(\NC1=CC=C(C=C1)N(C)C(=O)CN1CCN(C)CC1)C1=CC=CC=C1)C(=O)N2,Fibroblast growth factor receptor 1,Kinase,P11362,FGFR1,FGFR1_HUMAN,7.42021656,IC50,Tclin
+pemigatinib,CCN1C(=O)N(CC2=CN=C3NC(CN4CCOCC4)=CC3=C12)C1=C(F)C(OC)=CC(OC)=C1F,Fibroblast growth factor receptor 1,Kinase,P11362,FGFR1,FGFR1_HUMAN,9.4,IC50,Tclin
+ponatinib,CN1CCN(CC2=CC=C(NC(=O)C3=CC=C(C)C(=C3)C#CC3=CN=C4C=CC=NN34)C=C2C(F)(F)F)CC1,Fibroblast growth factor receptor 1,Kinase,P11362,FGFR1,FGFR1_HUMAN,8.657577515,IC50,Tclin
+sunitinib,CCN(CC)CCNC(=O)C1=C(C)NC(\C=C2/C(=O)NC3=C2C=C(F)C=C3)=C1C,Fibroblast growth factor receptor 1,Kinase,P11362,FGFR1,FGFR1_HUMAN,6.28,Kd,Tclin
+tivozanib,COC1=C(OC)C=C2C(OC3=CC=C(NC(=O)NC4=NOC(C)=C4)C(Cl)=C3)=CC=NC2=C1,Fibroblast growth factor receptor 1,Kinase,P11362,FGFR1,FGFR1_HUMAN,6.524329,IC50,Tclin
+vandetanib,COC1=C(OCC2CCN(C)CC2)C=C2N=CN=C(NC3=C(F)C=C(Br)C=C3)C2=C1,Fibroblast growth factor receptor 1,Kinase,P11362,FGFR1,FGFR1_HUMAN,6.25,Kd,Tclin
+axitinib,CNC(=O)C1=C(SC2=CC=C3C(NN=C3\C=C\C3=CC=CC=N3)=C2)C=CC=C1,Fibroblast growth factor receptor 2,Kinase,P21802,FGFR2,FGFR2_HUMAN,6.96,Kd,Tclin
+ceritinib,CC(C)OC1=C(NC2=NC=C(Cl)C(NC3=C(C=CC=C3)S(=O)(=O)C(C)C)=N2)C=C(C)C(=C1)C1CCNCC1,Fibroblast growth factor receptor 2,Kinase,P21802,FGFR2,FGFR2_HUMAN,6.59,IC50,Tclin
+erdafitinib,COC1=CC(=CC(OC)=C1)N(CCNC(C)C)C1=CC2=NC(=CN=C2C=C1)C1=CN(C)N=C1,Fibroblast growth factor receptor 2,Kinase,P21802,FGFR2,FGFR2_HUMAN,8.6021,IC50,Tclin
+ibrutinib,NC1=C2C(=NC=N1)N(N=C2C1=CC=C(OC2=CC=CC=C2)C=C1)[C@@H]1CCCN(C1)C(=O)C=C,Fibroblast growth factor receptor 2,Kinase,P21802,FGFR2,FGFR2_HUMAN,6.55,IC50,Tclin
+nintedanib,COC(=O)C1=CC2=C(C=C1)\C(=C(\NC1=CC=C(C=C1)N(C)C(=O)CN1CCN(C)CC1)C1=CC=CC=C1)C(=O)N2,Fibroblast growth factor receptor 2,Kinase,P21802,FGFR2,FGFR2_HUMAN,6.46,Kd,Tclin
+pazopanib,CN(C1=CC2=NN(C)C(C)=C2C=C1)C1=NC(NC2=CC(=C(C)C=C2)S(N)(=O)=O)=NC=C1,Fibroblast growth factor receptor 2,Kinase,P21802,FGFR2,FGFR2_HUMAN,6.68,Kd,Tclin
+pemigatinib,CCN1C(=O)N(CC2=CN=C3NC(CN4CCOCC4)=CC3=C12)C1=C(F)C(OC)=CC(OC)=C1F,Fibroblast growth factor receptor 2,Kinase,P21802,FGFR2,FGFR2_HUMAN,9.3,IC50,Tclin
+sunitinib,CCN(CC)CCNC(=O)C1=C(C)NC(\C=C2/C(=O)NC3=C2C=C(F)C=C3)=C1C,Fibroblast growth factor receptor 2,Kinase,P21802,FGFR2,FGFR2_HUMAN,6.28,Kd,Tclin
+axitinib,CNC(=O)C1=C(SC2=CC=C3C(NN=C3\C=C\C3=CC=CC=N3)=C2)C=CC=C1,Fibroblast growth factor receptor 3,Kinase,P22607,FGFR3,FGFR3_HUMAN,6.68,Kd,Tclin
+ceritinib,CC(C)OC1=C(NC2=NC=C(Cl)C(NC3=C(C=CC=C3)S(=O)(=O)C(C)C)=N2)C=C(C)C(=C1)C1CCNCC1,Fibroblast growth factor receptor 3,Kinase,P22607,FGFR3,FGFR3_HUMAN,6.37,IC50,Tclin
+elliptinium,CC1=C2C=C[N+](C)=CC2=C(C)C2=C1NC1=CC=C(O)C=C21,Fibroblast growth factor receptor 3,Kinase,P22607,FGFR3,FGFR3_HUMAN,6.3,IC50,Tclin
+erdafitinib,COC1=CC(=CC(OC)=C1)N(CCNC(C)C)C1=CC2=NC(=CN=C2C=C1)C1=CN(C)N=C1,Fibroblast growth factor receptor 3,Kinase,P22607,FGFR3,FGFR3_HUMAN,8.5229,IC50,Tclin
+nintedanib,COC(=O)C1=CC2=C(C=C1)\C(=C(\NC1=CC=C(C=C1)N(C)C(=O)CN1CCN(C)CC1)C1=CC=CC=C1)C(=O)N2,Fibroblast growth factor receptor 3,Kinase,P22607,FGFR3,FGFR3_HUMAN,7.03,Kd,Tclin
+pazopanib,CN(C1=CC2=NN(C)C(C)=C2C=C1)C1=NC(NC2=CC(=C(C)C=C2)S(N)(=O)=O)=NC=C1,Fibroblast growth factor receptor 3,Kinase,P22607,FGFR3,FGFR3_HUMAN,6.21,Kd,Tclin
+pemigatinib,CCN1C(=O)N(CC2=CN=C3NC(CN4CCOCC4)=CC3=C12)C1=C(F)C(OC)=CC(OC)=C1F,Fibroblast growth factor receptor 3,Kinase,P22607,FGFR3,FGFR3_HUMAN,9,IC50,Tclin
+sunitinib,CCN(CC)CCNC(=O)C1=C(C)NC(\C=C2/C(=O)NC3=C2C=C(F)C=C3)=C1C,Fibroblast growth factor receptor 3,Kinase,P22607,FGFR3,FGFR3_HUMAN,6.54,Kd,Tclin
+vandetanib,COC1=C(OCC2CCN(C)CC2)C=C2N=CN=C(NC3=C(F)C=C(Br)C=C3)C2=C1,Fibroblast growth factor receptor 3,Kinase,P22607,FGFR3,FGFR3_HUMAN,6.62,Kd,Tclin
+axitinib,CNC(=O)C1=C(SC2=CC=C3C(NN=C3\C=C\C3=CC=CC=N3)=C2)C=CC=C1,Vascular endothelial growth factor receptor 3,Kinase,P35916,FLT4,VGFR3_HUMAN,6.77,Kd,Tclin
+lenvatinib,COC1=CC2=C(C=C1C(N)=O)C(OC1=CC=C(NC(=O)NC3CC3)C(Cl)=C1)=CC=N2,Vascular endothelial growth factor receptor 3,Kinase,P35916,FLT4,VGFR3_HUMAN,8.283996582,IC50,Tclin
+midostaurin,CO[C@@H]1[C@@H](C[C@H]2O[C@]1(C)N1C3=CC=CC=C3C3=C4CNC(=O)C4=C4C5=CC=CC=C5N2C4=C13)N(C)C(=O)C1=CC=CC=C1,Vascular endothelial growth factor receptor 3,Kinase,P35916,FLT4,VGFR3_HUMAN,6.17,Kd,Tclin
+nintedanib,COC(=O)C1=CC2=C(C=C1)\C(=C(\NC1=CC=C(C=C1)N(C)C(=O)CN1CCN(C)CC1)C1=CC=CC=C1)C(=O)N2,Vascular endothelial growth factor receptor 3,Kinase,P35916,FLT4,VGFR3_HUMAN,8.301030159,IC50,Tclin
+pazopanib,CN(C1=CC2=NN(C)C(C)=C2C=C1)C1=NC(NC2=CC(=C(C)C=C2)S(N)(=O)=O)=NC=C1,Vascular endothelial growth factor receptor 3,Kinase,P35916,FLT4,VGFR3_HUMAN,7.57,Kd,Tclin
+sorafenib,CNC(=O)C1=CC(OC2=CC=C(NC(=O)NC3=CC=C(Cl)C(=C3)C(F)(F)F)C=C2)=CC=N1,Vascular endothelial growth factor receptor 3,Kinase,P35916,FLT4,VGFR3_HUMAN,7.8,Kd,Tclin
+sunitinib,CCN(CC)CCNC(=O)C1=C(C)NC(\C=C2/C(=O)NC3=C2C=C(F)C=C3)=C1C,Vascular endothelial growth factor receptor 3,Kinase,P35916,FLT4,VGFR3_HUMAN,7.77,Ki,Tclin
+tivozanib,COC1=C(OC)C=C2C(OC3=CC=C(NC(=O)NC4=NOC(C)=C4)C(Cl)=C3)=CC=NC2=C1,Vascular endothelial growth factor receptor 3,Kinase,P35916,FLT4,VGFR3_HUMAN,9.619789,IC50,Tclin
+vandetanib,COC1=C(OCC2CCN(C)CC2)C=C2N=CN=C(NC3=C(F)C=C(Br)C=C3)C2=C1,Vascular endothelial growth factor receptor 3,Kinase,P35916,FLT4,VGFR3_HUMAN,6.52,Kd,Tclin
+belinostat,ONC(=O)C=CC1=CC(=CC=C1)S(=O)(=O)NC1=CC=CC=C1,Histone deacetylase 4,Enzyme,P56524,HDAC4,HDAC4_HUMAN,7.568636417,IC50,Tclin
+panobinostat,CC1=C(CCNCC2=CC=C(\C=C\C(=O)NO)C=C2)C2=CC=CC=C2N1,Histone deacetylase 4,Enzyme,P56524,HDAC4,HDAC4_HUMAN,9.22,Ki,Tclin
+romidepsin,C\C=C1/NC(=O)[C@H]2CSSCC\C=C\[C@H](CC(=O)N[C@H](C(C)C)C(=O)N2)OC(=O)[C@@H](NC1=O)C(C)C,Histone deacetylase 4,Enzyme,P56524,HDAC4,HDAC4_HUMAN,6.2924,IC50,Tclin
+vorinostat,ONC(=O)CCCCCCC(=O)NC1=CC=CC=C1,Histone deacetylase 4,Enzyme,P56524,HDAC4,HDAC4_HUMAN,7.8,Ki,Tclin
+stallimycin,CN1C=C(NC(=O)C2=CC(NC(=O)C3=CC(NC=O)=CN3C)=CN2C)C=C1C(=O)NCCC(N)=N,GTPase HRas,Cytosolic other,P01112,HRAS,RASH_HUMAN,6.7,IC50,Tchem
+astemizole,COC1=CC=C(CCN2CCC(CC2)NC2=NC3=C(C=CC=C3)N2CC2=CC=C(F)C=C2)C=C1,Potassium voltage-gated channel subfamily H member 1,Ion channel,O95259,KCNH1,KCNH1_HUMAN,6.7,IC50,Tclin
+dofetilide,CN(CCOC1=CC=C(NS(C)(=O)=O)C=C1)CCC1=CC=C(NS(C)(=O)=O)C=C1,Potassium voltage-gated channel subfamily H member 1,Ion channel,O95259,KCNH1,KCNH1_HUMAN,7.5,IC50,Tclin
+haloperidol,OC1(CCN(CCCC(=O)C2=CC=C(F)C=C2)CC1)C1=CC=C(Cl)C=C1,Potassium voltage-gated channel subfamily H member 1,Ion channel,O95259,KCNH1,KCNH1_HUMAN,6.2,IC50,Tclin
+terfenadine,CC(C)(C)C1=CC=C(C=C1)C(O)CCCN1CCC(CC1)C(O)(C1=CC=CC=C1)C1=CC=CC=C1,Potassium voltage-gated channel subfamily H member 1,Ion channel,O95259,KCNH1,KCNH1_HUMAN,7.8,IC50,Tclin
+binimetinib,CN1C=NC2=C(F)C(NC3=CC=C(Br)C=C3F)=C(C=C12)C(=O)NOCCO,Dual specificity mitogen-activated protein kinase kinase 1,Kinase,Q02750,MAP2K1,MP2K1_HUMAN,7.9,IC50,Tclin
+bosutinib,COC1=CC2=C(C=C1OCCCN1CCN(C)CC1)N=CC(C#N)=C2NC1=CC(OC)=C(Cl)C=C1Cl,Dual specificity mitogen-activated protein kinase kinase 1,Kinase,Q02750,MAP2K1,MP2K1_HUMAN,7.72,Kd,Tclin
+cobimetinib,OC1(CN(C1)C(=O)C1=C(NC2=CC=C(I)C=C2F)C(F)=C(F)C=C1)[C@@H]1CCCCN1,Dual specificity mitogen-activated protein kinase kinase 1,Kinase,Q02750,MAP2K1,MP2K1_HUMAN,9.045757294,IC50,Tclin
+neratinib,CCOC1=CC2=NC=C(C#N)C(NC3=CC=C(OCC4=CC=CC=N4)C(Cl)=C3)=C2C=C1NC(=O)\C=C\CN(C)C,Dual specificity mitogen-activated protein kinase kinase 1,Kinase,Q02750,MAP2K1,MP2K1_HUMAN,7.85,Kd,Tclin
+nintedanib,COC(=O)C1=CC2=C(C=C1)\C(=C(\NC1=CC=C(C=C1)N(C)C(=O)CN1CCN(C)CC1)C1=CC=CC=C1)C(=O)N2,Dual specificity mitogen-activated protein kinase kinase 1,Kinase,Q02750,MAP2K1,MP2K1_HUMAN,8,Kd,Tclin
+selumetinib,CN1C=NC2=C(F)C(NC3=CC=C(Br)C=C3Cl)=C(C=C12)C(=O)NOCCO,Dual specificity mitogen-activated protein kinase kinase 1,Kinase,Q02750,MAP2K1,MP2K1_HUMAN,7.85,IC50,Tclin
+sunitinib,CCN(CC)CCNC(=O)C1=C(C)NC(\C=C2/C(=O)NC3=C2C=C(F)C=C3)=C1C,Dual specificity mitogen-activated protein kinase kinase 1,Kinase,Q02750,MAP2K1,MP2K1_HUMAN,6.89,Kd,Tclin
+trametinib,CN1C(=O)C(C)=C2N(C(=O)N(C3CC3)C(=O)C2=C1NC1=C(F)C=C(I)C=C1)C1=CC(NC(C)=O)=CC=C1,Dual specificity mitogen-activated protein kinase kinase 1,Kinase,Q02750,MAP2K1,MP2K1_HUMAN,8.744727,IC50,Tclin
+bosutinib,COC1=CC2=C(C=C1OCCCN1CCN(C)CC1)N=CC(C#N)=C2NC1=CC(OC)=C(Cl)C=C1Cl,Mitogen-activated protein kinase kinase kinase 7,Kinase,O43318,MAP3K7,M3K7_HUMAN,7,Kd,Tchem
+midostaurin,CO[C@@H]1[C@@H](C[C@H]2O[C@]1(C)N1C3=CC=CC=C3C3=C4CNC(=O)C4=C4C5=CC=CC=C5N2C4=C13)N(C)C(=O)C1=CC=CC=C1,Mitogen-activated protein kinase kinase kinase 7,Kinase,O43318,MAP3K7,M3K7_HUMAN,6.89,Kd,Tchem
+nintedanib,COC(=O)C1=CC2=C(C=C1)\C(=C(\NC1=CC=C(C=C1)N(C)C(=O)CN1CCN(C)CC1)C1=CC=CC=C1)C(=O)N2,Mitogen-activated protein kinase kinase kinase 7,Kinase,O43318,MAP3K7,M3K7_HUMAN,8.39,Kd,Tchem
+ruxolitinib,N#CC[C@H](C1CCCC1)N1C=C(C=N1)C1=C2C=CNC2=NC=N1,Mitogen-activated protein kinase kinase kinase 7,Kinase,O43318,MAP3K7,M3K7_HUMAN,6.14,Kd,Tchem
+sorafenib,CNC(=O)C1=CC(OC2=CC=C(NC(=O)NC3=CC=C(Cl)C(=C3)C(F)(F)F)C=C2)=CC=N1,Mitogen-activated protein kinase kinase kinase 7,Kinase,O43318,MAP3K7,M3K7_HUMAN,6.16,Kd,Tchem
+sunitinib,CCN(CC)CCNC(=O)C1=C(C)NC(\C=C2/C(=O)NC3=C2C=C(F)C=C3)=C1C,Mitogen-activated protein kinase kinase kinase 7,Kinase,O43318,MAP3K7,M3K7_HUMAN,7.03,Kd,Tchem
+bithionol,OC1=C(SC2=C(O)C(Cl)=CC(Cl)=C2)C=C(Cl)C=C1Cl,Mitogen-activated protein kinase 1,Kinase,P28482,MAPK1,MK01_HUMAN,6.41453927,IC50,Tchem
+diiodohydroxyquinoline,OC1=C2N=CC=CC2=C(I)C=C1I,Mitogen-activated protein kinase 1,Kinase,P28482,MAPK1,MK01_HUMAN,6.53165267,IC50,Tchem
+hexachlorophene,OC1=C(Cl)C=C(Cl)C(Cl)=C1CC1=C(Cl)C(Cl)=CC(Cl)=C1O,Mitogen-activated protein kinase 1,Kinase,P28482,MAPK1,MK01_HUMAN,6.707743929,IC50,Tchem
+isotretinoin,C\C(\C=C\C1=C(C)CCCC1(C)C)=C/C=C/C(/C)=C\C(O)=O,Mitogen-activated protein kinase 1,Kinase,P28482,MAPK1,MK01_HUMAN,6.335358024,IC50,Tchem
+sorafenib,CNC(=O)C1=CC(OC2=CC=C(NC(=O)NC3=CC=C(Cl)C(=C3)C(F)(F)F)C=C2)=CC=N1,Mitogen-activated protein kinase 1,Kinase,P28482,MAPK1,MK01_HUMAN,6.96,IC50,Tchem
+tannic acid,(null),Mitogen-activated protein kinase 1,Kinase,P28482,MAPK1,MK01_HUMAN,6.730000019,IC50,Tchem
+tretinoin,C\C(\C=C\C1=C(C)CCCC1(C)C)=C/C=C/C(/C)=C/C(O)=O,Mitogen-activated protein kinase 1,Kinase,P28482,MAPK1,MK01_HUMAN,6.239577517,IC50,Tchem
+zafirlukast,COC1=C(CC2=CN(C)C3=C2C=C(NC(=O)OC2CCCC2)C=C3)C=CC(=C1)C(=O)NS(=O)(=O)C1=C(C)C=CC=C1,Mitogen-activated protein kinase 1,Kinase,P28482,MAPK1,MK01_HUMAN,6.269217724,IC50,Tchem
+bosutinib,COC1=CC2=C(C=C1OCCCN1CCN(C)CC1)N=CC(C#N)=C2NC1=CC(OC)=C(Cl)C=C1Cl,"Myosin light chain kinase, smooth muscle",Kinase,Q15746,MYLK,MYLK_HUMAN,6.31,Kd,Tchem
+midostaurin,CO[C@@H]1[C@@H](C[C@H]2O[C@]1(C)N1C3=CC=CC=C3C3=C4CNC(=O)C4=C4C5=CC=CC=C5N2C4=C13)N(C)C(=O)C1=CC=CC=C1,"Myosin light chain kinase, smooth muscle",Kinase,Q15746,MYLK,MYLK_HUMAN,6.66,Kd,Tchem
+nintedanib,COC(=O)C1=CC2=C(C=C1)\C(=C(\NC1=CC=C(C=C1)N(C)C(=O)CN1CCN(C)CC1)C1=CC=CC=C1)C(=O)N2,"Myosin light chain kinase, smooth muscle",Kinase,Q15746,MYLK,MYLK_HUMAN,6.54,Kd,Tchem
+ruboxistaurin,CN(C)C[C@@H]1CCN2C=C(C3=CC=CC=C23)C2=C(C(=O)NC2=O)C2=CN(CCO1)C1=CC=CC=C21,"Myosin light chain kinase, smooth muscle",Kinase,Q15746,MYLK,MYLK_HUMAN,6.54,Kd,Tchem
+ruxolitinib,N#CC[C@H](C1CCCC1)N1C=C(C=N1)C1=C2C=CNC2=NC=N1,"Myosin light chain kinase, smooth muscle",Kinase,Q15746,MYLK,MYLK_HUMAN,6.44,Kd,Tchem
+sunitinib,CCN(CC)CCNC(=O)C1=C(C)NC(\C=C2/C(=O)NC3=C2C=C(F)C=C3)=C1C,"Myosin light chain kinase, smooth muscle",Kinase,Q15746,MYLK,MYLK_HUMAN,7.64,Kd,Tchem
+crizotinib,C[C@@H](OC1=C(N)N=CC(=C1)C1=CN(N=C1)C1CCNCC1)C1=C(Cl)C=CC(F)=C1Cl,Serine/threonine-protein kinase Nek9,Kinase,Q8TD19,NEK9,NEK9_HUMAN,6.1,Kd,Tbio
+alirocumab,(null),Proprotein convertase subtilisin/kexin type 9,Enzyme,Q8NBP7,PCSK9,PCSK9_HUMAN,9.42,Kd,Tclin
+evolocumab,(null),Proprotein convertase subtilisin/kexin type 9,Enzyme,Q8NBP7,PCSK9,PCSK9_HUMAN,9.72,Kd,Tclin
+midostaurin,CO[C@@H]1[C@@H](C[C@H]2O[C@]1(C)N1C3=CC=CC=C3C3=C4CNC(=O)C4=C4C5=CC=CC=C5N2C4=C13)N(C)C(=O)C1=CC=CC=C1,cAMP-dependent protein kinase catalytic subunit beta,Kinase,P22694,PRKACB,KAPCB_HUMAN,6.62,Kd,Tchem
+ingenol mebutate,C\C=C(\C)C(=O)O[C@H]1C(C)=C[C@@]23[C@H](C)C[C@@H]4[C@H]([C@H](C=C(CO)[C@@H](O)[C@]12O)C3=O)C4(C)C,Protein kinase C delta type,Kinase,Q05655,PRKCD,KPCD_HUMAN,8.32790184,EC50,Tclin
+midostaurin,CO[C@@H]1[C@@H](C[C@H]2O[C@]1(C)N1C3=CC=CC=C3C3=C4CNC(=O)C4=C4C5=CC=CC=C5N2C4=C13)N(C)C(=O)C1=CC=CC=C1,Protein kinase C delta type,Kinase,Q05655,PRKCD,KPCD_HUMAN,6.5,Kd,Tclin
+ruboxistaurin,CN(C)C[C@@H]1CCN2C=C(C3=CC=CC=C23)C2=C(C(=O)NC2=O)C2=CN(CCO1)C1=CC=CC=C21,Protein kinase C delta type,Kinase,Q05655,PRKCD,KPCD_HUMAN,8.44,Kd,Tclin
+midostaurin,CO[C@@H]1[C@@H](C[C@H]2O[C@]1(C)N1C3=CC=CC=C3C3=C4CNC(=O)C4=C4C5=CC=CC=C5N2C4=C13)N(C)C(=O)C1=CC=CC=C1,cGMP-dependent protein kinase 1,Kinase,Q13976,PRKG1,KGP1_HUMAN,6.6,Kd,Tchem
+nintedanib,COC(=O)C1=CC2=C(C=C1)\C(=C(\NC1=CC=C(C=C1)N(C)C(=O)CN1CCN(C)CC1)C1=CC=CC=C1)C(=O)N2,cGMP-dependent protein kinase 1,Kinase,Q13976,PRKG1,KGP1_HUMAN,7.85,Kd,Tchem
+abaloparatide,CC[C@H](C)[C@H](NC(=O)[C@H](CO)NC(=O)[C@H](CCCCN)NC(=O)CNC(=O)[C@H](CCCCN)NC(=O)[C@H](CC(O)=O)NC(=O)[C@H](CC1=CNC=N1)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCC(N)=O)NC(=O)[C@H](CC1=CNC=N1)NC(=O)[C@H](CCC(O)=O)NC(=O)[C@H](CO)NC(=O)[C@@H](NC(=O)[C@H](C)N)C(C)C)C(=O)N[C@@H](CCC(N)=O)C(=O)N[C@@H](CC(O)=O)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CCCNC(N)=N)C(=O)N[C@@H](CCCNC(N)=N)C(=O)N[C@@H](CCCNC(N)=N)C(=O)N[C@@H](CCC(O)=O)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CCC(O)=O)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CC(C)C)C(=O)NC(C)(C)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CC1=CNC=N1)C(=O)N[C@@H]([C@@H](C)O)C(=O)N[C@@H](C)C(N)=O,Parathyroid hormone/parathyroid hormone-related peptide receptor,GPCR,Q03431,PTH1R,PTH1R_HUMAN,9.699999809,IC50,Tclin
+teriparatide,CC[C@H](C)[C@H](NC(=O)[C@H](CCC(O)=O)NC(=O)[C@H](CO)NC(=O)[C@@H](NC(=O)[C@@H](N)CO)C(C)C)C(=O)N[C@@H](CCC(N)=O)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CCSC)C(=O)N[C@@H](CC1=CNC=N1)C(=O)N[C@@H](CC(N)=O)C(=O)N[C@@H](CC(C)C)C(=O)NCC(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CC1=CNC=N1)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CC(N)=O)C(=O)N[C@@H](CO)C(=O)N[C@@H](CCSC)C(=O)N[C@@H](CCC(O)=O)C(=O)N[C@@H](CCCNC(N)=N)C(=O)N[C@@H](C(C)C)C(=O)N[C@@H](CCC(O)=O)C(=O)N[C@@H](CC1=CNC2=C1C=CC=C2)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CCCNC(N)=N)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CCC(N)=O)C(=O)N[C@@H](CC(O)=O)C(=O)N[C@@H](C(C)C)C(=O)N[C@@H](CC1=CNC=N1)C(=O)N[C@@H](CC(N)=O)C(=O)N[C@@H](CC1=CC=CC=C1)C(O)=O,Parathyroid hormone/parathyroid hormone-related peptide receptor,GPCR,Q03431,PTH1R,PTH1R_HUMAN,7.4,IC50,Tclin
+dabrafenib,CC(C)(C)C1=NC(=C(S1)C1=NC(N)=NC=C1)C1=C(F)C(NS(=O)(=O)C2=C(F)C=CC=C2F)=CC=C1,RAF proto-oncogene serine/threonine-protein kinase,Kinase,P04049,RAF1,RAF1_HUMAN,6.82,IC50,Tclin
+dasatinib,CC1=NC(NC2=NC=C(S2)C(=O)NC2=C(C)C=CC=C2Cl)=CC(=N1)N1CCN(CCO)CC1,RAF proto-oncogene serine/threonine-protein kinase,Kinase,P04049,RAF1,RAF1_HUMAN,6.24,Kd,Tclin
+encorafenib,COC(=O)N[C@@H](C)CNC1=NC(=CC=N1)C1=CN(N=C1C1=C(F)C(NS(C)(=O)=O)=CC(Cl)=C1)C(C)C,RAF proto-oncogene serine/threonine-protein kinase,Kinase,P04049,RAF1,RAF1_HUMAN,9.522879,IC50,Tclin
+pazopanib,CN(C1=CC2=NN(C)C(C)=C2C=C1)C1=NC(NC2=CC(=C(C)C=C2)S(N)(=O)=O)=NC=C1,RAF proto-oncogene serine/threonine-protein kinase,Kinase,P04049,RAF1,RAF1_HUMAN,6.05,Kd,Tclin
+sorafenib,CNC(=O)C1=CC(OC2=CC=C(NC(=O)NC3=CC=C(Cl)C(=C3)C(F)(F)F)C=C2)=CC=N1,RAF proto-oncogene serine/threonine-protein kinase,Kinase,P04049,RAF1,RAF1_HUMAN,8.22,Ki,Tclin
+vemurafenib,CCCS(=O)(=O)NC1=CC=C(F)C(C(=O)C2=CNC3=NC=C(C=C23)C2=CC=C(Cl)C=C2)=C1F,RAF proto-oncogene serine/threonine-protein kinase,Kinase,P04049,RAF1,RAF1_HUMAN,7.32,IC50,Tclin
+retinol,C\C(=C/CO)\C=C\C=C(/C)\C=C\C1=C(C)CCCC1(C)C,Retinol-binding protein 4,Secreted,P02753,RBP4,RET4_HUMAN,6.74,Kd,Tchem
+retinol acetate,CC(=O)OC\C=C(/C)\C=C\C=C(/C)\C=C\C1=C(C)CCCC1(C)C,Retinol-binding protein 4,Secreted,P02753,RBP4,RET4_HUMAN,6.739999771,Kd,Tchem
+vitamin A palmitate,CCCCCCCCCCCCCCCC(=O)OC\C=C(/C)\C=C\C=C(/C)\C=C\C1=C(C)CCCC1(C)C,Retinol-binding protein 4,Secreted,P02753,RBP4,RET4_HUMAN,6.74,Kd,Tchem
+vismodegib,CS(=O)(=O)C1=CC(Cl)=C(C=C1)C(=O)NC1=CC=C(Cl)C(=C1)C1=CC=CC=N1,Sonic hedgehog protein,Enzyme,Q15465,SHH,SHH_HUMAN,7.82,IC50,Tchem
+bosutinib,COC1=CC2=C(C=C1OCCCN1CCN(C)CC1)N=CC(C#N)=C2NC1=CC(OC)=C(Cl)C=C1Cl,Serine/threonine-protein kinase SIK3,Kinase,Q9Y2K2,SIK3,SIK3_HUMAN,7.19,Kd,Tchem
+dasatinib,CC1=NC(NC2=NC=C(S2)C(=O)NC2=C(C)C=CC=C2Cl)=CC(=N1)N1CCN(CCO)CC1,Serine/threonine-protein kinase SIK3,Kinase,Q9Y2K2,SIK3,SIK3_HUMAN,7.55,Kd,Tchem
+midostaurin,CO[C@@H]1[C@@H](C[C@H]2O[C@]1(C)N1C3=CC=CC=C3C3=C4CNC(=O)C4=C4C5=CC=CC=C5N2C4=C13)N(C)C(=O)C1=CC=CC=C1,Serine/threonine-protein kinase SIK3,Kinase,Q9Y2K2,SIK3,SIK3_HUMAN,7.01,Kd,Tchem
+bosutinib,COC1=CC2=C(C=C1OCCCN1CCN(C)CC1)N=CC(C#N)=C2NC1=CC(OC)=C(Cl)C=C1Cl,Serine/threonine-protein kinase 36,Kinase,Q9NRP7,STK36,STK36_HUMAN,6.24,Kd,Tbio
+dasatinib,CC1=NC(NC2=NC=C(S2)C(=O)NC2=C(C)C=CC=C2Cl)=CC(=N1)N1CCN(CCO)CC1,Serine/threonine-protein kinase 36,Kinase,Q9NRP7,STK36,STK36_HUMAN,6.68,Kd,Tbio
+pazopanib,CN(C1=CC2=NN(C)C(C)=C2C=C1)C1=NC(NC2=CC(=C(C)C=C2)S(N)(=O)=O)=NC=C1,Serine/threonine-protein kinase 36,Kinase,Q9NRP7,STK36,STK36_HUMAN,6.33,Kd,Tbio
+dasatinib,CC1=NC(NC2=NC=C(S2)C(=O)NC2=C(C)C=CC=C2Cl)=CC(=N1)N1CCN(CCO)CC1,TGF-beta receptor type-1,Kinase,P36897,TGFBR1,TGFR1_HUMAN,6.64,Kd,Tchem
