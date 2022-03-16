@@ -1,5 +1,6 @@
 # IDG's pipeline for Structural Birth Defects (SBD) data curation:
-
+### SBD terms mapped to HPO to genes
+### Using Pharos to query HPM gene expression
 - Curated Human Phenotype Ontology (HPO) Gene-list for SBD and mapped to known small molecules/drugs via DrugCentral
 - Curated Known teratogens and xenobiotics that cause SBD to HPO gene
 - Used manually curated **GreatVessel** HPO gene-list and mapped to known small molecules/drugs via DrugCentral
