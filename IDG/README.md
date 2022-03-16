@@ -6,7 +6,9 @@
 ### Using Pharos to query HPM gene expression
  - Queried Fetal tissue (normal) gene expression data from Human Proteome Map (HPM)
  
-## Folder description of datasets
+ 
+ *description of datasets*
+
 
 ### teratogens
 - Curated Known teratogens and xenobiotics that cause SBD to HPO gene
