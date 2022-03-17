@@ -12,9 +12,9 @@
 
 
 ## Used Drug Central to query FDA pregnancy X & D drugs, then SQL query to map drugs to genes
--smiles and names of active pharmaceutical ingredients (API) in those products.
--targets for those APIs, with a better potency than 1 uM 
--all SQL queries used to extract this data
+- smiles and names of active pharmaceutical ingredients (API) in those products.
+- targets for those APIs, with a better potency than 1 uM 
+- all SQL queries used to extract this data
 
 
 ## Pull Placental Barrier drug list from this publication: [Here](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8329444/)
