@@ -24,9 +24,9 @@
 
 ##
 > *internal note:*
-a) (IDG/LINCS)curated list from literature - (IDG pulled from various literature], LINCS curated from CDC 
-b) (LINCS) data pulled from their Drugshot or whatever appyter
-c) (IDG) DrugCentral data (ie. FDA Pregnancy categories X & D; *but we need ADMET properties included*
-d) (IDG) Placenta Barrier crossing drugs
-e) (LINCS/IDG) L1000 LINCS alignments with DODGE gene lists; (IDG) added alignment with Descartes
-f) (LINCS/IDG)  similarity matrices/small molecule clustering
+- a) (IDG/LINCS)curated list from literature - (IDG pulled from various literature], LINCS curated from CDC 
+- b) (LINCS) data pulled from their Drugshot or whatever appyter
+- c) (IDG) DrugCentral data (ie. FDA Pregnancy categories X & D; *but we need ADMET properties included*
+- d) (IDG) Placenta Barrier crossing drugs
+- e) (LINCS/IDG) L1000 LINCS alignments with DODGE gene lists; (IDG) added alignment with Descartes
+- f) (LINCS/IDG)  similarity matrices/small molecule clustering
