@@ -1,7 +1,7 @@
 ### Structural Birth Defect (SBD) List curated from https://birthdefects.org/list-structural-birth-defects/ 
 ##
 
-1. ### Known SBD Teratogens were internet searched using some of the following links: 
+1. ## Known SBD Teratogens were internet searched using some of the following links: 
 - https://www.birthinjuryhelpcenter.org/medication-birth-defects.html
 - https://www.birthinjuryhelpcenter.org/medications-pregnancy.html
 - https://www.cdc.gov/pregnancy/meds/treatingfortwo/images/treating-for-two-infographic.gif
