@@ -16,7 +16,7 @@
 2. ## Used Drug Central to query FDA pregnancy X & D drugs, then SQL query to map drugs to genes
 - smiles and names of active pharmaceutical ingredients (API) in those products.
 - targets for those APIs, with a better potency than 1 uM 
-- all SQL queries used to extract this data
+- all SQL queries used to extract this [Data](https://github.com/nih-cfde/ReproToxTables/tree/main/IDG/teratogens/data)
 ##
 
 
