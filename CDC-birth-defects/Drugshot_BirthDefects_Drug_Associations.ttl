@@ -4,7 +4,7 @@
 @prefix relationship: <https://semanticscience.org/resource/> .
 
 phenotype:HP_0000175 a relationship:SIO_010056 ;
-    relationship:SIO_000983 compound:,
+    relationship:SIO_000993 compound:,
         compound:LSM-2597,
         compound:LSM-2864,
         compound:LSM-3345,
@@ -26,7 +26,7 @@ phenotype:HP_0000528 a relationship:SIO_010056 .
 phenotype:HP_0000568 a relationship:SIO_010056 .
 
 phenotype:HP_0000776 a relationship:SIO_010056 ;
-    relationship:SIO_000983 compound:LSM-2026,
+    relationship:SIO_000993 compound:LSM-2026,
         compound:LSM-2848,
         compound:LSM-2864,
         compound:LSM-3610,
@@ -49,7 +49,7 @@ phenotype:HP_0000776 a relationship:SIO_010056 ;
         compound:LSM-5930 .
 
 phenotype:HP_0001539 a relationship:SIO_010056 ;
-    relationship:SIO_000983 compound:LSM-1692,
+    relationship:SIO_000993 compound:LSM-1692,
         compound:LSM-2026,
         compound:LSM-2160,
         compound:LSM-2359,
@@ -71,7 +71,7 @@ phenotype:HP_0001539 a relationship:SIO_010056 ;
         compound:LSM-5933 .
 
 phenotype:HP_0001543 a relationship:SIO_010056 ;
-    relationship:SIO_000983 compound:LSM-1961,
+    relationship:SIO_000993 compound:LSM-1961,
         compound:LSM-2026,
         compound:LSM-2160,
         compound:LSM-2490,
@@ -89,7 +89,7 @@ phenotype:HP_0001543 a relationship:SIO_010056 ;
         compound:LSM-5986 .
 
 phenotype:HP_0001636 a relationship:SIO_010056 ;
-    relationship:SIO_000983 compound:,
+    relationship:SIO_000993 compound:,
         compound:LSM-1886,
         compound:LSM-2026,
         compound:LSM-3049,
@@ -113,7 +113,7 @@ phenotype:HP_0001636 a relationship:SIO_010056 ;
         compound:LSM-6064 .
 
 phenotype:HP_0001660 a relationship:SIO_010056 ;
-    relationship:SIO_000983 compound:LSM-1416,
+    relationship:SIO_000993 compound:LSM-1416,
         compound:LSM-1799,
         compound:LSM-2966,
         compound:LSM-3285,
@@ -140,7 +140,7 @@ phenotype:HP_0001660 a relationship:SIO_010056 ;
         compound:LSM-6395 .
 
 phenotype:HP_0001669 a relationship:SIO_010056 ;
-    relationship:SIO_000983 compound:LSM-1297,
+    relationship:SIO_000993 compound:LSM-1297,
         compound:LSM-1310,
         compound:LSM-15331,
         compound:LSM-1886,
@@ -166,7 +166,7 @@ phenotype:HP_0001669 a relationship:SIO_010056 ;
         compound:LSM-5935 .
 
 phenotype:HP_0001680 a relationship:SIO_010056 ;
-    relationship:SIO_000983 compound:,
+    relationship:SIO_000993 compound:,
         compound:LSM-1310,
         compound:LSM-15331,
         compound:LSM-1886,
@@ -192,7 +192,7 @@ phenotype:HP_0001680 a relationship:SIO_010056 ;
         compound:LSM-5933 .
 
 phenotype:HP_0001719 a relationship:SIO_010056 ;
-    relationship:SIO_000983 compound:LSM-1297,
+    relationship:SIO_000993 compound:LSM-1297,
         compound:LSM-2106,
         compound:LSM-2135,
         compound:LSM-2681,
@@ -217,7 +217,7 @@ phenotype:HP_0001719 a relationship:SIO_010056 ;
         compound:LSM-6010 .
 
 phenotype:HP_0001750 a relationship:SIO_010056 ;
-    relationship:SIO_000983 compound:,
+    relationship:SIO_000993 compound:,
         compound:LSM-2384,
         compound:LSM-2864,
         compound:LSM-3098,
@@ -238,7 +238,7 @@ phenotype:HP_0001750 a relationship:SIO_010056 ;
         compound:LSM-6061 .
 
 phenotype:HP_0001762 a relationship:SIO_010056 ;
-    relationship:SIO_000983 compound:,
+    relationship:SIO_000993 compound:,
         compound:LSM-2026,
         compound:LSM-2323,
         compound:LSM-3847,
@@ -255,7 +255,7 @@ phenotype:HP_0001762 a relationship:SIO_010056 ;
         compound:LSM-5986 .
 
 phenotype:HP_0002032 a relationship:SIO_010056 ;
-    relationship:SIO_000983 compound:LSM-1799,
+    relationship:SIO_000993 compound:LSM-1799,
         compound:LSM-2026,
         compound:LSM-2135,
         compound:LSM-3001,
@@ -277,7 +277,7 @@ phenotype:HP_0002032 a relationship:SIO_010056 ;
         compound:LSM-5980 .
 
 phenotype:HP_0002084 a relationship:SIO_010056 ;
-    relationship:SIO_000983 compound:,
+    relationship:SIO_000993 compound:,
         compound:LSM-1442,
         compound:LSM-1692,
         compound:LSM-2026,
@@ -299,7 +299,7 @@ phenotype:HP_0002084 a relationship:SIO_010056 ;
         compound:LSM-5847 .
 
 phenotype:HP_0002323 a relationship:SIO_010056 ;
-    relationship:SIO_000983 compound:LSM-1799,
+    relationship:SIO_000993 compound:LSM-1799,
         compound:LSM-2026,
         compound:LSM-3512,
         compound:LSM-3610,
@@ -316,7 +316,7 @@ phenotype:HP_0002323 a relationship:SIO_010056 ;
         compound:LSM-5855 .
 
 phenotype:HP_0002414 a relationship:SIO_010056 ;
-    relationship:SIO_000983 compound:,
+    relationship:SIO_000993 compound:,
         compound:LSM-1310,
         compound:LSM-2026,
         compound:LSM-2883,
@@ -339,7 +339,7 @@ phenotype:HP_0002414 a relationship:SIO_010056 ;
         compound:LSM-5935 .
 
 phenotype:HP_0002575 a relationship:SIO_010056 ;
-    relationship:SIO_000983 compound:LSM-1097,
+    relationship:SIO_000993 compound:LSM-1097,
         compound:LSM-1098,
         compound:LSM-1799,
         compound:LSM-2167,
@@ -361,7 +361,7 @@ phenotype:HP_0002575 a relationship:SIO_010056 ;
         compound:LSM-5930 .
 
 phenotype:HP_0004383 a relationship:SIO_010056 ;
-    relationship:SIO_000983 compound:,
+    relationship:SIO_000993 compound:,
         compound:LSM-1310,
         compound:LSM-15331,
         compound:LSM-3171,
@@ -383,7 +383,7 @@ phenotype:HP_0004383 a relationship:SIO_010056 ;
         compound:LSM-5980 .
 
 phenotype:HP_0005160 a relationship:SIO_010056 ;
-    relationship:SIO_000983 compound:LSM-15331,
+    relationship:SIO_000993 compound:LSM-15331,
         compound:LSM-3287,
         compound:LSM-3493,
         compound:LSM-3797,
@@ -399,7 +399,7 @@ phenotype:HP_0005160 a relationship:SIO_010056 ;
         compound:LSM-6010 .
 
 phenotype:HP_0006695 a relationship:SIO_010056 ;
-    relationship:SIO_000983 compound:LSM-1310,
+    relationship:SIO_000993 compound:LSM-1310,
         compound:LSM-1416,
         compound:LSM-1886,
         compound:LSM-2700,
@@ -424,7 +424,7 @@ phenotype:HP_0006695 a relationship:SIO_010056 ;
         compound:LSM-6049 .
 
 phenotype:HP_0010316 a relationship:SIO_010056 ;
-    relationship:SIO_000983 compound:LSM-1416,
+    relationship:SIO_000993 compound:LSM-1416,
         compound:LSM-2359,
         compound:LSM-2519,
         compound:LSM-3161,
@@ -441,7 +441,7 @@ phenotype:HP_0010316 a relationship:SIO_010056 ;
         compound:LSM-6032 .
 
 phenotype:HP_0010882 a relationship:SIO_010056 ;
-    relationship:SIO_000983 compound:LSM-15331,
+    relationship:SIO_000993 compound:LSM-15331,
         compound:LSM-1799,
         compound:LSM-2581,
         compound:LSM-2681,
@@ -463,7 +463,7 @@ phenotype:HP_0010882 a relationship:SIO_010056 ;
         compound:LSM-6041 .
 
 phenotype:HP_0011611 a relationship:SIO_010056 ;
-    relationship:SIO_000983 compound:,
+    relationship:SIO_000993 compound:,
         compound:LSM-2239,
         compound:LSM-3161,
         compound:LSM-3287,
@@ -480,7 +480,7 @@ phenotype:HP_0011611 a relationship:SIO_010056 ;
         compound:LSM-5980 .
 
 phenotype:HP_0011662 a relationship:SIO_010056 ;
-    relationship:SIO_000983 compound:LSM-15331,
+    relationship:SIO_000993 compound:LSM-15331,
         compound:LSM-1986,
         compound:LSM-3161,
         compound:LSM-4104,
@@ -494,7 +494,7 @@ phenotype:HP_0011662 a relationship:SIO_010056 ;
         compound:LSM-5847 .
 
 phenotype:HP_0040064 a relationship:SIO_010056 ;
-    relationship:SIO_000983 compound:,
+    relationship:SIO_000993 compound:,
         compound:LSM-1424,
         compound:LSM-2597,
         compound:LSM-2653,
@@ -514,7 +514,7 @@ phenotype:HP_0040064 a relationship:SIO_010056 ;
         compound:LSM-6053 .
 
 disease:Orphanet_3378 a relationship:SIO_010299 ;
-    relationship:SIO_000983 compound:LSM-1914,
+    relationship:SIO_000993 compound:LSM-1914,
         compound:LSM-2359,
         compound:LSM-3639,
         compound:LSM-4085,
@@ -524,7 +524,7 @@ disease:Orphanet_3378 a relationship:SIO_010299 ;
         compound:LSM-5681 .
 
 disease:Orphanet_3380 a relationship:SIO_010299 ;
-    relationship:SIO_000983 compound:,
+    relationship:SIO_000993 compound:,
         compound:LSM-1301,
         compound:LSM-15331,
         compound:LSM-1585,
@@ -566,8 +566,7 @@ disease:Orphanet_3380 a relationship:SIO_010299 ;
         compound:LSM-6227 .
 
 disease:Orphanet_870 a relationship:SIO_010299 ;
-    relationship:SIO_000983 compound:,
+    relationship:SIO_000993 compound:,
         compound:LSM-2255,
         compound:LSM-4460,
         compound:LSM-4482 .
-
