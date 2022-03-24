@@ -1,0 +1,128 @@
+@prefix HPO: <https://hpo.jax.org/app/browse/term/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+HPO: rdfs:label "" .
+
+<https://hpo.jax.org/app/browse/term/HP:0000078> rdfs:label "Abnormality of the genital system" .
+
+<https://hpo.jax.org/app/browse/term/HP:0000175> rdfs:label "Cleft palate" .
+
+<https://hpo.jax.org/app/browse/term/HP:0000238> rdfs:label "Hydrocephalus" .
+
+<https://hpo.jax.org/app/browse/term/HP:0000324> rdfs:label "Facial asymmetry" .
+
+<https://hpo.jax.org/app/browse/term/HP:0000369> rdfs:label "Low set ears" .
+
+<https://hpo.jax.org/app/browse/term/HP:0000377> rdfs:label "Abnormality of the pinna" .
+
+<https://hpo.jax.org/app/browse/term/HP:0000528> rdfs:label "Anophthalmia" .
+
+<https://hpo.jax.org/app/browse/term/HP:0000568> rdfs:label "microphthalmia" .
+
+<https://hpo.jax.org/app/browse/term/HP:0000772> rdfs:label "Abnormality of the ribs" .
+
+<https://hpo.jax.org/app/browse/term/HP:0000776> rdfs:label "Diaphragmatic hernia" .
+
+<https://hpo.jax.org/app/browse/term/HP:0001539> rdfs:label "Omphalocele" .
+
+<https://hpo.jax.org/app/browse/term/HP:0001543> rdfs:label "Gastroschisis" .
+
+<https://hpo.jax.org/app/browse/term/HP:0001629> rdfs:label "Ventricular septal defect" .
+
+<https://hpo.jax.org/app/browse/term/HP:0001631> rdfs:label "Atrial septal defect" .
+
+<https://hpo.jax.org/app/browse/term/HP:0001636> rdfs:label "Tetralogy of Fallot" .
+
+<https://hpo.jax.org/app/browse/term/HP:0001642> rdfs:label "Pulmonary valve stenosis" .
+
+<https://hpo.jax.org/app/browse/term/HP:0001660> rdfs:label "Truncus arteriosus" .
+
+<https://hpo.jax.org/app/browse/term/HP:0001669> rdfs:label "Transposition of the great arteries" .
+
+<https://hpo.jax.org/app/browse/term/HP:0001680> rdfs:label "Coarctation of the aorta" .
+
+<https://hpo.jax.org/app/browse/term/HP:0001719> rdfs:label "Double outlet right ventricle" .
+
+<https://hpo.jax.org/app/browse/term/HP:0001750> rdfs:label "Single ventricle" .
+
+<https://hpo.jax.org/app/browse/term/HP:0001762> rdfs:label "Clubfoot" .
+
+<https://hpo.jax.org/app/browse/term/HP:0002032> rdfs:label "Esophageal atresia" .
+
+<https://hpo.jax.org/app/browse/term/HP:0002084> rdfs:label "Encephalocele" .
+
+<https://hpo.jax.org/app/browse/term/HP:0002323> rdfs:label "Anencephaly" .
+
+<https://hpo.jax.org/app/browse/term/HP:0002414> rdfs:label "Spina bifida" .
+
+<https://hpo.jax.org/app/browse/term/HP:0002475> rdfs:label "Myelomeningocele" .
+
+<https://hpo.jax.org/app/browse/term/HP:0002575> rdfs:label "Tracheoesophageal fistula" .
+
+<https://hpo.jax.org/app/browse/term/HP:0003298> rdfs:label "Spina bifida occulta" .
+
+<https://hpo.jax.org/app/browse/term/HP:0004383> rdfs:label "Hypoplastic left heart syndrome" .
+
+<https://hpo.jax.org/app/browse/term/HP:0004484> rdfs:label "Craniofacial asymmetry" .
+
+<https://hpo.jax.org/app/browse/term/HP:0004601> rdfs:label "Spina bifida occulta at L5" .
+
+<https://hpo.jax.org/app/browse/term/HP:0004614> rdfs:label "Spina bifida occulta at S1" .
+
+<https://hpo.jax.org/app/browse/term/HP:0004935> rdfs:label "Pulmonary artery atresia" .
+
+<https://hpo.jax.org/app/browse/term/HP:0005160> rdfs:label "Total anomalous pulmonary venous connection" .
+
+<https://hpo.jax.org/app/browse/term/HP:0005857> rdfs:label "Cervical spina bifida" .
+
+<https://hpo.jax.org/app/browse/term/HP:0006695> rdfs:label "Atrioventricular septal defect" .
+
+<https://hpo.jax.org/app/browse/term/HP:0006703> rdfs:label "Aplasia/Hypoplasia of the lungs" .
+
+<https://hpo.jax.org/app/browse/term/HP:0008551> rdfs:label "Microtia" .
+
+<https://hpo.jax.org/app/browse/term/HP:0008569> rdfs:label "Microtia, second degree" .
+
+<https://hpo.jax.org/app/browse/term/HP:0009892> rdfs:label "Anotia" .
+
+<https://hpo.jax.org/app/browse/term/HP:0010316> rdfs:label "Ebstein anomaly" .
+
+<https://hpo.jax.org/app/browse/term/HP:0010460> rdfs:label "Abnormality of the female genitalia" .
+
+<https://hpo.jax.org/app/browse/term/HP:0010461> rdfs:label "Abnormality of the male genitalia" .
+
+<https://hpo.jax.org/app/browse/term/HP:0010772> rdfs:label "Anomalous pulmonary venous return" .
+
+<https://hpo.jax.org/app/browse/term/HP:0010882> rdfs:label "Pulmonary valve atresia" .
+
+<https://hpo.jax.org/app/browse/term/HP:0011266> rdfs:label "Microtia, first degree" .
+
+<https://hpo.jax.org/app/browse/term/HP:0011267> rdfs:label "Microtia, third degree" .
+
+<https://hpo.jax.org/app/browse/term/HP:0011297> rdfs:label "Abnormal digit morphology" .
+
+<https://hpo.jax.org/app/browse/term/HP:0011611> rdfs:label "Interrupted aortic arch" .
+
+<https://hpo.jax.org/app/browse/term/HP:0011662> rdfs:label "Tricuspid valve atresia" .
+
+<https://hpo.jax.org/app/browse/term/HP:0011678> rdfs:label "Tetralogy of Fallot with pulmonary atresia and major aortopulmonary collateral arteries" .
+
+<https://hpo.jax.org/app/browse/term/HP:0012516> rdfs:label "Tetralogy of Fallot with pulmonary atresia" .
+
+<https://hpo.jax.org/app/browse/term/HP:0031348> rdfs:label "Dextro‐transposition of the great arteries" .
+
+<https://hpo.jax.org/app/browse/term/HP:0040064> rdfs:label "Limb defects" .
+
+<https://hpo.jax.org/app/browse/term/HP:0100021> rdfs:label "Cerebral palsy" .
+
+<https://hpo.jax.org/app/browse/term/HP:0410030> rdfs:label "Cleft lip" .
+
+<https://hpo.jax.org/app/browse/term/ORPHA:3378> rdfs:label "Patau syndrome",
+        "Trisomy 13" .
+
+<https://hpo.jax.org/app/browse/term/ORPHA:3380> rdfs:label "Edwards syndrome",
+        "Trisomy 18" .
+
+<https://hpo.jax.org/app/browse/term/ORPHA:870> rdfs:label "Down syndrome",
+        "Trisomy 21" .
+
