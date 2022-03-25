@@ -9,7 +9,7 @@
  
 *description of datasets*
 ### teratogens
-- Curated Known teratogens and xenobiotics that cause SBD to HPO gene; manually curated and DrugCental [SQL]
+- Curated Known teratogens and xenobiotics that cause SBD to HPO gene; manually curated [more info here:](https://github.com/nih-cfde/ReproToxTables/tree/main/IDG/teratogens) and DrugCental [SQL]
 
 ### Great Vessel
 - Used KF/SPARC consensus **GreatVessel** HPO gene-list and mapped to known small molecules/drugs via DrugCentral [SQL]
