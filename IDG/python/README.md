@@ -1,4 +1,4 @@
-python scripts to convert xlsx or csv files into ttl files
+python scripts to convert xlsx or csv files into triple (ttl) files
 
 some code was taken from : Eryk Kropiwnicki [@ekropiwnicki](https://github.com/ekropiwnicki) ; [ReproTox_KnowledgeGraph_Datasets.ipynb](https://github.com/MaayanLab/ReproTox/blob/main/ReproTox_KnowledgeGraph_Datasets.ipynb)
 
