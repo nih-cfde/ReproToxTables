@@ -1,0 +1,561 @@
+﻿No,gene,Great_vessel_assoc_disease,pvalue_GV_more,pvalue_GV_less,Obs
+1,A2ML1,1,,,
+2,AASS,1,0.018350352,,
+3,ABCC6,1,,-0.029760825,
+4,ABCC9,1,,,
+5,ABCD4,1,8.59799E-08,,"Significant, overexpressed"
+6,ABCG5,1,,-0.024593124,
+7,ABCG8,1,,,
+8,ABL1,1,6.87173E-06,,"Significant, overexpressed"
+9,ACSL4,1,,-0.001025823,
+10,ACTA2,1,,,
+11,ACTB,1,,,
+12,ACTL6B,1,,-0.009527531,
+13,ACVR2B,1,,,
+14,ADAMTS10,1,0.000104845,,"Significant, overexpressed"
+15,ADAR,1,0.000684854,,"Significant, overexpressed"
+16,ADAT3,1,,,
+17,ADH5,1,,,
+18,ADK,1,,-2.29907E-05,"Significant, underexpressed"
+19,AEBP1,1,,,
+20,AFF4,1,0.007192136,,
+21,AGO2,1,,,
+22,ALB,1,,,
+23,ALDH18A1,1,,-0.002035148,
+24,ALG12,1,,,
+25,ALG8,1,,,
+26,ALG9,1,,,
+27,ALX1,1,,,
+28,ALX3,1,,,
+29,AMER1,1,,,
+30,AMMECR1,1,,,
+31,ANK1,1,,-0.001399939,
+32,ANKS6,1,,,
+33,APC2,1,,,
+34,APOB,1,,,
+35,APOE,1,,-0.027306367,
+36,ARF1,1,,,
+37,ARFGEF2,1,0.006591678,,
+38,ARHGAP31,1,2.9992E-39,,"Significant, overexpressed"
+39,ARID1A,1,,,
+40,ARID1B,1,0.044934341,,
+41,ARID2,1,0.019470566,,
+42,ARX,1,,,
+43,ASCC1,1,,,
+44,ATP6V1B2,1,,-0.000160044,"Significant, underexpressed"
+45,B3GALT6,1,,,
+46,B3GAT3,1,,-0.034188801,
+47,BAP1,1,0.003900945,,
+48,BCL11B,1,,-0.00318542,
+49,BCOR,1,5.19311E-05,,"Significant, overexpressed"
+50,BCORL1,1,9.54122E-08,,"Significant, overexpressed"
+51,BCR,1,0.003011449,,
+52,BGN,1,0.001634558,,
+53,BICC1,1,,-9.41359E-07,"Significant, underexpressed"
+54,BMP2,1,0.002843835,,
+55,BMPR1A,1,,-1.98044E-07,"Significant, underexpressed"
+56,BMPR2,1,8.67815E-17,,"Significant, overexpressed"
+57,BPTF,1,,,
+58,BRAF,1,0.000300473,,"Significant, overexpressed"
+59,BRCA1,1,,,
+60,BRCA2,1,,,
+61,BRF1,1,,,
+62,BRIP1,1,,,
+63,BUB1,1,,,
+64,BUB1B,1,,,
+65,C12orf57,1,,,
+66,C2CD3,1,,,
+67,CACNA1C,1,,,
+68,CALM3,1,,,
+69,CBL,1,2.34295E-13,,"Significant, overexpressed"
+70,CCDC103,1,,,
+71,CCDC22,1,,,
+72,CCDC39,1,,,
+73,CCDC40,1,,-0.023862536,
+74,CCDC65,1,,,
+75,CCNO,1,,,
+76,CD96,1,,-0.001406163,
+77,CDC42,1,0.023660738,,
+78,CDH2,1,,,
+79,CDK8,1,,,
+80,CDON,1,,-0.000712419,"Significant, underexpressed"
+81,CEP120,1,,,
+82,CEP57,1,,,
+83,CFC1,1,,,
+84,CHD4,1,,,
+85,CHD7,1,1.02711E-06,,"Significant, overexpressed"
+86,CHRM3,1,6.84795E-05,,"Significant, overexpressed"
+87,CHRNG,1,,,
+88,CHST3,1,0.00049683,,"Significant, overexpressed"
+89,CHUK,1,,,
+90,CITED2,1,,-6.08136E-05,"Significant, underexpressed"
+91,CLCN7,1,,,
+92,COA6,1,,,
+93,COG6,1,,,
+94,COL18A1,1,1.83673E-06,,"Significant, overexpressed"
+95,COL1A1,1,,,
+96,COL1A2,1,,,
+97,COL2A1,1,,-0.00026447,"Significant, underexpressed"
+98,COL3A1,1,,,
+99,COL5A1,1,0.027299405,,
+100,COL5A2,1,0.018579217,,
+101,COMT,1,,,
+102,COQ4,1,,,
+103,COX7B,1,,,
+104,CREBBP,1,0.000682737,,"Significant, overexpressed"
+105,CRELD1,1,0.000818387,,"Significant, overexpressed"
+106,CRTAP,1,0.000759718,,"Significant, overexpressed"
+107,CSGALNACT1,1,2.51303E-16,,"Significant, overexpressed"
+108,CTCF,1,0.016055305,,
+109,CTU2,1,0.002470138,,
+110,CWC27,1,0.021453878,,
+111,CXCR4,1,0.001060421,,
+112,DACT1,1,,,
+113,DDX11,1,,,
+114,DDX59,1,0.000138507,,"Significant, overexpressed"
+115,DDX6,1,,,
+116,DGCR2,1,,,
+117,DGCR6,1,,,
+118,DGCR8,1,0.045162306,,
+119,DHCR24,1,,,
+120,DHCR7,1,,,
+121,DIS3L2,1,0.01047772,,
+122,DLL1,1,8.42037E-09,,"Significant, overexpressed"
+123,DLL3,1,,-0.001109296,
+124,DLL4,1,1.30728E-33,,"Significant, overexpressed"
+125,DNAAF1,1,,,
+126,DNAAF2,1,,,
+127,DNAAF3,1,,-0.026171023,
+128,DNAH1,1,0.001831987,,
+129,DNAH11,1,,-0.006821917,
+130,DNAH5,1,,-0.000512889,"Significant, underexpressed"
+131,DNAH9,1,,,
+132,DNAI1,1,,-0.001402536,
+133,DNAI2,1,,,
+134,DNAJB11,1,,,
+135,DNAJB13,1,,-0.006242545,
+136,DNAJC30,1,,,
+137,DNAL1,1,,,
+138,DNMT3A,1,0.002527466,,
+139,DOCK3,1,,-5.8191E-05,"Significant, underexpressed"
+140,DOCK6,1,4.50785E-34,,"Significant, overexpressed"
+141,DPF2,1,,,
+142,DPM1,1,,,
+143,DRC1,1,,-0.000871827,"Significant, underexpressed"
+144,DTNA,1,,-0.000302798,"Significant, underexpressed"
+145,DVL3,1,,,
+146,DYNC2LI1,1,,-0.007060184,
+147,DYRK1A,1,0.007202732,,
+148,ECE1,1,8.19919E-21,,"Significant, overexpressed"
+149,EED,1,,,
+150,EFEMP2,1,1.48385E-06,,"Significant, overexpressed"
+151,EHMT1,1,0.003912849,,
+152,EIF2AK3,1,,,
+153,EIF2AK4,1,0.00077557,,"Significant, overexpressed"
+154,ELN,1,0.006967223,,
+155,ENG,1,4.13638E-31,,"Significant, overexpressed"
+156,ENPP1,1,,-0.008756128,
+157,EOGT,1,5.67044E-07,,"Significant, overexpressed"
+158,EP300,1,,,
+159,ERCC4,1,0.00288962,,
+160,ERCC6,1,,,
+161,ERCC8,1,,,
+162,ERMARD,1,,,
+163,ESCO2,1,,,
+164,EXT2,1,,,
+165,FADD,1,0.048322005,,
+166,FANCA,1,,,
+167,FANCB,1,,,
+168,FANCC,1,,,
+169,FANCD2,1,,,
+170,FANCE,1,,,
+171,FANCF,1,,,
+172,FANCG,1,,,
+173,FANCI,1,,,
+174,FANCL,1,0.002783674,,
+175,FANCM,1,0.009082723,,
+176,FBLN5,1,0.046711146,,
+177,FBN1,1,1.59549E-06,,"Significant, overexpressed"
+178,FBN2,1,,-0.000404369,"Significant, underexpressed"
+179,FBXW11,1,0.035074388,,
+180,FGF10,1,,-0.000941646,"Significant, underexpressed"
+181,FGF8,1,,,
+182,FGFR1,1,1.97497E-13,,"Significant, overexpressed"
+183,FGFR2,1,,-0.000113658,"Significant, underexpressed"
+184,FGFR3,1,,,
+185,FIG4,1,,,
+186,FKBP14,1,,,
+187,FKTN,1,,,
+188,FLI1,1,1.31983E-25,,"Significant, overexpressed"
+189,FLNA,1,0.000918677,,"Significant, overexpressed"
+190,FLNB,1,4.26678E-18,,"Significant, overexpressed"
+191,FLT4,1,8.56594E-22,,"Significant, overexpressed"
+192,FMR1,1,,,
+193,FN1,1,9.14663E-06,,"Significant, overexpressed"
+194,FOXC1,1,0.000241399,,"Significant, overexpressed"
+195,FOXC2,1,,,
+196,FOXE3,1,,,
+197,FOXF1,1,0.016350175,,
+198,FOXJ1,1,,-0.039534738,
+199,FTO,1,0.018783008,,
+200,G6PC3,1,0.02079645,,
+201,GABRD,1,0.000233904,,"Significant, overexpressed"
+202,GANAB,1,0.034231831,,
+203,GAS2L2,1,,,
+204,GAS8,1,,,
+205,GATA1,1,,,
+206,GATA4,1,,,
+207,GATA5,1,,,
+208,GATA6,1,,,
+209,GBA,1,,-0.033236449,
+210,GDF1,1,,,
+211,GJA1,1,7.60554E-05,,"Significant, overexpressed"
+212,GJA5,1,1.50516E-07,,"Significant, overexpressed"
+213,GJA8,1,,,
+214,GLI2,1,,-0.00053808,"Significant, underexpressed"
+215,GLI3,1,0.004878318,,
+216,GP1BB,1,,,
+217,GPC3,1,,-0.005255144,
+218,GPC4,1,,,
+219,GPC6,1,,-3.09419E-05,"Significant, underexpressed"
+220,HCCS,1,,,
+221,HDAC4,1,0.027307438,,
+222,HES7,1,,,
+223,HGD,1,,-0.009283965,
+224,HIBCH,1,0.018172152,,
+225,HLA-B,1,2.53597E-06,,"Significant, overexpressed"
+226,HLA-DRB1,1,0.046578068,,
+227,HNRNPK,1,,,
+228,HPGD,1,0.004682882,,
+229,HRAS,1,,,
+230,HSPG2,1,3.5536E-12,,"Significant, overexpressed"
+231,HYDIN,1,,-2.11234E-05,"Significant, underexpressed"
+232,IDS,1,,-0.012546016,
+233,IFIH1,1,7.79719E-06,,"Significant, overexpressed"
+234,IFT43,1,0.007410698,,
+235,IGBP1,1,,,
+236,IGF2,1,0.002017208,,
+237,IL12B,1,,,
+238,INTU,1,,-0.005515676,
+239,JAG1,1,8.82241E-06,,"Significant, overexpressed"
+240,KANSL1,1,0.012517632,,
+241,KAT6A,1,2.21451E-11,,"Significant, overexpressed"
+242,KAT6B,1,,,
+243,KAT8,1,,,
+244,KCNH1,1,,-3.74377E-05,"Significant, underexpressed"
+245,KCNN3,1,0.000325605,,"Significant, overexpressed"
+246,KDELR2,1,,,
+247,KDM3B,1,,,
+248,KDM4B,1,,,
+249,KDM6A,1,,,
+250,KMT2D,1,3.85325E-05,,"Significant, overexpressed"
+251,KMT2E,1,,,
+252,KRAS,1,0.000131974,,"Significant, overexpressed"
+253,KYNU,1,,-0.000388563,"Significant, underexpressed"
+254,LARS2,1,0.042920564,,
+255,LDLR,1,0.030257849,,
+256,LDLRAP1,1,4.93799E-07,,"Significant, overexpressed"
+257,LEMD3,1,,,
+258,LFNG,1,8.03503E-05,,"Significant, overexpressed"
+259,LIFR,1,1.2161E-10,,"Significant, overexpressed"
+260,LMNA,1,,,
+261,LMX1B,1,,-0.005986441,
+262,LOX,1,,,
+263,LRRC56,1,,,
+264,LTBP4,1,,,
+265,LZTR1,1,0.001149255,,
+266,MAD2L2,1,,,
+267,MADD,1,,,
+268,MAF,1,,,
+269,MAP1B,1,0.003923894,,
+270,MAP2K1,1,7.70789E-06,,"Significant, overexpressed"
+271,MAP3K7,1,,,
+272,MAPK1,1,0.000309729,,"Significant, overexpressed"
+273,MASP1,1,,,
+274,MBTPS2,1,,,
+275,MCIDAS,1,,,
+276,MED12,1,0.00243019,,
+277,MED13,1,,,
+278,MED13L,1,,,
+279,MED25,1,,-0.007852784,
+280,MEGF8,1,,,
+281,MEIS2,1,,,
+282,MESP2,1,,,
+283,MFAP5,1,,-0.038684116,
+284,MGP,1,,,
+285,MKKS,1,,,
+286,MKS1,1,,-0.02610251,
+287,MLXIPL,1,,-0.001055209,
+288,MMP14,1,3.84467E-05,,"Significant, overexpressed"
+289,MMP2,1,0.041920317,,
+290,MMP21,1,,,
+291,MRAS,1,,,
+292,MRPS16,1,,,
+293,MYCN,1,,,
+294,MYH11,1,,,
+295,MYH3,1,,,
+296,MYH7,1,,,
+297,MYLK,1,1.14178E-06,,"Significant, overexpressed"
+298,MYOCD,1,,,
+299,MYPN,1,,,
+300,MYRF,1,,-8.70678E-05,"Significant, underexpressed"
+301,MYT1L,1,,,
+302,NAA10,1,3.34536E-08,,"Significant, overexpressed"
+303,NADSYN1,1,3.60168E-05,,"Significant, overexpressed"
+304,NCAPG2,1,,,
+305,NCF1,1,,,
+306,NDUFB11,1,,,
+307,NEDD4L,1,,,
+308,NEK10,1,,-0.003644549,
+309,NEK8,1,,,
+310,NEK9,1,0.00275534,,
+311,NF1,1,9.54731E-05,,"Significant, overexpressed"
+312,NFIX,1,,,
+313,NKAP,1,,,
+314,NKX2-5,1,,,
+315,NKX2-6,1,,,
+316,NME8,1,,-0.004909261,
+317,NOD2,1,,-0.001658787,
+318,NODAL,1,0.032916368,,
+319,NONO,1,,,
+320,NOTCH1,1,1.86734E-29,,"Significant, overexpressed"
+321,NOTCH2,1,,-3.6023E-05,"Significant, underexpressed"
+322,NOTCH3,1,,,
+323,NPHP3,1,1.30739E-09,,"Significant, overexpressed"
+324,NR2F2,1,9.2068E-15,,"Significant, overexpressed"
+325,NRAS,1,0.018840598,,
+326,NSD1,1,0.006010755,,
+327,NSMCE2,1,,,
+328,NTNG2,1,,-0.046225201,
+329,NXN,1,1.10695E-13,,"Significant, overexpressed"
+330,OFD1,1,,-0.000688287,"Significant, underexpressed"
+331,OTUD5,1,,,
+332,P4HA2,1,,,
+333,PACS1,1,0.030691108,,
+334,PAH,1,,,
+335,PALB2,1,0.047924371,,
+336,PCGF2,1,1.04448E-08,,"Significant, overexpressed"
+337,PCNT,1,,,
+338,PCSK9,1,,-0.016138453,
+339,PEX1,1,,,
+340,PEX19,1,,,
+341,PGM3,1,,,
+342,PHGDH,1,,,
+343,PIGL,1,0.034576089,,
+344,PIGN,1,,-0.003711251,
+345,PIGT,1,,,
+346,PIK3R2,1,,-0.031155212,
+347,PKD1,1,,,
+348,PKD1L1,1,0.00210398,,
+349,PKD2,1,0.00182866,,
+350,PLCB3,1,0.043096336,,
+351,PLOD1,1,0.001429367,,
+352,POLA1,1,,,
+353,POLR1A,1,,,
+354,POLR1B,1,,,
+355,POLR1C,1,,,
+356,POLR1D,1,,,
+357,PORCN,1,,,
+358,PPP1CB,1,,-0.007608499,
+359,PPP2R1A,1,,,
+360,PQBP1,1,,,
+361,PRDM16,1,,,
+362,PRDM6,1,,-0.041331619,
+363,PRKACB,1,,-0.010975455,
+364,PRKCD,1,,-1.54104E-05,"Significant, underexpressed"
+365,PRKG1,1,,,
+366,PSMD12,1,0.042214302,,
+367,PTCH1,1,,,
+368,PTEN,1,,,
+369,PTH1R,1,,,
+370,PTPN11,1,0.00175081,,
+371,PTPN22,1,,-0.000493615,"Significant, underexpressed"
+372,PUF60,1,,,
+373,PUS7,1,,,
+374,QRICH1,1,,,
+375,RAB23,1,,,
+376,RAC1,1,5.70491E-05,,"Significant, overexpressed"
+377,RAD51,1,,,
+378,RAD51C,1,,,
+379,RAF1,1,,,
+380,RAI1,1,7.58014E-09,,"Significant, overexpressed"
+381,RBM10,1,,,
+382,RBM8A,1,,,
+383,RBP4,1,,-0.042560795,
+384,RBPJ,1,,-4.85603E-05,"Significant, underexpressed"
+385,RERE,1,7.0869E-06,,"Significant, overexpressed"
+386,RFWD3,1,0.040200889,,
+387,RIN2,1,2.11624E-10,,"Significant, overexpressed"
+388,RIPPLY2,1,,,
+389,RIT1,1,0.00059914,,"Significant, overexpressed"
+390,RLIM,1,,,
+391,RNASEH2A,1,0.021156007,,
+392,RNASEH2B,1,,-0.014665191,
+393,RNASEH2C,1,,,
+394,ROBO4,1,1.40511E-29,,"Significant, overexpressed"
+395,ROR2,1,,-2.0264E-05,"Significant, underexpressed"
+396,RPGR,1,0.000380146,,"Significant, overexpressed"
+397,RPL10,1,,,
+398,RPL11,1,,,
+399,RPL15,1,,,
+400,RPL18,1,,,
+401,RPL26,1,,,
+402,RPL27,1,,,
+403,RPL35,1,,,
+404,RPL35A,1,,,
+405,RPL5,1,,,
+406,RPS10,1,,,
+407,RPS15A,1,,,
+408,RPS17,1,,,
+409,RPS19,1,,,
+410,RPS24,1,,,
+411,RPS26,1,,,
+412,RPS27,1,,,
+413,RPS28,1,0.017407254,,
+414,RPS29,1,,,
+415,RPS7,1,,,
+416,RRAS2,1,,,
+417,RSPH1,1,,-0.012729536,
+418,RSPH3,1,,-2.22184E-05,"Significant, underexpressed"
+419,RSPH4A,1,,,
+420,RSPH9,1,,-7.24852E-05,"Significant, underexpressed"
+421,RSPO2,1,,-0.007597269,
+422,RSPRY1,1,,,
+423,SALL1,1,,,
+424,SALL4,1,,,
+425,SAMD9,1,2.6625E-05,,"Significant, overexpressed"
+426,SAMHD1,1,0.028838861,,
+427,SATB1,1,,,
+428,SEMA3E,1,,-0.002584767,
+429,SETD2,1,,,
+430,SF3B4,1,,,
+431,SFTPB,1,,,
+432,SH3PXD2B,1,,,
+433,SHANK3,1,3.69201E-31,,"Significant, overexpressed"
+434,SHH,1,,-0.011972571,
+435,SIK3,1,,,
+436,SIX3,1,,,
+437,SIX6,1,,,
+438,SKI,1,2.14297E-06,,"Significant, overexpressed"
+439,SKIV2L,1,0.004305685,,
+440,SLC12A2,1,1.23144E-10,,"Significant, overexpressed"
+441,SLC25A24,1,3.41685E-08,,"Significant, overexpressed"
+442,SLC29A3,1,,,
+443,SLC2A10,1,0.000718833,,"Significant, overexpressed"
+444,SLC35A2,1,,,
+445,SLX4,1,,,
+446,SMAD3,1,6.98125E-06,,"Significant, overexpressed"
+447,SMAD4,1,,,
+448,SMAD6,1,4.00763E-07,,"Significant, overexpressed"
+449,SMARCA2,1,0.001274427,,
+450,SMARCA4,1,0.045074117,,
+451,SMARCB1,1,,,
+452,SMARCC2,1,,,
+453,SMARCD1,1,0.030770483,,
+454,SMARCE1,1,0.002165301,,
+455,SMC1A,1,,,
+456,SMC3,1,,,
+457,SMG8,1,0.01754274,,
+458,SMG9,1,,,
+459,SNRPB,1,0.005502793,,
+460,SNRPN,1,,-3.05631E-06,"Significant, underexpressed"
+461,SNX10,1,,-0.00140249,
+462,SNX14,1,0.000104628,,"Significant, overexpressed"
+463,SON,1,0.006174428,,
+464,SOS1,1,0.008644289,,
+465,SOS2,1,0.000892831,,"Significant, overexpressed"
+466,SOX11,1,,,
+467,SOX2,1,,-0.01231771,
+468,SOX4,1,,,
+469,SPAG1,1,,-0.034382267,
+470,SPECC1L,1,9.5908E-05,,"Significant, overexpressed"
+471,SPEF2,1,,,
+472,SPEN,1,,,
+473,SRCAP,1,0.034529019,,
+474,SRY,1,,,
+475,SSR4,1,,,
+476,STAG2,1,,,
+477,STIL,1,,,
+478,STK36,1,,,
+479,STRA6,1,,,
+480,STXBP1,1,7.04062E-05,,"Significant, overexpressed"
+481,SUCLG1,1,,,
+482,SUFU,1,0.017759632,,
+483,TAB2,1,,,
+484,TALDO1,1,,-0.029907419,
+485,TANC2,1,0.000253667,,"Significant, overexpressed"
+486,TBC1D24,1,,-0.000235165,"Significant, underexpressed"
+487,TBX1,1,,,
+488,TBX2,1,,,
+489,TBX20,1,,-0.006060503,
+490,TBX4,1,,,
+491,TBX5,1,,-0.031827241,
+492,TCF20,1,,,
+493,TCIRG1,1,1.42784E-05,,"Significant, overexpressed"
+494,TCOF1,1,,,
+495,TELO2,1,,,
+496,TFAP2B,1,,-0.009032874,
+497,TGDS,1,,,
+498,TGFB2,1,0.023696676,,
+499,TGFB3,1,,,
+500,TGFBR1,1,,,
+501,TGFBR2,1,8.13655E-23,,"Significant, overexpressed"
+502,TGIF1,1,,,
+503,THOC6,1,,,
+504,THSD1,1,1.62596E-18,,"Significant, overexpressed"
+505,TKT,1,,,
+506,TLL1,1,0.001055398,,
+507,TMCO1,1,,,
+508,TMEM260,1,,,
+509,TMTC3,1,0.006564949,,
+510,TNFSF11,1,,-0.00068043,"Significant, underexpressed"
+511,TNRC6B,1,,,
+512,TP63,1,,,
+513,TPM2,1,,,
+514,TPM3,1,2.6626E-06,,"Significant, overexpressed"
+515,TRAF7,1,0.000387992,,"Significant, overexpressed"
+516,TRAIP,1,,,
+517,TRAPPC4,1,0.015439832,,
+518,TREX1,1,0.000256845,,"Significant, overexpressed"
+519,TRIP11,1,,,
+520,TRIP13,1,,,
+521,TRIP4,1,,,
+522,TRMT1,1,0.007218303,,
+523,TRRAP,1,0.000573949,,"Significant, overexpressed"
+524,TSC1,1,,,
+525,TSC2,1,7.65863E-06,,"Significant, overexpressed"
+526,TSFM,1,,,
+527,TSR2,1,,,
+528,TTC12,1,,-0.038331479,
+529,TTC37,1,0.019034171,,
+530,UBE2A,1,,,
+531,UBE2T,1,,,
+532,UBE3B,1,0.004175052,,
+533,UBR7,1,,,
+534,UMPS,1,,-0.03650221,
+535,UNC45B,1,,,
+536,UQCRFS1,1,,,
+537,USP18,1,,,
+538,USP9X,1,,,
+539,VAC14,1,,,
+540,VPS33A,1,,,
+541,WAC,1,0.019591359,,
+542,WDFY3,1,0.000446485,,"Significant, overexpressed"
+543,WDPCP,1,0.007677108,,
+544,WDR26,1,,,
+545,WDR35,1,,-0.000182147,"Significant, underexpressed"
+546,WDR37,1,0.018626528,,
+547,WNT4,1,,-0.000409385,"Significant, underexpressed"
+548,WRN,1,,,
+549,WT1,1,,,
+550,XRCC2,1,,,
+551,YY1AP1,1,,,
+552,ZEB2,1,,-0.010957585,
+553,ZFPM2,1,1.80518E-12,,"Significant, overexpressed"
+554,ZIC2,1,,,
+555,ZIC3,1,,,
+556,ZMIZ1,1,1.65474E-06,,"Significant, overexpressed"
+557,ZMPSTE24,1,,,
+558,ZMYND10,1,,-0.008152903,
+559,ZNF148,1,0.000121459,,"Significant, overexpressed"
+560,ZNF462,1,0.00062481,,"Significant, overexpressed"

@@ -1,0 +1,249 @@
+﻿No,CID,Drug (commercial),Cross,clearance index (CI),REF,fetus:mother ratio (F/M) ,REF,cross/no-cross C/NC (exp.),REF,DrugCentral_ID,Preffered_name,SMILES,Blood_Brain_Barrier
+1,3121,Valproic acid (Valproate),Yes,0.95,"(Giaginis et al., 2009)",0.51,"(Takaku et al., 2015)",,,2803,valproic acid,CCCC(CCC)C(O)=O,BBB+
+2,1983,Acetaminophen (Paracetamol),Yes,,,1.34,"(Pacifici and Nottoli, 1995)",,,52,paracetamol,CC(=O)NC1=CC=C(O)C=C1,BBB+
+3,33613,Amoxicillin,Yes,,,0.84,"(Pacifici and Nottoli, 1995)",,,192,amoxicillin,CC1(C)S[C@@H]2[C@H](NC(=O)[C@H](N)C3=CC=C(O)C=C3)C(=O)N2[C@H]1C(O)=O,BBB-
+4,6087,Methicillin,Yes,,,0.81,"(Pacifici and Nottoli, 1995)",,,1744,meticillin,COC1=CC=CC(OC)=C1C(=O)N[C@H]1[C@H]2SC(C)(C)[C@@H](N2C1=O)C(O)=O,#N/A
+5,2369,Betaxolol,Yes,,,0.93,"(Morselli et al., 1990)",,,356,betaxolol,CC(C)NCC(O)COC1=CC=C(CCOCC2CC2)C=C1,BBB-
+6,135398513,Acyclovir,Yes,,,0.67,"(Pacifici and Nottoli, 1995)",,,85,acyclovir,NC1=NC2=C(N=CN2COCCO)C(=O)N1,BBB-
+7,37768, Amikacin,Yes,0.17,"(Giaginis et al., 2009)",1,"(Pacifici and Nottoli, 1995; and Nottoli, 1995)", ,,157,amikacin,NCC[C@H](O)C(=O)N[C@@H]1C[C@H](N)[C@@H](O[C@H]2O[C@H](CN)[C@@H](O)[C@H](O)[C@H]2O)[C@H](O)[C@H]1O[C@H]1O[C@H](CO)[C@@H](O)[C@H](N)[C@H]1O,BBB-
+8,2519,Caffeine,Yes,,,0.84,"(Gilstrap et al., 1994; Pacifici Mose et al., 2008)", ,,463,caffeine,CN1C=NC2=C1C(=O)N(C)C(=O)N2C,BBB+
+9,2153,Theophylline,Yes,0.8,"(Giaginis et al., 2009)",,,C,"(Pacifici and Nottoli, 1995; Grosso et al., 2006)",2620,theophylline,CN1C2=C(N=CN2)C(=O)N(C)C1=O,BBB+
+10,6249, Ampicillin,Yes,,,0.75b,"(Chow and Jewesson, 1985; Pacifici and Nottoli, 1995)", ,,198,ampicillin,CC1(C)S[C@@H]2[C@H](NC(=O)[C@H](N)C3=CC=CC=C3)C(=O)N2[C@H]1C(O)=O,BBB-
+11,5284519,Azlocillin,Yes,,,1,"(Pacifici and Nottoli, 1995)",,,277,azlocillin,CC1(C)S[C@@H]2[C@H](NC(=O)[C@H](NC(=O)N3CCNC3=O)C3=CC=CC=C3)C(=O)N2[C@H]1C(O)=O,#N/A
+12,9570757, Cefmenoxime,Yes,,,0.3,"(Pacifici and Nottoli, 1995)",,,538,cefmenoxime,CO\N=C(/C(=O)N[C@H]1[C@H]2SCC(CSC3=NN=NN3C)=C(N2C1=O)C(O)=O)C1=CSC(N)=N1,BBB-
+13,441199,Cefoxitin,Yes,,,0.6,"(Pacifici and Nottoli, 1995)",,,550,cefoxitin,CO[C@]1(NC(=O)CC2=CC=CS2)[C@H]2SCC(COC(N)=O)=C(N2C1=O)C(O)=O,BBB-
+14,38103,Cephradine,Yes,,,,,C,"(Pacifici and Nottoli, 1995)",576,cefradine,CC1=C(N2[C@H](SC1)[C@H](NC(=O)[C@H](N)C1=CCC=CC1)C2=O)C(O)=O,#N/A
+15,5773,Cephaloridine,Yes,,,1.15b,"(Ward, 1996)",,,573,cefaloridine,[O-]C(=O)C1=C(C[N+]2=CC=CC=C2)CS[C@@H]2[C@H](NC(=O)CC3=CC=CS3)C(=O)N12,#N/A
+16,43708, Cefotiam,Yes,,,,,C,"(Pacificii, 2006)",548,cefotiam,CN(C)CCN1N=NN=C1SCC1=C(N2[C@H](SC1)[C@H](NC(=O)CC1=CSC(N)=N1)C2=O)C(O)=O,BBB-
+17,6533629,Ceftizoxime,Yes,0.12,"(Giaginis et al., 2009)",>1.0,"(Pacifici, 2006)",,,563,ceftizoxime,CO\N=C(/C(=O)N[C@H]1[C@H]2SCC=C(N2C1=O)C(O)=O)C1=CSC(N)=N1,BBB-
+18,5479530,Ceftriaxone,Yes,,,,,C,"(Cho et al., 1988)",564,ceftriaxone,CO\N=C(/C(=O)N[C@H]1[C@H]2SCC(CSC3=NC(=O)C(=O)NN3C)=C(N2C1=O)C(O)=O)C1=CSC(N)=N1,BBB-
+19,3016,Diazepam,Yes,,,1.26,"(Takaku et al., 2015)",,,852,diazepam,CN1C2=CC=C(Cl)C=C2C(=NCC1=O)C1=CC=CC=C1,BBB+
+20,2809,Clorazepate,Yes,,,1,"(Rey et al., 1979)",,,711,clorazepate,OC(=O)C1N=C(C2=CC=CC=C2)C2=CC(Cl)=CC=C2NC1=O,BBB+
+21,3958,Lorazepam,Yes,,,0.5,"(Kanto, 1982)",,,1606,lorazepam,OC1N=C(C2=CC(Cl)=CC=C2NC1=O)C1=C(Cl)C=CC=C1,BBB+
+22,4192,Midazolam,Yes,,,0.74,"(Takaku et al., 2015)",,,1802,midazolam,CC1=NC=C2CN=C(C3=CC(Cl)=CC=C3N12)C1=C(F)C=CC=C1,BBB+
+23,4506,Nitrazepam,Yes,,,>0.6,"(Kanto, 1982)",,,1945,nitrazepam,[O-][N+](=O)C1=CC=C2NC(=O)CN=C(C3=CC=CC=C3)C2=C1,BBB+
+24,4616,Oxazepam,Yes,,,>0.6,"(Kanto, 1982)",,,2015,oxazepam,OC1N=C(C2=CC=CC=C2)C2=CC(Cl)=CC=C2NC1=O,BBB+
+25,40391,Pinazepam,Yes,,,0.64,"(Pacifici et al., 1984)",,,2175,pinazepam,ClC1=CC=C2N(CC#C)C(=O)CN=C(C3=CC=CC=C3)C2=C1,BBB+
+26,2719,Chloroquine,Yes,,,0.93,"(Takaku et al., 2015)",,,607,chloroquine,CCN(CC)CCCC(C)NC1=CC=NC2=CC(Cl)=CC=C12,BBB-
+27,3715,Indomethacin,Yes,0.72,"(Giaginis et al., 2009",0.98,"(Takaku et al., 2015)",,,1440,indomethacin,COC1=CC2=C(C=C1)N(C(=O)C1=CC=C(Cl)C=C1)C(C)=C2CC(O)=O,BBB+
+28,5253,Sotalol,Yes,,,0.5,"(Pacifici and Nottoli, 1995; Takaku et al., 2015)", ,,2464,sotalol,CC(C)NCC(O)C1=CC=C(NS(C)(=O)=O)C=C1,BBB+
+29,38853,Methyldopa,Yes,,,1.10b,"(Cho et al., 1988)",,,1762,methyldopa,C[C@](N)(CC1=CC(O)=C(O)C=C1)C(O)=O,BBB+
+30,4763,Phenobarbitone (Phenobarbital),Yes,0.52,"(Giaginis et al., 2009",,,C,"(Cho et al., 1988)",2134,phenobarbital,CCC1(C(=O)NC(=O)NC1=O)C1=CC=CC=C1,BBB+
+31,1775,Phenytoin,Yes,0.52,"(Giaginis et al., 2009",1,"(Cho et al., 1988)",C,"(Cho et al., 1988)",2152,phenytoin,O=C1NC(=O)C(N1)(C1=CC=CC=C1)C1=CC=CC=C1,BBB+
+32,5288826,Morphine,Yes,0.63,"(Giaginis et al., 2009",0.73,"(Kopecky et al., 1999)",C,"(Cho et al., 1988)",1845,morphine,CN1CC[C@]23[C@H]4OC5=C(O)C=CC(C[C@@H]1[C@@H]2C=C[C@@H]4O)=C35,BBB+
+33,5193,Secobarbital (Quinalbarbitone),Yes,,,,,C,"(Root et al., 1961; Cho et al., 1988)",2428,secobarbital,CCCC(C)C1(CC=C)C(=O)NC(=O)NC1=O,BBB+
+34,3032285,Thiamylal (Tiamil),Yes,,,,,C,"(Cho et al., 1988)",2626,thiamylal,CCCC(C)C1(CC=C)C(=O)NC(=S)NC1=O,BBB+
+35,4906,Prilocaine,Yes,,,1,"(Root et al., 1961)",,,2265,prilocaine,CCCNC(C)C(=O)NC1=C(C)C=CC=C1,#N/A
+36,4116,Methoxyflurane,Yes,,,0.60b,"(Cho et al., 1988)",,,1754,methoxyflurane,COC(F)(F)C(Cl)Cl,BBB+
+37,3821,Ketamine,Yes,,,0.60b,"(Cho et al., 1988)",,,1523,ketamine,CNC1(CCCCC1=O)C1=C(Cl)C=CC=C1,BBB+
+38,4943,Propofol,Yes,0.51,"(Giaginis et al., 2009",>0.65,"(Cho et al., 1988)",,,2302,propofol,CC(C)C1=CC=CC(C(C)C)=C1O,BBB+
+39,948,Nitrous Oxide,Yes,,,0.8,"(Littleford, 2004)",,,4238,nitrous oxide,[O-][N+]#N,BBB+
+40,35370,Zidovudine (AZT),Yes,0.29,"(Giaginis et al., 2009)",0.92,"(McCormack and Best, 2014)",,,2861,zidovudine,CC1=CN([C@H]2C[C@H](N=[N+]=[N-])[C@@H](CO)O2)C(=O)NC1=O,#N/A
+41,18283,Stavudine (d4T),Yes,0.24,"(Giaginis et al., 2009)",0.93," (Takaku et al., 2015)",,,2478,stavudine,CC1=CN([C@@H]2O[C@H](CO)C=C2)C(=O)NC1=O,BBB+
+42,60825,Lamivudine (3TC),Yes,0.23,"(Giaginis et al., 2009)",1.31,"(Takaku et al., 2015)",,,1539,lamivudine,NC1=NC(=O)N(C=C1)[C@@H]1CS[C@H](CO)O1,#N/A
+43,135398739,Didanosine,Yes,0.31,"(Giaginis et al., 2009)",0.38,"(McCormack and Best, 2014)",,,869,didanosine,OC[C@@H]1CC[C@@H](O1)N1C=NC2=C1N=CNC2=O,BBB-
+44,4463,Nevirapine,Yes,,,0.67,"(McCormack and Best, 2014)",,,1904,nevirapine,CC1=CC=NC2=C1NC(=O)C1=CC=CN=C1N2C1CC1,BBB+
+45,24066,Zalcitabine,Yes,0.22,"(Giaginis et al., 2009)",1,"(Allegaert and Van Den Anker, 2017)",,,2856,zalcitabine,NC1=NC(=O)N(C=C1)[C@H]1CC[C@@H](CO)O1,BBB+
+46,1978,Acebutolol,Yes,,,0.79,"(Takaku et al., 2015)",,,40,acebutolol,CCCC(=O)NC1=CC(C(C)=O)=C(OCC(O)CNC(C)C)C=C1,BBB-
+47,2249,Atenolol,Yes,,,1.30b,"(Cho et al., 1988)",,,255,atenolol,CC(C)NCC(O)COC1=CC=C(CC(N)=O)C=C1,BBB-
+48,2803,Clonidine,Yes,,,0.89,"(Takaku et al., 2015)",,,704,clonidine,ClC1=CC=CC(Cl)=C1NC1=NCCN1,BBB+
+49,3784,Isradipine,Yes,,,0.4,"(Cho et al., 1988)",,,1511,isradipine,COC(=O)C1=C(C)NC(C)=C(C1C1=CC=CC2=NON=C12)C(=O)OC(C)C,BBB+
+50,3676,Lignocaine (Lidocaine),Yes,0.91,"(Giaginis et al., 2009)",0.55,"(Pacifici and Nottoli, 1995; Takaku et al., 2015)", ,,1579,lidocaine,CCN(CC)CC(=O)NC1=C(C)C=CC=C1C,BBB-
+51,4062,Mepivacaine,Yes,,,0.69,"(Brown et al., 1975)",,,1700,mepivacaine,CN1CCCCC1C(=O)NC1=C(C)C=CC=C1C,BBB+
+52,6032,Kanamycin,Yes,,,0.5,"(Pacifici and Nottoli, 1995)",,,1519,kanamycin,NC[C@H]1O[C@H](O[C@@H]2[C@@H](N)C[C@@H](N)[C@H](O[C@H]3O[C@H](CO)[C@@H](O)[C@H](N)[C@H]3O)[C@H]2O)[C@H](O)[C@@H](O)[C@@H]1O,BBB-
+53,441278,Pentazocine,Yes,,,0.6,"(Pacifici and Nottoli, 1995)",,,3424,pentazocine,CC1C2CC3=CC=C(O)C=C3C1(C)CCN2CC=C(C)C,BBB+
+54,5750,Pethidine (Meperidine),Yes,,,0.81,"(Tomson et al., 1982; Pacifici and Nottoli, 1995)", ,,1690,pethidine,CCOC(=O)C1(CCN(C)CC1)C1=CC=CC=C1,BBB+
+55,2554,Carbamazepine,Yes,,,0.79,"(Bank et al., 2017)",,,489,carbamazepine,NC(=O)N1C2=CC=CC=C2C=CC2=C1C=CC=C2,BBB+
+56,4909,Primidone,Yes,,,0.99b,"(Pacifici and Nottoli, 1995)",,,2267,primidone,CCC1(C(=O)NCNC1=O)C1=CC=CC=C1,BBB+
+57,3639,Hydrochlorothiazide,Yes,,,0.50b,"(Pacifici and Nottoli, 1995)",,,1385,hydrochlorothiazide,NS(=O)(=O)C1=C(Cl)C=C2NCNS(=O)(=O)C2=C1,BBB-
+58,2724385,Digoxin,Yes,,,0.5,"(Pacifici and Nottoli, 1995)",,,882,digoxin,C[C@H]1O[C@H](C[C@H](O)[C@@H]1O)O[C@H]1[C@@H](O)C[C@H](O[C@H]2[C@@H](O)C[C@H](O[C@H]3CC[C@@]4(C)[C@H](CC[C@@H]5[C@@H]4C[C@@H](O)[C@]4(C)[C@H](CC[C@]54O)C4=CC(=O)OC4)C3)O[C@@H]2C)O[C@@H]1C,BBB-
+59,5403,Terbutaline,Yes,,,1,"(Pacifici and Nottoli, 1995)",,,2598,terbutaline,CC(C)(C)NCC(O)C1=CC(O)=CC(O)=C1,BBB-
+60,174174,Atropine,Yes,,,,,C,"(Pacifici and Nottoli, 1995)",260,atropine,CN1[C@H]2CC[C@@H]1C[C@@H](C2)OC(=O)C(CO)C1=CC=CC=C1,BBB+
+61,2206,Antipyrine,Yes,0.98,"(Sudhakaran et al., 2005)",,,C,"(Hewitt et al., 2007)",861,phenazone,CN1N(C(=O)C=C1C)C1=CC=CC=C1,BBB+
+62,446987,Fosfomycin,Yes,,,>0.50,"(Pacifici and Nottoli, 1995)",,,1243,fosfomycin,C[C@@H]1O[C@@H]1P(O)(O)=O,BBB+
+63,441140,Griseofulvin,Yes,,,0.8,"(Pacifici and Nottoli, 1995)",,,1331,griseofulvin,COC1=CC(OC)=C(Cl)C2=C1C(=O)[C@]1(O2)[C@H](C)CC(=O)C=C1OC,#N/A
+64,5339,Sulfasalazine,Yes,,,0.58,"(Pacifici and Nottoli, 1995)",,,2525,sulfasalazine,OC(=O)C1=CC(=CC=C1O)\N=N\C1=CC=C(C=C1)S(=O)(=O)NC1=CC=CC=N1,BBB-
+65,27200,Thiamphenicol,Yes,,,,,,,2624,thiamphenicol,CS(=O)(=O)C1=CC=C(C=C1)[C@@H](O)[C@@H](CO)NC(=O)C(Cl)Cl,BBB+
+66,4737,Pentobarbitone (Pentobarbital),Yes,,,0.8,"(Pacifici and Nottoli, 1995)",C,"(Pacifici and Nottoli, 1995; Pacifici, 2006)",2095,pentobarbital,CCCC(C)C1(CC)C(=O)NC(=O)NC1=O,BBB+
+67,3763,Isoflurane,Yes,,,0.27,"(Brown et al., 1975)",,,1493,isoflurane,FC(F)OC(Cl)C(F)(F)F,BBB+
+68,9034,Methohexital,Yes,,,0.87,"(Herman et al., 2000)",,,1748,methohexital,CCC#CC(C)C1(CC=C)C(=O)NC(=O)N(C)C1=O,BBB+
+69,7239,1.2-Dichlorobenzene,Yes,0.98,"(Hewitt et al., 2007)",,,,,,,ClC1=C(Cl)C=CC=C1,BBB+
+70,3345,Fentanyl,Yes,,,0.37,"(Loftus et al., 1995)",,,1164,fentanyl,CCC(=O)N(C1CCN(CCC2=CC=CC=C2)CC1)C1=CC=CC=C1,BBB+
+71,702,Ethanol,Yes,1.07,"(Giaginis et al., 2009)",,,,,1076,ethanol,CCO,BBB+
+72,89594,Nicotine,Yes,0.93,"(Giaginis et al., 2009)",,,,,1920,nicotine,CN1CCC[C@H]1C1=CC=CN=C1,BBB+
+73,4993,Pyrimethamine,Yes,1,"(Giaginis et al., 2009)",,,,,2332,pyrimethamine,CCC1=NC(N)=NC(N)=C1C1=CC=C(Cl)C=C1,BBB+
+74,3000715,Thiopentone (Thiopental),Yes,0.95,"(Giaginis et al., 2009)",,,,,2633,thiopental,CCCC(C)C1(CC)C(=O)NC(=S)NC1=O,BBB+
+75,15130,L-Alphacetylmethadol,Yes,0.95,"(Giaginis et al., 2009)",,,,,#N/A,#N/A,CC[C@@H](C(C[C@H](C)N(C)C)(C1=CC=CC=C1)C2=CC=CC=C2)OC(=O)C,#N/A
+76,40692,Mefloquine,Yes,1.57,"(Giaginis et al., 2009)",,,,,1665,mefloquine,O[C@H]([C@H]1CCCCN1)C1=CC(=NC2=C(C=CC=C12)C(F)(F)F)C(F)(F)F,#N/A
+77,64139,Efavirenz,Yes,,,0.49,"(Cressey et al., 2012)",C,"(Weiner, 2019)",989,efavirenz,FC(F)(F)[C@]1(OC(=O)NC2=C1C=C(Cl)C=C2)C#CC1CC1,BBB-
+78,5426,Thalidomide,Yes,,,,,C,"(Weiner, 2019)",2616,thalidomide,O=C1N(C2CCC(=O)NC2=O)C(=O)C2=C1C=CC=C2,BBB+
+79,5362124,Benazepril,Yes,,,,,C,"(Weiner, 2019)",299,benazepril,CCOC(=O)[C@H](CCC1=CC=CC=C1)N[C@H]1CCC2=CC=CC=C2N(CC(O)=O)C1=O,BBB-
+80,55891,Fosinopril,Yes,,,,,C,"(Weiner, 2019)",1245,fosinopril,CCC(=O)O[C@@H](O[P@](=O)(CCCCC1=CC=CC=C1)CC(=O)N1C[C@@H](C[C@H]1C(O)=O)C1CCCCC1)C(C)C,#N/A
+81,5362119,Lisinopril,Yes,,,,,C,"(Weiner, 2019)",1587,lisinopril,NCCCC[C@H](N[C@@H](CCC1=CC=CC=C1)C(O)=O)C(=O)N1CCC[C@H]1C(O)=O,BBB-
+82,91270,Moexipril,Yes,,,,,C,"(Mosby, 2017)",1827,moexipril,CCOC(=O)[C@H](CCC1=CC=CC=C1)N[C@@H](C)C(=O)N1CC2=CC(OC)=C(OC)C=C2C[C@H]1C(O)=O,BBB-
+83,54892,Quinapril,Yes,,,,,C,"(Weiner, 2019)",2340,quinapril,CCOC(=O)[C@H](CCC1=CC=CC=C1)N[C@@H](C)C(=O)N1CC2=CC=CC=C2C[C@H]1C(O)=O,BBB-
+84,5362129,Ramipril,Yes,,,,,C,"(Weiner, 2019)",2356,ramipril,CCOC(=O)[C@H](CCC1=CC=CC=C1)N[C@@H](C)C(=O)N1[C@H]2CCC[C@H]2C[C@H]1C(O)=O,BBB-
+85,44093,Captopril,Yes,,,,,C,"(Mosby, 2017)",484,captopril,C[C@H](CS)C(=O)N1CCC[C@H]1C(O)=O,BBB-
+86,5388962,Enalapril,Yes,,,,,C,"(Weiner, 2019)",1005,enalapril,CCOC(=O)[C@H](CCC1=CC=CC=C1)N[C@@H](C)C(=O)N1CCC[C@H]1C(O)=O,BBB-
+87,5284513,Acitretin,Yes,,,,,C,"(Pilkington and Brogden, 1992)",78,acitretin,COC1=C(C)C(C)=C(\C=C\C(\C)=C\C=C\C(\C)=C\C(O)=O)C(C)=C1,#N/A
+88,5282379,Isotretinoin,Yes,,,,,C,"(Weiner, 2019)",1508,isotretinoin,C\C(\C=C\C1=C(C)CCCC1(C)C)=C/C=C/C(/C)=C\C(O)=O,BBB-
+89,54676038,Dicoumarol,Yes,,,0.79,"(Pacifici and Nottoli, 1995)",,,867,dicoumarol,OC1=C(CC2=C(O)C3=C(OC2=O)C=CC=C3)C(=O)OC2=CC=CC=C12,#N/A
+90,54676537,Acenocoumarol,Yes,,,,,C,"(Weiner, 2019)",48,acenocoumarol,CC(=O)CC(C1=CC=C(C=C1)[N+]([O-])=O)C1=C(O)C2=C(OC1=O)C=CC=C2,#N/A
+91,54678486,Warfarin,Yes,,,,,C,"(Weiner, 2019)",2847,warfarin,CC(=O)CC(C1=CC=CC=C1)C1=C(O)C2=CC=CC=C2OC1=O,BBB-
+92,53232,Lovastatin,Yes,,,,,C,"(Weiner, 2019)",1612,lovastatin,CC[C@H](C)C(=O)O[C@H]1C[C@@H](C)C=C2C=C[C@H](C)[C@H](CC[C@@H]3C[C@@H](O)CC(=O)O3)[C@@H]12,BBB-
+93,446155,Fluvastatin,Yes,,,,,C,"(Weiner, 2019)",#N/A,#N/A,CC(C)n1c(\C=C\C(O)C[C@@H](O)CC(O)=O)c(-c2ccc(F)cc2)c2ccccc12,BBB+
+94,54454,Simvastatin,Yes,,,,,C,"(Weiner, 2019)",2445,simvastatin,CCC(C)(C)C(=O)O[C@H]1C[C@@H](C)C=C2C=C[C@H](C)[C@H](CC[C@@H]3C[C@@H](O)CC(=O)O3)[C@@H]12,BBB+
+95,60823,Atorvastatin,Yes,,,,,C,"(Weiner, 2019)",257,atorvastatin,CC(C)C1=C(C(=O)NC2=CC=CC=C2)C(=C(N1CC[C@@H](O)C[C@@H](O)CC(O)=O)C1=CC=C(F)C=C1)C1=CC=CC=C1,#N/A
+96,446156,Cerivastatin,Yes,,,,,C,"(Weiner, 2019)",577,cerivastatin,COCC1=C(C2=CC=C(F)C=C2)C(\C=C\[C@@H](O)C[C@@H](O)CC(O)=O)=C(N=C1C(C)C)C(C)C,BBB+
+97,1990,Acetohydroxamic acid,Yes,,,,,C,"(Thakur et al., 2011)",58,acetohydroxamic acid,CC(=O)NO,BBB-
+98,57363,Finasteride,Yes,,,,,C,"(Thakur et al., 2011)",1171,finasteride,CC(C)(C)NC(=O)[C@H]1CC[C@H]2[C@@H]3CC[C@H]4NC(=O)C=C[C@]4(C)[C@H]3CC[C@]12C,#N/A
+99,448537,Diethylstilbestrol,Yes,,,,,C,"(Weiner, 2019)",875,diethylstilbestrol,CC\C(=C(\CC)C1=CC=C(O)C=C1)C1=CC=C(O)C=C1,BBB-
+100,1349907,Methimazole,Yes,,,,,C,"(Weiner, 2019)",1745,thiamazole,CN1C=CNC1=S,BBB-
+101,444795,Tretinoin (Retinoic acid),Yes,,,,,C,"(Weiner, 2019)",2722,tretinoin,C\C(\C=C\C1=C(C)CCCC1(C)C)=C/C=C/C(/C)=C/C(O)=O,#N/A
+102,6013,Testoterone,Yes,,,,,C,"(Hollier et al., 2014)",#N/A,#N/A,C[C@]12CC[C@H]3[C@@H](CCC4=CC(=O)CC[C@]34C)[C@@H]1CC[C@@H]2O,#N/A
+103,25249,Stanozolol,Yes,,,,,C,"(Caballero et al., 2014)",2477,stanozolol,C[C@]1(O)CC[C@H]2[C@@H]3CC[C@H]4CC5=C(C[C@]4(C)[C@H]3CC[C@]12C)C=NN5,BBB-
+104,3037705,Metenolone,Yes,,,,,C,"(Barceloux, 2012)",1743,methenolone,CC1=CC(=O)C[C@@H]2CC[C@H]3[C@@H]4CC[C@H](O)[C@@]4(C)CC[C@@H]3[C@@]12C,#N/A
+105,9904,Nandrolone,Yes,,,,,C,"(Barceloux, 2012)",1879,nandrolone,C[C@]12CC[C@H]3[C@@H](CCC4=CC(=O)CC[C@H]34)[C@@H]1CC[C@@H]2O,BBB-
+106,54675776,Tetracycline,Yes,,,,,C,"(Weiner, 2019)",2611,tetracycline,CN(C)[C@H]1[C@@H]2C[C@H]3C(=C(O)[C@]2(O)C(=O)C(C(N)=O)=C1O)C(=O)C1=C(C=CC=C1O)[C@@]3(C)O,BBB-
+107,54675779,Oxytetracycline,Yes,,,0.55b,"(Pacifici and Nottoli, 1995)",,,2041,oxytetracycline,CN(C)[C@H]1[C@@H]2[C@@H](O)[C@H]3C(=C(O)[C@]2(O)C(=O)C(C(N)=O)=C1O)C(=O)C1=C(O)C=CC=C1[C@@]3(C)O,BBB-
+108,60846,Valsartan,Yes,,,,,C,"(Weiner, 2019)",2806,valsartan,CCCCC(=O)N(CC1=CC=C(C=C1)C1=C(C=CC=C1)C1=NN=NN1)[C@@H](C(C)C)C(O)=O,#N/A
+109,3961,Losartan,Yes,,,,,C,"(Weiner, 2019)",1610,losartan,CCCCC1=NC(Cl)=C(CO)N1CC1=CC=C(C=C1)C1=C(C=CC=C1)C1=NN=NN1,BBB-
+110,5743,Dexamethasone,Yes,0.37,"(Giaginis et al., 2009)",,,C,"(Weiner, 2019)",824,dexamethasone,C[C@@H]1C[C@H]2[C@@H]3CCC4=CC(=O)C=C[C@]4(C)[C@@]3(F)[C@@H](O)C[C@]2(C)[C@@]1(O)C(=O)CO,BBB+
+111,249266,2-Chlorobiphenyl,Yes,,,,,C,"(Örberg, 1977; Ando et al., 1985)",#N/A,#N/A,ClC1=C(C=CC=C1)C1=CC=CC=C1,#N/A
+112,16322,3-Chlorobiphenyl,Yes,,,,,C,"(Örberg, 1977; Ando et al., 1985)",#N/A,#N/A,ClC1=CC=CC(=C1)C1=CC=CC=C1,#N/A
+113,16323,4-Chlorobiphenyl,Yes,,,,,C,"(Örberg, 1977; Ando et al., 1985)",#N/A,#N/A,ClC1=CC=C(C=C1)C1=CC=CC=C1,#N/A
+114,3393,Flurazepam,Yes,,,,,C,"(Weiner, 2019)",1218,flurazepam,CCN(CC)CCN1C2=CC=C(Cl)C=C2C(=NCC1=O)C1=C(F)C=CC=C1,BBB+
+115,5556,Triazolam,Yes,,,,,C,"(Baker et al., 1981)",2729,triazolam,CC1=NN=C2CN=C(C3=CC(Cl)=CC=C3N12)C1=C(Cl)C=CC=C1,BBB+
+116,5852,Penicillamine,Yes,,,,,C,"(Weiner, 2019)",2081,penicillamine,CC(C)(S)[C@@H](N)C(O)=O,#N/A
+117,5576,Trimethadione,Yes,,,,,C,"(Weiner, 2019)",2751,trimethadione,CN1C(=O)OC(C)(C)C1=O,BBB+
+118,19649,Streptomycin,Yes,,,,,C,"(Ormerod, 2001)",2481,streptomycin,CN[C@H]1[C@H](O)[C@@H](O)[C@H](CO)O[C@H]1O[C@H]1[C@H](O[C@H]2[C@H](O)[C@@H](O)[C@H](NC(N)=N)[C@@H](O)[C@@H]2NC(N)=N)O[C@@H](C)[C@]1(O)C=O,BBB-
+119,441300,Abacavir,Yes,0.47,"(Giaginis et al., 2009)",1.02,"(McCormack and Best, 2014)",,,34,abacavir,NC1=NC(NC2CC2)=C2N=CN([C@@H]3C[C@H](CO)C=C3)C2=N1,BBB+
+120,51263,Alfentanil,Yes,0.75,"(Giaginis et al., 2009)",0.35,"(Pacifici and Nottoli, 1995)",,,114,alfentanil,CCN1N=NN(CCN2CCC(COC)(CC2)N(C(=O)CC)C2=CC=CC=C2)C1=O,BBB+
+121,644073,Buprenorphine,Yes,0.29,"(Giaginis et al., 2009)",0.35,"(Takaku et al., 2015)",,,434,buprenorphine,CO[C@]12CC[C@@]3(C[C@@H]1[C@](C)(O)C(C)(C)C)[C@H]1CC4=CC=C(O)C5=C4[C@@]3(CCN1CC1CC1)[C@H]2O5,BBB+
+122,8612,Chloroprocaine,Yes,0.83,"(Giaginis et al., 2009)",,,,,605,chloroprocaine,CCN(CC)CCOC(=O)C1=C(Cl)C=C(N)C=C1,#N/A
+123,5280980,Clavulanic acid,Yes,0.06,"(Giaginis et al., 2009)",0.56,"(Root et al., 1961; Fortunato et al., 1992)", ,,669,clavulanic acid,OC\C=C1/O[C@@H]2CC(=O)N2[C@H]1C(O)=O,#N/A
+124,222786,Cortisone,Yes,0.74,"(Giaginis et al., 2009)",,,C,"(Freyer, 2009)",1388,hydrocortisone,C[C@]12C[C@H](O)[C@H]3[C@@H](CCC4=CC(=O)CC[C@]34C)[C@@H]1CC[C@]2(O)C(=O)CO,BBB+
+125,3033,Diclofenac,Yes,0.79,"(Giaginis et al., 2009)",~1.0 ,"(Weiner, 2019)",,,865,diclofenac,OC(=O)CC1=C(NC2=C(Cl)C=CC=C2Cl)C=CC=C1,#N/A
+126,3637,Hydralazine,Yes,0.61,"(Giaginis et al., 2009)",>1.0 ,"(Weiner, 2019)",,,1384,hydralazine,NNC1=NN=CC2=CC=CC=C12,BBB-
+127,4168,Metoclopramide,Yes,0.4,"(Giaginis et al., 2009)",,,C,"(Pacifici and Nottoli, 1995) ",1782,metoclopramide,CCN(CC)CCNC(=O)C1=C(OC)C=C(N)C(Cl)=C1,BBB-
+128,4095,Methadone,Yes,0.83,"(Giaginis et al., 2009)",,,C,"(Weiner, 2019)",1728,methadone,CCC(=O)C(CC(C)N(C)C)(C1=CC=CC=C1)C1=CC=CC=C1,BBB+
+129,5284596,Naloxone,Yes,0.64,"(Giaginis et al., 2009)",0.35,"(Takaku et al., 2015)",,,1878,naloxone,OC1=CC=C2C[C@H]3N(CC=C)CC[C@@]45[C@@H](OC1=C24)C(=O)CC[C@@]35O,BBB+
+130,493570,Riboflavin,Yes,0.69,"(Dancis et al., 1985)",,,C,"(Weiner, 2019)",2834,riboflavin,CC1=CC2=C(C=C1C)N(C[C@H](O)[C@H](O)[C@H](O)CO)C1=NC(=O)NC(=O)C1=N2,#N/A
+131,3825,Ketoprofen,Yes,0.39,"(Giaginis et al., 2009)",,,C,"(Weiner, 2019)",1528,ketoprofen,CC(C(O)=O)C1=CC=CC(=C1)C(=O)C1=CC=CC=C1,BBB+
+132,1548887,Sulindac,Yes,0.47,"(Giaginis et al., 2009)",0.4,"(Weiner, 2019)",,,2534,sulindac,CC1=C(CC(O)=O)C2=C(C=CC(F)=C2)\C1=C/C1=CC=C(C=C1)S(C)=O,BBB-
+133,5352624,Sulindac Sulfide,Yes,0.81,"(Giaginis et al., 2009)",~0.4,"(Weiner, 2019)",,,,,CSC1=CC=C(\C=C2\C(C)=C(CC(O)=O)C3=CC(F)=CC=C23)C=C1,#N/A
+134,5546,Triamterene,Yes,0.85,"(Giaginis et al., 2009)",~1.0,"(Weiner, 2019)",,,2728,triamterene,NC1=NC2=NC(N)=C(N=C2C(N)=N1)C1=CC=CC=C1,BBB-
+135,5310993,Acipimox ,Yes,0.8,"(Ghabrial et al., 1991)",,,,,76,acipimox,CC1=CN=C(C=[N+]1[O-])C(O)=O,#N/A
+136,60848,Atevirdine,Yes,0.35,"(Giaginis et al., 2009)",,,C,"(Baker et al., 1981)",,,CCNC1=C(N=CC=C1)N2CCN(CC2)C(=O)C3=CC4=C(N3)C=CC(=C4)OC,#N/A
+137,171548,Biotin (Vitamin H),Yes,0.72,"(Roberts et al., 1995)",0.40b ,"(Roberts et al., 1995)",,,373,biotin,OC(=O)CCCC[C@@H]1SC[C@@H]2NC(=O)N[C@H]12,#N/A
+138,6106,L-Leucine,Yes,0.76,"(Giaginis et al., 2009, Paolini et al., 2001)", ,,C,"(Cetin et al., 1995)",1557,leucine,CC(C)C[C@H](N)C(O)=O,#N/A
+139,644006,Cocaethylene,Yes,0.78,"(Giaginis et al., 2009)",,,C,"(Abman and Steven, 2017)",,,CCOC(=O)[C@@H]1[C@H]2CC[C@H](N2C)C[C@@H]1OC(=O)C3=CC=CC=C3,#N/A
+140,446220,Cocaine,Yes,0.88,"(Giaginis et al., 2009)",,,C,"(Abman and Steven, 2017)",723,cocaine,COC(=O)[C@@H]1[C@H]2CC[C@@H](C[C@@H]1OC(=O)C1=CC=CC=C1)N2C,BBB+
+141,33572,Ritodrine,Yes,0.1,"(Giaginis et al., 2009)",0.49b,"(Pacifici and Nottoli, 1995)",C,"(Fujimoto et al., 1991)",2390,ritodrine,C[C@@H](NCCC1=CC=C(O)C=C1)[C@@H](O)C1=CC=C(O)C=C1,#N/A
+142,1054,Pyridoxine,Yes,0.56,"(Giaginis et al., 2009)",,,C,"(Weiner, 2019)",2836,pyridoxine,CC1=C(O)C(CO)=C(CO)C=N1,BBB-
+143,4685,1.4-Dichlorobenzene,Yes,0.98,"(Giaginis et al., 2009)",,,,,#N/A,#N/A,ClC1=CC=C(Cl)C=C1,#N/A
+144,5755,Prednisolone,Yes,0.38,"(Giaginis et al., 2009)",,,C,"(Weiner, 2019)",2245,prednisolone,C[C@]12C[C@H](O)[C@H]3[C@@H](CCC4=CC(=O)C=C[C@]34C)[C@@H]1CC[C@]2(O)C(=O)CO,BBB+
+145,37248,PCB-52,Yes,0.74,"(Giaginis et al., 2009)",,,C,"(Lancz et al., 2015)",#N/A,"2,2′,5,5′-Tetrachlorobiphenyl, 2,2′,5,5′-PCB",ClC1=CC(=C(Cl)C=C1)C1=CC(Cl)=CC=C1Cl,#N/A
+146,2730,Chlorpyrifos,Yes,,,0.98,"(Takaku et al., 2015)",,,#N/A,#N/A,CCOP(=S)(OCC)OC1=NC(Cl)=C(Cl)C=C1Cl,#N/A
+147,3017,Diazinon,Yes,,,1,"(Takaku et al., 2015)",,,#N/A,#N/A,CCOP(=S)(OCC)OC1=CC(C)=NC(=N1)C(C)C,#N/A
+148,7430,Dicloran,Yes,,,1.07,"(Takaku et al., 2015)",,,#N/A,#N/A,NC1=C(Cl)C=C(C=C1Cl)N(=O)=O,#N/A
+149,3356,Flecainide,Yes,,,0.63,"(Takaku et al., 2015)",,,1176,flecainide,FC(F)(F)COC1=CC(C(=O)NCC2CCCCN2)=C(OCC(F)(F)F)C=C1,BBB-
+150,3767,Isoniazid,Yes,,,0.62,"(Takaku et al., 2015)",,,1497,isoniazid,NNC(=O)C1=CC=NC=C1,BBB+
+151,4171,Metoprolol,Yes,,,1,"(Takaku et al., 2015)",,,1786,metoprolol,COCCC1=CC=C(OCC(O)CNC(C)C)C=C1,BBB-
+152,37497,Etidocaine,Yes,,,0.34,"(Pacifici and Nottoli, 1995; Takaku et al., 2015)", ,,1097,etidocaine,CCCN(CC)C(CC)C(=O)NC1=C(C)C=CC=C1C,#N/A
+153,4173,Metronidazol,Yes,,,1,"(Takaku et al., 2015)",,,1790,metronidazole,CC1=NC=C(N1CCO)[N+]([O-])=O,#N/A
+154,288,Carnitine,Yes,,,1.29,"(Takaku et al., 2015)",,,513,levocarnitine,C[N+](C)(C)C[C@H](O)CC([O-])=O,#N/A
+155,2802,Clonazepam,Yes,,,0.59,"(Takaku et al., 2015)",,,703,clonazepam,[O-][N+](=O)C1=CC=C2NC(=O)CN=C(C2=C1)C1=C(Cl)C=CC=C1,BBB+
+156,4913,Procainamide,Yes,,,1.1,"(Takaku et al., 2015)",,,2270,procainamide,CCN(CC)CCNC(=O)C1=CC=C(N)C=C1,BBB-
+157,114976,Norbuprenorphine,Yes,,,0.49," (Takaku et al., 2015)",,,,,CO[C@]12CC[C@@]3(C[C@@H]1[C@](C)(O)C(C)(C)C)[C@H]1CC4=CC=C(O)C5=C4[C@@]3(CCN1)[C@H]2O5,#N/A
+158,446598,Clindamycin,Yes,,,0.5," (Takaku et al., 2015)",,,678,clindamycin,CCC[C@@H]1C[C@H](N(C)C1)C(=O)N[C@H]([C@H](C)Cl)[C@H]1O[C@H](SC)[C@H](O)[C@@H](O)[C@H]1O,BBB-
+159,4485,Nifedipine,Yes,,,0.78,"(Takaku et al., 2015)",,,1922,nifedipine,COC(=O)C1=C(C)NC(C)=C(C1C1=C(C=CC=C1)[N+]([O-])=O)C(=O)OC,BBB-
+160,60815,Remifentanil,Yes,,,0.72,"(Takaku et al., 2015)",,,2363,remifentanil,CCC(=O)N(C1=CC=CC=C1)C1(CCN(CCC(=O)OC)CC1)C(=O)OC,BBB+
+161,1050,Pyridoxal,Yes,0.37,"(Giaginis et al., 2009)",,,C,"(Schenker et al., 1992)",4134,pyridoxal,CC1=C(O)C(C=O)=C(CO)C=N1,#N/A
+162,14052,Ethambutol Hydrochloride,Yes,,,0.76,"(Takaku et al., 2015)",,,1073,ethambutol,CC[C@@H](CO)NCCN[C@@H](CC)CO,#N/A
+163,4631,Oxprenolol,Yes,,,0.37,"(Takaku et al., 2015)",,,2027,oxprenolol,CC(C)NCC(O)COC1=C(OCC=C)C=CC=C1,BBB-
+164,13930,Heptachlor Epoxide,Yes,,,0.34,"(Takaku et al., 2015)",,,,,ClC1C2OC2C2C1C1(Cl)C(Cl)=C(Cl)C2(Cl)C1(Cl)Cl,#N/A
+165,60943,SR49059,Yes,0.25,"(Hewitt et al., 2007)",,,C,"(Lagrange et al., 2001)",,Relcovaptan,COC1=C(C=C(C=C1)S(=O)(=O)N2[C@H]([C@](C3=C2C=CC(=C3)Cl)(C4=CC=CC=C4Cl)O)C(=O)N5CCC[C@H]5C(=O)N)OC,#N/A
+166,2756,Cimetidine,Yes,0.3,"(Giaginis et al., 2009)",>0.40,"(Howe et al., 1981)",,,645,cimetidine,CNC(NCCSCC1=C(C)NC=N1)=NC#N,BBB-
+167,5311010,Atosiban,Yes,0.1,"(Valenzuela et al., 1995)",,,C,"(Fullerton et al., 2011)",3008,atosiban,CCOC1=CC=C(C[C@H]2NC(=O)CCSSC[C@H](NC(=O)[C@H](CC(N)=O)NC(=O)[C@@H](NC(=O)[C@@H](NC2=O)[C@@H](C)CC)[C@@H](C)O)C(=O)N2CCC[C@H]2C(=O)N[C@@H](CCCN)C(=O)NCC(N)=O)C=C1,#N/A
+168,3002977,Maraviroc,Yes,0.26,"(Vinot et al., 2013)",0.37,"(McCormack and Best, 2014)",,,1635,maraviroc,CC(C)C1=NN=C(C)N1[C@@H]1C[C@@H]2CC[C@H](C1)N2CC[C@H](NC(=O)C1CCC(F)(F)CC1)C1=CC=CC=C1,#N/A
+169,4091,Metformin,Yes,0.34,"(Giaginis et al., 2009)",,,C,"(Weiner, 2019)",1725,metformin,CN(C)C(=N)NC(N)=N,BBB-
+170,44187,Cefoperazone,Yes,0.04,"(Giaginis et al., 2009)",0.35,"(Takaku et al., 2015)",,,543,cefoperazone,CCN1CCN(C(=O)N[C@@H](C(=O)N[C@H]2[C@H]3SCC(CSC4=NN=NN4C)=C(N3C2=O)C(O)=O)C2=CC=C(O)C=C2)C(=O)C1=O,BBB-
+171,1051,Pyridoxal 5´-phosphate,Yes,0.07,"(Giaginis et al., 2009)",,,C,"(Schenker et al., 1992; Weiner, 2019)",3506,pyridoxal phosphate,CC1=NC=C(COP(O)(O)=O)C(C=O)=C1O,#N/A
+172,135398740,Ganciclovir,Yes,0.17,"(Giaginis et al., 2009)",,,C,"(Weiner, 2019)",1277,ganciclovir,NC1=NC2=C(N=CN2COC(CO)CO)C(=O)N1,BBB+
+173,36921,Ticarcillin,Yes,0.04,"(Giaginis et al., 2009)",0.91,"(Takaku et al., 2015)",,,2656,ticarcillin,CC1(C)S[C@@H]2[C@H](NC(=O)[C@H](C(O)=O)C3=CSC=C3)C(=O)N2[C@H]1C(O)=O,BBB-
+174,62959,Trovafloxacin,Yes,0.19,"(Giaginis et al., 2009)",,,C,"(Malek and Mattison, 2010) ",2777,trovafloxacin,N[C@H]1[C@@H]2CN(C[C@H]12)C1=C(F)C=C2C(=O)C(=CN(C3=C(F)C=C(F)C=C3)C2=N1)C(O)=O,BBB+
+175,656511,Mezlocilline,Yes,0.14,"(Giaginis et al., 2009)",,,C,"(Weiner, 2019)",1795,mezlocillin,CC1(C)S[C@@H]2[C@H](NC(=O)[C@H](NC(=O)N3CCN(C3=O)S(C)(=O)=O)C3=CC=CC=C3)C(=O)N2[C@H]1C(O)=O,#N/A
+176,39031,Sulbenicillin,Yes,,,,,C,"(Pacifici and Nottoli, 1995)",4052,sulbenicillin,CC1(C)S[C@@H]2[C@H](NC(=O)[C@@H](C3=CC=CC=C3)S(O)(=O)=O)C(=O)N2[C@H]1C(O)=O,BBB-
+177,91562,Cefacetrile,Yes,,,0.5,"(Pacifici and Nottoli, 1995)",,,524,cefacetrile,CC(=O)OCC1=C(N2[C@H](SC1)[C@H](NC(=O)CC#N)C2=O)C(O)=O,BBB-
+178,38103,Cefradine,Yes,,,,,C,"(Pacifici and Nottoli, 1995)",576,cefradine,CC1=C(N2[C@H](SC1)[C@H](NC(=O)[C@H](N)C1=CCC=CC1)C2=O)C(O)=O,BBB-
+179,2712,Chlordiazepoxide,Yes,,,,,C,"(Pacifici and Nottoli, 1995)",594,chlordiazepoxide,CNC1=NC2=CC=C(Cl)C=C2C(C2=CC=CC=C2)=[N+]([O-])C1,BBB+
+180,54680675,Clomocycline,Yes,,,0.4,"(Pacifici and Nottoli, 1995)",C,"(Pacifici and Nottoli, 1995)",702,clomocycline,CN(C)[C@H]1[C@@H]2C[C@H]3C(=C(O)[C@]2(O)C(=O)C(C(=O)NCO)=C1O)C(=O)C1=C(C(Cl)=CC=C1O)[C@@]3(C)O,BBB-
+181,54707177,Limecycline,Yes,,,,,C,"(Pacifici and Nottoli, 1995)",#N/A,Tetracycline,C[C@@]1([C@H]2C[C@H]3[C@@H](C(=O)C(=C([C@]3(C(=O)C2=C(C4=C1C=CC=C4O)O)O)O)C(=O)N)N(C)C)O,#N/A
+182,5959,Chloramphenicol,Yes,,,0.5,"(Pacifici and Nottoli, 1995)",,,589,chloramphenicol,OC[C@@H](NC(=O)C(Cl)Cl)[C@H](O)C1=CC=C(C=C1)[N+]([O-])=O,BBB+
+183,216258,Colistimethate,Yes,,,0.58b,"(Pacifici and Nottoli, 1995)",,,731,colistimethate sodium,O=C(N[C@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@@H]1C(=O)N[C@H](C(=O)N[C@@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)NCC1)[C@H](O)C)CCN)CCN)CC(C)C)CC(C)C)CCN)CCN)[C@H](O)C)CCN)CCCC(C)CC,#N/A
+184,14969,Vancomycin,Yes,,,0.75,"(Pacifici and Nottoli, 1995)",,,2807,vancomycin,CN[C@H](CC(C)C)C(=O)N[C@@H]1[C@H](O)C2=CC=C(OC3=C(O[C@@H]4O[C@H](CO)[C@@H](O)[C@H](O)[C@H]4O[C@H]4C[C@](C)(N)[C@H](O)[C@H](C)O4)C4=CC(=C3)[C@@H](NC(=O)[C@H](CC(N)=O)NC1=O)C(=O)N[C@@H]1C3=CC(=C(O)C=C3)C3=C(C=C(O)C=C3O)[C@H](NC(=O)[C@@H](NC1=O)[C@H](O)C1=CC=C(O4)C(Cl)=C1)C(O)=O)C(Cl)=C2,BBB-
+185,31703,Doxorubicin,Yes,,,,,C,"(Pacifici and Nottoli, 1995; Weiner, 2019)",960,doxorubicin,COC1=C2C(=O)C3=C(C(O)=C4C[C@](O)(C[C@H](O[C@H]5C[C@H](N)[C@H](O)[C@H](C)O5)C4=C3O)C(=O)CO)C(=O)C2=CC=C1,BBB-
+186,4914,Procaine,Yes,,,0.5,"(Pacifici and Nottoli, 1995)",,,2271,procaine,CCN(CC)CCOC(=O)C1=CC=C(N)C=C1,BBB+
+187,2244,Salicylates (Aspirin),Yes,,,0.4,"(Thiessen et al., 1984) ",C,"Jacobson et al., 1991)",74,acetylsalicylic acid,CC(=O)OC1=CC=CC=C1C(O)=O,BBB+
+188,135320,N-acetyl-acebutolol,Yes,,,0.71b,"(Pacifici and Nottoli, 1995)",,,#N/A,Diacetolol,CC(C)NCC(O)COC1=CC=C(NC(C)=O)C=C1C(C)=O,#N/A
+189,3440,Furosemide (Frusemide),Yes,,,0.48,"(Beermann et al., 1978)",,,1258,furosemide,NS(=O)(=O)C1=CC(C(O)=O)=C(NCC2=CC=CO2)C=C1Cl,#N/A
+190,6000,Tubocurarine,Yes,,,,,C,"(Pacifici and Nottoli, 1995)",2781,tubocurarine,COC1=CC2=C3C=C1OC1=CC(C[C@@H]4C5=C(OC6=CC=C(C[C@@H]3N(C)CC2)C=C6)C(O)=C(OC)C=C5CC[N+]4(C)C)=CC=C1O,#N/A
+191,16078,Tetrahydrocannabinol ,Yes,,,,,C,"(Pacifici and Nottoli, 1995)",,,CCCCCC1=CC(O)=C2[C@@H]3C=C(C)CC[C@H]3C(C)(C)OC2=C1,#N/A
+192,44814488,11-Nor-Delta-9- Carboxylic Acid- Tetrahydrocannabinol,Yes,,,0.5,"(Pacifici and Nottoli, 1995)",C,"(Pacifici and Nottoli, 1995)",,11-Nor-Delta(9)-Tetrahydrocannabinol-9-Carboxylic Acid,CCCCCC1=CC(O)=C2[C@H]3C=C(CC[C@@H]3C(C)(C)OC2=C1)C(O)=O,#N/A
+193,54687,Pravastatin,No,,,0.09,"(Zarek et al., 2013)",,,2239,pravastatin,CC[C@H](C)C(=O)O[C@H]1C[C@H](O)C=C2C=C[C@H](C)[C@H](CC[C@@H](O)C[C@@H](O)CC(O)=O)[C@@H]12,BBB-
+194,65016,Amprenavir,No,0.38,"(Giaginis et al., 2009)",0.07,"(Gedeon and Koren, 2006)",,,200,amprenavir,CC(C)CN(C[C@@H](O)[C@H](CC1=CC=CC=C1)NC(=O)O[C@H]1CCOC1)S(=O)(=O)C1=CC=C(N)C=C1,BBB-
+195,3035,DDE,No,0.61,"(Giaginis et al., 2009)",0.1,"(Takaku et al., 2015)", ,,,"p,p'-DDE",ClC(Cl)=C(C1=CC=C(Cl)C=C1)C1=CC=C(Cl)C=C1,#N/A
+196,392622,Ritonavir,No,0.09,"(Giaginis et al., 2009)",0.12,"(Gedeon and Koren, 2006; McCormack and Best, 2014)", ,,2391,ritonavir,CC(C)[C@H](NC(=O)N(C)CC1=CSC(=N1)C(C)C)C(=O)N[C@H](C[C@H](O)[C@H](CC1=CC=CC=C1)NC(=O)OCC1=CN=CS1)CC1=CC=CC=C1,BBB-
+197,441243,Saquinavir,No,0.05,"(Giaginis et al., 2009)",~0,"(McCormack and Best, 2014)",,,2422,saquinavir,CC(C)(C)NC(=O)[C@@H]1C[C@@H]2CCCC[C@@H]2CN1C[C@@H](O)[C@H](CC1=CC=CC=C1)NC(=O)[C@H](CC(N)=O)NC(=O)C1=NC2=CC=CC=C2C=C1,BBB-
+198,5362440,Indinavir,No,0.39,"(Hewitt et al., 2007)",0.08,"(Takaku et al., 2015)",,,1437,indinavir,CC(C)(C)NC(=O)[C@@H]1CN(CC2=CN=CC=C2)CCN1C[C@@H](O)C[C@@H](CC1=CC=CC=C1)C(=O)N[C@@H]1[C@H](O)CC2=C1C=CC=C2,BBB-
+199,47320,Atracurium Besilate,No,,,0.1,"(Pacifici and Nottoli, 1995)",,,259,atracurium,COC1=C(OC)C=C(CC2C3=CC(OC)=C(OC)C=C3CC[N+]2(C)CCC(=O)OCCCCCOC(=O)CC[N+]2(C)CCC3=CC(OC)=C(OC)C=C3C2CC2=CC(OC)=C(OC)C=C2)C=C1,#N/A
+200,5314,Suxamethonium,No,,,0.1,"(Pacifici and Nottoli, 1995)",,,2489,suxamethonium,C[N+](C)(C)CCOC(=O)CCC(=O)OCC[N+](C)(C)C,#N/A
+201,21233,Dimethyl-Tubocurarine (Metocurine),No,,,0.08b,"(Pacifici and Nottoli, 1995)",,,908,dimethyltubocurarinium,COC1=CC=C2C[C@@H]3C4=C(OC5=CC=C(C[C@H]6C7=C(CC[N+]6(C)C)C=C(OC)C(OC1=C2)=C7)C=C5)C(OC)=C(OC)C=C4CC[N+]3(C)C,#N/A
+202,39765,Vecuronium,No,,,0.1,"(Pacifici and Nottoli, 1995)",,,2811,vecuronium,CC(=O)O[C@H]1[C@H](C[C@H]2[C@@H]3CC[C@H]4C[C@H](OC(C)=O)[C@H](C[C@]4(C)[C@H]3CC[C@]12C)N1CCCCC1)[N+]1(C)CCCCC1,#N/A
+203,439260,Noradrenaline (Norepinephrine),No,,,<0.10,"(Pacifici and Nottoli, 1995)",,,1960,norepinephrine,NC[C@H](O)C1=CC(O)=C(O)C=C1,BBB-
+204,16130199,Enfuvirtide,No,,,~0,"(McCormack and Best, 2014)",NC,"(McCormack and Best, 2014) ",1010,enfuvirtide,CC[C@H](C)[C@H](NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CO)NC(=O)[C@H](CC1=CNC=N1)NC(=O)[C@@H](NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CO)NC(=O)[C@@H](NC(=O)[C@H](CC1=CC=C(O)C=C1)NC(C)=O)[C@@H](C)O)[C@@H](C)CC)C(=O)N[C@@H](CCC(O)=O)C(=O)N[C@@H](CCC(O)=O)C(=O)N[C@@H](CO)C(=O)N[C@@H](CCC(N)=O)C(=O)N[C@@H](CC(N)=O)C(=O)N[C@@H](CCC(N)=O)C(=O)N[C@@H](CCC(N)=O)C(=O)N[C@@H](CCC(O)=O)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CC(N)=O)C(=O)N[C@@H](CCC(O)=O)C(=O)N[C@@H](CCC(N)=O)C(=O)N[C@@H](CCC(O)=O)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CCC(O)=O)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CC(O)=O)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CC1=CNC2=C1C=CC=C2)C(=O)N[C@@H](C)C(=O)N[C@@H](CO)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CC1=CNC2=C1C=CC=C2)C(=O)N[C@@H](CC(N)=O)C(=O)N[C@@H](CC1=CNC2=C1C=CC=C2)C(=O)N[C@@H](CC1=CC=CC=C1)C(N)=O,#N/A
+205,12560,Erythromycin,No,,,0.03,"(Heikkinen et al., 2000)",NC,"(Heikkinen et al., 2000)",1048,erythromycin,CC[C@H]1OC(=O)[C@H](C)[C@@H](O[C@H]2C[C@@](C)(OC)[C@@H](O)[C@H](C)O2)[C@H](C)[C@@H](O[C@@H]2O[C@H](C)C[C@@H]([C@H]2O)N(C)C)[C@](C)(O)C[C@@H](C)C(=O)[C@H](C)[C@@H](O)[C@]1(C)O,BBB-
+206,447043,Azithromycin,No,,,0.03,"(Heikkinen et al., 2000)",NC,"(Heikkinen et al., 2000)",276,azithromycin,CC[C@H]1OC(=O)[C@H](C)[C@@H](O[C@H]2C[C@@](C)(OC)[C@@H](O)[C@H](C)O2)[C@H](C)[C@@H](O[C@@H]2O[C@H](C)C[C@@H]([C@H]2O)N(C)C)[C@](C)(O)C[C@@H](C)CN(C)[C@H](C)[C@@H](O)[C@]1(C)O,BBB-
+207,5480431,Roxithromycin,No,,,0.05,"(Heikkinen et al., 2000)",NC,"(Heikkinen et al., 2000)",2410,roxithromycin,CC[C@H]1OC(=O)[C@H](C)[C@@H](O[C@H]2C[C@@](C)(OC)[C@@H](O)[C@H](C)O2)[C@H](C)[C@@H](O[C@@H]2O[C@H](C)C[C@@H]([C@H]2O)N(C)C)[C@](C)(O)C[C@@H](C)\C(=N/OCOCCOC)[C@H](C)[C@@H](O)[C@]1(C)O,BBB-
+208,3343,Fenoterol,No,0.1,"(Giaginis et al., 2009)",,,NC,"(Sodha and Schneider, 1983)",1155,fenoterol,CC(CC1=CC=C(O)C=C1)NCC(O)C1=CC(O)=CC(O)=C1,BBB-
+209,3609,Hexoprenaline,No,,,~0,"(Heikkinen et al., 2000)",,,1372,hexoprenaline,OC(CNCCCCCCNCC(O)C1=CC(O)=C(O)C=C1)C1=CC(O)=C(O)C=C1,#N/A
+210,2083,Salbutamol,No,0.1,"(Hewitt et al., 2007)",,,NC,"(Heikkinen et al., 2000)",105,salbutamol,CC(C)(C)NCC(O)C1=CC(CO)=C(O)C=C1,BBB-
+211,3488,Glibenclamide (Glyburide),No,,,0.11,"(Mosby, 2017)",,,1314,glibenclamide,COC1=C(C=C(Cl)C=C1)C(=O)NCCC1=CC=C(C=C1)S(=O)(=O)NC(=O)NC1CCCCC1,#N/A
+212,11693,Glycopyrrolate,No,,,0.13,"(Murad et al., 1981; Ali-Melkkilä et al., 1990)", ,,4302,glycopyrronium bromide,C[N+]1(C)CCC(C1)OC(=O)C(O)(C1CCCC1)C1=CC=CC=C1,BBB-
+213,441130,Meropenem,No,0.08,"(Giaginis et al., 2009)",0.04,"(Weiner, 2019)",,,1709,meropenem,C[C@@H](O)[C@@H]1[C@H]2[C@@H](C)C(S[C@@H]3CN[C@@H](C3)C(=O)N(C)C)=C(N2C1=O)C(O)=O,BBB-
+214,65028,Oseltamivir (Phosphate),No,0.13,"(Giaginis et al., 2009)",,,NC,"(Weiner, 2019)",2001,oseltamivir,CCOC(=O)C1=C[C@@H](OC(CC)CC)[C@H](NC(C)=O)[C@@H](N)C1,#N/A
+215,41693,Sufentanil,No,0.56,"(Hewitt et al., 2007)",<0.10,"(Sastry, 1999)",,,2491,sufentanil,CCC(=O)N(C1=CC=CC=C1)C1(COC)CCN(CCC2=CC=CS2)CC1,BBB+
+216,84029,Clarithromycin,No,,,0.08,"(Park et al., 2012)",,,668,clarithromycin,CC[C@H]1OC(=O)[C@H](C)[C@@H](O[C@H]2C[C@@](C)(OC)[C@@H](O)[C@H](C)O2)[C@H](C)[C@@H](O[C@@H]2O[C@H](C)C[C@@H]([C@H]2O)N(C)C)[C@@](C)(C[C@@H](C)C(=O)[C@H](C)[C@@H](O)[C@]1(C)O)OC,BBB-
+217,439501,Quabain,No,0.07,"(Giaginis et al., 2009)",,,NC,"(Dancis et al., 1983)",2004,ouabain,C[C@@H]1O[C@@H](O[C@H]2C[C@@H](O)[C@]3(CO)[C@H]4[C@H](O)C[C@]5(C)[C@H](CC[C@]5(O)[C@@H]4CC[C@]3(O)C2)C2=CC(=O)OC2)[C@H](O)[C@H](O)[C@H]1O,#N/A
+218,60835,Duloxetine,No,,,0.12,"(Boyce et al., 2011; Takaku et al., 2015)", ,,972,duloxetine,CNCC[C@H](OC1=CC=CC2=C1C=CC=C2)C1=CC=CS1,BBB+
+219,118984375,Insulin (MW 5.8 Kda),No,,,,,,,5003,insulin human,(null),#N/A
+220,4893,Prazosin,No,,,0.14b,"(Pacifici and Nottoli, 1995) 0.10b",,,4209,prazosin,COC1=C(OC)C=C2C(N)=NC(=NC2=C1)N1CCN(CC1)C(=O)C1=CC=CO1,BBB+
+221,2732,Chlorthalidone,No,,,~0.10,"(Pacifici and Nottoli, 1995)",,,625,chlortalidone,NS(=O)(=O)C1=CC(=CC=C1Cl)C1(O)NC(=O)C2=CC=CC=C12,BBB-
+222,5819,Thyroxine,No,,,~0.10,"(Pacifici and Nottoli, 1995)",,,2646,levothyroxine,N[C@@H](CC1=CC(I)=C(OC2=CC(I)=C(O)C(I)=C2)C(I)=C1)C(O)=O,#N/A
+223,5920,Liothyronine,No,,,0.4,"(Pacifici and Nottoli, 1995; Ward, 1996)", ,,1585,liothyronine,N[C@@H](CC1=CC(I)=C(OC2=CC(I)=C(O)C=C2)C(I)=C1)C(O)=O,BBB-
+224,6024,Cephalothin,Yes,,,,,,,574,cefalotin,CC(=O)OCC1=C(N2[C@H](SC1)[C@H](NC(=O)CC1=CC=CS1)C2=O)C(O)=O,#N/A
+225,5479529,Cefuroxime,Yes,,,0.3,"(Pacifici and Nottoli, 1995; Vafaei et al., 2021)",C,"(Craft et al., 1981; Pacifici and
+Nottoli, 1995)",565,cefuroxime,CO\N=C(/C(=O)N[C@H]1[C@H]2SCC(COC(N)=O)=C(N2C1=O)C(O)=O)C1=CC=CO1,BBB-
+226,9782,Betamethasone,Yes,0.41,"(Giaginis et al., 2009)",,,,,348,betamethasone,C[C@H]1C[C@H]2[C@@H]3CCC4=CC(=O)C=C[C@]4(C)[C@@]3(F)[C@@H](O)C[C@]2(C)[C@@]1(O)C(=O)CO,BBB+
+227,2907,Cyclophosphamide,Yes,,,>0.37,"(Johnson et al., 1999; Takaku et al., 2015)",C,"(Van Calsteren, 2010; Miyamoto et al., 2016)",758,cyclophosphamide,ClCCN(CCCl)P1(=O)NCCCO1,BBB-
+228,2474,Bupivacaine,Yes,0.73,"(Giaginis et al., 2009)",,,,,432,bupivacaine,CCCCN1CCCCC1C(=O)NC1=C(C)C=CC=C1C,BBB-
+229,175805,Ropivacaine,Yes,0.75,"(Giaginis et al., 2009)",0.82,"(Johnson et al., 1999)",,,2403,ropivacaine,CCCN1CCCC[C@H]1C(=O)NC1=C(C)C=CC=C1C,#N/A
+230,92727,Lopinavir,No,0.73,"(Giaginis et al., 2009)",,,NC,"(Fauchet et al., 2015)",1601,lopinavir,CC(C)[C@H](N1CCCNC1=O)C(=O)N[C@H](C[C@H](O)[C@H](CC1=CC=CC=C1)NC(=O)COC1=C(C)C=CC=C1C)CC1=CC=CC=C1,BBB-
+231,213039,Darunavir,No,,,,,NC,"	(Ivanovic et al., 2010; Mandelbrot et al., 2014)",4143,darunavir,CC(C)CN(C[C@@H](O)[C@H](CC1=CC=CC=C1)NC(=O)O[C@H]1CO[C@H]2OCC[C@@H]12)S(=O)(=O)C1=CC=C(N)C=C1,#N/A
+232,2157,Amiodarone,Yes,,,0.3,"(Pacifici and Nottoli, 1995)",,,176,amiodarone,CCCCC1=C(C(=O)C2=CC(I)=C(OCCN(CC)CC)C(I)=C2)C2=C(O1)C=CC=C2,BBB-
+233,90659973,Alcuronium,Yes,,,0.41,"(Ho et al., 1981)",,,109,alcuronium,OC\C=C1\C[N@+]2(CC=C)CC[C@@]34[C@@H]2C[C@@H]1C1=CN2[C@H]5C(=CN([C@H]31)C1=CC=CC=C41)[C@H]1C[C@H]3[C@@]5(CC[N@@+]3(CC=C)C\C1=C\CO)C1=CC=CC=C21,#N/A
+234,6914273,Dantrolene,Yes,,, 0.40b,"(Pacifici and Nottoli, 1995)",,,780,dantrolene,[O-][N+](=O)C1=CC=C(C=C1)C1=CC=C(O1)\C=N\N1CC(=O)NC1=O,BBB-
+235,9433,Aminophylline,Yes,,,1.08,"(Pacifici and Nottoli, 1995)",,,2620,theophylline,CN1C2=C(N=CN2)C(=O)N(C)C1=O,BBB-
+236,104774,Desethyl-Amiodarone,Yes,,,0.4,"(Pacifici and Nottoli, 1995)",,,,,CCCCC1=C(C(=O)C2=CC(I)=C(OCCNCC)C(I)=C2)C2=CC=CC=C2O1,#N/A
+238,60877,Emtricitabine,Yes,,,>1.20,"(McCormack and Best, 2014)",,,1003,emtricitabine,NC1=NC(=O)N(C=C1F)[C@@H]1CS[C@H](CO)O1,#N/A
+239,464205,Tenofovir,Yes,,,0.82,"(McCormack and Best, 2014)",,,2592,tenofovir,C[C@H](CN1C=NC2=C(N)N=CN=C12)OCP(O)(O)=O,#N/A
+240,6451164,Rilpivirine,Yes,,,0.74,"(McCormack and Best, 2014)",,,4174,rilpivirine,CC1=CC(\C=C\C#N)=CC(C)=C1NC1=NC(NC2=CC=C(C=C2)C#N)=NC=C1,#N/A
+241,193962,Etravirine,Yes,,,>0.35,"(McCormack and Best, 2014)",,,1115,etravirine,CC1=CC(=CC(C)=C1OC1=NC(NC2=CC=C(C=C2)C#N)=NC(N)=C1Br)C#N,#N/A
+242,54682461,Tipranavir,Yes,,,0.41,"(McCormack and Best, 2014)",,,3609,tipranavir,CCC[C@@]1(CCC2=CC=CC=C2)CC(O)=C([C@H](CC)C2=CC(NS(=O)(=O)C3=CC=C(C=N3)C(F)(F)F)=CC=C2)C(=O)O1,#N/A
+243,54671008,Raltegravir,Yes,,,1,"(McCormack and Best, 2014)",,,2352,raltegravir,CN1C(=O)C(O)=C(N=C1C(C)(C)NC(=O)C1=NN=C(C)O1)C(=O)NCC1=CC=C(F)C=C1,#N/A
+244,5284373,Cyclosporine,Yes,,,,,C,"(Heikkinen et al., 2000)",760,ciclosporin,CC[C@@H]1NC(=O)[C@H]([C@H](O)[C@H](C)C\C=C\C)N(C)C(=O)[C@H](C(C)C)N(C)C(=O)[C@H](CC(C)C)N(C)C(=O)[C@H](CC(C)C)N(C)C(=O)[C@@H](C)NC(=O)[C@H](C)NC(=O)[C@H](CC(C)C)N(C)C(=O)[C@@H](NC(=O)[C@H](CC(C)C)N(C)C(=O)CN(C)C1=O)C(C)C,#N/A
+245,8982,Nafcillin,Yes,,,,,C,"(Weiner, 2019)",1869,nafcillin,CCOC1=CC=C2C=CC=CC2=C1C(=O)N[C@H]1[C@H]2SC(C)(C)[C@@H](N2C1=O)C(O)=O,BBB-
+246,5284603,Oxycodone,Yes,,,,,C,"(Kokki and Kokki, 2016; Mosby, 2017)",2029,oxycodone,COC1=CC=C2C[C@H]3N(C)CC[C@@]45[C@@H](OC1=C24)C(=O)CC[C@@]35O,BBB+
+247,2801,Clomipramine,Yes,,,0.70b,"(Weiner, 2019)",,,701,clomipramine,CN(C)CCCN1C2=CC(Cl)=CC=C2CCC2=C1C=CC=C2,BBB+
+248,6291,Mestranol,Yes,,,,,C,"(Weiner, 2019)",1714,mestranol,COC1=CC2=C(C=C1)[C@H]1CC[C@@]3(C)[C@@H](CC[C@@]3(O)C#C)[C@@H]1CC2,BBB-
