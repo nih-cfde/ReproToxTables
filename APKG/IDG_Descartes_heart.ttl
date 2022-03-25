@@ -1,4134 +1,4134 @@
 @prefix gene: <http://identifiers.org/hgnc.symbol/> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 
-gene:AARS2 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:AARS2 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:ABCA1 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:ABCA1 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:ABCC6 rdfs:label "pvalue_less0.006579389",
-        "pvalue_more" .
+gene:ABCC6 rdfs:label "pvalue_less: 0.006579389",
+        "pvalue_more: " .
 
-gene:ABCC8 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:ABCC8 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:ABCC9 rdfs:label "pvalue_less",
-        "pvalue_more0.006704019" .
+gene:ABCC9 rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.006704019" .
 
-gene:ABCD4 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:ABCD4 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:ABCG5 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:ABCG5 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:ABCG8 rdfs:label "pvalue_less0.033415931",
-        "pvalue_more" .
+gene:ABCG8 rdfs:label "pvalue_less: 0.033415931",
+        "pvalue_more: " .
 
-gene:ABHD5 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:ABHD5 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:ABL1 rdfs:label "pvalue_less0.010635543",
-        "pvalue_more" .
+gene:ABL1 rdfs:label "pvalue_less: 0.010635543",
+        "pvalue_more: " .
 
-gene:ACAD8 rdfs:label "pvalue_less",
-        "pvalue_more0.002718174" .
+gene:ACAD8 rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.002718174" .
 
-gene:ACAD9 rdfs:label "pvalue_less0.031480348",
-        "pvalue_more" .
+gene:ACAD9 rdfs:label "pvalue_less: 0.031480348",
+        "pvalue_more: " .
 
-gene:ACADM rdfs:label "pvalue_less",
-        "pvalue_more0.002184168" .
+gene:ACADM rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.002184168" .
 
-gene:ACADS rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:ACADS rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:ACADVL rdfs:label "pvalue_less",
-        "pvalue_more0.012931541" .
+gene:ACADVL rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.012931541" .
 
-gene:ACSL4 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:ACSL4 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:ACTA1 rdfs:label "pvalue_less",
-        "pvalue_more2.18982E-05" .
+gene:ACTA1 rdfs:label "pvalue_less: ",
+        "pvalue_more: 2.18982E-05" .
 
-gene:ACTA2 rdfs:label "pvalue_less",
-        "pvalue_more0.004109691" .
+gene:ACTA2 rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.004109691" .
 
-gene:ACTB rdfs:label "pvalue_less",
-        "pvalue_more0.005695783" .
+gene:ACTB rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.005695783" .
 
-gene:ACTC1 rdfs:label "pvalue_less",
-        "pvalue_more3.19134E-09" .
+gene:ACTC1 rdfs:label "pvalue_less: ",
+        "pvalue_more: 3.19134E-09" .
 
-gene:ACTG2 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:ACTG2 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:ACTN2 rdfs:label "pvalue_less",
-        "pvalue_more8.5568E-07" .
+gene:ACTN2 rdfs:label "pvalue_less: ",
+        "pvalue_more: 8.5568E-07" .
 
-gene:ACVR2B rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:ACVR2B rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:ADA2 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:ADA2 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:ADAM17 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:ADAM17 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:ADAMTS10 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:ADAMTS10 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:ADAMTS3 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:ADAMTS3 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:ADAR rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:ADAR rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:ADAT3 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:ADAT3 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:ADCY5 rdfs:label "pvalue_less",
-        "pvalue_more0.021106859" .
+gene:ADCY5 rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.021106859" .
 
-gene:ADK rdfs:label "pvalue_less0.048418765",
-        "pvalue_more" .
+gene:ADK rdfs:label "pvalue_less: 0.048418765",
+        "pvalue_more: " .
 
-gene:ADNP rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:ADNP rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:ADORA2A rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:ADORA2A rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:AEBP1 rdfs:label "pvalue_less",
-        "pvalue_more0.018812794" .
+gene:AEBP1 rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.018812794" .
 
-gene:AFF4 rdfs:label "pvalue_less0.000141728",
-        "pvalue_more" .
+gene:AFF4 rdfs:label "pvalue_less: 0.000141728",
+        "pvalue_more: " .
 
-gene:AGGF1 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:AGGF1 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:AGK rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:AGK rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:AGL rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:AGL rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:AGO2 rdfs:label "pvalue_less0.003412203",
-        "pvalue_more" .
+gene:AGO2 rdfs:label "pvalue_less: 0.003412203",
+        "pvalue_more: " .
 
-gene:AGPAT2 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:AGPAT2 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:AHCY rdfs:label "pvalue_less",
-        "pvalue_more0.041395756" .
+gene:AHCY rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.041395756" .
 
-gene:AHI1 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:AHI1 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:AIP rdfs:label "pvalue_less",
-        "pvalue_more6.03181E-05" .
+gene:AIP rdfs:label "pvalue_less: ",
+        "pvalue_more: 6.03181E-05" .
 
-gene:AKT3 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:AKT3 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:ALDH18A1 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:ALDH18A1 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:ALG1 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:ALG1 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:ALG12 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:ALG12 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:ALG3 rdfs:label "pvalue_less",
-        "pvalue_more0.001966176" .
+gene:ALG3 rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.001966176" .
 
-gene:ALG8 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:ALG8 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:ALG9 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:ALG9 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:ALKBH8 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:ALKBH8 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:ALMS1 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:ALMS1 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:ALPK3 rdfs:label "pvalue_less",
-        "pvalue_more0.045562712" .
+gene:ALPK3 rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.045562712" .
 
-gene:ALX1 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:ALX1 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:ALX3 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:ALX3 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:AMER1 rdfs:label "pvalue_less",
-        "pvalue_more0.04919164" .
+gene:AMER1 rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.04919164" .
 
-gene:AMMECR1 rdfs:label "pvalue_less0.009786994",
-        "pvalue_more" .
+gene:AMMECR1 rdfs:label "pvalue_less: 0.009786994",
+        "pvalue_more: " .
 
-gene:ANK1 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:ANK1 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:ANKRD1 rdfs:label "pvalue_less",
-        "pvalue_more3.04354E-09" .
+gene:ANKRD1 rdfs:label "pvalue_less: ",
+        "pvalue_more: 3.04354E-09" .
 
-gene:ANKRD11 rdfs:label "pvalue_less0.016544394",
-        "pvalue_more" .
+gene:ANKRD11 rdfs:label "pvalue_less: 0.016544394",
+        "pvalue_more: " .
 
-gene:ANKS6 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:ANKS6 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:ANO5 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:ANO5 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:APC2 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:APC2 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:APOB rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:APOB rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:ARCN1 rdfs:label "pvalue_less",
-        "pvalue_more0.006463323" .
+gene:ARCN1 rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.006463323" .
 
-gene:ARF1 rdfs:label "pvalue_less",
-        "pvalue_more1.09809E-05" .
+gene:ARF1 rdfs:label "pvalue_less: ",
+        "pvalue_more: 1.09809E-05" .
 
-gene:ARFGEF2 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:ARFGEF2 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:ARHGAP31 rdfs:label "pvalue_less",
-        "pvalue_more0.031901643" .
+gene:ARHGAP31 rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.031901643" .
 
-gene:ARID1A rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:ARID1A rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:ARID1B rdfs:label "pvalue_less0.003824037",
-        "pvalue_more" .
+gene:ARID1B rdfs:label "pvalue_less: 0.003824037",
+        "pvalue_more: " .
 
-gene:ARID2 rdfs:label "pvalue_less0.002300438",
-        "pvalue_more" .
+gene:ARID2 rdfs:label "pvalue_less: 0.002300438",
+        "pvalue_more: " .
 
-gene:ARL13B rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:ARL13B rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:ARL2BP rdfs:label "pvalue_less",
-        "pvalue_more3.60497E-05" .
+gene:ARL2BP rdfs:label "pvalue_less: ",
+        "pvalue_more: 3.60497E-05" .
 
-<http://identifiers.org/hgnc.symbol/ARL 3.00> rdfs:label "pvalue_less",
-        "pvalue_more" .
+<http://identifiers.org/hgnc.symbol/ARL 3.00> rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-<http://identifiers.org/hgnc.symbol/ARL 6.00> rdfs:label "pvalue_less",
-        "pvalue_more" .
+<http://identifiers.org/hgnc.symbol/ARL 6.00> rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:ARMC9 rdfs:label "pvalue_less0.029528204",
-        "pvalue_more" .
+gene:ARMC9 rdfs:label "pvalue_less: 0.029528204",
+        "pvalue_more: " .
 
-gene:ARSB rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:ARSB rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:ARSL rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:ARSL rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:ARVCF rdfs:label "pvalue_less",
-        "pvalue_more0.014224494" .
+gene:ARVCF rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.014224494" .
 
-gene:ARX rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:ARX rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:ASCC1 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:ASCC1 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:ASXL1 rdfs:label "pvalue_less0.012146706",
-        "pvalue_more" .
+gene:ASXL1 rdfs:label "pvalue_less: 0.012146706",
+        "pvalue_more: " .
 
-gene:ASXL2 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:ASXL2 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:ATAD3A rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:ATAD3A rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:ATIC rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:ATIC rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:ATN1 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:ATN1 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:ATP1A2 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:ATP1A2 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:ATP1A3 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:ATP1A3 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:ATP5F1D rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:ATP5F1D rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:ATP5F1E rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:ATP5F1E rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:ATP5MK rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:ATP5MK rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:ATP6 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:ATP6 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:ATP6AP2 rdfs:label "pvalue_less",
-        "pvalue_more0.010764002" .
+gene:ATP6AP2 rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.010764002" .
 
-gene:ATP6V0A2 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:ATP6V0A2 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:ATP6V1A rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:ATP6V1A rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:ATP6V1B2 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:ATP6V1B2 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:ATP6V1E1 rdfs:label "pvalue_less",
-        "pvalue_more0.001343147" .
+gene:ATP6V1E1 rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.001343147" .
 
-gene:ATPAF2 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:ATPAF2 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:ATRX rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:ATRX rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:AUTS2 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:AUTS2 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:B2M rdfs:label "pvalue_less",
-        "pvalue_more0.000923374" .
+gene:B2M rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.000923374" .
 
-gene:B3GALT6 rdfs:label "pvalue_less",
-        "pvalue_more0.001443982" .
+gene:B3GALT6 rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.001443982" .
 
-gene:B3GAT3 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:B3GAT3 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:B3GLCT rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:B3GLCT rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:B9D1 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:B9D1 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:B9D2 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:B9D2 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:BAG3 rdfs:label "pvalue_less",
-        "pvalue_more0.006240994" .
+gene:BAG3 rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.006240994" .
 
-gene:BANF1 rdfs:label "pvalue_less",
-        "pvalue_more4.23255E-06" .
+gene:BANF1 rdfs:label "pvalue_less: ",
+        "pvalue_more: 4.23255E-06" .
 
-gene:BAZ1B rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:BAZ1B rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:BBS1 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:BBS1 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:BBS2 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:BBS2 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:BCAS3 rdfs:label "pvalue_less0.005973386",
-        "pvalue_more" .
+gene:BCAS3 rdfs:label "pvalue_less: 0.005973386",
+        "pvalue_more: " .
 
-gene:BCL7B rdfs:label "pvalue_less",
-        "pvalue_more0.042824897" .
+gene:BCL7B rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.042824897" .
 
-gene:BCOR rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:BCOR rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:BCR rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:BCR rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:BCS1L rdfs:label "pvalue_less",
-        "pvalue_more0.022666057" .
+gene:BCS1L rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.022666057" .
 
-gene:BICC1 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:BICC1 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:BICRA rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:BICRA rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:BIN1 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:BIN1 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:BMP2 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:BMP2 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:BMPR1A rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:BMPR1A rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:BMPR2 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:BMPR2 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:BOLA3 rdfs:label "pvalue_less",
-        "pvalue_more0.010687291" .
+gene:BOLA3 rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.010687291" .
 
-gene:BRAF rdfs:label "pvalue_less0.00022323",
-        "pvalue_more" .
+gene:BRAF rdfs:label "pvalue_less: 0.00022323",
+        "pvalue_more: " .
 
-gene:BRCA1 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:BRCA1 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:BRCA2 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:BRCA2 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:BRCC3 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:BRCC3 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:BRD4 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:BRD4 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:BRF1 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:BRF1 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:BRIP1 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:BRIP1 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:BSCL2 rdfs:label "pvalue_less0.000902186",
-        "pvalue_more" .
+gene:BSCL2 rdfs:label "pvalue_less: 0.000902186",
+        "pvalue_more: " .
 
-gene:BTK rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:BTK rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:BUB1 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:BUB1 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:BUB1B rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:BUB1B rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:BUB3 rdfs:label "pvalue_less",
-        "pvalue_more0.037214847" .
+gene:BUB3 rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.037214847" .
 
-gene:BUD23 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:BUD23 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:C1QBP rdfs:label "pvalue_less",
-        "pvalue_more1.28148E-05" .
+gene:C1QBP rdfs:label "pvalue_less: ",
+        "pvalue_more: 1.28148E-05" .
 
-gene:C2CD3 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:C2CD3 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:C4A rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:C4A rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:CACNA1A rdfs:label "pvalue_less0.045713503",
-        "pvalue_more" .
+gene:CACNA1A rdfs:label "pvalue_less: 0.045713503",
+        "pvalue_more: " .
 
-gene:CACNA1C rdfs:label "pvalue_less",
-        "pvalue_more0.005205355" .
+gene:CACNA1C rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.005205355" .
 
-gene:CACNA1D rdfs:label "pvalue_less0.039763989",
-        "pvalue_more" .
+gene:CACNA1D rdfs:label "pvalue_less: 0.039763989",
+        "pvalue_more: " .
 
-gene:CACNA1S rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:CACNA1S rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:CALCRL rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:CALCRL rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:CALM3 rdfs:label "pvalue_less",
-        "pvalue_more4.52021E-06" .
+gene:CALM3 rdfs:label "pvalue_less: ",
+        "pvalue_more: 4.52021E-06" .
 
-gene:CANT1 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:CANT1 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:CAP2 rdfs:label "pvalue_less",
-        "pvalue_more0.025850747" .
+gene:CAP2 rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.025850747" .
 
-gene:CAPN15 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:CAPN15 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:CARS1 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:CARS1 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:CASK rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:CASK rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:CASQ2 rdfs:label "pvalue_less",
-        "pvalue_more5.15122E-08" .
+gene:CASQ2 rdfs:label "pvalue_less: ",
+        "pvalue_more: 5.15122E-08" .
 
-gene:CASZ1 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:CASZ1 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:CAV1 rdfs:label "pvalue_less",
-        "pvalue_more0.000264216" .
+gene:CAV1 rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.000264216" .
 
-gene:CAV3 rdfs:label "pvalue_less",
-        "pvalue_more0.002558997" .
+gene:CAV3 rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.002558997" .
 
-gene:CAVIN1 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:CAVIN1 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:CBL rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:CBL rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:CBS rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:CBS rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:CBY1 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:CBY1 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:CC2D2A rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:CC2D2A rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:CCBE1 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:CCBE1 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:CCDC103 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:CCDC103 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:CCDC174 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:CCDC174 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:CCDC22 rdfs:label "pvalue_less",
-        "pvalue_more0.031746276" .
+gene:CCDC22 rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.031746276" .
 
-gene:CCDC28B rdfs:label "pvalue_less",
-        "pvalue_more0.005227935" .
+gene:CCDC28B rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.005227935" .
 
-gene:CCDC32 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:CCDC32 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:CCDC39 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:CCDC39 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:CCDC40 rdfs:label "pvalue_less0.006443737",
-        "pvalue_more" .
+gene:CCDC40 rdfs:label "pvalue_less: 0.006443737",
+        "pvalue_more: " .
 
-gene:CCDC65 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:CCDC65 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:CCND2 rdfs:label "pvalue_less",
-        "pvalue_more3.12046E-05" .
+gene:CCND2 rdfs:label "pvalue_less: ",
+        "pvalue_more: 3.12046E-05" .
 
-gene:CCNO rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:CCNO rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:CCNQ rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:CCNQ rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:CCR1 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:CCR1 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:CD96 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:CD96 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:CDC42 rdfs:label "pvalue_less",
-        "pvalue_more2.25749E-08" .
+gene:CDC42 rdfs:label "pvalue_less: ",
+        "pvalue_more: 2.25749E-08" .
 
-gene:CDC45 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:CDC45 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:CDH2 rdfs:label "pvalue_less",
-        "pvalue_more0.00893736" .
+gene:CDH2 rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.00893736" .
 
-gene:CDH23 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:CDH23 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:CDK10 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:CDK10 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:CDK13 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:CDK13 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:CDK8 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:CDK8 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:CDKL5 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:CDKL5 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:CDKN1C rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:CDKN1C rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:CDON rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:CDON rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:CENPE rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:CENPE rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:CEP104 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:CEP104 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:CEP120 rdfs:label "pvalue_less0.047385389",
-        "pvalue_more" .
+gene:CEP120 rdfs:label "pvalue_less: 0.047385389",
+        "pvalue_more: " .
 
-gene:CEP290 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:CEP290 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:CEP41 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:CEP41 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:CEP57 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:CEP57 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:CFAP221 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:CFAP221 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:CFAP298 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:CFAP298 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:CFAP300 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:CFAP300 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:CFAP45 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:CFAP45 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:CFAP52 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:CFAP52 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:CFAP53 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:CFAP53 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:CFC1 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:CFC1 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:CFTR rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:CFTR rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:CHD4 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:CHD4 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:CHD7 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:CHD7 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:CHKB rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:CHKB rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:CHRM3 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:CHRM3 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:CHRNA1 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:CHRNA1 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:CHRND rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:CHRND rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:CHRNG rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:CHRNG rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:CHST14 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:CHST14 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:CHST3 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:CHST3 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:CHUK rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:CHUK rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:CISD2 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:CISD2 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:CITED2 rdfs:label "pvalue_less",
-        "pvalue_more0.007040192" .
+gene:CITED2 rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.007040192" .
 
-gene:CKAP2L rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:CKAP2L rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:CLCN3 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:CLCN3 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:CLCN7 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:CLCN7 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:CLCNKB rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:CLCNKB rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:CLEC7A rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:CLEC7A rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:CLIC2 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:CLIC2 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:CLIP2 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:CLIP2 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:CLN3 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:CLN3 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:CLPB rdfs:label "pvalue_less0.01131313",
-        "pvalue_more" .
+gene:CLPB rdfs:label "pvalue_less: 0.01131313",
+        "pvalue_more: " .
 
-gene:COA5 rdfs:label "pvalue_less",
-        "pvalue_more0.001323818" .
+gene:COA5 rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.001323818" .
 
-gene:COA6 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:COA6 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:COA8 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:COA8 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:COG1 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:COG1 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:COG6 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:COG6 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:COG7 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:COG7 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:COL11A1 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:COL11A1 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:COL18A1 rdfs:label "pvalue_less",
-        "pvalue_more0.00195927" .
+gene:COL18A1 rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.00195927" .
 
-gene:COL1A1 rdfs:label "pvalue_less",
-        "pvalue_more0.000231388" .
+gene:COL1A1 rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.000231388" .
 
-gene:COL1A2 rdfs:label "pvalue_less",
-        "pvalue_more0.000121617" .
+gene:COL1A2 rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.000121617" .
 
-gene:COL2A1 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:COL2A1 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:COL3A1 rdfs:label "pvalue_less",
-        "pvalue_more6.99864E-05" .
+gene:COL3A1 rdfs:label "pvalue_less: ",
+        "pvalue_more: 6.99864E-05" .
 
-gene:COL5A1 rdfs:label "pvalue_less",
-        "pvalue_more0.021423567" .
+gene:COL5A1 rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.021423567" .
 
-gene:COL5A2 rdfs:label "pvalue_less",
-        "pvalue_more0.016185928" .
+gene:COL5A2 rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.016185928" .
 
-gene:COL7A1 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:COL7A1 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:COLQ rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:COLQ rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:COMT rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:COMT rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:COQ2 rdfs:label "pvalue_less",
-        "pvalue_more0.001203293" .
+gene:COQ2 rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.001203293" .
 
-gene:COQ4 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:COQ4 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:COQ7 rdfs:label "pvalue_less0.005781479",
-        "pvalue_more" .
+gene:COQ7 rdfs:label "pvalue_less: 0.005781479",
+        "pvalue_more: " .
 
-gene:COQ9 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:COQ9 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:COX1 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:COX1 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:COX10 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:COX10 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:COX14 rdfs:label "pvalue_less",
-        "pvalue_more0.009622673" .
+gene:COX14 rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.009622673" .
 
-gene:COX15 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:COX15 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:COX16 rdfs:label "pvalue_less",
-        "pvalue_more0.00010628" .
+gene:COX16 rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.00010628" .
 
-gene:COX2 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:COX2 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:COX3 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:COX3 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:COX5A rdfs:label "pvalue_less",
-        "pvalue_more0.000636107" .
+gene:COX5A rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.000636107" .
 
-gene:COX6B1 rdfs:label "pvalue_less",
-        "pvalue_more9.64397E-07" .
+gene:COX6B1 rdfs:label "pvalue_less: ",
+        "pvalue_more: 9.64397E-07" .
 
-gene:COX7B rdfs:label "pvalue_less",
-        "pvalue_more1.55276E-05" .
+gene:COX7B rdfs:label "pvalue_less: ",
+        "pvalue_more: 1.55276E-05" .
 
-gene:CPE rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:CPE rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:CPLANE1 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:CPLANE1 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:CPLX1 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:CPLX1 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:CPT1A rdfs:label "pvalue_less",
-        "pvalue_more0.003603671" .
+gene:CPT1A rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.003603671" .
 
-gene:CPT2 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:CPT2 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:CRB2 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:CRB2 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:CREBBP rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:CREBBP rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:CRELD1 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:CRELD1 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:CRKL rdfs:label "pvalue_less",
-        "pvalue_more0.030271922" .
+gene:CRKL rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.030271922" .
 
-gene:CRYAB rdfs:label "pvalue_less",
-        "pvalue_more9.16761E-07" .
+gene:CRYAB rdfs:label "pvalue_less: ",
+        "pvalue_more: 9.16761E-07" .
 
-gene:CSGALNACT1 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:CSGALNACT1 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:CSNK2A1 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:CSNK2A1 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:CSPP1 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:CSPP1 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:CSRP3 rdfs:label "pvalue_less",
-        "pvalue_more6.78823E-09" .
+gene:CSRP3 rdfs:label "pvalue_less: ",
+        "pvalue_more: 6.78823E-09" .
 
-gene:CTBP1 rdfs:label "pvalue_less",
-        "pvalue_more7.62034E-07" .
+gene:CTBP1 rdfs:label "pvalue_less: ",
+        "pvalue_more: 7.62034E-07" .
 
-gene:CTCF rdfs:label "pvalue_less0.025660893",
-        "pvalue_more" .
+gene:CTCF rdfs:label "pvalue_less: 0.025660893",
+        "pvalue_more: " .
 
-gene:CTLA4 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:CTLA4 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:CTU2 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:CTU2 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:CUL3 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:CUL3 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:CWC27 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:CWC27 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:CXCR4 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:CXCR4 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:CYP27A1 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:CYP27A1 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:CYTB rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:CYTB rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:D2HGDH rdfs:label "pvalue_less0.015096267",
-        "pvalue_more" .
+gene:D2HGDH rdfs:label "pvalue_less: 0.015096267",
+        "pvalue_more: " .
 
-gene:DACT1 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:DACT1 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:DAXX rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:DAXX rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:DCAF8 rdfs:label "pvalue_less",
-        "pvalue_more7.87415E-08" .
+gene:DCAF8 rdfs:label "pvalue_less: ",
+        "pvalue_more: 7.87415E-08" .
 
-gene:DCHS1 rdfs:label "pvalue_less",
-        "pvalue_more0.010520667" .
+gene:DCHS1 rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.010520667" .
 
-gene:DDX11 rdfs:label "pvalue_less0.014709915",
-        "pvalue_more" .
+gene:DDX11 rdfs:label "pvalue_less: 0.014709915",
+        "pvalue_more: " .
 
-gene:DDX3X rdfs:label "pvalue_less",
-        "pvalue_more0.046168523" .
+gene:DDX3X rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.046168523" .
 
-gene:DDX59 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:DDX59 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:DDX6 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:DDX6 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:DEF6 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:DEF6 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:DES rdfs:label "pvalue_less",
-        "pvalue_more1.98254E-06" .
+gene:DES rdfs:label "pvalue_less: ",
+        "pvalue_more: 1.98254E-06" .
 
-gene:DGCR2 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:DGCR2 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:DGCR6 rdfs:label "pvalue_less",
-        "pvalue_more0.025546455" .
+gene:DGCR6 rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.025546455" .
 
-gene:DGCR8 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:DGCR8 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:DHCR7 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:DHCR7 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:DISP1 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:DISP1 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:DLD rdfs:label "pvalue_less",
-        "pvalue_more0.005527854" .
+gene:DLD rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.005527854" .
 
-gene:DLK1 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:DLK1 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:DLL1 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:DLL1 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:DLL4 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:DLL4 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:DMD rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:DMD rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:DMXL2 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:DMXL2 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:DNAAF1 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:DNAAF1 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:DNAAF11 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:DNAAF11 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:DNAAF2 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:DNAAF2 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:DNAAF3 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:DNAAF3 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:DNAAF4 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:DNAAF4 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:DNAAF5 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:DNAAF5 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:DNAAF6 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:DNAAF6 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:DNAH1 rdfs:label "pvalue_less0.022445168",
-        "pvalue_more" .
+gene:DNAH1 rdfs:label "pvalue_less: 0.022445168",
+        "pvalue_more: " .
 
-gene:DNAH11 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:DNAH11 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:DNAH5 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:DNAH5 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:DNAH9 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:DNAH9 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:DNAI1 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:DNAI1 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:DNAI2 rdfs:label "pvalue_less0.026749143",
-        "pvalue_more" .
+gene:DNAI2 rdfs:label "pvalue_less: 0.026749143",
+        "pvalue_more: " .
 
-gene:DNAJB11 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:DNAJB11 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:DNAJB13 rdfs:label "pvalue_less0.013091208",
-        "pvalue_more" .
+gene:DNAJB13 rdfs:label "pvalue_less: 0.013091208",
+        "pvalue_more: " .
 
-gene:DNAJC19 rdfs:label "pvalue_less",
-        "pvalue_more4.21907E-05" .
+gene:DNAJC19 rdfs:label "pvalue_less: ",
+        "pvalue_more: 4.21907E-05" .
 
-gene:DNAJC21 rdfs:label "pvalue_less",
-        "pvalue_more0.003015543" .
+gene:DNAJC21 rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.003015543" .
 
-gene:DNAJC30 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:DNAJC30 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:DNAL1 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:DNAL1 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:DNASE1 rdfs:label "pvalue_less0.0204618",
-        "pvalue_more" .
+gene:DNASE1 rdfs:label "pvalue_less: 0.0204618",
+        "pvalue_more: " .
 
-gene:DNASE1L3 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:DNASE1L3 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:DNMT3A rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:DNMT3A rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:DOCK6 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:DOCK6 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:DOLK rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:DOLK rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:DPF2 rdfs:label "pvalue_less",
-        "pvalue_more0.008203956" .
+gene:DPF2 rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.008203956" .
 
-gene:DPH1 rdfs:label "pvalue_less0.009044123",
-        "pvalue_more" .
+gene:DPH1 rdfs:label "pvalue_less: 0.009044123",
+        "pvalue_more: " .
 
-gene:DPM3 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:DPM3 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:DRC1 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:DRC1 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:DSC2 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:DSC2 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:DSE rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:DSE rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:DSG1 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:DSG1 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:DSG2 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:DSG2 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:DSP rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:DSP rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:DTNA rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:DTNA rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:DVL3 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:DVL3 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:DYNC2I1 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:DYNC2I1 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:DYNC2LI1 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:DYNC2LI1 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:DYRK1A rdfs:label "pvalue_less0.002011434",
-        "pvalue_more" .
+gene:DYRK1A rdfs:label "pvalue_less: 0.002011434",
+        "pvalue_more: " .
 
-gene:DYSF rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:DYSF rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:DZIP1 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:DZIP1 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:EBP rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:EBP rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:ECE1 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:ECE1 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:ECHS1 rdfs:label "pvalue_less",
-        "pvalue_more0.04113289" .
+gene:ECHS1 rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.04113289" .
 
-gene:EDNRA rdfs:label "pvalue_less",
-        "pvalue_more0.032921667" .
+gene:EDNRA rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.032921667" .
 
-gene:EFEMP2 rdfs:label "pvalue_less",
-        "pvalue_more0.016741105" .
+gene:EFEMP2 rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.016741105" .
 
-gene:EFL1 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:EFL1 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:EFTUD2 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:EFTUD2 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:EGFR rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:EGFR rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:EHMT1 rdfs:label "pvalue_less0.027925757",
-        "pvalue_more" .
+gene:EHMT1 rdfs:label "pvalue_less: 0.027925757",
+        "pvalue_more: " .
 
-gene:EIF2AK3 rdfs:label "pvalue_less0.006528789",
-        "pvalue_more" .
+gene:EIF2AK3 rdfs:label "pvalue_less: 0.006528789",
+        "pvalue_more: " .
 
-gene:EIF2AK4 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:EIF2AK4 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:EIF4H rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:EIF4H rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:ELAC2 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:ELAC2 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:ELN rdfs:label "pvalue_less",
-        "pvalue_more3.47359E-06" .
+gene:ELN rdfs:label "pvalue_less: ",
+        "pvalue_more: 3.47359E-06" .
 
-gene:EMD rdfs:label "pvalue_less",
-        "pvalue_more0.011676942" .
+gene:EMD rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.011676942" .
 
-gene:ENPP1 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:ENPP1 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:EOGT rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:EOGT rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:EP300 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:EP300 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:EPB42 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:EPB42 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:EPCAM rdfs:label "pvalue_less0.00625866",
-        "pvalue_more" .
+gene:EPCAM rdfs:label "pvalue_less: 0.00625866",
+        "pvalue_more: " .
 
-gene:EPG5 rdfs:label "pvalue_less0.005119779",
-        "pvalue_more" .
+gene:EPG5 rdfs:label "pvalue_less: 0.005119779",
+        "pvalue_more: " .
 
-gene:EPHB4 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:EPHB4 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:ERAP1 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:ERAP1 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:ERBB3 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:ERBB3 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:ERCC2 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:ERCC2 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:ERCC3 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:ERCC3 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:ERCC4 rdfs:label "pvalue_less",
-        "pvalue_more0.041176069" .
+gene:ERCC4 rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.041176069" .
 
-gene:ERCC6 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:ERCC6 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:ERCC8 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:ERCC8 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:ERGIC1 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:ERGIC1 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:ERMARD rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:ERMARD rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:ESCO2 rdfs:label "pvalue_less",
-        "pvalue_more0.010587385" .
+gene:ESCO2 rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.010587385" .
 
-gene:ESPN rdfs:label "pvalue_less0.029239045",
-        "pvalue_more" .
+gene:ESPN rdfs:label "pvalue_less: 0.029239045",
+        "pvalue_more: " .
 
-gene:ESS2 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:ESS2 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:EVC rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:EVC rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:EVC2 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:EVC2 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:EXOC2 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:EXOC2 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:EXOC6B rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:EXOC6B rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:EXT2 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:EXT2 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:EXTL3 rdfs:label "pvalue_less",
-        "pvalue_more0.004296028" .
+gene:EXTL3 rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.004296028" .
 
-gene:EYA4 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:EYA4 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:FADD rdfs:label "pvalue_less",
-        "pvalue_more0.000592893" .
+gene:FADD rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.000592893" .
 
-gene:FAH rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:FAH rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:FAM149B1 rdfs:label "pvalue_less",
-        "pvalue_more0.025660741" .
+gene:FAM149B1 rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.025660741" .
 
-gene:FAN1 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:FAN1 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:FANCA rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:FANCA rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:FANCB rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:FANCB rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:FANCC rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:FANCC rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:FANCD2 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:FANCD2 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:FANCE rdfs:label "pvalue_less",
-        "pvalue_more0.012390191" .
+gene:FANCE rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.012390191" .
 
-gene:FANCF rdfs:label "pvalue_less",
-        "pvalue_more0.003196411" .
+gene:FANCF rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.003196411" .
 
-gene:FANCG rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:FANCG rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:FANCI rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:FANCI rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:FANCL rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:FANCL rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:FANCM rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:FANCM rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:FAS rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:FAS rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:FASTKD2 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:FASTKD2 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:FAT4 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:FAT4 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:FBLN5 rdfs:label "pvalue_less",
-        "pvalue_more0.03786976" .
+gene:FBLN5 rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.03786976" .
 
-gene:FBN1 rdfs:label "pvalue_less",
-        "pvalue_more0.011412404" .
+gene:FBN1 rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.011412404" .
 
-gene:FBN2 rdfs:label "pvalue_less",
-        "pvalue_more0.004927084" .
+gene:FBN2 rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.004927084" .
 
-gene:FBXL4 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:FBXL4 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:FBXW11 rdfs:label "pvalue_less0.038513516",
-        "pvalue_more" .
+gene:FBXW11 rdfs:label "pvalue_less: 0.038513516",
+        "pvalue_more: " .
 
-gene:FCGR2A rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:FCGR2A rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:FCGR2B rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:FCGR2B rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:FDFT1 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:FDFT1 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:FGF13 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:FGF13 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:FGF8 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:FGF8 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:FGFR1 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:FGFR1 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:FGFR2 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:FGFR2 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:FGFR3 rdfs:label "pvalue_less0.022878347",
-        "pvalue_more" .
+gene:FGFR3 rdfs:label "pvalue_less: 0.022878347",
+        "pvalue_more: " .
 
-gene:FGFRL1 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:FGFRL1 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:FHL1 rdfs:label "pvalue_less",
-        "pvalue_more0.000223236" .
+gene:FHL1 rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.000223236" .
 
-gene:FHL2 rdfs:label "pvalue_less",
-        "pvalue_more1.24821E-05" .
+gene:FHL2 rdfs:label "pvalue_less: ",
+        "pvalue_more: 1.24821E-05" .
 
-gene:FHOD3 rdfs:label "pvalue_less",
-        "pvalue_more0.000873236" .
+gene:FHOD3 rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.000873236" .
 
-gene:FIBP rdfs:label "pvalue_less",
-        "pvalue_more0.000321877" .
+gene:FIBP rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.000321877" .
 
-gene:FIG4 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:FIG4 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:FKBP6 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:FKBP6 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:FKRP rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:FKRP rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:FKTN rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:FKTN rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:FLAD1 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:FLAD1 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:FLCN rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:FLCN rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:FLI1 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:FLI1 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:FLNA rdfs:label "pvalue_less",
-        "pvalue_more0.007894512" .
+gene:FLNA rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.007894512" .
 
-gene:FLNB rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:FLNB rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:FLNC rdfs:label "pvalue_less",
-        "pvalue_more5.36528E-05" .
+gene:FLNC rdfs:label "pvalue_less: ",
+        "pvalue_more: 5.36528E-05" .
 
-gene:FLT4 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:FLT4 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:FMN2 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:FMN2 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:FMR1 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:FMR1 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:FOS rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:FOS rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:FOXC1 rdfs:label "pvalue_less",
-        "pvalue_more6.45975E-05" .
+gene:FOXC1 rdfs:label "pvalue_less: ",
+        "pvalue_more: 6.45975E-05" .
 
-gene:FOXC2 rdfs:label "pvalue_less",
-        "pvalue_more0.047628321" .
+gene:FOXC2 rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.047628321" .
 
-gene:FOXE3 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:FOXE3 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:FOXF1 rdfs:label "pvalue_less0.001932893",
-        "pvalue_more" .
+gene:FOXF1 rdfs:label "pvalue_less: 0.001932893",
+        "pvalue_more: " .
 
-gene:FOXH1 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:FOXH1 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:FOXJ1 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:FOXJ1 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:FOXP1 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:FOXP1 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:FOXRED1 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:FOXRED1 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:FRAS1 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:FRAS1 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:FREM1 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:FREM1 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:FTCD rdfs:label "pvalue_less0.030255406",
-        "pvalue_more" .
+gene:FTCD rdfs:label "pvalue_less: 0.030255406",
+        "pvalue_more: " .
 
-gene:FTO rdfs:label "pvalue_less0.002448549",
-        "pvalue_more" .
+gene:FTO rdfs:label "pvalue_less: 0.002448549",
+        "pvalue_more: " .
 
-gene:FUCA1 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:FUCA1 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:FUT8 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:FUT8 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:FXN rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:FXN rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:G6PC3 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:G6PC3 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:GAA rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:GAA rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:GABRD rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:GABRD rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:GALNS rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:GALNS rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:GANAB rdfs:label "pvalue_less",
-        "pvalue_more0.041927065" .
+gene:GANAB rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.041927065" .
 
-gene:GAS1 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:GAS1 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:GAS2L2 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:GAS2L2 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:GAS8 rdfs:label "pvalue_less0.04616062",
-        "pvalue_more" .
+gene:GAS8 rdfs:label "pvalue_less: 0.04616062",
+        "pvalue_more: " .
 
-gene:GATA1 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:GATA1 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:GATA3 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:GATA3 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:GATA4 rdfs:label "pvalue_less",
-        "pvalue_more2.32202E-06" .
+gene:GATA4 rdfs:label "pvalue_less: ",
+        "pvalue_more: 2.32202E-06" .
 
-gene:GATA5 rdfs:label "pvalue_less",
-        "pvalue_more0.035821709" .
+gene:GATA5 rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.035821709" .
 
-gene:GATA6 rdfs:label "pvalue_less",
-        "pvalue_more0.000476023" .
+gene:GATA6 rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.000476023" .
 
-gene:GATAD1 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:GATAD1 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:GATB rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:GATB rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:GATC rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:GATC rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:GBA rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:GBA rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:GBE1 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:GBE1 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:GCK rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:GCK rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:GDF1 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:GDF1 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:GDF3 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:GDF3 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:GDF6 rdfs:label "pvalue_less",
-        "pvalue_more0.002619102" .
+gene:GDF6 rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.002619102" .
 
-gene:GJA1 rdfs:label "pvalue_less",
-        "pvalue_more0.026260013" .
+gene:GJA1 rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.026260013" .
 
-gene:GJA5 rdfs:label "pvalue_less",
-        "pvalue_more0.000804411" .
+gene:GJA5 rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.000804411" .
 
-gene:GJA8 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:GJA8 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:GLA rdfs:label "pvalue_less0.018327542",
-        "pvalue_more" .
+gene:GLA rdfs:label "pvalue_less: 0.018327542",
+        "pvalue_more: " .
 
-gene:GLB1 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:GLB1 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:GLI1 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:GLI1 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:GLI2 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:GLI2 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:GLI3 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:GLI3 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:GLRX5 rdfs:label "pvalue_less",
-        "pvalue_more0.045079625" .
+gene:GLRX5 rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.045079625" .
 
-gene:GMPPB rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:GMPPB rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:GNAO1 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:GNAO1 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:GNB2 rdfs:label "pvalue_less",
-        "pvalue_more2.43038E-08" .
+gene:GNB2 rdfs:label "pvalue_less: ",
+        "pvalue_more: 2.43038E-08" .
 
-gene:GNB5 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:GNB5 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:GNE rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:GNE rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:GNPTAB rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:GNPTAB rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:GNS rdfs:label "pvalue_less",
-        "pvalue_more0.002426699" .
+gene:GNS rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.002426699" .
 
-gene:GP1BB rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:GP1BB rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:GPC3 rdfs:label "pvalue_less0.034471737",
-        "pvalue_more" .
+gene:GPC3 rdfs:label "pvalue_less: 0.034471737",
+        "pvalue_more: " .
 
-gene:GPC4 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:GPC4 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:GPC6 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:GPC6 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:GPR101 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:GPR101 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:GPX4 rdfs:label "pvalue_less",
-        "pvalue_more5.32947E-06" .
+gene:GPX4 rdfs:label "pvalue_less: ",
+        "pvalue_more: 5.32947E-06" .
 
-gene:GRM7 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:GRM7 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:GSN rdfs:label "pvalue_less",
-        "pvalue_more0.002922495" .
+gene:GSN rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.002922495" .
 
-gene:GTF2E2 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:GTF2E2 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:GTF2H5 rdfs:label "pvalue_less",
-        "pvalue_more0.000494093" .
+gene:GTF2H5 rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.000494093" .
 
-gene:GTF2I rdfs:label "pvalue_less0.004009237",
-        "pvalue_more" .
+gene:GTF2I rdfs:label "pvalue_less: 0.004009237",
+        "pvalue_more: " .
 
-gene:GTF2IRD1 rdfs:label "pvalue_less0.026587771",
-        "pvalue_more" .
+gene:GTF2IRD1 rdfs:label "pvalue_less: 0.026587771",
+        "pvalue_more: " .
 
-gene:GTF2IRD2 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:GTF2IRD2 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:GTPBP3 rdfs:label "pvalue_less",
-        "pvalue_more0.013302986" .
+gene:GTPBP3 rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.013302986" .
 
-gene:GUSB rdfs:label "pvalue_less",
-        "pvalue_more0.039679063" .
+gene:GUSB rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.039679063" .
 
-gene:GYG1 rdfs:label "pvalue_less",
-        "pvalue_more0.000119338" .
+gene:GYG1 rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.000119338" .
 
-gene:GYS1 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:GYS1 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:H19-ICR rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:H19-ICR rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:HAAO rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:HAAO rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:HACD1 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:HACD1 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:HADH rdfs:label "pvalue_less",
-        "pvalue_more0.011493605" .
+gene:HADH rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.011493605" .
 
-gene:HADHA rdfs:label "pvalue_less",
-        "pvalue_more0.000226888" .
+gene:HADHA rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.000226888" .
 
-gene:HADHB rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:HADHB rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:HAMP rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:HAMP rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:HAND2 rdfs:label "pvalue_less",
-        "pvalue_more9.87173E-05" .
+gene:HAND2 rdfs:label "pvalue_less: ",
+        "pvalue_more: 9.87173E-05" .
 
-gene:HBA1 rdfs:label "pvalue_less",
-        "pvalue_more4.44453E-07" .
+gene:HBA1 rdfs:label "pvalue_less: ",
+        "pvalue_more: 4.44453E-07" .
 
-gene:HBA2 rdfs:label "pvalue_less",
-        "pvalue_more2.92669E-08" .
+gene:HBA2 rdfs:label "pvalue_less: ",
+        "pvalue_more: 2.92669E-08" .
 
-gene:HBB rdfs:label "pvalue_less",
-        "pvalue_more3.41716E-10" .
+gene:HBB rdfs:label "pvalue_less: ",
+        "pvalue_more: 3.41716E-10" .
 
-gene:HCCS rdfs:label "pvalue_less",
-        "pvalue_more0.000125275" .
+gene:HCCS rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.000125275" .
 
-gene:HCN4 rdfs:label "pvalue_less",
-        "pvalue_more0.042084958" .
+gene:HCN4 rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.042084958" .
 
-gene:HDAC4 rdfs:label "pvalue_less0.012136602",
-        "pvalue_more" .
+gene:HDAC4 rdfs:label "pvalue_less: 0.012136602",
+        "pvalue_more: " .
 
-gene:HDAC8 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:HDAC8 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:HES7 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:HES7 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:HEXB rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:HEXB rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:HEY2 rdfs:label "pvalue_less",
-        "pvalue_more0.002229063" .
+gene:HEY2 rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.002229063" .
 
-gene:HFE rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:HFE rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:HGD rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:HGD rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:HGSNAT rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:HGSNAT rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:HIBCH rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:HIBCH rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:HIRA rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:HIRA rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:HJV rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:HJV rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:HLA-B rdfs:label "pvalue_less",
-        "pvalue_more0.016826981" .
+gene:HLA-B rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.016826981" .
 
-gene:HLA-DPA1 rdfs:label "pvalue_less",
-        "pvalue_more0.047458771" .
+gene:HLA-DPA1 rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.047458771" .
 
-gene:HLA-DPB1 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:HLA-DPB1 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:HLA-DRB1 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:HLA-DRB1 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:HMGCL rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:HMGCL rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:HNRNPA1 rdfs:label "pvalue_less",
-        "pvalue_more3.95158E-05" .
+gene:HNRNPA1 rdfs:label "pvalue_less: ",
+        "pvalue_more: 3.95158E-05" .
 
-gene:HNRNPA2B1 rdfs:label "pvalue_less",
-        "pvalue_more2.61545E-05" .
+gene:HNRNPA2B1 rdfs:label "pvalue_less: ",
+        "pvalue_more: 2.61545E-05" .
 
-gene:HNRNPH2 rdfs:label "pvalue_less",
-        "pvalue_more2.79049E-05" .
+gene:HNRNPH2 rdfs:label "pvalue_less: ",
+        "pvalue_more: 2.79049E-05" .
 
-gene:HNRNPK rdfs:label "pvalue_less",
-        "pvalue_more7.42135E-07" .
+gene:HNRNPK rdfs:label "pvalue_less: ",
+        "pvalue_more: 7.42135E-07" .
 
-gene:HNRNPU rdfs:label "pvalue_less",
-        "pvalue_more0.002036854" .
+gene:HNRNPU rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.002036854" .
 
-gene:HOXA13 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:HOXA13 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:HOXD13 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:HOXD13 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:HPS1 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:HPS1 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:HRAS rdfs:label "pvalue_less",
-        "pvalue_more0.025586968" .
+gene:HRAS rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.025586968" .
 
-gene:HSD11B2 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:HSD11B2 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:HSD17B10 rdfs:label "pvalue_less",
-        "pvalue_more0.00025172" .
+gene:HSD17B10 rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.00025172" .
 
-gene:HSPA9 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:HSPA9 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:HSPG2 rdfs:label "pvalue_less",
-        "pvalue_more0.01271146" .
+gene:HSPG2 rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.01271146" .
 
-gene:HYDIN rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:HYDIN rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:HYLS1 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:HYLS1 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:HYMAI rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:HYMAI rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:IDH1 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:IDH1 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:IDH2 rdfs:label "pvalue_less",
-        "pvalue_more0.007845464" .
+gene:IDH2 rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.007845464" .
 
-gene:IDS rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:IDS rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:IDUA rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:IDUA rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:IFIH1 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:IFIH1 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:IFNG rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:IFNG rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:IFNGR1 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:IFNGR1 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:IFT122 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:IFT122 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:IFT172 rdfs:label "pvalue_less0.032182814",
-        "pvalue_more" .
+gene:IFT172 rdfs:label "pvalue_less: 0.032182814",
+        "pvalue_more: " .
 
-gene:IFT81 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:IFT81 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:IGBP1 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:IGBP1 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:IGF1R rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:IGF1R rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:IGF2 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:IGF2 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:IKZF1 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:IKZF1 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:IL10 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:IL10 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:IL12A rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:IL12A rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:IL12A-AS1 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:IL12A-AS1 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:IL12B rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:IL12B rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:IL17F rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:IL17F rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:IL17RA rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:IL17RA rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:IL17RC rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:IL17RC rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:IL23R rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:IL23R rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:IL6 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:IL6 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:INPP5E rdfs:label "pvalue_less",
-        "pvalue_more0.001966876" .
+gene:INPP5E rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.001966876" .
 
-gene:INS rdfs:label "pvalue_less0.005422129",
-        "pvalue_more" .
+gene:INS rdfs:label "pvalue_less: 0.005422129",
+        "pvalue_more: " .
 
-gene:INSR rdfs:label "pvalue_less0.002811465",
-        "pvalue_more" .
+gene:INSR rdfs:label "pvalue_less: 0.002811465",
+        "pvalue_more: " .
 
-gene:INTS1 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:INTS1 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:INTU rdfs:label "pvalue_less0.024160027",
-        "pvalue_more" .
+gene:INTU rdfs:label "pvalue_less: 0.024160027",
+        "pvalue_more: " .
 
-gene:INVS rdfs:label "pvalue_less0.001843087",
-        "pvalue_more" .
+gene:INVS rdfs:label "pvalue_less: 0.001843087",
+        "pvalue_more: " .
 
-gene:IPO8 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:IPO8 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:IRAK1 rdfs:label "pvalue_less",
-        "pvalue_more0.035157971" .
+gene:IRAK1 rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.035157971" .
 
-gene:IRF4 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:IRF4 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:IRF6 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:IRF6 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:IRX5 rdfs:label "pvalue_less",
-        "pvalue_more0.009067069" .
+gene:IRX5 rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.009067069" .
 
-gene:ITGA7 rdfs:label "pvalue_less",
-        "pvalue_more0.002404337" .
+gene:ITGA7 rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.002404337" .
 
-gene:ITK rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:ITK rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:ITPA rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:ITPA rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:JAG1 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:JAG1 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:JAG2 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:JAG2 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:JMJD1C rdfs:label "pvalue_less0.003214113",
-        "pvalue_more" .
+gene:JMJD1C rdfs:label "pvalue_less: 0.003214113",
+        "pvalue_more: " .
 
-gene:JPH2 rdfs:label "pvalue_less",
-        "pvalue_more0.00147345" .
+gene:JPH2 rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.00147345" .
 
-gene:JUP rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:JUP rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:KANSL1 rdfs:label "pvalue_less0.016654388",
-        "pvalue_more" .
+gene:KANSL1 rdfs:label "pvalue_less: 0.016654388",
+        "pvalue_more: " .
 
-gene:KAT5 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:KAT5 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:KAT6A rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:KAT6A rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:KAT6B rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:KAT6B rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:KAT8 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:KAT8 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:KATNB1 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:KATNB1 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:KATNIP rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:KATNIP rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:KBTBD13 rdfs:label "pvalue_less",
-        "pvalue_more0.002217946" .
+gene:KBTBD13 rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.002217946" .
 
-gene:KCNA1 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:KCNA1 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:KCNAB2 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:KCNAB2 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:KCNE5 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:KCNE5 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:KCNH1 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:KCNH1 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:KCNJ11 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:KCNJ11 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:KCNJ2 rdfs:label "pvalue_less",
-        "pvalue_more0.013839156" .
+gene:KCNJ2 rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.013839156" .
 
-gene:KCNJ5 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:KCNJ5 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:KCNJ8 rdfs:label "pvalue_less",
-        "pvalue_more0.003349453" .
+gene:KCNJ8 rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.003349453" .
 
-gene:KCNQ1 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:KCNQ1 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:KCNQ1OT1 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:KCNQ1OT1 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:KDM1A rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:KDM1A rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:KDM3B rdfs:label "pvalue_less0.021847967",
-        "pvalue_more" .
+gene:KDM3B rdfs:label "pvalue_less: 0.021847967",
+        "pvalue_more: " .
 
-gene:KDM5B rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:KDM5B rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:KDM6A rdfs:label "pvalue_less0.003135083",
-        "pvalue_more" .
+gene:KDM6A rdfs:label "pvalue_less: 0.003135083",
+        "pvalue_more: " .
 
-gene:KDR rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:KDR rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:KIAA0586 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:KIAA0586 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:KIAA0753 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:KIAA0753 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:KIAA1109 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:KIAA1109 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:KIF11 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:KIF11 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:KIF15 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:KIF15 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:KIF20A rdfs:label "pvalue_less",
-        "pvalue_more0.001157155" .
+gene:KIF20A rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.001157155" .
 
-gene:KIF3B rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:KIF3B rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:KIF7 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:KIF7 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:KLF1 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:KLF1 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:KLHL41 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:KLHL41 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:KLRC4 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:KLRC4 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:KMT2C rdfs:label "pvalue_less0.001138532",
-        "pvalue_more" .
+gene:KMT2C rdfs:label "pvalue_less: 0.001138532",
+        "pvalue_more: " .
 
-gene:KMT2D rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:KMT2D rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:KRAS rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:KRAS rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:KYNU rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:KYNU rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:LACC1 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:LACC1 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:LAMA2 rdfs:label "pvalue_less",
-        "pvalue_more0.000925646" .
+gene:LAMA2 rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.000925646" .
 
-gene:LAMA3 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:LAMA3 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:LAMA4 rdfs:label "pvalue_less",
-        "pvalue_more0.004483249" .
+gene:LAMA4 rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.004483249" .
 
-gene:LAMB2 rdfs:label "pvalue_less",
-        "pvalue_more0.007455832" .
+gene:LAMB2 rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.007455832" .
 
-gene:LAMB3 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:LAMB3 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:LAMC2 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:LAMC2 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:LAMP2 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:LAMP2 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:LARP7 rdfs:label "pvalue_less",
-        "pvalue_more0.041336999" .
+gene:LARP7 rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.041336999" .
 
-gene:LARS2 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:LARS2 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:LBR rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:LBR rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:LDB3 rdfs:label "pvalue_less",
-        "pvalue_more2.42951E-07" .
+gene:LDB3 rdfs:label "pvalue_less: ",
+        "pvalue_more: 2.42951E-07" .
 
-gene:LDLR rdfs:label "pvalue_less5.03578E-05",
-        "pvalue_more" .
+gene:LDLR rdfs:label "pvalue_less: 5.03578E-05",
+        "pvalue_more: " .
 
-gene:LDLRAP1 rdfs:label "pvalue_less",
-        "pvalue_more0.002213084" .
+gene:LDLRAP1 rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.002213084" .
 
-gene:LEMD2 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:LEMD2 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:LEMD3 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:LEMD3 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:LETM1 rdfs:label "pvalue_less",
-        "pvalue_more0.030396756" .
+gene:LETM1 rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.030396756" .
 
-gene:LIAS rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:LIAS rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:LIMK1 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:LIMK1 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:LIMS2 rdfs:label "pvalue_less",
-        "pvalue_more0.000334201" .
+gene:LIMS2 rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.000334201" .
 
-gene:LIPT1 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:LIPT1 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:LMBR1 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:LMBR1 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:LMBRD1 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:LMBRD1 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:LMNA rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:LMNA rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:LMNB1 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:LMNB1 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:LMOD1 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:LMOD1 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:LONP1 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:LONP1 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:LOX rdfs:label "pvalue_less",
-        "pvalue_more0.002335826" .
+gene:LOX rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.002335826" .
 
-gene:LRP12 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:LRP12 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:LRP2 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:LRP2 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:LRP5 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:LRP5 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:LRPPRC rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:LRPPRC rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:LRRC56 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:LRRC56 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:LTBP1 rdfs:label "pvalue_less",
-        "pvalue_more0.03288144" .
+gene:LTBP1 rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.03288144" .
 
-gene:LTBP2 rdfs:label "pvalue_less",
-        "pvalue_more0.032157303" .
+gene:LTBP2 rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.032157303" .
 
-gene:LTBP3 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:LTBP3 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:LTBP4 rdfs:label "pvalue_less",
-        "pvalue_more0.017285093" .
+gene:LTBP4 rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.017285093" .
 
-gene:LUZP1 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:LUZP1 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:LYST rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:LYST rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:LZTFL1 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:LZTFL1 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:LZTR1 rdfs:label "pvalue_less",
-        "pvalue_more0.031474505" .
+gene:LZTR1 rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.031474505" .
 
-gene:MAD2L2 rdfs:label "pvalue_less",
-        "pvalue_more0.01881396" .
+gene:MAD2L2 rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.01881396" .
 
-gene:MAF rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:MAF rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:MAGEL2 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:MAGEL2 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:MAP1B rdfs:label "pvalue_less",
-        "pvalue_more0.013788767" .
+gene:MAP1B rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.013788767" .
 
-gene:MAP2K1 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:MAP2K1 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:MAP2K2 rdfs:label "pvalue_less",
-        "pvalue_more0.007931635" .
+gene:MAP2K2 rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.007931635" .
 
-gene:MAP3K20 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:MAP3K20 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:MAP3K7 rdfs:label "pvalue_less0.01321273",
-        "pvalue_more" .
+gene:MAP3K7 rdfs:label "pvalue_less: 0.01321273",
+        "pvalue_more: " .
 
-gene:MAPK1 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:MAPK1 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:MASP1 rdfs:label "pvalue_less",
-        "pvalue_more0.002216796" .
+gene:MASP1 rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.002216796" .
 
-gene:MAT2A rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:MAT2A rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:MC2R rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:MC2R rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:MCIDAS rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:MCIDAS rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:MCM10 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:MCM10 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:MCTP2 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:MCTP2 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:MED12 rdfs:label "pvalue_less",
-        "pvalue_more0.022654218" .
+gene:MED12 rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.022654218" .
 
-gene:MED13L rdfs:label "pvalue_less0.022733357",
-        "pvalue_more" .
+gene:MED13L rdfs:label "pvalue_less: 0.022733357",
+        "pvalue_more: " .
 
-gene:MED25 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:MED25 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:MEFV rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:MEFV rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:MEG3 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:MEG3 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:MEGF8 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:MEGF8 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:MEIS2 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:MEIS2 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:MEN1 rdfs:label "pvalue_less",
-        "pvalue_more0.008726006" .
+gene:MEN1 rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.008726006" .
 
-gene:MEOX1 rdfs:label "pvalue_less",
-        "pvalue_more0.000646971" .
+gene:MEOX1 rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.000646971" .
 
-gene:METTL27 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:METTL27 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:METTL5 rdfs:label "pvalue_less",
-        "pvalue_more0.026332142" .
+gene:METTL5 rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.026332142" .
 
-gene:MFAP5 rdfs:label "pvalue_less",
-        "pvalue_more0.045596634" .
+gene:MFAP5 rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.045596634" .
 
-gene:MGAT2 rdfs:label "pvalue_less",
-        "pvalue_more0.00073293" .
+gene:MGAT2 rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.00073293" .
 
-gene:MGME1 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:MGME1 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:MGP rdfs:label "pvalue_less",
-        "pvalue_more0.000232597" .
+gene:MGP rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.000232597" .
 
-gene:MIB1 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:MIB1 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:MICOS13 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:MICOS13 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:MICU1 rdfs:label "pvalue_less0.004236393",
-        "pvalue_more" .
+gene:MICU1 rdfs:label "pvalue_less: 0.004236393",
+        "pvalue_more: " .
 
-gene:MID1 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:MID1 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:MIF rdfs:label "pvalue_less",
-        "pvalue_more0.042420467" .
+gene:MIF rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.042420467" .
 
-gene:MIPEP rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:MIPEP rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:MIR17HG rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:MIR17HG rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:MKKS rdfs:label "pvalue_less",
-        "pvalue_more0.003180234" .
+gene:MKKS rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.003180234" .
 
-gene:MKS1 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:MKS1 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:MLH1 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:MLH1 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:MLH3 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:MLH3 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:MLX rdfs:label "pvalue_less",
-        "pvalue_more0.002913179" .
+gene:MLX rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.002913179" .
 
-gene:MLXIPL rdfs:label "pvalue_less0.010700097",
-        "pvalue_more" .
+gene:MLXIPL rdfs:label "pvalue_less: 0.010700097",
+        "pvalue_more: " .
 
-gene:MLYCD rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:MLYCD rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:MMACHC rdfs:label "pvalue_less",
-        "pvalue_more0.023659457" .
+gene:MMACHC rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.023659457" .
 
-gene:MMP1 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:MMP1 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:MMP14 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:MMP14 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:MMP2 rdfs:label "pvalue_less",
-        "pvalue_more0.002539832" .
+gene:MMP2 rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.002539832" .
 
-gene:MMP21 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:MMP21 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:MMP23B rdfs:label "pvalue_less",
-        "pvalue_more0.046578628" .
+gene:MMP23B rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.046578628" .
 
-gene:MMUT rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:MMUT rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:MNS1 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:MNS1 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:MOGS rdfs:label "pvalue_less",
-        "pvalue_more0.006119901" .
+gene:MOGS rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.006119901" .
 
-gene:MPL rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:MPL rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:MPLKIP rdfs:label "pvalue_less",
-        "pvalue_more0.040052448" .
+gene:MPLKIP rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.040052448" .
 
-gene:MRAP rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:MRAP rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:MRAS rdfs:label "pvalue_less",
-        "pvalue_more0.021654449" .
+gene:MRAS rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.021654449" .
 
-gene:MRPL3 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:MRPL3 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:MRPL44 rdfs:label "pvalue_less",
-        "pvalue_more0.023781774" .
+gene:MRPL44 rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.023781774" .
 
-gene:MRPS14 rdfs:label "pvalue_less",
-        "pvalue_more0.000125228" .
+gene:MRPS14 rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.000125228" .
 
-gene:MRPS22 rdfs:label "pvalue_less",
-        "pvalue_more0.000190419" .
+gene:MRPS22 rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.000190419" .
 
-gene:MSH2 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:MSH2 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:MSH6 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:MSH6 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:MSX1 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:MSX1 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:MTFMT rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:MTFMT rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:MTO1 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:MTO1 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:MTTP rdfs:label "pvalue_less0.000244837",
-        "pvalue_more" .
+gene:MTTP rdfs:label "pvalue_less: 0.000244837",
+        "pvalue_more: " .
 
-gene:MTX2 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:MTX2 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:MYBPC3 rdfs:label "pvalue_less",
-        "pvalue_more6.32189E-08" .
+gene:MYBPC3 rdfs:label "pvalue_less: ",
+        "pvalue_more: 6.32189E-08" .
 
-gene:MYCN rdfs:label "pvalue_less",
-        "pvalue_more0.04178835" .
+gene:MYCN rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.04178835" .
 
-gene:MYH11 rdfs:label "pvalue_less",
-        "pvalue_more0.000524986" .
+gene:MYH11 rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.000524986" .
 
-gene:MYH3 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:MYH3 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:MYH6 rdfs:label "pvalue_less",
-        "pvalue_more7.08404E-09" .
+gene:MYH6 rdfs:label "pvalue_less: ",
+        "pvalue_more: 7.08404E-09" .
 
-gene:MYH7 rdfs:label "pvalue_less",
-        "pvalue_more7.03351E-10" .
+gene:MYH7 rdfs:label "pvalue_less: ",
+        "pvalue_more: 7.03351E-10" .
 
-gene:MYH8 rdfs:label "pvalue_less0.004194047",
-        "pvalue_more" .
+gene:MYH8 rdfs:label "pvalue_less: 0.004194047",
+        "pvalue_more: " .
 
-gene:MYL2 rdfs:label "pvalue_less",
-        "pvalue_more2.7951E-09" .
+gene:MYL2 rdfs:label "pvalue_less: ",
+        "pvalue_more: 2.7951E-09" .
 
-gene:MYL3 rdfs:label "pvalue_less",
-        "pvalue_more2.07728E-09" .
+gene:MYL3 rdfs:label "pvalue_less: ",
+        "pvalue_more: 2.07728E-09" .
 
-gene:MYLK rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:MYLK rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:MYLK2 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:MYLK2 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:MYMK rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:MYMK rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:MYO18B rdfs:label "pvalue_less",
-        "pvalue_more0.00307181" .
+gene:MYO18B rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.00307181" .
 
-gene:MYOCD rdfs:label "pvalue_less",
-        "pvalue_more0.00050114" .
+gene:MYOCD rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.00050114" .
 
-gene:MYOT rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:MYOT rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:MYOZ2 rdfs:label "pvalue_less",
-        "pvalue_more4.71975E-09" .
+gene:MYOZ2 rdfs:label "pvalue_less: ",
+        "pvalue_more: 4.71975E-09" .
 
-gene:MYPN rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:MYPN rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:MYRF rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:MYRF rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:MYSM1 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:MYSM1 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:NAA10 rdfs:label "pvalue_less",
-        "pvalue_more0.000621436" .
+gene:NAA10 rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.000621436" .
 
-gene:NADSYN1 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:NADSYN1 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:NAGA rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:NAGA rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:NAGLU rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:NAGLU rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:NAXD rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:NAXD rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:NBAS rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:NBAS rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:NCAPG2 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:NCAPG2 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:NCF1 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:NCF1 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:ND1 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:ND1 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:ND2 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:ND2 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:ND3 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:ND3 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:ND4 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:ND4 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:ND5 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:ND5 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:ND6 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:ND6 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:NDE1 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:NDE1 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:NDUFA1 rdfs:label "pvalue_less",
-        "pvalue_more0.003509472" .
+gene:NDUFA1 rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.003509472" .
 
-gene:NDUFA10 rdfs:label "pvalue_less",
-        "pvalue_more0.010266279" .
+gene:NDUFA10 rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.010266279" .
 
-gene:NDUFA11 rdfs:label "pvalue_less",
-        "pvalue_more0.00427305" .
+gene:NDUFA11 rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.00427305" .
 
-gene:NDUFA12 rdfs:label "pvalue_less",
-        "pvalue_more0.000328085" .
+gene:NDUFA12 rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.000328085" .
 
-gene:NDUFA13 rdfs:label "pvalue_less",
-        "pvalue_more1.09067E-05" .
+gene:NDUFA13 rdfs:label "pvalue_less: ",
+        "pvalue_more: 1.09067E-05" .
 
-gene:NDUFA2 rdfs:label "pvalue_less",
-        "pvalue_more0.000958199" .
+gene:NDUFA2 rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.000958199" .
 
-gene:NDUFA4 rdfs:label "pvalue_less",
-        "pvalue_more1.35604E-06" .
+gene:NDUFA4 rdfs:label "pvalue_less: ",
+        "pvalue_more: 1.35604E-06" .
 
-gene:NDUFA6 rdfs:label "pvalue_less",
-        "pvalue_more0.000165368" .
+gene:NDUFA6 rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.000165368" .
 
-gene:NDUFA9 rdfs:label "pvalue_less",
-        "pvalue_more0.011829665" .
+gene:NDUFA9 rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.011829665" .
 
-gene:NDUFAF1 rdfs:label "pvalue_less",
-        "pvalue_more0.008701904" .
+gene:NDUFAF1 rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.008701904" .
 
-gene:NDUFAF2 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:NDUFAF2 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:NDUFAF3 rdfs:label "pvalue_less",
-        "pvalue_more2.59319E-07" .
+gene:NDUFAF3 rdfs:label "pvalue_less: ",
+        "pvalue_more: 2.59319E-07" .
 
-gene:NDUFAF4 rdfs:label "pvalue_less",
-        "pvalue_more0.001413536" .
+gene:NDUFAF4 rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.001413536" .
 
-gene:NDUFAF5 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:NDUFAF5 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:NDUFAF6 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:NDUFAF6 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:NDUFAF8 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:NDUFAF8 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:NDUFB10 rdfs:label "pvalue_less",
-        "pvalue_more0.000194226" .
+gene:NDUFB10 rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.000194226" .
 
-gene:NDUFB11 rdfs:label "pvalue_less",
-        "pvalue_more0.000130279" .
+gene:NDUFB11 rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.000130279" .
 
-gene:NDUFB3 rdfs:label "pvalue_less",
-        "pvalue_more0.004459393" .
+gene:NDUFB3 rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.004459393" .
 
-gene:NDUFB8 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:NDUFB8 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:NDUFB9 rdfs:label "pvalue_less",
-        "pvalue_more0.000562447" .
+gene:NDUFB9 rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.000562447" .
 
-gene:NDUFC2 rdfs:label "pvalue_less",
-        "pvalue_more0.00015274" .
+gene:NDUFC2 rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.00015274" .
 
-gene:NDUFS1 rdfs:label "pvalue_less",
-        "pvalue_more0.00369875" .
+gene:NDUFS1 rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.00369875" .
 
-gene:NDUFS2 rdfs:label "pvalue_less",
-        "pvalue_more0.00355332" .
+gene:NDUFS2 rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.00355332" .
 
-gene:NDUFS3 rdfs:label "pvalue_less",
-        "pvalue_more0.000566836" .
+gene:NDUFS3 rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.000566836" .
 
-gene:NDUFS4 rdfs:label "pvalue_less",
-        "pvalue_more0.003352854" .
+gene:NDUFS4 rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.003352854" .
 
-gene:NDUFS6 rdfs:label "pvalue_less",
-        "pvalue_more0.001167119" .
+gene:NDUFS6 rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.001167119" .
 
-gene:NDUFS7 rdfs:label "pvalue_less",
-        "pvalue_more0.01367383" .
+gene:NDUFS7 rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.01367383" .
 
-gene:NDUFS8 rdfs:label "pvalue_less",
-        "pvalue_more0.005613198" .
+gene:NDUFS8 rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.005613198" .
 
-gene:NDUFV1 rdfs:label "pvalue_less",
-        "pvalue_more0.010465235" .
+gene:NDUFV1 rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.010465235" .
 
-gene:NDUFV2 rdfs:label "pvalue_less",
-        "pvalue_more0.038615909" .
+gene:NDUFV2 rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.038615909" .
 
-gene:NEB rdfs:label "pvalue_less0.019451586",
-        "pvalue_more" .
+gene:NEB rdfs:label "pvalue_less: 0.019451586",
+        "pvalue_more: " .
 
-gene:NECTIN1 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:NECTIN1 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:NEDD4L rdfs:label "pvalue_less0.027858087",
-        "pvalue_more" .
+gene:NEDD4L rdfs:label "pvalue_less: 0.027858087",
+        "pvalue_more: " .
 
-gene:NEK1 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:NEK1 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:NEK10 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:NEK10 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:NEK8 rdfs:label "pvalue_less0.034253861",
-        "pvalue_more" .
+gene:NEK8 rdfs:label "pvalue_less: 0.034253861",
+        "pvalue_more: " .
 
-gene:NEK9 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:NEK9 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:NELFA rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:NELFA rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:NEU1 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:NEU1 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:NEUROD2 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:NEUROD2 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:NEXN rdfs:label "pvalue_less",
-        "pvalue_more0.000236313" .
+gene:NEXN rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.000236313" .
 
-gene:NF1 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:NF1 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:NFE2L2 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:NFE2L2 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:NFIX rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:NFIX rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:NFS1 rdfs:label "pvalue_less0.029493519",
-        "pvalue_more" .
+gene:NFS1 rdfs:label "pvalue_less: 0.029493519",
+        "pvalue_more: " .
 
-gene:NHLRC2 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:NHLRC2 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:NIPA1 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:NIPA1 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:NIPA2 rdfs:label "pvalue_less",
-        "pvalue_more0.020347657" .
+gene:NIPA2 rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.020347657" .
 
-gene:NIPBL rdfs:label "pvalue_less0.026133802",
-        "pvalue_more" .
+gene:NIPBL rdfs:label "pvalue_less: 0.026133802",
+        "pvalue_more: " .
 
-gene:NKAP rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:NKAP rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:NKX2-1 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:NKX2-1 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:NKX2-5 rdfs:label "pvalue_less",
-        "pvalue_more8.87314E-06" .
+gene:NKX2-5 rdfs:label "pvalue_less: ",
+        "pvalue_more: 8.87314E-06" .
 
-gene:NKX2-6 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:NKX2-6 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:NME8 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:NME8 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:NNT rdfs:label "pvalue_less",
-        "pvalue_more2.89549E-05" .
+gene:NNT rdfs:label "pvalue_less: ",
+        "pvalue_more: 2.89549E-05" .
 
-gene:NOD2 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:NOD2 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:NODAL rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:NODAL rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:NONO rdfs:label "pvalue_less",
-        "pvalue_more9.13945E-06" .
+gene:NONO rdfs:label "pvalue_less: ",
+        "pvalue_more: 9.13945E-06" .
 
-gene:NOTCH1 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:NOTCH1 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:NOTCH2 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:NOTCH2 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:NOTCH3 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:NOTCH3 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:NPHP3 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:NPHP3 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:NPPA rdfs:label "pvalue_less",
-        "pvalue_more3.66881E-10" .
+gene:NPPA rdfs:label "pvalue_less: ",
+        "pvalue_more: 3.66881E-10" .
 
-<http://identifiers.org/hgnc.symbol/NPR 3.00> rdfs:label "pvalue_less",
-        "pvalue_more" .
+<http://identifiers.org/hgnc.symbol/NPR 3.00> rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:NR2F2 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:NR2F2 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:NRAS rdfs:label "pvalue_less",
-        "pvalue_more0.00113661" .
+gene:NRAS rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.00113661" .
 
-gene:NSD1 rdfs:label "pvalue_less0.04854191",
-        "pvalue_more" .
+gene:NSD1 rdfs:label "pvalue_less: 0.04854191",
+        "pvalue_more: " .
 
-gene:NSD2 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:NSD2 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:NSDHL rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:NSDHL rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:NSMCE2 rdfs:label "pvalue_less0.030999191",
-        "pvalue_more" .
+gene:NSMCE2 rdfs:label "pvalue_less: 0.030999191",
+        "pvalue_more: " .
 
-gene:NUBPL rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:NUBPL rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:NUP107 rdfs:label "pvalue_less0.03557505",
-        "pvalue_more" .
+gene:NUP107 rdfs:label "pvalue_less: 0.03557505",
+        "pvalue_more: " .
 
-gene:NUP188 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:NUP188 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:NXN rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:NXN rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:ODAD1 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:ODAD1 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:ODAD2 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:ODAD2 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:ODAD3 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:ODAD3 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:ODAD4 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:ODAD4 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:OFD1 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:OFD1 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:OGT rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:OGT rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:OPA1 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:OPA1 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:OTUD5 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:OTUD5 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:OTUD6B rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:OTUD6B rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:OTX2 rdfs:label "pvalue_less0.003288359",
-        "pvalue_more" .
+gene:OTX2 rdfs:label "pvalue_less: 0.003288359",
+        "pvalue_more: " .
 
-gene:P4HA2 rdfs:label "pvalue_less",
-        "pvalue_more0.010850534" .
+gene:P4HA2 rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.010850534" .
 
-gene:PACS1 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:PACS1 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:PACS2 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:PACS2 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:PAH rdfs:label "pvalue_less0.034166855",
-        "pvalue_more" .
+gene:PAH rdfs:label "pvalue_less: 0.034166855",
+        "pvalue_more: " .
 
-gene:PALB2 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:PALB2 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:PAM16 rdfs:label "pvalue_less0.008717809",
-        "pvalue_more" .
+gene:PAM16 rdfs:label "pvalue_less: 0.008717809",
+        "pvalue_more: " .
 
-gene:PARS2 rdfs:label "pvalue_less",
-        "pvalue_more0.03145192" .
+gene:PARS2 rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.03145192" .
 
-gene:PAX3 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:PAX3 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:PBX1 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:PBX1 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:PCCA rdfs:label "pvalue_less0.02729644",
-        "pvalue_more" .
+gene:PCCA rdfs:label "pvalue_less: 0.02729644",
+        "pvalue_more: " .
 
-gene:PCCB rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:PCCB rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:PCGF2 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:PCGF2 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:PCNT rdfs:label "pvalue_less0.026206785",
-        "pvalue_more" .
+gene:PCNT rdfs:label "pvalue_less: 0.026206785",
+        "pvalue_more: " .
 
-gene:PCSK9 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:PCSK9 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:PDE11A rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:PDE11A rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:PDE6D rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:PDE6D rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:PDE8B rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:PDE8B rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:PDGFRA rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:PDGFRA rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:PDHA1 rdfs:label "pvalue_less",
-        "pvalue_more0.00396086" .
+gene:PDHA1 rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.00396086" .
 
-gene:PDPN rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:PDPN rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:PDSS2 rdfs:label "pvalue_less0.003758419",
-        "pvalue_more" .
+gene:PDSS2 rdfs:label "pvalue_less: 0.003758419",
+        "pvalue_more: " .
 
-gene:PDX1 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:PDX1 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:PET100 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:PET100 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:PEX1 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:PEX1 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:PEX10 rdfs:label "pvalue_less",
-        "pvalue_more0.002999156" .
+gene:PEX10 rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.002999156" .
 
-gene:PEX11B rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:PEX11B rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:PEX12 rdfs:label "pvalue_less",
-        "pvalue_more0.010365879" .
+gene:PEX12 rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.010365879" .
 
-gene:PEX13 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:PEX13 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:PEX14 rdfs:label "pvalue_less0.009843866",
-        "pvalue_more" .
+gene:PEX14 rdfs:label "pvalue_less: 0.009843866",
+        "pvalue_more: " .
 
-gene:PEX16 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:PEX16 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:PEX19 rdfs:label "pvalue_less",
-        "pvalue_more7.0264E-06" .
+gene:PEX19 rdfs:label "pvalue_less: ",
+        "pvalue_more: 7.0264E-06" .
 
-gene:PEX2 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:PEX2 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:PEX26 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:PEX26 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:PEX3 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:PEX3 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:PEX5 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:PEX5 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:PEX6 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:PEX6 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:PEX7 rdfs:label "pvalue_less0.006943603",
-        "pvalue_more" .
+gene:PEX7 rdfs:label "pvalue_less: 0.006943603",
+        "pvalue_more: " .
 
-gene:PGAP1 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:PGAP1 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:PGM1 rdfs:label "pvalue_less",
-        "pvalue_more0.030559807" .
+gene:PGM1 rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.030559807" .
 
-gene:PHGDH rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:PHGDH rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:PHKA2 rdfs:label "pvalue_less0.00766783",
-        "pvalue_more" .
+gene:PHKA2 rdfs:label "pvalue_less: 0.00766783",
+        "pvalue_more: " .
 
-gene:PHKG2 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:PHKG2 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:PHYH rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:PHYH rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:PIBF1 rdfs:label "pvalue_less0.041897756",
-        "pvalue_more" .
+gene:PIBF1 rdfs:label "pvalue_less: 0.041897756",
+        "pvalue_more: " .
 
-gene:PIEZO1 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:PIEZO1 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:PIEZO2 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:PIEZO2 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:PIGA rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:PIGA rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:PIGF rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:PIGF rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:PIGG rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:PIGG rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:PIGL rdfs:label "pvalue_less0.00463561",
-        "pvalue_more" .
+gene:PIGL rdfs:label "pvalue_less: 0.00463561",
+        "pvalue_more: " .
 
-gene:PIGN rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:PIGN rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:PIGO rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:PIGO rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:PIGP rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:PIGP rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:PIGQ rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:PIGQ rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:PIGS rdfs:label "pvalue_less",
-        "pvalue_more0.010876615" .
+gene:PIGS rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.010876615" .
 
-gene:PIGT rdfs:label "pvalue_less",
-        "pvalue_more0.001269714" .
+gene:PIGT rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.001269714" .
 
-gene:PIGV rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:PIGV rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:PIK3CA rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:PIK3CA rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:PIK3R2 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:PIK3R2 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:PKD1 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:PKD1 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:PKD1L1 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:PKD1L1 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:PKD2 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:PKD2 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:PKDCC rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:PKDCC rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:PKP2 rdfs:label "pvalue_less",
-        "pvalue_more0.000492326" .
+gene:PKP2 rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.000492326" .
 
-gene:PLAGL1 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:PLAGL1 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:PLD1 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:PLD1 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:PLN rdfs:label "pvalue_less",
-        "pvalue_more2.38179E-09" .
+gene:PLN rdfs:label "pvalue_less: ",
+        "pvalue_more: 2.38179E-09" .
 
-gene:PLOD1 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:PLOD1 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:PLVAP rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:PLVAP rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:PLXND1 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:PLXND1 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:PMM2 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:PMM2 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:PMS1 rdfs:label "pvalue_less0.002522306",
-        "pvalue_more" .
+gene:PMS1 rdfs:label "pvalue_less: 0.002522306",
+        "pvalue_more: " .
 
-gene:PMS2 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:PMS2 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:PNKP rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:PNKP rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:PNPLA2 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:PNPLA2 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:POGZ rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:POGZ rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:POLA1 rdfs:label "pvalue_less0.025589186",
-        "pvalue_more" .
+gene:POLA1 rdfs:label "pvalue_less: 0.025589186",
+        "pvalue_more: " .
 
-gene:POLG rdfs:label "pvalue_less",
-        "pvalue_more0.048638228" .
+gene:POLG rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.048638228" .
 
-gene:POLG2 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:POLG2 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:POLR1A rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:POLR1A rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:POLR3A rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:POLR3A rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:POMGNT1 rdfs:label "pvalue_less",
-        "pvalue_more0.010188111" .
+gene:POMGNT1 rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.010188111" .
 
-gene:POMK rdfs:label "pvalue_less0.019166486",
-        "pvalue_more" .
+gene:POMK rdfs:label "pvalue_less: 0.019166486",
+        "pvalue_more: " .
 
-gene:POMT1 rdfs:label "pvalue_less",
-        "pvalue_more0.040130462" .
+gene:POMT1 rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.040130462" .
 
-gene:POMT2 rdfs:label "pvalue_less0.02095751",
-        "pvalue_more" .
+gene:POMT2 rdfs:label "pvalue_less: 0.02095751",
+        "pvalue_more: " .
 
-gene:POR rdfs:label "pvalue_less0.044579547",
-        "pvalue_more" .
+gene:POR rdfs:label "pvalue_less: 0.044579547",
+        "pvalue_more: " .
 
-gene:PORCN rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:PORCN rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:PPA2 rdfs:label "pvalue_less0.043057277",
-        "pvalue_more" .
+gene:PPA2 rdfs:label "pvalue_less: 0.043057277",
+        "pvalue_more: " .
 
-gene:PPARG rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:PPARG rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:PPCS rdfs:label "pvalue_less",
-        "pvalue_more0.031883477" .
+gene:PPCS rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.031883477" .
 
-gene:PPP1CB rdfs:label "pvalue_less",
-        "pvalue_more0.004413687" .
+gene:PPP1CB rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.004413687" .
 
-gene:PPP1R21 rdfs:label "pvalue_less0.046144313",
-        "pvalue_more" .
+gene:PPP1R21 rdfs:label "pvalue_less: 0.046144313",
+        "pvalue_more: " .
 
-gene:PPP2CA rdfs:label "pvalue_less",
-        "pvalue_more0.000337134" .
+gene:PPP2CA rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.000337134" .
 
-gene:PPP2R5D rdfs:label "pvalue_less",
-        "pvalue_more0.002460733" .
+gene:PPP2R5D rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.002460733" .
 
-gene:PQBP1 rdfs:label "pvalue_less",
-        "pvalue_more0.004126737" .
+gene:PQBP1 rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.004126737" .
 
-gene:PRDM16 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:PRDM16 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:PRDM5 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:PRDM5 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:PRG4 rdfs:label "pvalue_less",
-        "pvalue_more0.011558174" .
+gene:PRG4 rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.011558174" .
 
-gene:PRKACA rdfs:label "pvalue_less",
-        "pvalue_more0.001423161" .
+gene:PRKACA rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.001423161" .
 
-gene:PRKACB rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:PRKACB rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:PRKAG2 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:PRKAG2 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:PRKAR1A rdfs:label "pvalue_less",
-        "pvalue_more4.58331E-07" .
+gene:PRKAR1A rdfs:label "pvalue_less: ",
+        "pvalue_more: 4.58331E-07" .
 
-gene:PRKCZ rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:PRKCZ rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:PRKG1 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:PRKG1 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:PRR12 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:PRR12 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:PRRX1 rdfs:label "pvalue_less",
-        "pvalue_more0.001365105" .
+gene:PRRX1 rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.001365105" .
 
-gene:PRTN3 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:PRTN3 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:PSEN1 rdfs:label "pvalue_less0.010723978",
-        "pvalue_more" .
+gene:PSEN1 rdfs:label "pvalue_less: 0.010723978",
+        "pvalue_more: " .
 
-gene:PSEN2 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:PSEN2 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:PSMB8 rdfs:label "pvalue_less",
-        "pvalue_more0.02522908" .
+gene:PSMB8 rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.02522908" .
 
-gene:PSMD12 rdfs:label "pvalue_less",
-        "pvalue_more0.004873468" .
+gene:PSMD12 rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.004873468" .
 
-gene:PTCH1 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:PTCH1 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:PTCH2 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:PTCH2 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:PTEN rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:PTEN rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:PTF1A rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:PTF1A rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:PTPN11 rdfs:label "pvalue_less0.013249451",
-        "pvalue_more" .
+gene:PTPN11 rdfs:label "pvalue_less: 0.013249451",
+        "pvalue_more: " .
 
-gene:PTPN14 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:PTPN14 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:PTPN22 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:PTPN22 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:PUF60 rdfs:label "pvalue_less",
-        "pvalue_more0.049276396" .
+gene:PUF60 rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.049276396" .
 
-gene:PURA rdfs:label "pvalue_less",
-        "pvalue_more0.01479669" .
+gene:PURA rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.01479669" .
 
-gene:PYGL rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:PYGL rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:PYGM rdfs:label "pvalue_less",
-        "pvalue_more1.96235E-05" .
+gene:PYGM rdfs:label "pvalue_less: ",
+        "pvalue_more: 1.96235E-05" .
 
-gene:QRICH1 rdfs:label "pvalue_less0.010744242",
-        "pvalue_more" .
+gene:QRICH1 rdfs:label "pvalue_less: 0.010744242",
+        "pvalue_more: " .
 
-gene:QRSL1 rdfs:label "pvalue_less",
-        "pvalue_more0.000294875" .
+gene:QRSL1 rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.000294875" .
 
-gene:RAB23 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:RAB23 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:RAB3GAP2 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:RAB3GAP2 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:RAC1 rdfs:label "pvalue_less",
-        "pvalue_more0.009327131" .
+gene:RAC1 rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.009327131" .
 
-gene:RAD21 rdfs:label "pvalue_less",
-        "pvalue_more0.0002172" .
+gene:RAD21 rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.0002172" .
 
-gene:RAD51 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:RAD51 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:RAD51C rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:RAD51C rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:RAF1 rdfs:label "pvalue_less0.003669864",
-        "pvalue_more" .
+gene:RAF1 rdfs:label "pvalue_less: 0.003669864",
+        "pvalue_more: " .
 
-gene:RAI1 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:RAI1 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:RARB rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:RARB rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:RASA1 rdfs:label "pvalue_less0.025940088",
-        "pvalue_more" .
+gene:RASA1 rdfs:label "pvalue_less: 0.025940088",
+        "pvalue_more: " .
 
-gene:RASA2 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:RASA2 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:RBCK1 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:RBCK1 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:RBM10 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:RBM10 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:RBM20 rdfs:label "pvalue_less",
-        "pvalue_more4.50529E-06" .
+gene:RBM20 rdfs:label "pvalue_less: ",
+        "pvalue_more: 4.50529E-06" .
 
-gene:RBM8A rdfs:label "pvalue_less",
-        "pvalue_more0.000121891" .
+gene:RBM8A rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.000121891" .
 
-gene:RBPJ rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:RBPJ rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:RECQL4 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:RECQL4 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:RELN rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:RELN rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:RERE rdfs:label "pvalue_less9.66308E-05",
-        "pvalue_more" .
+gene:RERE rdfs:label "pvalue_less: 9.66308E-05",
+        "pvalue_more: " .
 
-gene:RFC2 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:RFC2 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:RFWD3 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:RFWD3 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:RIPK4 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:RIPK4 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:RIT1 rdfs:label "pvalue_less",
-        "pvalue_more0.001891506" .
+gene:RIT1 rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.001891506" .
 
-gene:RLIM rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:RLIM rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:RMND1 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:RMND1 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:RMRP rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:RMRP rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:RNASEH1 rdfs:label "pvalue_less",
-        "pvalue_more0.019596606" .
+gene:RNASEH1 rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.019596606" .
 
-gene:RNASEH2A rdfs:label "pvalue_less",
-        "pvalue_more0.007795893" .
+gene:RNASEH2A rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.007795893" .
 
-gene:RNASEH2B rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:RNASEH2B rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:RNASEH2C rdfs:label "pvalue_less",
-        "pvalue_more0.014926991" .
+gene:RNASEH2C rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.014926991" .
 
-gene:RNF113A rdfs:label "pvalue_less",
-        "pvalue_more0.008970253" .
+gene:RNF113A rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.008970253" .
 
-gene:RNF135 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:RNF135 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:RNU4ATAC rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:RNU4ATAC rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:RNU7-1 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:RNU7-1 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:ROBO4 rdfs:label "pvalue_less",
-        "pvalue_more0.031202794" .
+gene:ROBO4 rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.031202794" .
 
-gene:ROR2 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:ROR2 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:RPGR rdfs:label "pvalue_less0.006717745",
-        "pvalue_more" .
+gene:RPGR rdfs:label "pvalue_less: 0.006717745",
+        "pvalue_more: " .
 
-gene:RPGRIP1 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:RPGRIP1 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:RPGRIP1L rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:RPGRIP1L rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:RPL10 rdfs:label "pvalue_less",
-        "pvalue_more0.000226326" .
+gene:RPL10 rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.000226326" .
 
-gene:RPL11 rdfs:label "pvalue_less",
-        "pvalue_more3.77977E-07" .
+gene:RPL11 rdfs:label "pvalue_less: ",
+        "pvalue_more: 3.77977E-07" .
 
-gene:RPL15 rdfs:label "pvalue_less",
-        "pvalue_more4.87288E-06" .
+gene:RPL15 rdfs:label "pvalue_less: ",
+        "pvalue_more: 4.87288E-06" .
 
-gene:RPL18 rdfs:label "pvalue_less",
-        "pvalue_more1.67492E-07" .
+gene:RPL18 rdfs:label "pvalue_less: ",
+        "pvalue_more: 1.67492E-07" .
 
-gene:RPL26 rdfs:label "pvalue_less",
-        "pvalue_more2.49205E-06" .
+gene:RPL26 rdfs:label "pvalue_less: ",
+        "pvalue_more: 2.49205E-06" .
 
-gene:RPL27 rdfs:label "pvalue_less",
-        "pvalue_more7.86666E-08" .
+gene:RPL27 rdfs:label "pvalue_less: ",
+        "pvalue_more: 7.86666E-08" .
 
-gene:RPL31 rdfs:label "pvalue_less",
-        "pvalue_more2.85567E-06" .
+gene:RPL31 rdfs:label "pvalue_less: ",
+        "pvalue_more: 2.85567E-06" .
 
-gene:RPL35 rdfs:label "pvalue_less",
-        "pvalue_more0.001191375" .
+gene:RPL35 rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.001191375" .
 
-gene:RPL35A rdfs:label "pvalue_less",
-        "pvalue_more1.95296E-07" .
+gene:RPL35A rdfs:label "pvalue_less: ",
+        "pvalue_more: 1.95296E-07" .
 
-gene:RPL3L rdfs:label "pvalue_less",
-        "pvalue_more9.60805E-06" .
+gene:RPL3L rdfs:label "pvalue_less: ",
+        "pvalue_more: 9.60805E-06" .
 
-gene:RPL5 rdfs:label "pvalue_less",
-        "pvalue_more6.46799E-07" .
+gene:RPL5 rdfs:label "pvalue_less: ",
+        "pvalue_more: 6.46799E-07" .
 
-gene:RPS10 rdfs:label "pvalue_less",
-        "pvalue_more3.25018E-05" .
+gene:RPS10 rdfs:label "pvalue_less: ",
+        "pvalue_more: 3.25018E-05" .
 
-gene:RPS15A rdfs:label "pvalue_less",
-        "pvalue_more8.55071E-05" .
+gene:RPS15A rdfs:label "pvalue_less: ",
+        "pvalue_more: 8.55071E-05" .
 
-gene:RPS17 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:RPS17 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:RPS19 rdfs:label "pvalue_less",
-        "pvalue_more1.78265E-05" .
+gene:RPS19 rdfs:label "pvalue_less: ",
+        "pvalue_more: 1.78265E-05" .
 
-gene:RPS20 rdfs:label "pvalue_less",
-        "pvalue_more1.32176E-06" .
+gene:RPS20 rdfs:label "pvalue_less: ",
+        "pvalue_more: 1.32176E-06" .
 
-gene:RPS24 rdfs:label "pvalue_less",
-        "pvalue_more9.72718E-06" .
+gene:RPS24 rdfs:label "pvalue_less: ",
+        "pvalue_more: 9.72718E-06" .
 
-gene:RPS26 rdfs:label "pvalue_less",
-        "pvalue_more8.20727E-09" .
+gene:RPS26 rdfs:label "pvalue_less: ",
+        "pvalue_more: 8.20727E-09" .
 
-gene:RPS27 rdfs:label "pvalue_less",
-        "pvalue_more0.000201118" .
+gene:RPS27 rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.000201118" .
 
-gene:RPS28 rdfs:label "pvalue_less",
-        "pvalue_more8.32496E-06" .
+gene:RPS28 rdfs:label "pvalue_less: ",
+        "pvalue_more: 8.32496E-06" .
 
-gene:RPS29 rdfs:label "pvalue_less",
-        "pvalue_more4.83756E-06" .
+gene:RPS29 rdfs:label "pvalue_less: ",
+        "pvalue_more: 4.83756E-06" .
 
-gene:RPS6KA3 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:RPS6KA3 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:RPS7 rdfs:label "pvalue_less",
-        "pvalue_more5.86452E-07" .
+gene:RPS7 rdfs:label "pvalue_less: ",
+        "pvalue_more: 5.86452E-07" .
 
-gene:RRAS rdfs:label "pvalue_less",
-        "pvalue_more0.000116457" .
+gene:RRAS rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.000116457" .
 
-gene:RRAS2 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:RRAS2 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:RREB1 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:RREB1 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:RRM2B rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:RRM2B rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:RSPH1 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:RSPH1 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:RSPH3 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:RSPH3 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:RSPH4A rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:RSPH4A rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:RSPH9 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:RSPH9 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:RSPO2 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:RSPO2 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:RSPRY1 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:RSPRY1 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:RTL1 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:RTL1 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:RYR1 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:RYR1 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:RYR2 rdfs:label "pvalue_less",
-        "pvalue_more5.38669E-05" .
+gene:RYR2 rdfs:label "pvalue_less: ",
+        "pvalue_more: 5.38669E-05" .
 
-gene:SAA1 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:SAA1 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:SACS rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:SACS rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:SALL1 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:SALL1 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:SALL4 rdfs:label "pvalue_less0.03586078",
-        "pvalue_more" .
+gene:SALL4 rdfs:label "pvalue_less: 0.03586078",
+        "pvalue_more: " .
 
-gene:SAMHD1 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:SAMHD1 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:SARDH rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:SARDH rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:SATB1 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:SATB1 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:SATB2 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:SATB2 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:SBDS rdfs:label "pvalue_less",
-        "pvalue_more0.001874731" .
+gene:SBDS rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.001874731" .
 
-gene:SCARB2 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:SCARB2 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:SCN1B rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:SCN1B rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:SCN2A rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:SCN2A rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:SCN5A rdfs:label "pvalue_less",
-        "pvalue_more0.003690022" .
+gene:SCN5A rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.003690022" .
 
-gene:SCO1 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:SCO1 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:SCO2 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:SCO2 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:SCUBE3 rdfs:label "pvalue_less",
-        "pvalue_more0.04563585" .
+gene:SCUBE3 rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.04563585" .
 
-gene:SDHA rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:SDHA rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:SDHAF1 rdfs:label "pvalue_less",
-        "pvalue_more0.005975552" .
+gene:SDHAF1 rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.005975552" .
 
-gene:SDHB rdfs:label "pvalue_less",
-        "pvalue_more0.008861867" .
+gene:SDHB rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.008861867" .
 
-gene:SDHD rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:SDHD rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:SEC24C rdfs:label "pvalue_less",
-        "pvalue_more0.00492138" .
+gene:SEC24C rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.00492138" .
 
-gene:SEC31A rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:SEC31A rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:SELENON rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:SELENON rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:SEMA3E rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:SEMA3E rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:SEMA4A rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:SEMA4A rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:SERPINE1 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:SERPINE1 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:SETBP1 rdfs:label "pvalue_less0.029191396",
-        "pvalue_more" .
+gene:SETBP1 rdfs:label "pvalue_less: 0.029191396",
+        "pvalue_more: " .
 
-gene:SETD1A rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:SETD1A rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:SETD2 rdfs:label "pvalue_less0.002051174",
-        "pvalue_more" .
+gene:SETD2 rdfs:label "pvalue_less: 0.002051174",
+        "pvalue_more: " .
 
-gene:SETD5 rdfs:label "pvalue_less0.023809293",
-        "pvalue_more" .
+gene:SETD5 rdfs:label "pvalue_less: 0.023809293",
+        "pvalue_more: " .
 
-gene:SF3B4 rdfs:label "pvalue_less",
-        "pvalue_more0.000427748" .
+gene:SF3B4 rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.000427748" .
 
-gene:SFTPB rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:SFTPB rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:SGCA rdfs:label "pvalue_less",
-        "pvalue_more6.97192E-07" .
+gene:SGCA rdfs:label "pvalue_less: ",
+        "pvalue_more: 6.97192E-07" .
 
-gene:SGCB rdfs:label "pvalue_less",
-        "pvalue_more0.001075443" .
+gene:SGCB rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.001075443" .
 
-gene:SGCD rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:SGCD rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:SGCG rdfs:label "pvalue_less",
-        "pvalue_more0.007431291" .
+gene:SGCG rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.007431291" .
 
-gene:SGO1 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:SGO1 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:SGSH rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:SGSH rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:SH2B1 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:SH2B1 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:SH3PXD2B rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:SH3PXD2B rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:SHANK3 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:SHANK3 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:SHH rdfs:label "pvalue_less0.049389304",
-        "pvalue_more" .
+gene:SHH rdfs:label "pvalue_less: 0.049389304",
+        "pvalue_more: " .
 
-gene:SHMT2 rdfs:label "pvalue_less",
-        "pvalue_more0.002356644" .
+gene:SHMT2 rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.002356644" .
 
-gene:SHOC2 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:SHOC2 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:SIAH1 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:SIAH1 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:SIK1 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:SIK1 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:SIK3 rdfs:label "pvalue_less0.000780403",
-        "pvalue_more" .
+gene:SIK3 rdfs:label "pvalue_less: 0.000780403",
+        "pvalue_more: " .
 
-gene:SIN3A rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:SIN3A rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:SIX3 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:SIX3 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:SIX6 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:SIX6 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:SKI rdfs:label "pvalue_less",
-        "pvalue_more0.000657781" .
+gene:SKI rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.000657781" .
 
-gene:SKIV2L rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:SKIV2L rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:SLC12A2 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:SLC12A2 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:SLC12A3 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:SLC12A3 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:SLC17A5 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:SLC17A5 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:SLC19A2 rdfs:label "pvalue_less0.001226418",
-        "pvalue_more" .
+gene:SLC19A2 rdfs:label "pvalue_less: 0.001226418",
+        "pvalue_more: " .
 
-gene:SLC19A3 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:SLC19A3 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:SLC1A3 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:SLC1A3 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:SLC22A5 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:SLC22A5 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:SLC25A20 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:SLC25A20 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:SLC25A22 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:SLC25A22 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:SLC25A24 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:SLC25A24 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:SLC25A3 rdfs:label "pvalue_less",
-        "pvalue_more1.02977E-05" .
+gene:SLC25A3 rdfs:label "pvalue_less: ",
+        "pvalue_more: 1.02977E-05" .
 
-gene:SLC25A4 rdfs:label "pvalue_less",
-        "pvalue_more6.10696E-06" .
+gene:SLC25A4 rdfs:label "pvalue_less: ",
+        "pvalue_more: 6.10696E-06" .
 
-gene:SLC29A3 rdfs:label "pvalue_less0.034526862",
-        "pvalue_more" .
+gene:SLC29A3 rdfs:label "pvalue_less: 0.034526862",
+        "pvalue_more: " .
 
-gene:SLC2A10 rdfs:label "pvalue_less",
-        "pvalue_more0.047542017" .
+gene:SLC2A10 rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.047542017" .
 
-gene:SLC30A10 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:SLC30A10 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:SLC34A2 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:SLC34A2 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:SLC35A2 rdfs:label "pvalue_less",
-        "pvalue_more0.043410263" .
+gene:SLC35A2 rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.043410263" .
 
-gene:SLC37A4 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:SLC37A4 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:SLC40A1 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:SLC40A1 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:SLC4A1 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:SLC4A1 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:SLC6A6 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:SLC6A6 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:SLC7A7 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:SLC7A7 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:SLX4 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:SLX4 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:SMAD2 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:SMAD2 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:SMAD3 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:SMAD3 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:SMAD4 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:SMAD4 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:SMAD6 rdfs:label "pvalue_less",
-        "pvalue_more0.001190407" .
+gene:SMAD6 rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.001190407" .
 
-gene:SMARCA2 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:SMARCA2 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:SMARCA4 rdfs:label "pvalue_less0.005294293",
-        "pvalue_more" .
+gene:SMARCA4 rdfs:label "pvalue_less: 0.005294293",
+        "pvalue_more: " .
 
-gene:SMARCB1 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:SMARCB1 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:SMARCC2 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:SMARCC2 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:SMARCD1 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:SMARCD1 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:SMARCE1 rdfs:label "pvalue_less",
-        "pvalue_more0.022551703" .
+gene:SMARCE1 rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.022551703" .
 
-gene:SMC1A rdfs:label "pvalue_less",
-        "pvalue_more0.011050964" .
+gene:SMC1A rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.011050964" .
 
-gene:SMC3 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:SMC3 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:SMG8 rdfs:label "pvalue_less",
-        "pvalue_more0.009287215" .
+gene:SMG8 rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.009287215" .
 
-gene:SMG9 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:SMG9 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:SMN1 rdfs:label "pvalue_less0.017792878",
-        "pvalue_more" .
+gene:SMN1 rdfs:label "pvalue_less: 0.017792878",
+        "pvalue_more: " .
 
-gene:SMO rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:SMO rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:SMPD1 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:SMPD1 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:SNIP1 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:SNIP1 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:SNRPB rdfs:label "pvalue_less",
-        "pvalue_more0.011561065" .
+gene:SNRPB rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.011561065" .
 
-gene:SNRPN rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:SNRPN rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:SNX10 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:SNX10 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:SNX14 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:SNX14 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:SON rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:SON rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-<http://identifiers.org/hgnc.symbol/SOS 1> rdfs:label "pvalue_less",
-        "pvalue_more" .
+<http://identifiers.org/hgnc.symbol/SOS 1> rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-<http://identifiers.org/hgnc.symbol/SOS 2> rdfs:label "pvalue_less",
-        "pvalue_more" .
+<http://identifiers.org/hgnc.symbol/SOS 2> rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:SOX11 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:SOX11 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:SOX2 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:SOX2 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:SOX4 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:SOX4 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:SOX6 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:SOX6 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:SOX9 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:SOX9 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:SP110 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:SP110 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:SPAG1 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:SPAG1 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:SPATA5 rdfs:label "pvalue_less0.045911355",
-        "pvalue_more" .
+gene:SPATA5 rdfs:label "pvalue_less: 0.045911355",
+        "pvalue_more: " .
 
-gene:SPECC1L rdfs:label "pvalue_less0.035241043",
-        "pvalue_more" .
+gene:SPECC1L rdfs:label "pvalue_less: 0.035241043",
+        "pvalue_more: " .
 
-gene:SPEF2 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:SPEF2 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:SPEG rdfs:label "pvalue_less",
-        "pvalue_more0.025586199" .
+gene:SPEG rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.025586199" .
 
-gene:SPEN rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:SPEN rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:SPOP rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:SPOP rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:SPP1 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:SPP1 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:SPRED1 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:SPRED1 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:SPRED2 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:SPRED2 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:SPTA1 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:SPTA1 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:SPTB rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:SPTB rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:SPTBN1 rdfs:label "pvalue_less",
-        "pvalue_more0.00412266" .
+gene:SPTBN1 rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.00412266" .
 
-gene:SRCAP rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:SRCAP rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:SREBF1 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:SREBF1 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:SRP54 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:SRP54 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:SRY rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:SRY rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:STAG2 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:STAG2 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:STAMBP rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:STAMBP rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:STAR rdfs:label "pvalue_less",
-        "pvalue_more0.010938045" .
+gene:STAR rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.010938045" .
 
-gene:STAT1 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:STAT1 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:STAT2 rdfs:label "pvalue_less0.040562134",
-        "pvalue_more" .
+gene:STAT2 rdfs:label "pvalue_less: 0.040562134",
+        "pvalue_more: " .
 
-gene:STAT3 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:STAT3 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:STAT4 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:STAT4 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:STIL rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:STIL rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:STK36 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:STK36 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:STK4 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:STK4 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:STRA6 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:STRA6 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:STRADA rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:STRADA rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:STX1A rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:STX1A rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:SUCLG1 rdfs:label "pvalue_less",
-        "pvalue_more0.000623139" .
+gene:SUCLG1 rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.000623139" .
 
-gene:SUFU rdfs:label "pvalue_less0.009734847",
-        "pvalue_more" .
+gene:SUFU rdfs:label "pvalue_less: 0.009734847",
+        "pvalue_more: " .
 
-gene:SUPT16H rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:SUPT16H rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:SURF1 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:SURF1 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:SVBP rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:SVBP rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:SVIL rdfs:label "pvalue_less",
-        "pvalue_more0.009861402" .
+gene:SVIL rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.009861402" .
 
-gene:SYNE1 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:SYNE1 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:SYNE2 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:SYNE2 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:SYT1 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:SYT1 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:SYT2 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:SYT2 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:TAB2 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:TAB2 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:TACO1 rdfs:label "pvalue_less",
-        "pvalue_more0.019523652" .
+gene:TACO1 rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.019523652" .
 
-gene:TAF1A rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:TAF1A rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:TAF2 rdfs:label "pvalue_less0.000768633",
-        "pvalue_more" .
+gene:TAF2 rdfs:label "pvalue_less: 0.000768633",
+        "pvalue_more: " .
 
-gene:TAFAZZIN rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:TAFAZZIN rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:TALDO1 rdfs:label "pvalue_less",
-        "pvalue_more0.013543501" .
+gene:TALDO1 rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.013543501" .
 
-gene:TANGO2 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:TANGO2 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:TAOK1 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:TAOK1 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:TAPT1 rdfs:label "pvalue_less0.042229903",
-        "pvalue_more" .
+gene:TAPT1 rdfs:label "pvalue_less: 0.042229903",
+        "pvalue_more: " .
 
-gene:TARS1 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:TARS1 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:TASP1 rdfs:label "pvalue_less0.010128077",
-        "pvalue_more" .
+gene:TASP1 rdfs:label "pvalue_less: 0.010128077",
+        "pvalue_more: " .
 
-gene:TBC1D24 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:TBC1D24 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:TBCK rdfs:label "pvalue_less0.026048721",
-        "pvalue_more" .
+gene:TBCK rdfs:label "pvalue_less: 0.026048721",
+        "pvalue_more: " .
 
-gene:TBL2 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:TBL2 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:TBX1 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:TBX1 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:TBX2 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:TBX2 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:TBX20 rdfs:label "pvalue_less",
-        "pvalue_more1.05748E-07" .
+gene:TBX20 rdfs:label "pvalue_less: ",
+        "pvalue_more: 1.05748E-07" .
 
-gene:TBX22 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:TBX22 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:TBX3 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:TBX3 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:TBX4 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:TBX4 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:TBX5 rdfs:label "pvalue_less",
-        "pvalue_more4.32874E-06" .
+gene:TBX5 rdfs:label "pvalue_less: ",
+        "pvalue_more: 4.32874E-06" .
 
-gene:TCAP rdfs:label "pvalue_less",
-        "pvalue_more0.000644503" .
+gene:TCAP rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.000644503" .
 
-gene:TCIRG1 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:TCIRG1 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:TCOF1 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:TCOF1 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:TCTN1 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:TCTN1 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:TCTN2 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:TCTN2 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:TCTN3 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:TCTN3 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:TDGF1 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:TDGF1 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:TERT rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:TERT rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:TET3 rdfs:label "pvalue_less0.022535331",
-        "pvalue_more" .
+gene:TET3 rdfs:label "pvalue_less: 0.022535331",
+        "pvalue_more: " .
 
-gene:TFAP2B rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:TFAP2B rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:TFR2 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:TFR2 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:TGDS rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:TGDS rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:TGFB1 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:TGFB1 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:TGFB2 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:TGFB2 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:TGFB3 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:TGFB3 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:TGFBR1 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:TGFBR1 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:TGFBR2 rdfs:label "pvalue_less",
-        "pvalue_more0.035893373" .
+gene:TGFBR2 rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.035893373" .
 
-gene:TGIF1 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:TGIF1 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:THOC6 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:THOC6 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:THPO rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:THPO rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:TIMMDC1 rdfs:label "pvalue_less",
-        "pvalue_more0.000335555" .
+gene:TIMMDC1 rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.000335555" .
 
-gene:TK2 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:TK2 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:TKFC rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:TKFC rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:TKT rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:TKT rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:TLL1 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:TLL1 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:TLR4 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:TLR4 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:TMCO1 rdfs:label "pvalue_less",
-        "pvalue_more0.009656604" .
+gene:TMCO1 rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.009656604" .
 
-gene:TMEM107 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:TMEM107 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:TMEM126A rdfs:label "pvalue_less",
-        "pvalue_more8.65201E-05" .
+gene:TMEM126A rdfs:label "pvalue_less: ",
+        "pvalue_more: 8.65201E-05" .
 
-gene:TMEM126B rdfs:label "pvalue_less",
-        "pvalue_more0.002648939" .
+gene:TMEM126B rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.002648939" .
 
-gene:TMEM216 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:TMEM216 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:TMEM218 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:TMEM218 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:TMEM231 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:TMEM231 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:TMEM237 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:TMEM237 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:TMEM260 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:TMEM260 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:TMEM270 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:TMEM270 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:TMEM43 rdfs:label "pvalue_less",
-        "pvalue_more0.005535394" .
+gene:TMEM43 rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.005535394" .
 
-gene:TMEM67 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:TMEM67 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:TMEM70 rdfs:label "pvalue_less",
-        "pvalue_more0.038806537" .
+gene:TMEM70 rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.038806537" .
 
-gene:TMEM94 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:TMEM94 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:TMPO rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:TMPO rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:TMTC3 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:TMTC3 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:TNFRSF11A rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:TNFRSF11A rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:TNFRSF1A rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:TNFRSF1A rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:TNFSF11 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:TNFSF11 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:TNNC1 rdfs:label "pvalue_less",
-        "pvalue_more5.21347E-10" .
+gene:TNNC1 rdfs:label "pvalue_less: ",
+        "pvalue_more: 5.21347E-10" .
 
-gene:TNNI3 rdfs:label "pvalue_less",
-        "pvalue_more5.974E-09" .
+gene:TNNI3 rdfs:label "pvalue_less: ",
+        "pvalue_more: 5.974E-09" .
 
-gene:TNNI3K rdfs:label "pvalue_less",
-        "pvalue_more7.18564E-05" .
+gene:TNNI3K rdfs:label "pvalue_less: ",
+        "pvalue_more: 7.18564E-05" .
 
-gene:TNNT2 rdfs:label "pvalue_less",
-        "pvalue_more1.34228E-09" .
+gene:TNNT2 rdfs:label "pvalue_less: ",
+        "pvalue_more: 1.34228E-09" .
 
-gene:TNXB rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:TNXB rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:TOP3A rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:TOP3A rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:TOPORS rdfs:label "pvalue_less",
-        "pvalue_more0.001280942" .
+gene:TOPORS rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.001280942" .
 
-gene:TP63 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:TP63 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:TPI1 rdfs:label "pvalue_less",
-        "pvalue_more7.50202E-06" .
+gene:TPI1 rdfs:label "pvalue_less: ",
+        "pvalue_more: 7.50202E-06" .
 
-gene:TPK1 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:TPK1 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:TPM1 rdfs:label "pvalue_less",
-        "pvalue_more1.38897E-05" .
+gene:TPM1 rdfs:label "pvalue_less: ",
+        "pvalue_more: 1.38897E-05" .
 
-gene:TPM2 rdfs:label "pvalue_less",
-        "pvalue_more0.003194554" .
+gene:TPM2 rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.003194554" .
 
-gene:TPM3 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:TPM3 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:TRAF3IP2 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:TRAF3IP2 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:TRAF7 rdfs:label "pvalue_less",
-        "pvalue_more0.00169748" .
+gene:TRAF7 rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.00169748" .
 
-gene:TRAIP rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:TRAIP rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:TRAPPC11 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:TRAPPC11 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:TRDN rdfs:label "pvalue_less",
-        "pvalue_more6.66743E-06" .
+gene:TRDN rdfs:label "pvalue_less: ",
+        "pvalue_more: 6.66743E-06" .
 
-gene:TREX1 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:TREX1 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:TRIM37 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:TRIM37 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:TRIM8 rdfs:label "pvalue_less",
-        "pvalue_more0.008781317" .
+gene:TRIM8 rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.008781317" .
 
-gene:TRIO rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:TRIO rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:TRIP13 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:TRIP13 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:TRIP4 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:TRIP4 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:TRMT10C rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:TRMT10C rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:TRNC rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:TRNC rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:TRNE rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:TRNE rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:TRNF rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:TRNF rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:TRNH rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:TRNH rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:TRNK rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:TRNK rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:TRNL1 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:TRNL1 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:TRNN rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:TRNN rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:TRNQ rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:TRNQ rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:TRNS1 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:TRNS1 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:TRNS2 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:TRNS2 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:TRNT rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:TRNT rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:TRNT1 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:TRNT1 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:TRNV rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:TRNV rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:TRNW rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:TRNW rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:TRRAP rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:TRRAP rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:TSC1 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:TSC1 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:TSC2 rdfs:label "pvalue_less0.005717395",
-        "pvalue_more" .
+gene:TSC2 rdfs:label "pvalue_less: 0.005717395",
+        "pvalue_more: " .
 
-gene:TSFM rdfs:label "pvalue_less",
-        "pvalue_more0.01303073" .
+gene:TSFM rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.01303073" .
 
-gene:TSR2 rdfs:label "pvalue_less",
-        "pvalue_more0.000223268" .
+gene:TSR2 rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.000223268" .
 
-gene:TTC12 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:TTC12 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:TTC26 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:TTC26 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:TTC37 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:TTC37 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:TTC7A rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:TTC7A rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:TTC8 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:TTC8 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:TTN rdfs:label "pvalue_less",
-        "pvalue_more5.63483E-08" .
+gene:TTN rdfs:label "pvalue_less: ",
+        "pvalue_more: 5.63483E-08" .
 
-gene:TTPA rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:TTPA rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:TTR rdfs:label "pvalue_less0.00019724",
-        "pvalue_more" .
+gene:TTR rdfs:label "pvalue_less: 0.00019724",
+        "pvalue_more: " .
 
-gene:TUBG1 rdfs:label "pvalue_less",
-        "pvalue_more4.66315E-05" .
+gene:TUBG1 rdfs:label "pvalue_less: ",
+        "pvalue_more: 4.66315E-05" .
 
-gene:TWIST1 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:TWIST1 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:TWNK rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:TWNK rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:TXNDC15 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:TXNDC15 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:TXNL4A rdfs:label "pvalue_less",
-        "pvalue_more0.000376182" .
+gene:TXNL4A rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.000376182" .
 
-gene:TXNRD2 rdfs:label "pvalue_less0.019639354",
-        "pvalue_more" .
+gene:TXNRD2 rdfs:label "pvalue_less: 0.019639354",
+        "pvalue_more: " .
 
-gene:UBAC2 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:UBAC2 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:UBE2A rdfs:label "pvalue_less",
-        "pvalue_more7.71659E-05" .
+gene:UBE2A rdfs:label "pvalue_less: ",
+        "pvalue_more: 7.71659E-05" .
 
-gene:UBE2T rdfs:label "pvalue_less",
-        "pvalue_more0.026932821" .
+gene:UBE2T rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.026932821" .
 
-gene:UBE3B rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:UBE3B rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:UBE4B rdfs:label "pvalue_less0.006805683",
-        "pvalue_more" .
+gene:UBE4B rdfs:label "pvalue_less: 0.006805683",
+        "pvalue_more: " .
 
-gene:UBR1 rdfs:label "pvalue_less0.015232713",
-        "pvalue_more" .
+gene:UBR1 rdfs:label "pvalue_less: 0.015232713",
+        "pvalue_more: " .
 
-gene:UBR7 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:UBR7 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:UCP2 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:UCP2 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:UFD1 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:UFD1 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:UMPS rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:UMPS rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:UPF3B rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:UPF3B rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:UQCRC2 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:UQCRC2 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:UQCRFS1 rdfs:label "pvalue_less",
-        "pvalue_more0.00012896" .
+gene:UQCRFS1 rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.00012896" .
 
-gene:USP9X rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:USP9X rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:VAC14 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:VAC14 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:VCL rdfs:label "pvalue_less",
-        "pvalue_more0.027128538" .
+gene:VCL rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.027128538" .
 
-gene:VCP rdfs:label "pvalue_less",
-        "pvalue_more0.001109028" .
+gene:VCP rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.001109028" .
 
-gene:VHL rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:VHL rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:VIPAS39 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:VIPAS39 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:VPS13A rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:VPS13A rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:VPS13B rdfs:label "pvalue_less0.012121012",
-        "pvalue_more" .
+gene:VPS13B rdfs:label "pvalue_less: 0.012121012",
+        "pvalue_more: " .
 
-gene:VPS33A rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:VPS33A rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:VPS33B rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:VPS33B rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:VPS35L rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:VPS35L rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:VPS37D rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:VPS37D rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:VWF rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:VWF rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:WAC rdfs:label "pvalue_less0.022809534",
-        "pvalue_more" .
+gene:WAC rdfs:label "pvalue_less: 0.022809534",
+        "pvalue_more: " .
 
-gene:WARS2 rdfs:label "pvalue_less0.008605899",
-        "pvalue_more" .
+gene:WARS2 rdfs:label "pvalue_less: 0.008605899",
+        "pvalue_more: " .
 
-gene:WASHC5 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:WASHC5 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:WBP11 rdfs:label "pvalue_less",
-        "pvalue_more0.03981014" .
+gene:WBP11 rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.03981014" .
 
-gene:WDPCP rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:WDPCP rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:WDR26 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:WDR26 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:WDR35 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:WDR35 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:WDR37 rdfs:label "pvalue_less0.037228203",
-        "pvalue_more" .
+gene:WDR37 rdfs:label "pvalue_less: 0.037228203",
+        "pvalue_more: " .
 
-gene:WFS1 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:WFS1 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:WNT4 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:WNT4 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:WT1 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:WT1 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:XK rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:XK rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:XRCC2 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:XRCC2 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:XRCC4 rdfs:label "pvalue_less0.00517423",
-        "pvalue_more" .
+gene:XRCC4 rdfs:label "pvalue_less: 0.00517423",
+        "pvalue_more: " .
 
-gene:XYLT1 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:XYLT1 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:XYLT2 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:XYLT2 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:YARS1 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:YARS1 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:YARS2 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:YARS2 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:YY1 rdfs:label "pvalue_less",
-        "pvalue_more4.52194E-05" .
+gene:YY1 rdfs:label "pvalue_less: ",
+        "pvalue_more: 4.52194E-05" .
 
-gene:YY1AP1 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:YY1AP1 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:ZDHHC9 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:ZDHHC9 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:ZEB2 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:ZEB2 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:ZFP57 rdfs:label "pvalue_less",
-        "pvalue_more0.005687807" .
+gene:ZFP57 rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.005687807" .
 
-gene:ZFPM2 rdfs:label "pvalue_less",
-        "pvalue_more0.045762481" .
+gene:ZFPM2 rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.045762481" .
 
-gene:ZIC2 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:ZIC2 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:ZIC3 rdfs:label "pvalue_less0.002158715",
-        "pvalue_more" .
+gene:ZIC3 rdfs:label "pvalue_less: 0.002158715",
+        "pvalue_more: " .
 
-gene:ZMPSTE24 rdfs:label "pvalue_less",
-        "pvalue_more0.022122856" .
+gene:ZMPSTE24 rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.022122856" .
 
-gene:ZMYM2 rdfs:label "pvalue_less0.007067367",
-        "pvalue_more" .
+gene:ZMYM2 rdfs:label "pvalue_less: 0.007067367",
+        "pvalue_more: " .
 
-gene:ZMYND10 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:ZMYND10 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:ZNF148 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:ZNF148 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:ZNF423 rdfs:label "pvalue_less0.022576416",
-        "pvalue_more" .
+gene:ZNF423 rdfs:label "pvalue_less: 0.022576416",
+        "pvalue_more: " .
 
-gene:ZNF462 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:ZNF462 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
-gene:ZNF469 rdfs:label "pvalue_less",
-        "pvalue_more0.013277586" .
+gene:ZNF469 rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.013277586" .
 
-gene:ZNF687 rdfs:label "pvalue_less",
-        "pvalue_more0.02531627" .
+gene:ZNF687 rdfs:label "pvalue_less: ",
+        "pvalue_more: 0.02531627" .
 
-gene:ZNF699 rdfs:label "pvalue_less",
-        "pvalue_more" .
+gene:ZNF699 rdfs:label "pvalue_less: ",
+        "pvalue_more: " .
 
