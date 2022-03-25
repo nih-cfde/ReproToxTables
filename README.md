@@ -2,6 +2,7 @@
 
 | Resource Name | Description | STRIDES Access URL | Key Entities | Contributor
 |-|-|-|-|-|
+| The Human Phenotype Ontology | The Human Phenotype Ontology (HPO) provides a standardized vocabulary of phenotypic abnormalities encountered in human disease, mapping HPO to gene assocations | http://purl.obolibrary.org/obo/hp/hpoa/phenotype_to_genes.txt | HPO, genes | SPARC/KF/IDG |
 | [Comparative Toxicogenomics Database](https://ctdbase.org/) | manually curated information about chemical–gene/protein interactions, chemical–disease and gene–disease relationships. | https://kmc-idg.s3.us-east-2.amazonaws.com/reprotox/CTD.zip | diseases, genes, chemicals | Eryk Kropiwnicki, LINCS |
 | [L1000FWD](https://maayanlab.cloud/L1000FWD/) | significant gene-drug associations from drug-induced L1000 gene expression signatures. | https://kmc-idg.s3.us-east-2.amazonaws.com/reprotox/LINCS.zip | genes, chemicals | Eryk Kropiwnicki, LINCS |
 | [Orphanet](http://www.orphadata.org/cgi-bin/index.php) | a database dedicated to providing information on rare diseases and orphan drugs. | https://kmc-idg.s3.us-east-2.amazonaws.com/reprotox/Orpha.zip | diseases, chemicals | Eryk Kropiwnicki, LINCS |
