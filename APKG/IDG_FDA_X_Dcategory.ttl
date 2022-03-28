@@ -1,0 +1,390 @@
+@prefix compound: <https://identifiers.org/pubchem.compound/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+compound:10133 rdfs:label "DC_ID: 4361",
+        "chenodiol" .
+
+compound:10531 rdfs:label "DC_ID: 888",
+        "dihydroergotamine" .
+
+compound:107807 rdfs:label "DC_ID: 2108",
+        "perindopril" .
+
+compound:11683 rdfs:label "DC_ID: 1667",
+        "megestrol" .
+
+compound:119182 rdfs:label "DC_ID: 691",
+        "clofarabine" .
+
+compound:126941 rdfs:label "DC_ID: 1751",
+        "methotrexate" .
+
+compound:130881 rdfs:label "DC_ID: 1985",
+        "olmesartan" .
+
+compound:13342 rdfs:label "DC_ID: 2823",
+        "vinblastine" .
+
+compound:1349907 rdfs:label "DC_ID: 1745",
+        "thiamazole" .
+
+compound:148124 rdfs:label "DC_ID: 939",
+        "docetaxel" .
+
+compound:1548972 rdfs:label "DC_ID: 1229",
+        "fluvastatin" .
+
+compound:1775 rdfs:label "DC_ID: 2152",
+        "phenytoin" .
+
+compound:1990 rdfs:label "DC_ID: 58",
+        "acetohydroxamic acid" .
+
+compound:20279 rdfs:label "DC_ID: 667",
+        "cladribine" .
+
+compound:2118 rdfs:label "DC_ID: 136",
+        "alprazolam" .
+
+compound:2157 rdfs:label "DC_ID: 176",
+        "amiodarone" .
+
+compound:2187 rdfs:label "DC_ID: 210",
+        "anastrozole" .
+
+compound:2249 rdfs:label "DC_ID: 255",
+        "atenolol" .
+
+compound:2265 rdfs:label "DC_ID: 269",
+        "azathioprine" .
+
+compound:2478 rdfs:label "DC_ID: 438",
+        "busulfan" .
+
+compound:2554 rdfs:label "DC_ID: 489",
+        "carbamazepine" .
+
+compound:2585 rdfs:label "DC_ID: 522",
+        "carvedilol" .
+
+compound:2708 rdfs:label "DC_ID: 588",
+        "chlorambucil" .
+
+compound:2723601 rdfs:label "DC_ID: 2632",
+        "thioguanine" .
+
+compound:2733526 rdfs:label "DC_ID: 2561",
+        "tamoxifen" .
+
+compound:2800 rdfs:label "DC_ID: 700",
+        "clomifene" .
+
+compound:2802 rdfs:label "DC_ID: 703",
+        "clonazepam" .
+
+compound:28417 rdfs:label "DC_ID: 779",
+        "danazol" .
+
+compound:2907 rdfs:label "DC_ID: 758",
+        "cyclophosphamide" .
+
+compound:3016 rdfs:label "DC_ID: 852",
+        "diazepam" .
+
+compound:3028194 rdfs:label "DC_ID: 4207",
+        "lithium" .
+
+compound:30323 rdfs:label "DC_ID: 786",
+        "daunorubicin" .
+
+compound:3034010 rdfs:label "DC_ID: 1996",
+        "orlistat" .
+
+compound:30487 rdfs:label "DC_ID: 2122",
+        "phendimetrazine" .
+
+compound:3062316 rdfs:label "DC_ID: 785",
+        "dasatinib" .
+
+compound:30751 rdfs:label "DC_ID: 1189",
+        "fludarabine" .
+
+compound:3121 rdfs:label "DC_ID: 2803",
+        "valproic acid" .
+
+compound:31703 rdfs:label "DC_ID: 960",
+        "doxorubicin" .
+
+compound:3365 rdfs:label "DC_ID: 1187",
+        "fluconazole" .
+
+compound:3385 rdfs:label "DC_ID: 26",
+        "fluorouracil" .
+
+compound:3397 rdfs:label "DC_ID: 1223",
+        "flutamide" .
+
+compound:3467 rdfs:label "DC_ID: 4265",
+        "gentamicin" .
+
+compound:36294 rdfs:label "DC_ID: 2684",
+        "tobramycin" .
+
+compound:36314 rdfs:label "DC_ID: 2044",
+        "paclitaxel" .
+
+compound:36462 rdfs:label "DC_ID: 1112",
+        "etoposide" .
+
+compound:3657 rdfs:label "DC_ID: 1399",
+        "hydroxycarbamide" .
+
+compound:3749 rdfs:label "DC_ID: 1481",
+        "irbesartan" .
+
+compound:37542 rdfs:label "DC_ID: 2373",
+        "ribavirin" .
+
+compound:37768 rdfs:label "DC_ID: 157",
+        "amikacin" .
+
+compound:3899 rdfs:label "DC_ID: 1552",
+        "leflunomide" .
+
+compound:3902 rdfs:label "DC_ID: 1556",
+        "letrozole" .
+
+compound:3958 rdfs:label "DC_ID: 1606",
+        "lorazepam" .
+
+compound:3961 rdfs:label "DC_ID: 1610",
+        "losartan" .
+
+compound:4139 rdfs:label "DC_ID: 1763",
+        "methylthioninium" .
+
+compound:41867 rdfs:label "DC_ID: 1030",
+        "epirubicin" .
+
+compound:4192 rdfs:label "DC_ID: 1802",
+        "midazolam" .
+
+compound:4212 rdfs:label "DC_ID: 1821",
+        "mitoxantrone" .
+
+compound:426756 rdfs:label "DC_ID: 4133",
+        "carboplatin" .
+
+compound:43815 rdfs:label "DC_ID: 2068",
+        "paroxetine" .
+
+compound:44093 rdfs:label "DC_ID: 484",
+        "captopril" .
+
+compound:441140 rdfs:label "DC_ID: 1331",
+        "griseofulvin" .
+
+compound:441404 rdfs:label "DC_ID: 4454",
+        "testosterone" .
+
+compound:443936 rdfs:label "DC_ID: 3142",
+        "difluprednate" .
+
+compound:444795 rdfs:label "DC_ID: 2722",
+        "tretinoin" .
+
+compound:446157 rdfs:label "DC_ID: 2406",
+        "rosuvastatin" .
+
+compound:446541 rdfs:label "DC_ID: 1860",
+        "mycophenolic acid" .
+
+compound:452548 rdfs:label "DC_ID: 2590",
+        "teniposide" .
+
+compound:460612 rdfs:label "DC_ID: 1678",
+        "melphalan" .
+
+compound:4674 rdfs:label "DC_ID: 2048",
+        "pamidronic acid" .
+
+compound:4737 rdfs:label "DC_ID: 2095",
+        "pentobarbital" .
+
+compound:4763 rdfs:label "DC_ID: 2134",
+        "phenobarbital" .
+
+compound:4771 rdfs:label "DC_ID: 2140",
+        "phentermine" .
+
+compound:5035 rdfs:label "DC_ID: 2351",
+        "raloxifene" .
+
+compound:5281078 rdfs:label "DC_ID: 1859",
+        "mycophenolate mofetil" .
+
+compound:5282381 rdfs:label "DC_ID: 1817",
+        "misoprostol" .
+
+compound:5284513 rdfs:label "DC_ID: 78",
+        "acitretin" .
+
+compound:5284627 rdfs:label "DC_ID: 2706",
+        "topiramate" .
+
+compound:5311017 rdfs:label "DC_ID: 329",
+        "benzphetamine" .
+
+compound:53232 rdfs:label "DC_ID: 1612",
+        "lovastatin" .
+
+compound:5360373 rdfs:label "DC_ID: 4742",
+        "bleomycin" .
+
+compound:5362119 rdfs:label "DC_ID: 1587",
+        "lisinopril" .
+
+compound:5362124 rdfs:label "DC_ID: 299",
+        "benazepril" .
+
+compound:5362129 rdfs:label "DC_ID: 2356",
+        "ramipril" .
+
+compound:5381 rdfs:label "DC_ID: 2571",
+        "tazarotene" .
+
+compound:5388962 rdfs:label "DC_ID: 1005",
+        "enalapril" .
+
+compound:5391 rdfs:label "DC_ID: 2585",
+        "temazepam" .
+
+compound:5394 rdfs:label "DC_ID: 2589",
+        "temozolomide" .
+
+compound:54454 rdfs:label "DC_ID: 2445",
+        "simvastatin" .
+
+compound:54671203 rdfs:label "DC_ID: 961",
+        "doxycycline" .
+
+compound:54675776 rdfs:label "DC_ID: 2611",
+        "tetracycline" .
+
+compound:54675783 rdfs:label "DC_ID: 1813",
+        "minocycline" .
+
+compound:54680690 rdfs:label "DC_ID: 802",
+        "demeclocycline" .
+
+compound:54687 rdfs:label "DC_ID: 2239",
+        "pravastatin" .
+
+compound:5484727 rdfs:label "DC_ID: 2712",
+        "trandolapril" .
+
+compound:54892 rdfs:label "DC_ID: 2340",
+        "quinapril" .
+
+compound:5556 rdfs:label "DC_ID: 2729",
+        "triazolam" .
+
+compound:56339 rdfs:label "DC_ID: 1247",
+        "fosphenytoin" .
+
+compound:5702198 rdfs:label "DC_ID: 4392",
+        "cisplatin" .
+
+compound:57363 rdfs:label "DC_ID: 1171",
+        "finasteride" .
+
+compound:5757 rdfs:label "DC_ID: 1057",
+        "estradiol" .
+
+compound:5790 rdfs:label "DC_ID: 1184",
+        "floxuridine" .
+
+compound:5826 rdfs:label "DC_ID: 841",
+        "dexamfetamine" .
+
+compound:5832 rdfs:label "DC_ID: 1963",
+        "norethindrone" .
+
+compound:5852 rdfs:label "DC_ID: 2081",
+        "penicillamine" .
+
+compound:6010 rdfs:label "DC_ID: 3356",
+        "methyltestosterone" .
+
+compound:6013 rdfs:label "DC_ID: 2607",
+        "testosterone" .
+
+compound:60198 rdfs:label "DC_ID: 1122",
+        "exemestane" .
+
+compound:60700 rdfs:label "DC_ID: 2707",
+        "topotecan" .
+
+compound:60750 rdfs:label "DC_ID: 1283",
+        "gemcitabine" .
+
+compound:60823 rdfs:label "DC_ID: 257",
+        "atorvastatin" .
+
+compound:60846 rdfs:label "DC_ID: 2806",
+        "valsartan" .
+
+compound:6253 rdfs:label "DC_ID: 770",
+        "cytarabine" .
+
+compound:6279 rdfs:label "DC_ID: 1659",
+        "medroxyprogesterone" .
+
+compound:64139 rdfs:label "DC_ID: 989",
+        "efavirenz" .
+
+compound:657181 rdfs:label "DC_ID: 1559",
+        "leuprorelin" .
+
+compound:657298 rdfs:label "DC_ID: 2308",
+        "propylthiouracil" .
+
+compound:65999 rdfs:label "DC_ID: 2583",
+        "telmisartan" .
+
+compound:667490 rdfs:label "DC_ID: 1708",
+        "mercaptopurine" .
+
+compound:68740 rdfs:label "DC_ID: 2868",
+        "zoledronic acid" .
+
+compound:6914273 rdfs:label "DC_ID: 780",
+        "dantrolene" .
+
+compound:6918296 rdfs:label "DC_ID: 973",
+        "dutasteride" .
+
+compound:71384 rdfs:label "DC_ID: 839",
+        "dexrazoxane" .
+
+compound:71616 rdfs:label "DC_ID: 2846",
+        "voriconazole" .
+
+compound:8223 rdfs:label "DC_ID: 1043",
+        "ergotamine" .
+
+compound:8378 rdfs:label "DC_ID: 4247",
+        "neomycin" .
+
+compound:89594 rdfs:label "DC_ID: 1920",
+        "nicotine" .
+
+compound:91270 rdfs:label "DC_ID: 1827",
+        "moexipril" .
+
+compound:9601226 rdfs:label "DC_ID: 1245",
+        "fosinopril" .
+
+compound:9887053 rdfs:label "DC_ID: 4210",
+        "oxaliplatin" .
+

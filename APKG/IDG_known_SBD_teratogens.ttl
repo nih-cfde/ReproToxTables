@@ -1,0 +1,270 @@
+@prefix compound: <https://identifiers.org/pubchem.compound/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+compound:10280735 rdfs:label "DC_ID: 4897",
+        "Edoxaban" .
+
+compound:104865 rdfs:label "Bosentan",
+        "DC_ID: 392" .
+
+compound:11304743 rdfs:label "DC_ID: 4807",
+        "Riociguat" .
+
+compound:126941 rdfs:label "DC_ID: 1751",
+        "Methotrexate" .
+
+compound:130904 rdfs:label "DC_ID: 4166",
+        "Ulipristal" .
+
+compound:13109 rdfs:label "DC_ID: 1572",
+        "Levonorgestrel" .
+
+compound:1349907 rdfs:label "DC_ID: 1745",
+        "Methimazole" .
+
+compound:156391 rdfs:label "DC_ID: 1883",
+        "Naproxen" .
+
+compound:16078 rdfs:label "DC_ID: 4109",
+        "tetrahydrocannabinol" .
+
+compound:1615 rdfs:label "3,4-methylenedioxymethamphetamine ",
+        "DC_ID: " .
+
+compound:16682734 rdfs:label "Bismuth subsalicylate",
+        "DC_ID: 4257" .
+
+compound:1775 rdfs:label "DC_ID: 2152",
+        "Phenytoin" .
+
+compound:19649 rdfs:label "DC_ID: 2481",
+        "Streptomycin" .
+
+compound:2118 rdfs:label "Alprazolam",
+        "DC_ID: 136" .
+
+compound:2157 rdfs:label "Amiodarone",
+        "DC_ID: 176" .
+
+compound:2244 rdfs:label "Aspirin",
+        "DC_ID: 74" .
+
+compound:2249 rdfs:label "Atenolol",
+        "DC_ID: 255" .
+
+compound:24083 rdfs:label "DC_ID: 4290",
+        "Magnesium sulfate" .
+
+compound:2554 rdfs:label "Carbamazepine",
+        "DC_ID: 489" .
+
+compound:2733526 rdfs:label "DC_ID: 2561",
+        "Tamoxifen" .
+
+compound:2802 rdfs:label "Clonazepam",
+        "DC_ID: 703" .
+
+compound:2907 rdfs:label "Cyclophosphamide",
+        "DC_ID: 758" .
+
+compound:3016 rdfs:label "DC_ID: 852",
+        "Diazepam" .
+
+compound:3028194 rdfs:label "DC_ID: 4512",
+        "Lithium" .
+
+compound:3121 rdfs:label "DC_ID: 2803",
+        "Valproic acid" .
+
+compound:3345 rdfs:label "DC_ID: 1164",
+        "Fentanyl" .
+
+compound:3365 rdfs:label "DC_ID: 1187",
+        "Fluconazole" .
+
+compound:33741 rdfs:label "DC_ID: 2711",
+        "Tramadol" .
+
+compound:3386 rdfs:label "DC_ID: 1209",
+        "Fluoxetine" .
+
+compound:3467 rdfs:label "DC_ID: 4265",
+        "Gentamicin" .
+
+compound:3516 rdfs:label "DC_ID: 1336",
+        "Guaifenesin" .
+
+compound:358641 rdfs:label "DC_ID: ",
+        "Trimethoprim-sulfamethoxazole" .
+
+compound:3652 rdfs:label "DC_ID: 1395",
+        "Hydroxychloroquine" .
+
+compound:3657 rdfs:label "DC_ID: 1399",
+        "Hydroxyurea" .
+
+compound:3672 rdfs:label "DC_ID: 1407",
+        "Ibuprofen" .
+
+compound:37542 rdfs:label "DC_ID: 2373",
+        "Ribavirin" .
+
+compound:37768 rdfs:label "Amikacin",
+        "DC_ID: 157" .
+
+compound:3821 rdfs:label "DC_ID: 1523",
+        "Ketamine" .
+
+compound:3961 rdfs:label "DC_ID: 1610",
+        "Losartan" .
+
+compound:4095 rdfs:label "DC_ID: 1728",
+        "Methadone" .
+
+compound:4139 rdfs:label "DC_ID: 1763",
+        "Methylene blue" .
+
+compound:4192 rdfs:label "DC_ID: 1802",
+        "Midazolam" .
+
+compound:43815 rdfs:label "DC_ID: 2068",
+        "Paroxetine" .
+
+compound:439302 rdfs:label "DC_ID: 2042",
+        "Oxytocin" .
+
+compound:44093 rdfs:label "Captopril",
+        "DC_ID: 484" .
+
+compound:441140 rdfs:label "DC_ID: 1331",
+        "Griseofulvin" .
+
+compound:444795 rdfs:label "DC_ID: 2722",
+        "Tretinoin" .
+
+compound:4737 rdfs:label "DC_ID: 2095",
+        "Pentobarbital" .
+
+compound:4763 rdfs:label "DC_ID: 2134",
+        "Phenobarbital" .
+
+compound:4875 rdfs:label "DC_ID: 4296",
+        "Potassium iodide" .
+
+compound:4908 rdfs:label "DC_ID: 2266",
+        "Primaquine" .
+
+compound:5281078 rdfs:label "DC_ID: 1859",
+        "Mycophenolate mofetil" .
+
+compound:5282379 rdfs:label "DC_ID: 1508",
+        "Isotretinoin" .
+
+compound:5284371 rdfs:label "Codeine",
+        "DC_ID: 725" .
+
+compound:5284569 rdfs:label "DC_ID: 1386",
+        "Hydrocodone" .
+
+compound:5284570 rdfs:label "DC_ID: 1393",
+        "Hydromorphone" .
+
+compound:5284603 rdfs:label "DC_ID: 2029",
+        "Oxycodone" .
+
+compound:5284627 rdfs:label "DC_ID: 2706",
+        "Topiramate" .
+
+compound:5288826 rdfs:label "DC_ID: 1845",
+        "Morphine" .
+
+compound:5362119 rdfs:label "DC_ID: 1587",
+        "Lisinopril" .
+
+compound:5362124 rdfs:label "Benazepril",
+        "DC_ID: 299" .
+
+compound:5388962 rdfs:label "DC_ID: 1005",
+        "Enalapril" .
+
+compound:5462328 rdfs:label "DC_ID: 4412",
+        "Heroin" .
+
+compound:54671203 rdfs:label "DC_ID: 961",
+        "Doxycycline" .
+
+compound:54675776 rdfs:label "DC_ID: 2611",
+        "Tetracycline" .
+
+compound:54675783 rdfs:label "DC_ID: 1813",
+        "Minocycline" .
+
+compound:54677470 rdfs:label "DC_ID: 1676",
+        "Meloxicam" .
+
+compound:54678486 rdfs:label "DC_ID: 2847",
+        "Warfarin" .
+
+compound:54686904 rdfs:label "DC_ID: 2661",
+        "Tigecycline" .
+
+compound:5493444 rdfs:label "Aliskiren",
+        "DC_ID: 119" .
+
+compound:5556 rdfs:label "DC_ID: 2729",
+        "Triazolam" .
+
+compound:56339 rdfs:label "DC_ID: 1247",
+        "Fosphenytoin" .
+
+compound:5745 rdfs:label "Cortisone acetate",
+        "DC_ID: 734" .
+
+compound:5760 rdfs:label "Cocaine",
+        "DC_ID: 723" .
+
+compound:5819 rdfs:label "DC_ID: 2646",
+        "Sertraline Hydrochloride" .
+
+compound:5852 rdfs:label "DC_ID: 2081",
+        "Penicillamine" .
+
+compound:60164 rdfs:label "Adapalene",
+        "DC_ID: 87" .
+
+compound:6032 rdfs:label "DC_ID: 1519",
+        "Kanamycin" .
+
+compound:6041 rdfs:label "DC_ID: 2146",
+        "Phenylephrine" .
+
+compound:60846 rdfs:label "DC_ID: 2806",
+        "Valsartan" .
+
+compound:644073 rdfs:label "Buprenorphine",
+        "DC_ID: 434" .
+
+compound:657298 rdfs:label "DC_ID: 2308",
+        "Propylthiouracil" .
+
+compound:68740 rdfs:label "DC_ID: 2868",
+        "Zoledronic acid" .
+
+compound:7028 rdfs:label "DC_ID: 2326",
+        "Pseudoephedrine" .
+
+compound:71616 rdfs:label "DC_ID: 2846",
+        "Voriconazole" .
+
+compound:82153 rdfs:label "DC_ID: 1201",
+        "Flunisolide" .
+
+compound:8378 rdfs:label "DC_ID: 4247",
+        "Neomycin" .
+
+compound:8754 rdfs:label "Alcohol",
+        "DC_ID: 3017" .
+
+compound:89594 rdfs:label "DC_ID: 1920",
+        "Nicotine" .
+
