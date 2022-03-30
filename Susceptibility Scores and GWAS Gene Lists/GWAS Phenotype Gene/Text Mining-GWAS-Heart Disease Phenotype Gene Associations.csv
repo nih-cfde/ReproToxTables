@@ -1,0 +1,60 @@
+HPO Accession,Disease ID,Gene Symbol,Disease,HPO Term
+HP:0001627,DOID:1682,NKX2-5,Congenital heart disease,Abnormal heart morphology
+HP:0001627,DOID:1682,TBX20,Congenital heart disease,Abnormal heart morphology
+HP:0001627,DOID:1682,TFAP2B,Congenital heart disease,Abnormal heart morphology
+HP:0001627,DOID:1682,ACTC1,Congenital heart disease,Abnormal heart morphology
+HP:0001627,DOID:1682,GATA4,Congenital heart disease,Abnormal heart morphology
+HP:0001627,DOID:1682,GATA6,Congenital heart disease,Abnormal heart morphology
+HP:0001627,DOID:1682,TLL1,Congenital heart disease,Abnormal heart morphology
+HP:0001627,DOID:1682,MYH6,Congenital heart disease,Abnormal heart morphology
+HP:0001627,DOID:1682,CITED2,Congenital heart disease,Abnormal heart morphology
+HP:0001631,DOID:1882,ACTC1,Atrial heart septal defect,Atrial septal defect
+HP:0001631,DOID:1882,TLL1,Atrial heart septal defect,Atrial septal defect
+HP:0001631,DOID:1882,TBX20,Atrial heart septal defect,Atrial septal defect
+HP:0001631,DOID:1882,GATA6,Atrial heart septal defect,Atrial septal defect
+HP:0001631,DOID:1882,NKX2-5,Atrial heart septal defect,Atrial septal defect
+HP:0001631,DOID:1882,CITED2,Atrial heart septal defect,Atrial septal defect
+HP:0001631,DOID:1882,GATA4,Atrial heart septal defect,Atrial septal defect
+HP:0001631,DOID:1882,MYH6,Atrial heart septal defect,Atrial septal defect
+HP:0001654,DOID:4079,ELN,Heart valve disease,Abnormal heart valve morphology
+HP:0001654,DOID:4079,FLNA,Heart valve disease,Abnormal heart valve morphology
+HP:0001655,DOID:1882,TBX20,Atrial heart septal defect,Patent foramen ovale
+HP:0001655,DOID:1882,NKX2-5,Atrial heart septal defect,Patent foramen ovale
+HP:0001655,DOID:1882,TLL1,Atrial heart septal defect,Patent foramen ovale
+HP:0001655,DOID:1882,CITED2,Atrial heart septal defect,Patent foramen ovale
+HP:0001655,DOID:1882,GATA4,Atrial heart septal defect,Patent foramen ovale
+HP:0001655,DOID:1882,MYH6,Atrial heart septal defect,Patent foramen ovale
+HP:0001655,DOID:1882,ACTC1,Atrial heart septal defect,Patent foramen ovale
+HP:0001655,DOID:1882,GATA6,Atrial heart septal defect,Patent foramen ovale
+HP:0001671,ICD10:Q21,GATA6,ICD10:Q21,Abnormal cardiac septum morphology
+HP:0001671,DOID:1681,ACTC1,Heart septal defect,Abnormal cardiac septum morphology
+HP:0001671,DOID:1681,TLL1,Heart septal defect,Abnormal cardiac septum morphology
+HP:0001671,ICD10:Q21,NKX2-5,ICD10:Q21,Abnormal cardiac septum morphology
+HP:0001671,DOID:1681,GATA4,Heart septal defect,Abnormal cardiac septum morphology
+HP:0001671,DOID:1681,NKX2-5,Heart septal defect,Abnormal cardiac septum morphology
+HP:0001671,DOID:1681,MYH6,Heart septal defect,Abnormal cardiac septum morphology
+HP:0001671,ICD10:Q21,TLL1,ICD10:Q21,Abnormal cardiac septum morphology
+HP:0001671,DOID:1681,CITED2,Heart septal defect,Abnormal cardiac septum morphology
+HP:0001671,ICD10:Q21,MYH6,ICD10:Q21,Abnormal cardiac septum morphology
+HP:0001671,ICD10:Q21,ACTC1,ICD10:Q21,Abnormal cardiac septum morphology
+HP:0001671,DOID:1681,TBX20,Heart septal defect,Abnormal cardiac septum morphology
+HP:0001671,DOID:1681,GATA6,Heart septal defect,Abnormal cardiac septum morphology
+HP:0001671,ICD10:Q21,GATA4,ICD10:Q21,Abnormal cardiac septum morphology
+HP:0001671,ICD10:Q21,TBX20,ICD10:Q21,Abnormal cardiac septum morphology
+HP:0001671,ICD10:Q21,CITED2,ICD10:Q21,Abnormal cardiac septum morphology
+HP:0001684,DOID:1882,TBX20,Atrial heart septal defect,Secundum atrial septal defect
+HP:0001684,DOID:1882,NKX2-5,Atrial heart septal defect,Secundum atrial septal defect
+HP:0001684,DOID:1882,ACTC1,Atrial heart septal defect,Secundum atrial septal defect
+HP:0001684,DOID:1882,TLL1,Atrial heart septal defect,Secundum atrial septal defect
+HP:0001684,DOID:1882,CITED2,Atrial heart septal defect,Secundum atrial septal defect
+HP:0001684,DOID:1882,MYH6,Atrial heart septal defect,Secundum atrial septal defect
+HP:0001684,DOID:1882,GATA4,Atrial heart septal defect,Secundum atrial septal defect
+HP:0001684,DOID:1882,GATA6,Atrial heart septal defect,Secundum atrial septal defect
+HP:0010445,DOID:1882,NKX2-5,Atrial heart septal defect,Primum atrial septal defect
+HP:0010445,DOID:1882,GATA6,Atrial heart septal defect,Primum atrial septal defect
+HP:0010445,DOID:1882,CITED2,Atrial heart septal defect,Primum atrial septal defect
+HP:0010445,DOID:1882,MYH6,Atrial heart septal defect,Primum atrial septal defect
+HP:0010445,DOID:1882,GATA4,Atrial heart septal defect,Primum atrial septal defect
+HP:0010445,DOID:1882,ACTC1,Atrial heart septal defect,Primum atrial septal defect
+HP:0010445,DOID:1882,TBX20,Atrial heart septal defect,Primum atrial septal defect
+HP:0010445,DOID:1882,TLL1,Atrial heart septal defect,Primum atrial septal defect
