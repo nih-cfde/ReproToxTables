@@ -1,589 +1,590 @@
-@prefix compound: <https://identifiers.org/pubchem.compound/> .
+@prefix DrugCentral_ID: <https://drugcentral.org/drugcard/> .
+@prefix PubChem_CID: <https://identifiers.org/pubchem.compound/> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 
-compound:1050 rdfs:label "DC_ID: 4134",
-        "pyridoxal" .
+PubChem_CID:1050 a DrugCentral_ID:4134 ;
+    rdfs:label "pyridoxal" .
 
-compound:1051 rdfs:label "DC_ID: 3506",
-        "pyridoxal phosphate" .
+PubChem_CID:1051 a DrugCentral_ID:3506 ;
+    rdfs:label "pyridoxal phosphate" .
 
-compound:1054 rdfs:label "DC_ID: 2836",
-        "pyridoxine" .
+PubChem_CID:1054 a DrugCentral_ID:2836 ;
+    rdfs:label "pyridoxine" .
 
-compound:1349907 rdfs:label "DC_ID: 1745",
-        "thiamazole" .
+PubChem_CID:1349907 a DrugCentral_ID:1745 ;
+    rdfs:label "thiamazole" .
 
-compound:135320 rdfs:label "DC_ID: ",
-        "N-acetylacebutolol" .
+PubChem_CID:135320 a DrugCentral_ID: ;
+    rdfs:label "N-acetylacebutolol" .
 
-compound:135398513 rdfs:label "DC_ID: 85",
-        "acyclovir" .
+PubChem_CID:135398513 a DrugCentral_ID:85 ;
+    rdfs:label "acyclovir" .
 
-compound:135398739 rdfs:label "DC_ID: 869",
-        "didanosine" .
+PubChem_CID:135398739 a DrugCentral_ID:869 ;
+    rdfs:label "didanosine" .
 
-compound:135398740 rdfs:label "DC_ID: 1277",
-        "ganciclovir" .
+PubChem_CID:135398740 a DrugCentral_ID:1277 ;
+    rdfs:label "ganciclovir" .
 
-compound:14052 rdfs:label "DC_ID: 1073",
-        "ethambutol" .
+PubChem_CID:14052 a DrugCentral_ID:1073 ;
+    rdfs:label "ethambutol" .
 
-compound:14969 rdfs:label "DC_ID: 2807",
-        "vancomycin" .
+PubChem_CID:14969 a DrugCentral_ID:2807 ;
+    rdfs:label "vancomycin" .
 
-compound:1548887 rdfs:label "DC_ID: 2534",
-        "sulindac" .
+PubChem_CID:1548887 a DrugCentral_ID:2534 ;
+    rdfs:label "sulindac" .
 
-compound:171548 rdfs:label "DC_ID: 373",
-        "biotin" .
+PubChem_CID:171548 a DrugCentral_ID:373 ;
+    rdfs:label "biotin" .
 
-compound:174174 rdfs:label "DC_ID: 260",
-        "atropine" .
+PubChem_CID:174174 a DrugCentral_ID:260 ;
+    rdfs:label "atropine" .
 
-compound:175805 rdfs:label "DC_ID: 2403",
-        "ropivacaine" .
+PubChem_CID:175805 a DrugCentral_ID:2403 ;
+    rdfs:label "ropivacaine" .
 
-compound:1775 rdfs:label "DC_ID: 2152",
-        "phenytoin" .
+PubChem_CID:1775 a DrugCentral_ID:2152 ;
+    rdfs:label "phenytoin" .
 
-compound:18283 rdfs:label "DC_ID: 2478",
-        "stavudine" .
+PubChem_CID:18283 a DrugCentral_ID:2478 ;
+    rdfs:label "stavudine" .
 
-compound:193962 rdfs:label "DC_ID: 1115",
-        "etravirine" .
+PubChem_CID:193962 a DrugCentral_ID:1115 ;
+    rdfs:label "etravirine" .
 
-compound:19649 rdfs:label "DC_ID: 2481",
-        "streptomycin" .
+PubChem_CID:19649 a DrugCentral_ID:2481 ;
+    rdfs:label "streptomycin" .
 
-compound:1978 rdfs:label "DC_ID: 40",
-        "acebutolol" .
+PubChem_CID:1978 a DrugCentral_ID:40 ;
+    rdfs:label "acebutolol" .
 
-compound:1983 rdfs:label "DC_ID: 52",
-        "paracetamol" .
+PubChem_CID:1983 a DrugCentral_ID:52 ;
+    rdfs:label "paracetamol" .
 
-compound:1990 rdfs:label "DC_ID: 58",
-        "acetohydroxamic acid" .
+PubChem_CID:1990 a DrugCentral_ID:58 ;
+    rdfs:label "acetohydroxamic acid" .
 
-compound:2153 rdfs:label "DC_ID: 2620",
-        "theophylline" .
+PubChem_CID:2153 a DrugCentral_ID:2620 ;
+    rdfs:label "theophylline" .
 
-compound:2157 rdfs:label "DC_ID: 176",
-        "amiodarone" .
+PubChem_CID:2157 a DrugCentral_ID:176 ;
+    rdfs:label "amiodarone" .
 
-compound:216258 rdfs:label "DC_ID: 731",
-        "colistimethate sodium" .
+PubChem_CID:216258 a DrugCentral_ID:731 ;
+    rdfs:label "colistimethate sodium" .
 
-compound:2206 rdfs:label "DC_ID: 861",
-        "phenazone" .
+PubChem_CID:2206 a DrugCentral_ID:861 ;
+    rdfs:label "phenazone" .
 
-compound:222786 rdfs:label "DC_ID: 1388",
-        "hydrocortisone" .
+PubChem_CID:222786 a DrugCentral_ID:1388 ;
+    rdfs:label "hydrocortisone" .
 
-compound:2244 rdfs:label "DC_ID: 74",
-        "acetylsalicylic acid" .
+PubChem_CID:2244 a DrugCentral_ID:74 ;
+    rdfs:label "acetylsalicylic acid" .
 
-compound:2249 rdfs:label "DC_ID: 255",
-        "atenolol" .
+PubChem_CID:2249 a DrugCentral_ID:255 ;
+    rdfs:label "atenolol" .
 
-compound:2369 rdfs:label "DC_ID: 356",
-        "betaxolol" .
+PubChem_CID:2369 a DrugCentral_ID:356 ;
+    rdfs:label "betaxolol" .
 
-compound:24066 rdfs:label "DC_ID: 2856",
-        "zalcitabine" .
+PubChem_CID:24066 a DrugCentral_ID:2856 ;
+    rdfs:label "zalcitabine" .
 
-compound:2474 rdfs:label "DC_ID: 432",
-        "bupivacaine" .
+PubChem_CID:2474 a DrugCentral_ID:432 ;
+    rdfs:label "bupivacaine" .
 
-compound:2519 rdfs:label "DC_ID: 463",
-        "caffeine" .
+PubChem_CID:2519 a DrugCentral_ID:463 ;
+    rdfs:label "caffeine" .
 
-compound:25249 rdfs:label "DC_ID: 2477",
-        "stanozolol" .
+PubChem_CID:25249 a DrugCentral_ID:2477 ;
+    rdfs:label "stanozolol" .
 
-compound:2554 rdfs:label "DC_ID: 489",
-        "carbamazepine" .
+PubChem_CID:2554 a DrugCentral_ID:489 ;
+    rdfs:label "carbamazepine" .
 
-compound:2712 rdfs:label "DC_ID: 594",
-        "chlordiazepoxide" .
+PubChem_CID:2712 a DrugCentral_ID:594 ;
+    rdfs:label "chlordiazepoxide" .
 
-compound:2719 rdfs:label "DC_ID: 607",
-        "chloroquine" .
+PubChem_CID:2719 a DrugCentral_ID:607 ;
+    rdfs:label "chloroquine" .
 
-compound:27200 rdfs:label "DC_ID: 2624",
-        "thiamphenicol" .
+PubChem_CID:27200 a DrugCentral_ID:2624 ;
+    rdfs:label "thiamphenicol" .
 
-compound:2724385 rdfs:label "DC_ID: 882",
-        "digoxin" .
+PubChem_CID:2724385 a DrugCentral_ID:882 ;
+    rdfs:label "digoxin" .
 
-compound:2756 rdfs:label "DC_ID: 645",
-        "cimetidine" .
+PubChem_CID:2756 a DrugCentral_ID:645 ;
+    rdfs:label "cimetidine" .
 
-compound:2801 rdfs:label "DC_ID: 701",
-        "clomipramine" .
+PubChem_CID:2801 a DrugCentral_ID:701 ;
+    rdfs:label "clomipramine" .
 
-compound:2802 rdfs:label "DC_ID: 703",
-        "clonazepam" .
+PubChem_CID:2802 a DrugCentral_ID:703 ;
+    rdfs:label "clonazepam" .
 
-compound:2803 rdfs:label "DC_ID: 704",
-        "clonidine" .
+PubChem_CID:2803 a DrugCentral_ID:704 ;
+    rdfs:label "clonidine" .
 
-compound:2809 rdfs:label "DC_ID: 711",
-        "clorazepate" .
+PubChem_CID:2809 a DrugCentral_ID:711 ;
+    rdfs:label "clorazepate" .
 
-compound:288 rdfs:label "DC_ID: 513",
-        "levocarnitine" .
+PubChem_CID:288 a DrugCentral_ID:513 ;
+    rdfs:label "levocarnitine" .
 
-compound:2907 rdfs:label "DC_ID: 758",
-        "cyclophosphamide" .
+PubChem_CID:2907 a DrugCentral_ID:758 ;
+    rdfs:label "cyclophosphamide" .
 
-compound:3000715 rdfs:label "DC_ID: 2633",
-        "thiopental" .
+PubChem_CID:3000715 a DrugCentral_ID:2633 ;
+    rdfs:label "thiopental" .
 
-compound:3002977 rdfs:label "DC_ID: 1635",
-        "maraviroc" .
+PubChem_CID:3002977 a DrugCentral_ID:1635 ;
+    rdfs:label "maraviroc" .
 
-compound:3016 rdfs:label "DC_ID: 852",
-        "diazepam" .
+PubChem_CID:3016 a DrugCentral_ID:852 ;
+    rdfs:label "diazepam" .
 
-compound:3032285 rdfs:label "DC_ID: 2626",
-        "thiamylal" .
+PubChem_CID:3032285 a DrugCentral_ID:2626 ;
+    rdfs:label "thiamylal" .
 
-compound:3033 rdfs:label "DC_ID: 865",
-        "diclofenac" .
+PubChem_CID:3033 a DrugCentral_ID:865 ;
+    rdfs:label "diclofenac" .
 
-compound:3037705 rdfs:label "DC_ID: 1743",
-        "methenolone" .
+PubChem_CID:3037705 a DrugCentral_ID:1743 ;
+    rdfs:label "methenolone" .
 
-compound:3121 rdfs:label "DC_ID: 2803",
-        "valproic acid" .
+PubChem_CID:3121 a DrugCentral_ID:2803 ;
+    rdfs:label "valproic acid" .
 
-compound:31703 rdfs:label "DC_ID: 960",
-        "doxorubicin" .
+PubChem_CID:31703 a DrugCentral_ID:960 ;
+    rdfs:label "doxorubicin" .
 
-compound:3345 rdfs:label "DC_ID: 1164",
-        "fentanyl" .
+PubChem_CID:3345 a DrugCentral_ID:1164 ;
+    rdfs:label "fentanyl" .
 
-compound:3356 rdfs:label "DC_ID: 1176",
-        "flecainide" .
+PubChem_CID:3356 a DrugCentral_ID:1176 ;
+    rdfs:label "flecainide" .
 
-compound:33572 rdfs:label "DC_ID: 2390",
-        "ritodrine" .
+PubChem_CID:33572 a DrugCentral_ID:2390 ;
+    rdfs:label "ritodrine" .
 
-compound:33613 rdfs:label "DC_ID: 192",
-        "amoxicillin" .
+PubChem_CID:33613 a DrugCentral_ID:192 ;
+    rdfs:label "amoxicillin" .
 
-compound:3393 rdfs:label "DC_ID: 1218",
-        "flurazepam" .
+PubChem_CID:3393 a DrugCentral_ID:1218 ;
+    rdfs:label "flurazepam" .
 
-compound:3440 rdfs:label "DC_ID: 1258",
-        "furosemide" .
+PubChem_CID:3440 a DrugCentral_ID:1258 ;
+    rdfs:label "furosemide" .
 
-compound:35370 rdfs:label "DC_ID: 2861",
-        "zidovudine" .
+PubChem_CID:35370 a DrugCentral_ID:2861 ;
+    rdfs:label "zidovudine" .
 
-compound:3637 rdfs:label "DC_ID: 1384",
-        "hydralazine" .
+PubChem_CID:3637 a DrugCentral_ID:1384 ;
+    rdfs:label "hydralazine" .
 
-compound:3639 rdfs:label "DC_ID: 1385",
-        "hydrochlorothiazide" .
+PubChem_CID:3639 a DrugCentral_ID:1385 ;
+    rdfs:label "hydrochlorothiazide" .
 
-compound:3676 rdfs:label "DC_ID: 1579",
-        "lidocaine" .
+PubChem_CID:3676 a DrugCentral_ID:1579 ;
+    rdfs:label "lidocaine" .
 
-compound:36921 rdfs:label "DC_ID: 2656",
-        "ticarcillin" .
+PubChem_CID:36921 a DrugCentral_ID:2656 ;
+    rdfs:label "ticarcillin" .
 
-compound:3715 rdfs:label "DC_ID: 1440",
-        "indomethacin" .
+PubChem_CID:3715 a DrugCentral_ID:1440 ;
+    rdfs:label "indomethacin" .
 
-compound:37248 rdfs:label "2,2′,5,5′-Tetrachlorobiphenyl, 2,2′,5,5′-PCB",
-        "DC_ID: " .
+PubChem_CID:37248 a DrugCentral_ID: ;
+    rdfs:label "2,2′,5,5′-Tetrachlorobiphenyl, 2,2′,5,5′-PCB" .
 
-compound:37497 rdfs:label "DC_ID: 1097",
-        "etidocaine" .
+PubChem_CID:37497 a DrugCentral_ID:1097 ;
+    rdfs:label "etidocaine" .
 
-compound:3763 rdfs:label "DC_ID: 1493",
-        "isoflurane" .
+PubChem_CID:3763 a DrugCentral_ID:1493 ;
+    rdfs:label "isoflurane" .
 
-compound:3767 rdfs:label "DC_ID: 1497",
-        "isoniazid" .
+PubChem_CID:3767 a DrugCentral_ID:1497 ;
+    rdfs:label "isoniazid" .
 
-compound:37768 rdfs:label "DC_ID: 157",
-        "amikacin" .
+PubChem_CID:37768 a DrugCentral_ID:157 ;
+    rdfs:label "amikacin" .
 
-compound:3784 rdfs:label "DC_ID: 1511",
-        "isradipine" .
+PubChem_CID:3784 a DrugCentral_ID:1511 ;
+    rdfs:label "isradipine" .
 
-compound:38103 rdfs:label "DC_ID: 576",
-        "cefradine" .
+PubChem_CID:38103 a DrugCentral_ID:576 ;
+    rdfs:label "cefradine" .
 
-compound:3821 rdfs:label "DC_ID: 1523",
-        "ketamine" .
+PubChem_CID:3821 a DrugCentral_ID:1523 ;
+    rdfs:label "ketamine" .
 
-compound:3825 rdfs:label "DC_ID: 1528",
-        "ketoprofen" .
+PubChem_CID:3825 a DrugCentral_ID:1528 ;
+    rdfs:label "ketoprofen" .
 
-compound:38853 rdfs:label "DC_ID: 1762",
-        "methyldopa" .
+PubChem_CID:38853 a DrugCentral_ID:1762 ;
+    rdfs:label "methyldopa" .
 
-compound:39031 rdfs:label "DC_ID: 4052",
-        "sulbenicillin" .
+PubChem_CID:39031 a DrugCentral_ID:4052 ;
+    rdfs:label "sulbenicillin" .
 
-compound:3958 rdfs:label "DC_ID: 1606",
-        "lorazepam" .
+PubChem_CID:3958 a DrugCentral_ID:1606 ;
+    rdfs:label "lorazepam" .
 
-compound:3961 rdfs:label "DC_ID: 1610",
-        "losartan" .
+PubChem_CID:3961 a DrugCentral_ID:1610 ;
+    rdfs:label "losartan" .
 
-compound:40391 rdfs:label "DC_ID: 2175",
-        "pinazepam" .
+PubChem_CID:40391 a DrugCentral_ID:2175 ;
+    rdfs:label "pinazepam" .
 
-compound:4062 rdfs:label "DC_ID: 1700",
-        "mepivacaine" .
+PubChem_CID:4062 a DrugCentral_ID:1700 ;
+    rdfs:label "mepivacaine" .
 
-compound:40692 rdfs:label "DC_ID: 1665",
-        "mefloquine" .
+PubChem_CID:40692 a DrugCentral_ID:1665 ;
+    rdfs:label "mefloquine" .
 
-compound:4091 rdfs:label "DC_ID: 1725",
-        "metformin" .
+PubChem_CID:4091 a DrugCentral_ID:1725 ;
+    rdfs:label "metformin" .
 
-compound:4095 rdfs:label "DC_ID: 1728",
-        "methadone" .
+PubChem_CID:4095 a DrugCentral_ID:1728 ;
+    rdfs:label "methadone" .
 
-compound:4116 rdfs:label "DC_ID: 1754",
-        "methoxyflurane" .
+PubChem_CID:4116 a DrugCentral_ID:1754 ;
+    rdfs:label "methoxyflurane" .
 
-compound:4168 rdfs:label "DC_ID: 1782",
-        "metoclopramide" .
+PubChem_CID:4168 a DrugCentral_ID:1782 ;
+    rdfs:label "metoclopramide" .
 
-compound:4171 rdfs:label "DC_ID: 1786",
-        "metoprolol" .
+PubChem_CID:4171 a DrugCentral_ID:1786 ;
+    rdfs:label "metoprolol" .
 
-compound:4173 rdfs:label "DC_ID: 1790",
-        "metronidazole" .
+PubChem_CID:4173 a DrugCentral_ID:1790 ;
+    rdfs:label "metronidazole" .
 
-compound:4192 rdfs:label "DC_ID: 1802",
-        "midazolam" .
+PubChem_CID:4192 a DrugCentral_ID:1802 ;
+    rdfs:label "midazolam" .
 
-compound:43708 rdfs:label "DC_ID: 548",
-        "cefotiam" .
+PubChem_CID:43708 a DrugCentral_ID:548 ;
+    rdfs:label "cefotiam" .
 
-compound:44093 rdfs:label "DC_ID: 484",
-        "captopril" .
+PubChem_CID:44093 a DrugCentral_ID:484 ;
+    rdfs:label "captopril" .
 
-compound:441140 rdfs:label "DC_ID: 1331",
-        "griseofulvin" .
+PubChem_CID:441140 a DrugCentral_ID:1331 ;
+    rdfs:label "griseofulvin" .
 
-compound:441199 rdfs:label "DC_ID: 550",
-        "cefoxitin" .
+PubChem_CID:441199 a DrugCentral_ID:550 ;
+    rdfs:label "cefoxitin" .
 
-compound:441278 rdfs:label "DC_ID: 3424",
-        "pentazocine" .
+PubChem_CID:441278 a DrugCentral_ID:3424 ;
+    rdfs:label "pentazocine" .
 
-compound:441300 rdfs:label "DC_ID: 34",
-        "abacavir" .
+PubChem_CID:441300 a DrugCentral_ID:34 ;
+    rdfs:label "abacavir" .
 
-compound:44187 rdfs:label "DC_ID: 543",
-        "cefoperazone" .
+PubChem_CID:44187 a DrugCentral_ID:543 ;
+    rdfs:label "cefoperazone" .
 
-compound:444795 rdfs:label "DC_ID: 2722",
-        "tretinoin" .
+PubChem_CID:444795 a DrugCentral_ID:2722 ;
+    rdfs:label "tretinoin" .
 
-compound:446155 rdfs:label "DC_ID: 1229",
-        "fluvastatin" .
+PubChem_CID:446155 a DrugCentral_ID:1229 ;
+    rdfs:label "fluvastatin" .
 
-compound:446156 rdfs:label "DC_ID: 577",
-        "cerivastatin" .
+PubChem_CID:446156 a DrugCentral_ID:577 ;
+    rdfs:label "cerivastatin" .
 
-compound:446220 rdfs:label "DC_ID: 723",
-        "cocaine" .
+PubChem_CID:446220 a DrugCentral_ID:723 ;
+    rdfs:label "cocaine" .
 
-compound:4463 rdfs:label "DC_ID: 1904",
-        "nevirapine" .
+PubChem_CID:4463 a DrugCentral_ID:1904 ;
+    rdfs:label "nevirapine" .
 
-compound:446598 rdfs:label "DC_ID: 678",
-        "clindamycin" .
+PubChem_CID:446598 a DrugCentral_ID:678 ;
+    rdfs:label "clindamycin" .
 
-compound:446987 rdfs:label "DC_ID: 1243",
-        "fosfomycin" .
+PubChem_CID:446987 a DrugCentral_ID:1243 ;
+    rdfs:label "fosfomycin" .
 
-compound:44814488 rdfs:label "11-Nor-Delta(9)-Tetrahydrocannabinol-9-Carboxylic Acid",
-        "DC_ID: " .
+PubChem_CID:44814488 a DrugCentral_ID: ;
+    rdfs:label "11-Nor-Delta(9)-Tetrahydrocannabinol-9-Carboxylic Acid" .
 
-compound:4485 rdfs:label "DC_ID: 1922",
-        "nifedipine" .
+PubChem_CID:4485 a DrugCentral_ID:1922 ;
+    rdfs:label "nifedipine" .
 
-compound:448537 rdfs:label "DC_ID: 875",
-        "diethylstilbestrol" .
+PubChem_CID:448537 a DrugCentral_ID:875 ;
+    rdfs:label "diethylstilbestrol" .
 
-compound:4506 rdfs:label "DC_ID: 1945",
-        "nitrazepam" .
+PubChem_CID:4506 a DrugCentral_ID:1945 ;
+    rdfs:label "nitrazepam" .
 
-compound:4616 rdfs:label "DC_ID: 2015",
-        "oxazepam" .
+PubChem_CID:4616 a DrugCentral_ID:2015 ;
+    rdfs:label "oxazepam" .
 
-compound:4631 rdfs:label "DC_ID: 2027",
-        "oxprenolol" .
+PubChem_CID:4631 a DrugCentral_ID:2027 ;
+    rdfs:label "oxprenolol" .
 
-compound:464205 rdfs:label "DC_ID: 2592",
-        "tenofovir" .
+PubChem_CID:464205 a DrugCentral_ID:2592 ;
+    rdfs:label "tenofovir" .
 
-compound:4737 rdfs:label "DC_ID: 2095",
-        "pentobarbital" .
+PubChem_CID:4737 a DrugCentral_ID:2095 ;
+    rdfs:label "pentobarbital" .
 
-compound:4763 rdfs:label "DC_ID: 2134",
-        "phenobarbital" .
+PubChem_CID:4763 a DrugCentral_ID:2134 ;
+    rdfs:label "phenobarbital" .
 
-compound:4906 rdfs:label "DC_ID: 2265",
-        "prilocaine" .
+PubChem_CID:4906 a DrugCentral_ID:2265 ;
+    rdfs:label "prilocaine" .
 
-compound:4909 rdfs:label "DC_ID: 2267",
-        "primidone" .
+PubChem_CID:4909 a DrugCentral_ID:2267 ;
+    rdfs:label "primidone" .
 
-compound:4913 rdfs:label "DC_ID: 2270",
-        "procainamide" .
+PubChem_CID:4913 a DrugCentral_ID:2270 ;
+    rdfs:label "procainamide" .
 
-compound:4914 rdfs:label "DC_ID: 2271",
-        "procaine" .
+PubChem_CID:4914 a DrugCentral_ID:2271 ;
+    rdfs:label "procaine" .
 
-compound:493570 rdfs:label "DC_ID: 2834",
-        "riboflavin" .
+PubChem_CID:493570 a DrugCentral_ID:2834 ;
+    rdfs:label "riboflavin" .
 
-compound:4943 rdfs:label "DC_ID: 2302",
-        "propofol" .
+PubChem_CID:4943 a DrugCentral_ID:2302 ;
+    rdfs:label "propofol" .
 
-compound:4993 rdfs:label "DC_ID: 2332",
-        "pyrimethamine" .
+PubChem_CID:4993 a DrugCentral_ID:2332 ;
+    rdfs:label "pyrimethamine" .
 
-compound:51263 rdfs:label "DC_ID: 114",
-        "alfentanil" .
+PubChem_CID:51263 a DrugCentral_ID:114 ;
+    rdfs:label "alfentanil" .
 
-compound:5193 rdfs:label "DC_ID: 2428",
-        "secobarbital" .
+PubChem_CID:5193 a DrugCentral_ID:2428 ;
+    rdfs:label "secobarbital" .
 
-compound:5253 rdfs:label "DC_ID: 2464",
-        "sotalol" .
+PubChem_CID:5253 a DrugCentral_ID:2464 ;
+    rdfs:label "sotalol" .
 
-compound:5280980 rdfs:label "DC_ID: 669",
-        "clavulanic acid" .
+PubChem_CID:5280980 a DrugCentral_ID:669 ;
+    rdfs:label "clavulanic acid" .
 
-compound:5282379 rdfs:label "DC_ID: 1508",
-        "isotretinoin" .
+PubChem_CID:5282379 a DrugCentral_ID:1508 ;
+    rdfs:label "isotretinoin" .
 
-compound:5284373 rdfs:label "DC_ID: 760",
-        "ciclosporin" .
+PubChem_CID:5284373 a DrugCentral_ID:760 ;
+    rdfs:label "ciclosporin" .
 
-compound:5284513 rdfs:label "DC_ID: 78",
-        "acitretin" .
+PubChem_CID:5284513 a DrugCentral_ID:78 ;
+    rdfs:label "acitretin" .
 
-compound:5284519 rdfs:label "DC_ID: 277",
-        "azlocillin" .
+PubChem_CID:5284519 a DrugCentral_ID:277 ;
+    rdfs:label "azlocillin" .
 
-compound:5284596 rdfs:label "DC_ID: 1878",
-        "naloxone" .
+PubChem_CID:5284596 a DrugCentral_ID:1878 ;
+    rdfs:label "naloxone" .
 
-compound:5284603 rdfs:label "DC_ID: 2029",
-        "oxycodone" .
+PubChem_CID:5284603 a DrugCentral_ID:2029 ;
+    rdfs:label "oxycodone" .
 
-compound:5288826 rdfs:label "DC_ID: 1845",
-        "morphine" .
+PubChem_CID:5288826 a DrugCentral_ID:1845 ;
+    rdfs:label "morphine" .
 
-compound:5310993 rdfs:label "DC_ID: 76",
-        "acipimox" .
+PubChem_CID:5310993 a DrugCentral_ID:76 ;
+    rdfs:label "acipimox" .
 
-compound:5311010 rdfs:label "DC_ID: 3008",
-        "atosiban" .
+PubChem_CID:5311010 a DrugCentral_ID:3008 ;
+    rdfs:label "atosiban" .
 
-compound:53232 rdfs:label "DC_ID: 1612",
-        "lovastatin" .
+PubChem_CID:53232 a DrugCentral_ID:1612 ;
+    rdfs:label "lovastatin" .
 
-compound:5339 rdfs:label "DC_ID: 2525",
-        "sulfasalazine" .
+PubChem_CID:5339 a DrugCentral_ID:2525 ;
+    rdfs:label "sulfasalazine" .
 
-compound:5362119 rdfs:label "DC_ID: 1587",
-        "lisinopril" .
+PubChem_CID:5362119 a DrugCentral_ID:1587 ;
+    rdfs:label "lisinopril" .
 
-compound:5362124 rdfs:label "DC_ID: 299",
-        "benazepril" .
+PubChem_CID:5362124 a DrugCentral_ID:299 ;
+    rdfs:label "benazepril" .
 
-compound:5362129 rdfs:label "DC_ID: 2356",
-        "ramipril" .
+PubChem_CID:5362129 a DrugCentral_ID:2356 ;
+    rdfs:label "ramipril" .
 
-compound:5388962 rdfs:label "DC_ID: 1005",
-        "enalapril" .
+PubChem_CID:5388962 a DrugCentral_ID:1005 ;
+    rdfs:label "enalapril" .
 
-compound:5403 rdfs:label "DC_ID: 2598",
-        "terbutaline" .
+PubChem_CID:5403 a DrugCentral_ID:2598 ;
+    rdfs:label "terbutaline" .
 
-compound:5426 rdfs:label "DC_ID: 2616",
-        "thalidomide" .
+PubChem_CID:5426 a DrugCentral_ID:2616 ;
+    rdfs:label "thalidomide" .
 
-compound:54454 rdfs:label "DC_ID: 2445",
-        "simvastatin" .
+PubChem_CID:54454 a DrugCentral_ID:2445 ;
+    rdfs:label "simvastatin" .
 
-compound:54671008 rdfs:label "DC_ID: 2352",
-        "raltegravir" .
+PubChem_CID:54671008 a DrugCentral_ID:2352 ;
+    rdfs:label "raltegravir" .
 
-compound:54675776 rdfs:label "DC_ID: 2611",
-        "Tetracycline",
+PubChem_CID:54675776 a DrugCentral_ID:2611 ;
+    rdfs:label "Tetracycline",
         "tetracycline" .
 
-compound:54675779 rdfs:label "DC_ID: 2041",
-        "oxytetracycline" .
+PubChem_CID:54675779 a DrugCentral_ID:2041 ;
+    rdfs:label "oxytetracycline" .
 
-compound:54676038 rdfs:label "DC_ID: 867",
-        "dicoumarol" .
+PubChem_CID:54676038 a DrugCentral_ID:867 ;
+    rdfs:label "dicoumarol" .
 
-compound:54676537 rdfs:label "DC_ID: 48",
-        "acenocoumarol" .
+PubChem_CID:54676537 a DrugCentral_ID:48 ;
+    rdfs:label "acenocoumarol" .
 
-compound:54678486 rdfs:label "DC_ID: 2847",
-        "warfarin" .
+PubChem_CID:54678486 a DrugCentral_ID:2847 ;
+    rdfs:label "warfarin" .
 
-compound:54680675 rdfs:label "DC_ID: 702",
-        "clomocycline" .
+PubChem_CID:54680675 a DrugCentral_ID:702 ;
+    rdfs:label "clomocycline" .
 
-compound:54682461 rdfs:label "DC_ID: 3609",
-        "tipranavir" .
+PubChem_CID:54682461 a DrugCentral_ID:3609 ;
+    rdfs:label "tipranavir" .
 
-compound:5479529 rdfs:label "DC_ID: 565",
-        "cefuroxime" .
+PubChem_CID:5479529 a DrugCentral_ID:565 ;
+    rdfs:label "cefuroxime" .
 
-compound:5479530 rdfs:label "DC_ID: 564",
-        "ceftriaxone" .
+PubChem_CID:5479530 a DrugCentral_ID:564 ;
+    rdfs:label "ceftriaxone" .
 
-compound:54892 rdfs:label "DC_ID: 2340",
-        "quinapril" .
+PubChem_CID:54892 a DrugCentral_ID:2340 ;
+    rdfs:label "quinapril" .
 
-compound:5546 rdfs:label "DC_ID: 2728",
-        "triamterene" .
+PubChem_CID:5546 a DrugCentral_ID:2728 ;
+    rdfs:label "triamterene" .
 
-compound:5556 rdfs:label "DC_ID: 2729",
-        "triazolam" .
+PubChem_CID:5556 a DrugCentral_ID:2729 ;
+    rdfs:label "triazolam" .
 
-compound:5576 rdfs:label "DC_ID: 2751",
-        "trimethadione" .
+PubChem_CID:5576 a DrugCentral_ID:2751 ;
+    rdfs:label "trimethadione" .
 
-compound:55891 rdfs:label "DC_ID: 1245",
-        "fosinopril" .
+PubChem_CID:55891 a DrugCentral_ID:1245 ;
+    rdfs:label "fosinopril" .
 
-compound:57363 rdfs:label "DC_ID: 1171",
-        "finasteride" .
+PubChem_CID:57363 a DrugCentral_ID:1171 ;
+    rdfs:label "finasteride" .
 
-compound:5743 rdfs:label "DC_ID: 824",
-        "dexamethasone" .
+PubChem_CID:5743 a DrugCentral_ID:824 ;
+    rdfs:label "dexamethasone" .
 
-compound:5750 rdfs:label "DC_ID: 1690",
-        "pethidine" .
+PubChem_CID:5750 a DrugCentral_ID:1690 ;
+    rdfs:label "pethidine" .
 
-compound:5755 rdfs:label "DC_ID: 2245",
-        "prednisolone" .
+PubChem_CID:5755 a DrugCentral_ID:2245 ;
+    rdfs:label "prednisolone" .
 
-compound:5773 rdfs:label "DC_ID: 573",
-        "cefaloridine" .
+PubChem_CID:5773 a DrugCentral_ID:573 ;
+    rdfs:label "cefaloridine" .
 
-compound:5852 rdfs:label "DC_ID: 2081",
-        "penicillamine" .
+PubChem_CID:5852 a DrugCentral_ID:2081 ;
+    rdfs:label "penicillamine" .
 
-compound:5959 rdfs:label "DC_ID: 589",
-        "chloramphenicol" .
+PubChem_CID:5959 a DrugCentral_ID:589 ;
+    rdfs:label "chloramphenicol" .
 
-compound:6000 rdfs:label "DC_ID: 2781",
-        "tubocurarine" .
+PubChem_CID:6000 a DrugCentral_ID:2781 ;
+    rdfs:label "tubocurarine" .
 
-compound:6013 rdfs:label "DC_ID: 2607",
-        "testosterone" .
+PubChem_CID:6013 a DrugCentral_ID:2607 ;
+    rdfs:label "testosterone" .
 
-compound:6024 rdfs:label "DC_ID: 574",
-        "cefalotin" .
+PubChem_CID:6024 a DrugCentral_ID:574 ;
+    rdfs:label "cefalotin" .
 
-compound:6032 rdfs:label "DC_ID: 1519",
-        "kanamycin" .
+PubChem_CID:6032 a DrugCentral_ID:1519 ;
+    rdfs:label "kanamycin" .
 
-compound:60815 rdfs:label "DC_ID: 2363",
-        "remifentanil" .
+PubChem_CID:60815 a DrugCentral_ID:2363 ;
+    rdfs:label "remifentanil" .
 
-compound:60823 rdfs:label "DC_ID: 257",
-        "atorvastatin" .
+PubChem_CID:60823 a DrugCentral_ID:257 ;
+    rdfs:label "atorvastatin" .
 
-compound:60825 rdfs:label "DC_ID: 1539",
-        "lamivudine" .
+PubChem_CID:60825 a DrugCentral_ID:1539 ;
+    rdfs:label "lamivudine" .
 
-compound:60846 rdfs:label "DC_ID: 2806",
-        "valsartan" .
+PubChem_CID:60846 a DrugCentral_ID:2806 ;
+    rdfs:label "valsartan" .
 
-compound:6087 rdfs:label "DC_ID: 1744",
-        "meticillin" .
+PubChem_CID:6087 a DrugCentral_ID:1744 ;
+    rdfs:label "meticillin" .
 
-compound:60877 rdfs:label "DC_ID: 1003",
-        "emtricitabine" .
+PubChem_CID:60877 a DrugCentral_ID:1003 ;
+    rdfs:label "emtricitabine" .
 
-compound:60943 rdfs:label "DC_ID: ",
-        "Relcovaptan" .
+PubChem_CID:60943 a DrugCentral_ID: ;
+    rdfs:label "Relcovaptan" .
 
-compound:6106 rdfs:label "DC_ID: 1557",
-        "leucine" .
+PubChem_CID:6106 a DrugCentral_ID:1557 ;
+    rdfs:label "leucine" .
 
-compound:6249 rdfs:label "DC_ID: 198",
-        "ampicillin" .
+PubChem_CID:6249 a DrugCentral_ID:198 ;
+    rdfs:label "ampicillin" .
 
-compound:6291 rdfs:label "DC_ID: 1714",
-        "mestranol" .
+PubChem_CID:6291 a DrugCentral_ID:1714 ;
+    rdfs:label "mestranol" .
 
-compound:62959 rdfs:label "DC_ID: 2777",
-        "trovafloxacin" .
+PubChem_CID:62959 a DrugCentral_ID:2777 ;
+    rdfs:label "trovafloxacin" .
 
-compound:64139 rdfs:label "DC_ID: 989",
-        "efavirenz" .
+PubChem_CID:64139 a DrugCentral_ID:989 ;
+    rdfs:label "efavirenz" .
 
-compound:644073 rdfs:label "DC_ID: 434",
-        "buprenorphine" .
+PubChem_CID:644073 a DrugCentral_ID:434 ;
+    rdfs:label "buprenorphine" .
 
-compound:6451164 rdfs:label "DC_ID: 4174",
-        "rilpivirine" .
+PubChem_CID:6451164 a DrugCentral_ID:4174 ;
+    rdfs:label "rilpivirine" .
 
-compound:6533629 rdfs:label "DC_ID: 563",
-        "ceftizoxime" .
+PubChem_CID:6533629 a DrugCentral_ID:563 ;
+    rdfs:label "ceftizoxime" .
 
-compound:656511 rdfs:label "DC_ID: 1795",
-        "mezlocillin" .
+PubChem_CID:656511 a DrugCentral_ID:1795 ;
+    rdfs:label "mezlocillin" .
 
-compound:6914273 rdfs:label "DC_ID: 780",
-        "dantrolene" .
+PubChem_CID:6914273 a DrugCentral_ID:780 ;
+    rdfs:label "dantrolene" .
 
-compound:702 rdfs:label "DC_ID: 1076",
-        "ethanol" .
+PubChem_CID:702 a DrugCentral_ID:1076 ;
+    rdfs:label "ethanol" .
 
-compound:8612 rdfs:label "DC_ID: 605",
-        "chloroprocaine" .
+PubChem_CID:8612 a DrugCentral_ID:605 ;
+    rdfs:label "chloroprocaine" .
 
-compound:89594 rdfs:label "DC_ID: 1920",
-        "nicotine" .
+PubChem_CID:89594 a DrugCentral_ID:1920 ;
+    rdfs:label "nicotine" .
 
-compound:8982 rdfs:label "DC_ID: 1869",
-        "nafcillin" .
+PubChem_CID:8982 a DrugCentral_ID:1869 ;
+    rdfs:label "nafcillin" .
 
-compound:9034 rdfs:label "DC_ID: 1748",
-        "methohexital" .
+PubChem_CID:9034 a DrugCentral_ID:1748 ;
+    rdfs:label "methohexital" .
 
-compound:90659973 rdfs:label "DC_ID: 109",
-        "alcuronium" .
+PubChem_CID:90659973 a DrugCentral_ID:109 ;
+    rdfs:label "alcuronium" .
 
-compound:91270 rdfs:label "DC_ID: 1827",
-        "moexipril" .
+PubChem_CID:91270 a DrugCentral_ID:1827 ;
+    rdfs:label "moexipril" .
 
-compound:91562 rdfs:label "DC_ID: 524",
-        "cefacetrile" .
+PubChem_CID:91562 a DrugCentral_ID:524 ;
+    rdfs:label "cefacetrile" .
 
-compound:948 rdfs:label "DC_ID: 4238",
-        "nitrous oxide" .
+PubChem_CID:948 a DrugCentral_ID:4238 ;
+    rdfs:label "nitrous oxide" .
 
-compound:9570757 rdfs:label "DC_ID: 538",
-        "cefmenoxime" .
+PubChem_CID:9570757 a DrugCentral_ID:538 ;
+    rdfs:label "cefmenoxime" .
 
-compound:9782 rdfs:label "DC_ID: 348",
-        "betamethasone" .
+PubChem_CID:9782 a DrugCentral_ID:348 ;
+    rdfs:label "betamethasone" .
 
-compound:9904 rdfs:label "DC_ID: 1879",
-        "nandrolone" .
+PubChem_CID:9904 a DrugCentral_ID:1879 ;
+    rdfs:label "nandrolone" .
 
