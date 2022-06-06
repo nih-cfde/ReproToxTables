@@ -1,0 +1,513 @@
+@prefix compound: <http://rdf.ncbi.nlm.nih.gov/pubchem/compound/> .
+@prefix gene_symbol: <https://identifiers.org/hgnc.symbol/> .
+@prefix lincs: <https://identifiers.org/lincs.smallmolecule:> .
+@prefix identifier: <https://registry.identifiers.org/registry/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix relationship: <https://semanticscience.org/resource/> .
+
+compound:CID123630 rdfs:label "tazobactam" ;
+    relationship:SIO_010296 gene_symbol:ATF3,
+        gene_symbol:CDKN1A,
+        gene_symbol:CSTA,
+        gene_symbol:CXCL2,
+        gene_symbol:DLK1,
+        gene_symbol:GOLT1B,
+        gene_symbol:LCN2,
+        gene_symbol:MT1E,
+        gene_symbol:PHLDA1,
+        gene_symbol:SNAP25 ;
+    identifier:lincs.smallmolecule lincs:LSM-5323 ;
+    relationship:SIO_010295 gene_symbol:ARPP19,
+        gene_symbol:CDC45,
+        gene_symbol:CP,
+        gene_symbol:CRK,
+        gene_symbol:DEGS1,
+        gene_symbol:GNAS,
+        gene_symbol:NXN,
+        gene_symbol:OAS3,
+        gene_symbol:PRAME,
+        gene_symbol:USP7 .
+
+compound:CID129010025 rdfs:label "azithromycin" ;
+    relationship:SIO_010296 gene_symbol:ALCAM,
+        gene_symbol:ANXA1,
+        gene_symbol:GNAI1,
+        gene_symbol:IQCG,
+        gene_symbol:KRT5,
+        gene_symbol:LAPTM4B,
+        gene_symbol:LMO4,
+        gene_symbol:PI3,
+        gene_symbol:S100A7,
+        gene_symbol:TLR4 ;
+    identifier:lincs.smallmolecule lincs:LSM-5821 ;
+    relationship:SIO_010295 gene_symbol:CD44,
+        gene_symbol:CDC20,
+        gene_symbol:CXCL14,
+        gene_symbol:EEF1A2,
+        gene_symbol:HOXB6,
+        gene_symbol:HOXC6,
+        gene_symbol:OLFM1,
+        gene_symbol:PDGFRL,
+        gene_symbol:PEG10,
+        gene_symbol:RTN2 .
+
+compound:CID1548953 rdfs:label "clomifene" ;
+    relationship:SIO_010296 gene_symbol:CA2,
+        gene_symbol:CRYAB,
+        gene_symbol:CXCL8,
+        gene_symbol:GABRP,
+        gene_symbol:PROM1,
+        gene_symbol:RGCC,
+        gene_symbol:SIK1,
+        gene_symbol:TGFBI,
+        gene_symbol:TSPAN13,
+        gene_symbol:XIST ;
+    identifier:lincs.smallmolecule lincs:LSM-2072 ;
+    relationship:SIO_010295 gene_symbol:ACAT2,
+        gene_symbol:CD9,
+        gene_symbol:DHCR24,
+        gene_symbol:FASN,
+        gene_symbol:HMGCS1,
+        gene_symbol:IDI1,
+        gene_symbol:INSIG1,
+        gene_symbol:MSMO1,
+        gene_symbol:SCD,
+        gene_symbol:SQLE .
+
+compound:CID171548 rdfs:label "biotin" ;
+    relationship:SIO_010296 gene_symbol:AGR2,
+        gene_symbol:AHNAK,
+        gene_symbol:ALCAM,
+        gene_symbol:ANXA10,
+        gene_symbol:ATP2B1,
+        gene_symbol:GULP1,
+        gene_symbol:JAG1,
+        gene_symbol:RPS4Y1,
+        gene_symbol:RPS6KA2,
+        gene_symbol:TSPAN8 ;
+    identifier:lincs.smallmolecule lincs:LSM-5727 ;
+    relationship:SIO_010295 gene_symbol:CCL20,
+        gene_symbol:CX3CR1,
+        gene_symbol:ENPP2,
+        gene_symbol:IKZF1,
+        gene_symbol:LAPTM4B,
+        gene_symbol:LCN2,
+        gene_symbol:MAGEA3,
+        gene_symbol:MAGEA6,
+        gene_symbol:S100A8,
+        gene_symbol:S100A9 .
+
+compound:CID1893 rdfs:label "7-nitroindazole" ;
+    relationship:SIO_010296 gene_symbol:ASNS,
+        gene_symbol:DDIT4,
+        gene_symbol:FAM129A,
+        gene_symbol:FKBP4,
+        gene_symbol:HERPUD1,
+        gene_symbol:HMGCS1,
+        gene_symbol:HMOX1,
+        gene_symbol:NUPR1,
+        gene_symbol:TRIB3,
+        gene_symbol:TSC22D3 ;
+    identifier:lincs.smallmolecule lincs:LSM-5222 ;
+    relationship:SIO_010295 gene_symbol:CCL2,
+        gene_symbol:FST,
+        gene_symbol:IFITM1,
+        gene_symbol:KRT14,
+        gene_symbol:PLK1,
+        gene_symbol:PUF60,
+        gene_symbol:SNX11,
+        gene_symbol:TF,
+        gene_symbol:TXNDC9,
+        gene_symbol:TYRP1 .
+
+compound:CID222786 rdfs:label "cortisone" ;
+    relationship:SIO_010296 gene_symbol:ACKR3,
+        gene_symbol:CAST,
+        gene_symbol:HMOX1,
+        gene_symbol:HPGD,
+        gene_symbol:HSPA8,
+        gene_symbol:IFRD2,
+        gene_symbol:PFN2,
+        gene_symbol:S100A2,
+        gene_symbol:SORL1,
+        gene_symbol:TUBB2A ;
+    identifier:lincs.smallmolecule lincs:LSM-1635 ;
+    relationship:SIO_010295 gene_symbol:GULP1,
+        gene_symbol:NPY,
+        gene_symbol:NUSAP1,
+        gene_symbol:PLCB1,
+        gene_symbol:PRKAR2B,
+        gene_symbol:SRGN,
+        gene_symbol:TCIM,
+        gene_symbol:TFPI,
+        gene_symbol:TFPI2,
+        gene_symbol:TGM2 .
+
+compound:CID29327 rdfs:label "streptozotocin" ;
+    relationship:SIO_010296 gene_symbol:ADH1B,
+        gene_symbol:DEPP1,
+        gene_symbol:HMOX1,
+        gene_symbol:HSPA1A,
+        gene_symbol:HSPA6,
+        gene_symbol:KRT6A,
+        gene_symbol:MMP10,
+        gene_symbol:NDUFA4L2,
+        gene_symbol:PERP,
+        gene_symbol:SERPINB2 ;
+    identifier:lincs.smallmolecule lincs:LSM-5014 ;
+    relationship:SIO_010295 gene_symbol:CDC20,
+        gene_symbol:COL1A2,
+        gene_symbol:DKK1,
+        gene_symbol:DLD,
+        gene_symbol:HNMT,
+        gene_symbol:POSTN,
+        gene_symbol:SERPINA1,
+        gene_symbol:SLC26A2,
+        gene_symbol:TLR4,
+        gene_symbol:ZNF586 .
+
+compound:CID33572 rdfs:label "ritodrine" ;
+    relationship:SIO_010296 gene_symbol:ASS1,
+        gene_symbol:CYP4B1,
+        gene_symbol:E2F2,
+        gene_symbol:IFIT1,
+        gene_symbol:ISG15,
+        gene_symbol:METRN,
+        gene_symbol:MX1,
+        gene_symbol:PDGFRA,
+        gene_symbol:SPINK1,
+        gene_symbol:TFF3 ;
+    identifier:lincs.smallmolecule lincs:LSM-1664 ;
+    relationship:SIO_010295 gene_symbol:APOC1,
+        gene_symbol:CADM1,
+        gene_symbol:CXCL11,
+        gene_symbol:CXCL9,
+        gene_symbol:KYNU,
+        gene_symbol:LTF,
+        gene_symbol:LYZ,
+        gene_symbol:NELL2,
+        gene_symbol:NVL,
+        gene_symbol:SPP1 .
+
+compound:CID34359 rdfs:label "carbidopa" ;
+    relationship:SIO_010296 gene_symbol:AMIGO2,
+        gene_symbol:CD55,
+        gene_symbol:DLK1,
+        gene_symbol:EIF5A,
+        gene_symbol:EPHA3,
+        gene_symbol:IKZF1,
+        gene_symbol:KRT23,
+        gene_symbol:LAPTM4B,
+        gene_symbol:SIK1,
+        gene_symbol:TLR4 ;
+    identifier:lincs.smallmolecule lincs:LSM-5128 ;
+    relationship:SIO_010295 gene_symbol:ASPN,
+        gene_symbol:GRIA2,
+        gene_symbol:GTPBP8,
+        gene_symbol:LTF,
+        gene_symbol:PAK1,
+        gene_symbol:S100A8,
+        gene_symbol:S100A9,
+        gene_symbol:SCGB1D2,
+        gene_symbol:SCGB2A2,
+        gene_symbol:TNFAIP6 .
+
+compound:CID4112 rdfs:label "methotrexate" ;
+    relationship:SIO_010296 gene_symbol:CDC20,
+        gene_symbol:CLC,
+        gene_symbol:FASTKD5,
+        gene_symbol:HSPA1A,
+        gene_symbol:KIF14,
+        gene_symbol:KIF20A,
+        gene_symbol:MAP7,
+        gene_symbol:PLK1,
+        gene_symbol:SCGB2A2,
+        gene_symbol:UBE2S ;
+    identifier:lincs.smallmolecule lincs:LSM-4285 ;
+    relationship:SIO_010295 gene_symbol:ADIRF,
+        gene_symbol:ATF3,
+        gene_symbol:CAMK2N1,
+        gene_symbol:DDB2,
+        gene_symbol:F2RL1,
+        gene_symbol:OXA1L,
+        gene_symbol:PLK2,
+        gene_symbol:SERPINE1,
+        gene_symbol:TNFSF10,
+        gene_symbol:TRIM22 .
+
+compound:CID441289 rdfs:label "pancuronium" ;
+    relationship:SIO_010296 gene_symbol:ANPEP,
+        gene_symbol:CTSZ,
+        gene_symbol:EIF2S3,
+        gene_symbol:F3,
+        gene_symbol:IFI6,
+        gene_symbol:MAGEA12,
+        gene_symbol:MAGEA3,
+        gene_symbol:MAGEA6,
+        gene_symbol:SPINK1,
+        gene_symbol:STUB1 ;
+    identifier:lincs.smallmolecule lincs:LSM-5168 ;
+    relationship:SIO_010295 gene_symbol:CRABP2,
+        gene_symbol:KRT6A,
+        gene_symbol:MAP7,
+        gene_symbol:PI3,
+        gene_symbol:RGCC,
+        gene_symbol:RPS4Y1,
+        gene_symbol:SPARCL1,
+        gene_symbol:SPON1,
+        gene_symbol:TFF1,
+        gene_symbol:ZMYM2 .
+
+compound:CID442972 rdfs:label "cyclopamine" ;
+    relationship:SIO_010296 gene_symbol:CDC20,
+        gene_symbol:CXCL12,
+        gene_symbol:CXCL13,
+        gene_symbol:CXCL14,
+        gene_symbol:MT1E,
+        gene_symbol:PODXL,
+        gene_symbol:PROM1,
+        gene_symbol:SLC39A14,
+        gene_symbol:TIMM9,
+        gene_symbol:TRPS1 ;
+    identifier:lincs.smallmolecule lincs:LSM-4304 ;
+    relationship:SIO_010295 gene_symbol:CD99,
+        gene_symbol:CFD,
+        gene_symbol:DHCR24,
+        gene_symbol:EIF5A,
+        gene_symbol:FADS2,
+        gene_symbol:HMGCS1,
+        gene_symbol:MSMO1,
+        gene_symbol:QPCT,
+        gene_symbol:SCD,
+        gene_symbol:SQLE .
+
+compound:CID444254 rdfs:label "acarbose" ;
+    relationship:SIO_010296 gene_symbol:ATF3,
+        gene_symbol:BEX1,
+        gene_symbol:CD40,
+        gene_symbol:CHI3L1,
+        gene_symbol:CXCL5,
+        gene_symbol:DNAJC6,
+        gene_symbol:GABRP,
+        gene_symbol:GNAI1,
+        gene_symbol:GPM6B,
+        gene_symbol:SRC ;
+    identifier:lincs.smallmolecule lincs:LSM-4345 ;
+    relationship:SIO_010295 gene_symbol:EPCAM,
+        gene_symbol:F13A1,
+        gene_symbol:GNAS,
+        gene_symbol:LRRC17,
+        gene_symbol:MSRB2,
+        gene_symbol:NUSAP1,
+        gene_symbol:PRC1,
+        gene_symbol:SVIL,
+        gene_symbol:TBC1D4,
+        gene_symbol:USP7 .
+
+compound:CID44483336 rdfs:label "fluticasone" ;
+    relationship:SIO_010296 gene_symbol:BASP1,
+        gene_symbol:GEM,
+        gene_symbol:IFI44L,
+        gene_symbol:IGFBP5,
+        gene_symbol:PLK2,
+        gene_symbol:SLC2A10,
+        gene_symbol:TFF3,
+        gene_symbol:TMEM158,
+        gene_symbol:TNC,
+        gene_symbol:TRIB2 ;
+    identifier:lincs.smallmolecule lincs:LSM-3384 ;
+    relationship:SIO_010295 gene_symbol:ATAD2,
+        gene_symbol:CCDC86,
+        gene_symbol:CEBPD,
+        gene_symbol:FKBP5,
+        gene_symbol:GPX3,
+        gene_symbol:HSPA8,
+        gene_symbol:MT1M,
+        gene_symbol:PUF60,
+        gene_symbol:TSC22D3,
+        gene_symbol:ZBTB16 .
+
+compound:CID456201 rdfs:label "ketoconazole" ;
+    relationship:SIO_010296 gene_symbol:CXCL13,
+        gene_symbol:DNAJA3,
+        gene_symbol:HSD17B2,
+        gene_symbol:ITM2C,
+        gene_symbol:MAMLD1,
+        gene_symbol:METRN,
+        gene_symbol:P2RY14,
+        gene_symbol:RELB,
+        gene_symbol:S100P,
+        gene_symbol:SATB2 ;
+    identifier:lincs.smallmolecule lincs:LSM-5430 ;
+    relationship:SIO_010295 gene_symbol:CRABP2,
+        gene_symbol:CXCL2,
+        gene_symbol:FASN,
+        gene_symbol:IGFBP5,
+        gene_symbol:LGALS1,
+        gene_symbol:NSDHL,
+        gene_symbol:NUP85,
+        gene_symbol:SCD,
+        gene_symbol:SERPINB2,
+        gene_symbol:TACSTD2 .
+
+compound:CID5320346 rdfs:label "hydrocortisone" ;
+    relationship:SIO_010296 gene_symbol:CCL2,
+        gene_symbol:CXCL8,
+        gene_symbol:HMOX1,
+        gene_symbol:IER3,
+        gene_symbol:INSIG1,
+        gene_symbol:JUN,
+        gene_symbol:OLFM4,
+        gene_symbol:PHLDA1,
+        gene_symbol:SMAD3,
+        gene_symbol:SOX9 ;
+    identifier:lincs.smallmolecule lincs:LSM-1280 ;
+    relationship:SIO_010295 gene_symbol:CEBPD,
+        gene_symbol:FKBP5,
+        gene_symbol:IRS2,
+        gene_symbol:KLF9,
+        gene_symbol:NFKBIA,
+        gene_symbol:PER1,
+        gene_symbol:S100A8,
+        gene_symbol:SIK1,
+        gene_symbol:TSC22D3,
+        gene_symbol:ZBTB16 .
+
+compound:CID5702007 rdfs:label "amikacin" ;
+    relationship:SIO_010296 gene_symbol:ADD3,
+        gene_symbol:ALCAM,
+        gene_symbol:AREG,
+        gene_symbol:BHLHE41,
+        gene_symbol:CDKN1A,
+        gene_symbol:CXCL12,
+        gene_symbol:GREM1,
+        gene_symbol:LY75,
+        gene_symbol:PROM1,
+        gene_symbol:SGK1 ;
+    identifier:lincs.smallmolecule lincs:LSM-5935 ;
+    relationship:SIO_010295 gene_symbol:AKR1B10,
+        gene_symbol:ALDH1A2,
+        gene_symbol:GRIA2,
+        gene_symbol:GSTA4,
+        gene_symbol:HPGD,
+        gene_symbol:KRT16,
+        gene_symbol:PMP22,
+        gene_symbol:SLC1A3,
+        gene_symbol:TGM2,
+        gene_symbol:TNFSF10 .
+
+compound:CID5742673 rdfs:label "cefotaxime" ;
+    relationship:SIO_010296 gene_symbol:AKR1C3,
+        gene_symbol:COMP,
+        gene_symbol:EGR3,
+        gene_symbol:G0S2,
+        gene_symbol:HMGCS1,
+        gene_symbol:IFI27,
+        gene_symbol:ISG15,
+        gene_symbol:TUBB2B,
+        gene_symbol:TXNDC9,
+        gene_symbol:UBQLN2 ;
+    identifier:lincs.smallmolecule lincs:LSM-5124 ;
+    relationship:SIO_010295 gene_symbol:ANPEP,
+        gene_symbol:CASP2,
+        gene_symbol:IGFBP2,
+        gene_symbol:LY6E,
+        gene_symbol:MYBL1,
+        gene_symbol:PLAT,
+        gene_symbol:PROM1,
+        gene_symbol:RGS4,
+        gene_symbol:SORBS2,
+        gene_symbol:WNT5A .
+
+compound:CID5994 rdfs:label "progesterone" ;
+    relationship:SIO_010296 gene_symbol:ATP6V1D,
+        gene_symbol:CDKN1A,
+        gene_symbol:CYP1B1,
+        gene_symbol:GRIA2,
+        gene_symbol:HBB,
+        gene_symbol:HMOX1,
+        gene_symbol:IER3,
+        gene_symbol:JUN,
+        gene_symbol:MMP12,
+        gene_symbol:PLPP3 ;
+    identifier:lincs.smallmolecule lincs:LSM-1728 ;
+    relationship:SIO_010295 gene_symbol:AKAP12,
+        gene_symbol:ASS1,
+        gene_symbol:CEBPD,
+        gene_symbol:DKK1,
+        gene_symbol:DNM1L,
+        gene_symbol:HMGCS1,
+        gene_symbol:IRS2,
+        gene_symbol:KRT19,
+        gene_symbol:TACSTD2,
+        gene_symbol:ZBTB16 .
+
+compound:CID6093179 rdfs:label "estropipate" ;
+    relationship:SIO_010296 gene_symbol:AKR1C3,
+        gene_symbol:CLU,
+        gene_symbol:DDIT4,
+        gene_symbol:F2RL1,
+        gene_symbol:FABP5,
+        gene_symbol:HMGCS1,
+        gene_symbol:NEBL,
+        gene_symbol:PCP4,
+        gene_symbol:TRAPPC3,
+        gene_symbol:ZNF91 ;
+    identifier:lincs.smallmolecule lincs:LSM-1389 ;
+    relationship:SIO_010295 gene_symbol:ADCY1,
+        gene_symbol:CDC42EP3,
+        gene_symbol:EXOSC4,
+        gene_symbol:HSPA8,
+        gene_symbol:MRPS2,
+        gene_symbol:PDGFC,
+        gene_symbol:PLAT,
+        gene_symbol:STUB1,
+        gene_symbol:WNT5A,
+        gene_symbol:WT1 .
+
+compound:CID657309 rdfs:label "ipratropium" ;
+    relationship:SIO_010296 gene_symbol:ASS1,
+        gene_symbol:CD55,
+        gene_symbol:CHI3L1,
+        gene_symbol:CXCL2,
+        gene_symbol:CYP1B1,
+        gene_symbol:GREM1,
+        gene_symbol:HMGCS1,
+        gene_symbol:NXN,
+        gene_symbol:TFF3,
+        gene_symbol:ZNF586 ;
+    identifier:lincs.smallmolecule lincs:LSM-1268 ;
+    relationship:SIO_010295 gene_symbol:ADD3,
+        gene_symbol:CA2,
+        gene_symbol:LGALS3,
+        gene_symbol:LTF,
+        gene_symbol:MSX1,
+        gene_symbol:PRPF4,
+        gene_symbol:S100P,
+        gene_symbol:SELENOP,
+        gene_symbol:SRC,
+        gene_symbol:TARP .
+
+compound:CID9782 rdfs:label "betamethasone" ;
+    relationship:SIO_010296 gene_symbol:ASNS,
+        gene_symbol:GEM,
+        gene_symbol:HMOX1,
+        gene_symbol:ID4,
+        gene_symbol:IER3,
+        gene_symbol:IFI27,
+        gene_symbol:INSIG1,
+        gene_symbol:JCHAIN,
+        gene_symbol:SLC7A11,
+        gene_symbol:SOX9 ;
+    identifier:lincs.smallmolecule lincs:LSM-1248 ;
+    relationship:SIO_010295 gene_symbol:FKBP5,
+        gene_symbol:GLUL,
+        gene_symbol:MAOA,
+        gene_symbol:MME,
+        gene_symbol:NFKBIA,
+        gene_symbol:PDZK1IP1,
+        gene_symbol:RGCC,
+        gene_symbol:S100A8,
+        gene_symbol:TSC22D3,
+        gene_symbol:ZBTB16 .
+
