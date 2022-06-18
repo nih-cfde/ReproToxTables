@@ -1,0 +1,180 @@
+﻿meddra_name,drug_name,smiles,id,struct_id,meddra_code,level,llr,llr_threshold
+Spinal cord compression,abiraterone acetate,CC(=O)O[C@H]1CC[C@]2(C)[C@H]3CC[C@@]4(C)[C@@H](CC=C4C4=CC=CN=C4)[C@@H]3CC=C2C1,3412448,4176,10041549,PT,50.678,16.197
+Aortic aneurysm,acetylsalicylic acid,CC(=O)OC1=CC=CC=C1C(O)=O,2785511,74,10002882,PT,27.164,12.956
+Atrial septal defect,alpha-tocopherol acetate,CC(C)CCC[C@@H](C)CCC[C@@H](C)CCC[C@]1(C)CCC2=C(C)C(OC(C)=O)=C(C)C(C)=C2O1,2808650,4195,10003664,PT,66.591,9.843
+Ventricular septal defect,alpha-tocopherol acetate,CC(C)CCC[C@@H](C)CCC[C@@H](C)CCC[C@]1(C)CCC2=C(C)C(OC(C)=O)=C(C)C(C)=C2O1,3475274,4195,10047298,PT,41.794,9.843
+Aortic dissection,amlodipine,CCOC(=O)C1=C(COCCN)NC(C)=C(C1C1=C(Cl)C=CC=C1)C(=O)OC,2786066,183,10002895,PT,23.073,10.779
+Atrial septal defect,ascorbic acid,OC[C@H](O)[C@H]1OC(=O)C(O)=C1O,2808573,4072,10003664,PT,50.262,9.994
+Ventricular septal defect,ascorbic acid,OC[C@H](O)[C@H]1OC(=O)C(O)=C1O,3475208,4072,10047298,PT,34.752,9.994
+Atrial septal defect,atorvastatin,CC(C)C1=C(C(=O)NC2=CC=CC=C2)C(=C(N1CC[C@@H](O)C[C@@H](O)CC(O)=O)C1=CC=C(F)C=C1)C1=CC=CC=C1,2808616,257,10003664,PT,35.544,11.219
+Atrial septal defect,betamethasone,C[C@H]1C[C@H]2[C@@H]3CCC4=CC(=O)C=C[C@]4(C)[C@@]3(F)[C@@H](O)C[C@]2(C)[C@@]1(O)C(=O)CO,2808827,348,10003664,PT,112.693,14.335
+Patent ductus arteriosus,betamethasone,C[C@H]1C[C@H]2[C@@H]3CCC4=CC(=O)C=C[C@]4(C)[C@@]3(F)[C@@H](O)C[C@]2(C)[C@@]1(O)C(=O)CO,3289454,348,10034130,PT,163.223,14.335
+Aortic dissection,bevacizumab,(null),2786217,4956,10002895,PT,31.064,13.561
+Spinal cord compression,bortezomib,CC(C)C[C@H](NC(=O)[C@H](CC1=CC=CC=C1)NC(=O)C1=CN=CC=N1)B(O)O,3412445,391,10041549,PT,44.882,12.265
+Anencephaly,candesartan cilexetil,CCOC1=NC2=C(N1CC1=CC=C(C=C1)C1=C(C=CC=C1)C1=NN=NN1)C(=CC=C2)C(=O)OC(C)OC(=O)OC1CCCCC1,2778198,475,10002320,PT,33.866,10.5
+Aortic aneurysm,chlorphenamine,CN(C)CCC(C1=CC=C(Cl)C=C1)C1=CC=CC=N1,2785751,616,10002882,PT,33.264,15.033
+Aortic valve prolapse,ciprofloxacin,OC(=O)C1=CN(C2CC2)C2=CC(N3CCNCC3)=C(F)C=C2C1=O,3610050,659,10057454,PT,33.371,9.905
+Atrial septal defect,citalopram,CN(C)CCCC1(OCC2=C1C=CC(=C2)C#N)C1=CC=C(F)C=C1,2808668,663,10003664,PT,81.095,10.608
+Patent ductus arteriosus,citalopram,CN(C)CCCC1(OCC2=C1C=CC(=C2)C#N)C1=CC=C(F)C=C1,3289354,663,10034130,PT,31.11,10.608
+Atrial septal defect,colecalciferol,CC(C)CCC[C@@H](C)[C@H]1CC[C@H]2\C(CCC[C@]12C)=C\C=C1\C[C@@H](O)CCC1=C,2808602,2840,10003664,PT,32.005,10.463
+Atrial septal defect,cyanocobalamin,(null),2808646,4196,10003664,PT,53.396,10.236
+Ventricular septal defect,cyanocobalamin,(null),3475270,4196,10047298,PT,31.844,10.236
+Aortic dissection,dabigatran etexilate,CCCCCCOC(=O)NC(=N)C1=CC=C(NCC2=NC3=CC(=CC=C3N2C)C(=O)N(CCC(=O)OCC)C2=NC=CC=C2)C=C1,2786206,776,10002895,PT,160.899,14.084
+Atrial septal defect,dexamethasone,C[C@@H]1C[C@H]2[C@@H]3CCC4=CC(=O)C=C[C@]4(C)[C@@]3(F)[C@@H](O)C[C@]2(C)[C@@]1(O)C(=O)CO,2808689,824,10003664,PT,24.974,11.147
+Spinal cord compression,dexamethasone,C[C@@H]1C[C@H]2[C@@H]3CCC4=CC(=O)C=C[C@]4(C)[C@@]3(F)[C@@H](O)C[C@]2(C)[C@@]1(O)C(=O)CO,3412423,824,10041549,PT,53.362,11.147
+Atrial septal defect,dihydralazine,N\N=C1/NN\C(=N/N)C2=C1C=CC=C2,2808871,884,10003664,PT,109.959,45.145
+Patent ductus arteriosus,dihydralazine,N\N=C1/NN\C(=N/N)C2=C1C=CC=C2,3289481,884,10034130,PT,94.177,45.145
+Ventricular septal defect,dihydralazine,N\N=C1/NN\C(=N/N)C2=C1C=CC=C2,3475418,884,10047298,PT,103.361,45.145
+Aortic aneurysm,doxycycline,C[C@@H]1[C@H]2[C@H](O)[C@H]3[C@H](N(C)C)C(O)=C(C(N)=O)C(=O)[C@@]3(O)C(O)=C2C(=O)C2=C(O)C=CC=C12,2785723,961,10002882,PT,24.288,11.151
+Trisomy 21,emtricitabine,NC1=NC(=O)N(C=C1F)[C@@H]1CS[C@H](CO)O1,3459396,1003,10044688,PT,39.974,11.999
+Ventricular septal defect,emtricitabine,NC1=NC(=O)N(C=C1F)[C@@H]1CS[C@H](CO)O1,3475260,1003,10047298,PT,29.09,11.999
+Trisomy 18,emtricitabine,NC1=NC(=O)N(C=C1F)[C@@H]1CS[C@H](CO)O1,3584276,1003,10053884,PT,36.525,11.999
+Spinal cord compression,enzalutamide,CNC(=O)C1=C(F)C=C(C=C1)N1C(=S)N(C(=O)C1(C)C)C1=CC(=C(C=C1)C#N)C(F)(F)F,3412386,4628,10041549,PT,62.746,17.079
+Anencephaly,escitalopram,CN(C)CCC[C@]1(OCC2=C1C=CC(=C2)C#N)C1=CC=C(F)C=C1,2778196,1053,10002320,PT,34.129,10.311
+Trisomy 21,escitalopram,CN(C)CCC[C@]1(OCC2=C1C=CC(=C2)C#N)C1=CC=C(F)C=C1,3459415,1053,10044688,PT,21.48,10.311
+Trisomy 18,escitalopram,CN(C)CCC[C@]1(OCC2=C1C=CC(=C2)C#N)C1=CC=C(F)C=C1,3584280,1053,10053884,PT,32.765,10.311
+Atrial septal defect,etanercept,(null),2808569,4978,10003664,PT,29.778,13.505
+Hydrocephalus,ethambutol,CC[C@@H](CO)NCCN[C@@H](CC)CO,3094797,1073,10020508,PT,46.169,18.609
+Trisomy 18,fluticasone furoate,C[C@@H]1C[C@H]2[C@@H]3C[C@H](F)C4=CC(=O)C=C[C@]4(C)[C@@]3(F)[C@@H](O)C[C@]2(C)[C@@]1(OC(=O)C1=CC=CO1)C(=O)SCF,3584288,4554,10053884,PT,46.182,13.554
+Trisomy 18,fluticasone propionate,CCC(=O)O[C@@]1([C@H](C)C[C@H]2[C@@H]3C[C@H](F)C4=CC(=O)C=C[C@]4(C)[C@@]3(F)[C@@H](O)C[C@]12C)C(=O)SCF,3584267,1225,10053884,PT,25.004,10.161
+Atrial septal defect,folic acid,NC1=NC(=O)C2=NC(CNC3=CC=C(C=C3)C(=O)N[C@@H](CCC(O)=O)C(O)=O)=CNC2=N1,2808640,1231,10003664,PT,232.266,9.709
+Low set ears,folic acid,NC1=NC(=O)C2=NC(CNC3=CC=C(C=C3)C(=O)N[C@@H](CCC(O)=O)C(O)=O)=CNC2=N1,3181494,1231,10024929,PT,25.339,9.709
+Patent ductus arteriosus,folic acid,NC1=NC(=O)C2=NC(CNC3=CC=C(C=C3)C(=O)N[C@@H](CCC(O)=O)C(O)=O)=CNC2=N1,3289327,1231,10034130,PT,50.236,9.709
+Spina bifida,folic acid,NC1=NC(=O)C2=NC(CNC3=CC=C(C=C3)C(=O)N[C@@H](CCC(O)=O)C(O)=O)=CNC2=N1,3411795,1231,10041524,PT,36.561,9.709
+Ventricular septal defect,folic acid,NC1=NC(=O)C2=NC(CNC3=CC=C(C=C3)C(=O)N[C@@H](CCC(O)=O)C(O)=O)=CNC2=N1,3475263,1231,10047298,PT,139.186,9.709
+Spinal cord compression,galsulfase,(null),3412552,5101,10041549,PT,151.186,48.445
+Atrial septal defect,insulin human,(null),2808608,5003,10003664,PT,23.137,9.84
+Aortic aneurysm,ipratropium,CC(C)[N+]1(C)[C@H]2CC[C@@H]1C[C@@H](C2)OC(=O)C(CO)C1=CC=CC=C1,2785797,1475,10002882,PT,22.316,10.981
+Hydrocephalus,isoniazid,NNC(=O)C1=CC=NC=C1,3094860,1497,10020508,PT,48.39,13.785
+Coarctation of the aorta,lacosamide,COC[C@@H](NC(C)=O)C(=O)NCC1=CC=CC=C1,2900762,4310,10009807,PT,36.394,17.775
+Cerebellar hypoplasia,lamivudine,NC1=NC(=O)N(C=C1)[C@@H]1CS[C@H](CO)O1,2879165,1539,10008033,PT,23.823,11.728
+Diaphragmatic hernia,lamivudine,NC1=NC(=O)N(C=C1)[C@@H]1CS[C@H](CO)O1,2944584,1539,10012713,PT,26.685,11.728
+Low set ears,lamivudine,NC1=NC(=O)N(C=C1)[C@@H]1CS[C@H](CO)O1,3181491,1539,10024929,PT,24.958,11.728
+Trisomy 21,lamivudine,NC1=NC(=O)N(C=C1)[C@@H]1CS[C@H](CO)O1,3459395,1539,10044688,PT,108.786,11.728
+Ventricular septal defect,lamivudine,NC1=NC(=O)N(C=C1)[C@@H]1CS[C@H](CO)O1,3475259,1539,10047298,PT,30.222,11.728
+Atrial septal defect,lamotrigine,NC1=NN=C(C(N)=N1)C1=C(Cl)C(Cl)=CC=C1,2808654,1540,10003664,PT,233.459,11.954
+Bicuspid aortic valve,lamotrigine,NC1=NN=C(C(N)=N1)C1=C(Cl)C(Cl)=CC=C1,2817783,1540,10004552,PT,27.736,11.954
+Cleft lip,lamotrigine,NC1=NN=C(C(N)=N1)C1=C(Cl)C(Cl)=CC=C1,2898383,1540,10009259,PT,26.76,11.954
+Cleft palate,lamotrigine,NC1=NN=C(C(N)=N1)C1=C(Cl)C(Cl)=CC=C1,2898478,1540,10009269,PT,46.659,11.954
+Coarctation of the aorta,lamotrigine,NC1=NN=C(C(N)=N1)C1=C(Cl)C(Cl)=CC=C1,2900778,1540,10009807,PT,33.526,11.954
+Hypoplastic left heart syndrome,lamotrigine,NC1=NN=C(C(N)=N1)C1=C(Cl)C(Cl)=CC=C1,3121967,1540,10021076,PT,53.022,11.954
+Patent ductus arteriosus,lamotrigine,NC1=NN=C(C(N)=N1)C1=C(Cl)C(Cl)=CC=C1,3289341,1540,10034130,PT,92.53,11.954
+Ventricular septal defect,lamotrigine,NC1=NN=C(C(N)=N1)C1=C(Cl)C(Cl)=CC=C1,3475278,1540,10047298,PT,109.515,11.954
+Anencephaly,levetiracetam,CC[C@H](N1CCCC1=O)C(N)=O,2778178,1563,10002320,PT,28.377,10.96
+Atrial septal defect,levetiracetam,CC[C@H](N1CCCC1=O)C(N)=O,2808591,1563,10003664,PT,44.498,10.96
+Hydrocephalus,levetiracetam,CC[C@H](N1CCCC1=O)C(N)=O,3094573,1563,10020508,PT,23.215,10.96
+Ventricular septal defect,levetiracetam,CC[C@H](N1CCCC1=O)C(N)=O,3475225,1563,10047298,PT,38.119,10.96
+Trisomy 18,levocetirizine,OC(=O)COCCN1CCN(CC1)[C@H](C1=CC=CC=C1)C1=CC=C(Cl)C=C1,3584289,1566,10053884,PT,58.551,14.412
+Aortic rupture,levofloxacin,C[C@H]1COC2=C(N3CCN(C)CC3)C(F)=CC3=C2N1C=C(C(O)=O)C3=O,3646629,1569,10060874,PT,30.621,10.122
+Anencephaly,levothyroxine,N[C@@H](CC1=CC(I)=C(OC2=CC(I)=C(O)C(I)=C2)C(I)=C1)C(O)=O,2778180,2646,10002320,PT,20.588,10.204
+Aortic aneurysm,levothyroxine,N[C@@H](CC1=CC(I)=C(OC2=CC(I)=C(O)C(I)=C2)C(I)=C1)C(O)=O,2785530,2646,10002882,PT,21.346,10.204
+Atrial septal defect,levothyroxine,N[C@@H](CC1=CC(I)=C(OC2=CC(I)=C(O)C(I)=C2)C(I)=C1)C(O)=O,2808603,2646,10003664,PT,120.151,10.204
+Patent ductus arteriosus,levothyroxine,N[C@@H](CC1=CC(I)=C(OC2=CC(I)=C(O)C(I)=C2)C(I)=C1)C(O)=O,3289300,2646,10034130,PT,39.466,10.204
+Ventricular septal defect,levothyroxine,N[C@@H](CC1=CC(I)=C(OC2=CC(I)=C(O)C(I)=C2)C(I)=C1)C(O)=O,3475233,2646,10047298,PT,27.239,10.204
+Gastroschisis,lopinavir,CC(C)[C@H](N1CCCNC1=O)C(=O)N[C@H](C[C@H](O)[C@H](CC1=CC=CC=C1)NC(=O)COC1=C(C)C=CC=C1C)CC1=CC=CC=C1,3042088,1601,10018046,PT,31.749,14.493
+Low set ears,lopinavir,CC(C)[C@H](N1CCCNC1=O)C(=O)N[C@H](C[C@H](O)[C@H](CC1=CC=CC=C1)NC(=O)COC1=C(C)C=CC=C1C)CC1=CC=CC=C1,3181517,1601,10024929,PT,31.396,14.493
+Trisomy 21,lopinavir,CC(C)[C@H](N1CCCNC1=O)C(=O)N[C@H](C[C@H](O)[C@H](CC1=CC=CC=C1)NC(=O)COC1=C(C)C=CC=C1C)CC1=CC=CC=C1,3459424,1601,10044688,PT,93.944,14.493
+Ventricular septal defect,lopinavir,CC(C)[C@H](N1CCCNC1=O)C(=O)N[C@H](C[C@H](O)[C@H](CC1=CC=CC=C1)NC(=O)COC1=C(C)C=CC=C1C)CC1=CC=CC=C1,3475367,1601,10047298,PT,37.4,14.493
+Atrial septal defect,magnesium oxide,O=[Mg],2808644,4293,10003664,PT,54.811,9.993
+Ventricular septal defect,magnesium oxide,O=[Mg],3475268,4293,10047298,PT,34.871,9.993
+Atrial septal defect,manganese sulfate,(null),2808649,4461,10003664,PT,73.13,9.854
+Patent ductus arteriosus,manganese sulfate,(null),3289336,4461,10034130,PT,21.341,9.854
+Ventricular septal defect,manganese sulfate,(null),3475273,4461,10047298,PT,48.989,9.854
+Atrial septal defect,methotrexate,CN(CC1=CN=C2N=C(N)N=C(N)C2=N1)C1=CC=C(C=C1)C(=O)N[C@@H](CCC(O)=O)C(O)=O,2808641,1751,10003664,PT,25.635,11.18
+Atrial septal defect,methyldopa,C[C@](N)(CC1=CC(O)=C(O)C=C1)C(O)=O,2808866,1762,10003664,PT,403.571,49.15
+Patent ductus arteriosus,methyldopa,C[C@](N)(CC1=CC(O)=C(O)C=C1)C(O)=O,3289480,1762,10034130,PT,204.131,49.15
+Ventricular septal defect,methyldopa,C[C@](N)(CC1=CC(O)=C(O)C=C1)C(O)=O,3475416,1762,10047298,PT,108.462,49.15
+Anencephaly,misoprostol,CCCCC(C)(O)C\C=C\[C@H]1[C@H](O)CC(=O)[C@@H]1CCCCCCC(=O)OC,2778199,1817,10002320,PT,65.894,14.964
+Microtia,mycophenolate mofetil,COC1=C(C)C2=C(C(=O)OC2)C(O)=C1C\C=C(/C)CCC(=O)OCCN1CCOCC1,3206952,1859,10027555,PT,51.666,10.779
+Trisomy 21,nevirapine,CC1=CC=NC2=C1NC(=O)C1=CC=CN=C1N2C1CC1,3459426,1904,10044688,PT,72.434,19.073
+Atrial septal defect,nicotinamide,NC(=O)C1=CN=CC=C1,2808643,1906,10003664,PT,67.469,10.004
+Ventricular septal defect,nicotinamide,NC(=O)C1=CN=CC=C1,3475267,1906,10047298,PT,43.889,10.004
+Atrial septal defect,ondansetron,CN1C2=C(C3=CC=CC=C13)C(=O)C(CN1C=CN=C1C)CC2,2808673,1992,10003664,PT,31.481,10.293
+Cleft palate,ondansetron,CN1C2=C(C3=CC=CC=C13)C(=O)C(CN1C=CN=C1C)CC2,2898484,1992,10009269,PT,22.628,10.293
+Endocardial fibroelastosis,ondansetron,CN1C2=C(C3=CC=CC=C13)C(=O)C(CN1C=CN=C1C)CC2,2989342,1992,10014663,PT,20.997,10.293
+Hypoplastic left heart syndrome,ondansetron,CN1C2=C(C3=CC=CC=C13)C(=O)C(CN1C=CN=C1C)CC2,3121972,1992,10021076,PT,33.775,10.293
+Right aortic arch,ondansetron,CN1C2=C(C3=CC=CC=C13)C(=O)C(CN1C=CN=C1C)CC2,3755610,1992,10067407,PT,21.196,10.293
+Anencephaly,paroxetine,FC1=CC=C(C=C1)[C@@H]1CCNC[C@H]1COC1=CC2=C(OCO2)C=C1,2778182,2068,10002320,PT,31.333,10.61
+Atrial septal defect,paroxetine,FC1=CC=C(C=C1)[C@@H]1CCNC[C@H]1COC1=CC2=C(OCO2)C=C1,2808625,2068,10003664,PT,814.552,10.61
+Bicuspid aortic valve,paroxetine,FC1=CC=C(C=C1)[C@@H]1CCNC[C@H]1COC1=CC2=C(OCO2)C=C1,2817771,2068,10004552,PT,162.105,10.61
+Cleft lip,paroxetine,FC1=CC=C(C=C1)[C@@H]1CCNC[C@H]1COC1=CC2=C(OCO2)C=C1,2898366,2068,10009259,PT,23.754,10.61
+Cleft palate,paroxetine,FC1=CC=C(C=C1)[C@@H]1CCNC[C@H]1COC1=CC2=C(OCO2)C=C1,2898455,2068,10009269,PT,55.7,10.61
+Coarctation of the aorta,paroxetine,FC1=CC=C(C=C1)[C@@H]1CCNC[C@H]1COC1=CC2=C(OCO2)C=C1,2900763,2068,10009807,PT,183.181,10.61
+Dextrocardia,paroxetine,FC1=CC=C(C=C1)[C@@H]1CCNC[C@H]1COC1=CC2=C(OCO2)C=C1,2941416,2068,10012592,PT,24.097,10.61
+Double outlet right ventricle,paroxetine,FC1=CC=C(C=C1)[C@@H]1CCNC[C@H]1COC1=CC2=C(OCO2)C=C1,2956567,2068,10013611,PT,62.601,10.61
+Hypoplastic left heart syndrome,paroxetine,FC1=CC=C(C=C1)[C@@H]1CCNC[C@H]1COC1=CC2=C(OCO2)C=C1,3121963,2068,10021076,PT,154.433,10.61
+Patent ductus arteriosus,paroxetine,FC1=CC=C(C=C1)[C@@H]1CCNC[C@H]1COC1=CC2=C(OCO2)C=C1,3289318,2068,10034130,PT,465.602,10.61
+Pulmonary artery stenosis,paroxetine,FC1=CC=C(C=C1)[C@@H]1CCNC[C@H]1COC1=CC2=C(OCO2)C=C1,3334827,2068,10037338,PT,27.889,10.61
+Pulmonary valve stenosis,paroxetine,FC1=CC=C(C=C1)[C@@H]1CCNC[C@H]1COC1=CC2=C(OCO2)C=C1,3340913,2068,10037450,PT,229.067,10.61
+Ventricular septal defect,paroxetine,FC1=CC=C(C=C1)[C@@H]1CCNC[C@H]1COC1=CC2=C(OCO2)C=C1,3475252,2068,10047298,PT,568.905,10.61
+Right aortic arch,paroxetine,FC1=CC=C(C=C1)[C@@H]1CCNC[C@H]1COC1=CC2=C(OCO2)C=C1,3755605,2068,10067407,PT,35.887,10.61
+Cerebellar atrophy,phenytoin,O=C1NC(=O)C(N1)(C1=CC=CC=C1)C1=CC=CC=C1,2878935,2152,10008027,PT,157.958,12.033
+Cerebral atrophy,phenytoin,O=C1NC(=O)C(N1)(C1=CC=CC=C1)C1=CC=CC=C1,2879969,2152,10008096,PT,39.453,12.033
+Hypoplastic left heart syndrome,phenytoin,O=C1NC(=O)C(N1)(C1=CC=CC=C1)C1=CC=CC=C1,3121953,2152,10021076,PT,30.356,12.033
+Diaphragmatic hernia,prednisone,C[C@]12CC(=O)[C@H]3[C@@H](CCC4=CC(=O)C=C[C@]34C)[C@@H]1CC[C@]2(O)C(=O)CO,2944598,2253,10012713,PT,24.208,11.139
+Atrial septal defect,promethazine,CC(CN1C2=CC=CC=C2SC2=C1C=CC=C2)N(C)C,2808662,2286,10003664,PT,22.084,11.037
+Dextrocardia,promethazine,CC(CN1C2=CC=CC=C2SC2=C1C=CC=C2)N(C)C,2941421,2286,10012592,PT,22.802,11.037
+Facial asymmetry,propafenone,CCCNCC(O)COC1=C(C=CC=C1)C(=O)CCC1=CC=CC=C1,3769445,2291,10068737,PT,54.781,17.587
+Hydrocephalus,pyrazinamide,NC(=O)C1=NC=CN=C1,3094850,2328,10020508,PT,41.455,19.635
+Atrial septal defect,pyridoxine,CC1=C(O)C(CO)=C(CO)C=N1,2808651,2836,10003664,PT,60.823,10.19
+Ventricular septal defect,pyridoxine,CC1=C(O)C(CO)=C(CO)C=N1,3475275,2836,10047298,PT,37.683,10.19
+Atrial septal defect,quetiapine,OCCOCCN1CCN(CC1)C1=NC2=CC=CC=C2SC2=CC=CC=C12,2808626,2337,10003664,PT,31.756,11.647
+Spinal cord compression,radium Ra 223 dichloride,Cl[223Ra]Cl,3412591,4800,10041549,PT,148.69,32.264
+Patent ductus arteriosus,ramipril,CCOC(=O)[C@H](CCC1=CC=CC=C1)N[C@@H](C)C(=O)N1[C@H]2CCC[C@H]2C[C@H]1C(O)=O,3289311,2356,10034130,PT,24.592,10.595
+Atrial septal defect,retinol acetate,CC(=O)OC\C=C(/C)\C=C\C=C(/C)\C=C\C1=C(C)CCCC1(C)C,2808645,2372,10003664,PT,73.109,9.821
+Patent ductus arteriosus,retinol acetate,CC(=O)OC\C=C(/C)\C=C\C=C(/C)\C=C\C1=C(C)CCCC1(C)C,3289332,2372,10034130,PT,21.334,9.821
+Ventricular septal defect,retinol acetate,CC(=O)OC\C=C(/C)\C=C\C=C(/C)\C=C\C1=C(C)CCCC1(C)C,3475269,2372,10047298,PT,48.976,9.821
+Atrial septal defect,riboflavin,CC1=CC2=C(C=C1C)N(C[C@H](O)[C@H](O)[C@H](O)CO)C1=NC(=O)NC(=O)C1=N2,2808648,2834,10003664,PT,70.588,9.904
+Patent ductus arteriosus,riboflavin,CC1=CC2=C(C=C1C)N(C[C@H](O)[C@H](O)[C@H](O)CO)C1=NC(=O)NC(=O)C1=N2,3289335,2834,10034130,PT,20.446,9.904
+Ventricular septal defect,riboflavin,CC1=CC2=C(C=C1C)N(C[C@H](O)[C@H](O)[C@H](O)CO)C1=NC(=O)NC(=O)C1=N2,3475272,2834,10047298,PT,47.434,9.904
+Hydrocephalus,rifampicin,CO[C@H]1\C=C\O[C@@]2(C)OC3=C(C)C(O)=C4C(O)=C(NC(=O)\C(C)=C/C=C/[C@H](C)[C@H](O)[C@@H](C)[C@@H](O)[C@@H](C)[C@H](OC(C)=O)[C@@H]1C)C(C=NN1CCN(C)CC1)=C(O)C4=C3C2=O,3094842,2377,10020508,PT,34.548,14.715
+Aortic valve prolapse,rifampicin,CO[C@H]1\C=C\O[C@@]2(C)OC3=C(C)C(O)=C4C(O)=C(NC(=O)\C(C)=C/C=C/[C@H](C)[C@H](O)[C@@H](C)[C@@H](O)[C@@H](C)[C@H](OC(C)=O)[C@@H]1C)C(C=NN1CCN(C)CC1)=C(O)C4=C3C2=O,3610051,2377,10057454,PT,30.557,14.715
+Diaphragmatic hernia,ritonavir,CC(C)[C@H](NC(=O)N(C)CC1=CSC(=N1)C(C)C)C(=O)N[C@H](C[C@H](O)[C@H](CC1=CC=CC=C1)NC(=O)OCC1=CN=CS1)CC1=CC=CC=C1,2944583,2391,10012713,PT,24.602,11.255
+Gastroschisis,ritonavir,CC(C)[C@H](NC(=O)N(C)CC1=CSC(=N1)C(C)C)C(=O)N[C@H](C[C@H](O)[C@H](CC1=CC=CC=C1)NC(=O)OCC1=CN=CS1)CC1=CC=CC=C1,3042070,2391,10018046,PT,23.024,11.255
+Low set ears,ritonavir,CC(C)[C@H](NC(=O)N(C)CC1=CSC(=N1)C(C)C)C(=O)N[C@H](C[C@H](O)[C@H](CC1=CC=CC=C1)NC(=O)OCC1=CN=CS1)CC1=CC=CC=C1,3181490,2391,10024929,PT,28.25,11.255
+Trisomy 21,ritonavir,CC(C)[C@H](NC(=O)N(C)CC1=CSC(=N1)C(C)C)C(=O)N[C@H](C[C@H](O)[C@H](CC1=CC=CC=C1)NC(=O)OCC1=CN=CS1)CC1=CC=CC=C1,3459394,2391,10044688,PT,128.264,11.255
+Ventricular septal defect,ritonavir,CC(C)[C@H](NC(=O)N(C)CC1=CSC(=N1)C(C)C)C(=O)N[C@H](C[C@H](O)[C@H](CC1=CC=CC=C1)NC(=O)OCC1=CN=CS1)CC1=CC=CC=C1,3475258,2391,10047298,PT,56.83,11.255
+Hydrocephalus,rivaroxaban,ClC1=CC=C(S1)C(=O)NC[C@H]1CN(C(=O)O1)C1=CC=C(C=C1)N1CCOCC1=O,3094574,4182,10020508,PT,26.31,11.84
+Aortic aneurysm,rofecoxib,CS(=O)(=O)C1=CC=C(C=C1)C1=C(C(=O)OC1)C1=CC=CC=C1,2785818,2397,10002882,PT,73.447,16.223
+Trisomy 18,salmeterol,OCC1=C(O)C=CC(=C1)C(O)CNCCCCCCOCCCCC1=CC=CC=C1,3584268,2419,10053884,PT,32.669,10.811
+Atrial septal defect,sertraline,CN[C@H]1CC[C@@H](C2=CC(Cl)=C(Cl)C=C2)C2=CC=CC=C12,2808701,2436,10003664,PT,87.582,10.203
+Patent ductus arteriosus,sertraline,CN[C@H]1CC[C@@H](C2=CC(Cl)=C(Cl)C=C2)C2=CC=CC=C12,3289374,2436,10034130,PT,35.703,10.203
+Ventricular septal defect,sertraline,CN[C@H]1CC[C@@H](C2=CC(Cl)=C(Cl)C=C2)C2=CC=CC=C12,3475310,2436,10047298,PT,30.354,10.203
+Atrial septal defect,simvastatin,CCC(C)(C)C(=O)O[C@H]1C[C@@H](C)C=C2C=C[C@H](C)[C@H](CC[C@@H]3C[C@@H](O)CC(=O)O3)[C@@H]12,2808693,2445,10003664,PT,30.819,10.903
+Diaphragmatic hernia,sirolimus,CO[C@@H]1C[C@H](C[C@@H](C)[C@@H]2CC(=O)[C@H](C)\C=C(C)\[C@@H](O)[C@@H](OC)C(=O)[C@H](C)C[C@H](C)\C=C\C=C\C=C(C)\[C@H](C[C@@H]3CC[C@@H](C)[C@@](O)(O3)C(=O)C(=O)N3CCCC[C@H]3C(=O)O2)OC)CC[C@H]1O,2944613,2446,10012713,PT,40.315,14.219
+Trisomy 21,stavudine,CC1=CN([C@@H]2O[C@H](CO)C=C2)C(=O)NC1=O,3459437,2478,10044688,PT,45.392,18.61
+Aortic dissection,sunitinib,CCN(CC)CCNC(=O)C1=C(C)NC(\C=C2/C(=O)NC3=C2C=C(F)C=C3)=C1C,2786212,2544,10002895,PT,44.73,14.454
+Diaphragmatic hernia,tacrolimus,CO[C@@H]1C[C@@H](CC[C@H]1O)\C=C(/C)[C@H]1OC(=O)[C@@H]2CCCCN2C(=O)C(=O)[C@]2(O)O[C@@H]([C@H](C[C@H]2C)OC)[C@H](C[C@@H](C)C\C(C)=C\[C@@H](CC=C)C(=O)C[C@H](O)[C@@H]1C)OC,2944606,2552,10012713,PT,47.25,11.076
+Microtia,tacrolimus,CO[C@@H]1C[C@@H](CC[C@H]1O)\C=C(/C)[C@H]1OC(=O)[C@@H]2CCCCN2C(=O)C(=O)[C@]2(O)O[C@@H]([C@H](C[C@H]2C)OC)[C@H](C[C@@H](C)C\C(C)=C\[C@@H](CC=C)C(=O)C[C@H](O)[C@@H]1C)OC,3206953,2552,10027555,PT,24.232,11.076
+Atrial septal defect,tamsulosin,CCOC1=C(OCCN[C@H](C)CC2=CC(=C(OC)C=C2)S(N)(=O)=O)C=CC=C1,2808665,2562,10003664,PT,23.504,10.457
+Hydrocephalus,temozolomide,CN1N=NC2=C(N=CN2C1=O)C(N)=O,3094775,2589,10020508,PT,52.903,16.627
+Diaphragmatic hernia,tenofovir disoproxil,CC(C)OC(=O)OCOP(=O)(CO[C@H](C)CN1C=NC2=C1N=CN=C2N)OCOC(=O)OC(C)C,2944585,2593,10012713,PT,27.099,11.624
+Trisomy 21,tenofovir disoproxil,CC(C)OC(=O)OCOP(=O)(CO[C@H](C)CN1C=NC2=C1N=CN=C2N)OCOC(=O)OC(C)C,3459398,2593,10044688,PT,69.243,11.624
+Ventricular septal defect,tenofovir disoproxil,CC(C)OC(=O)OCOP(=O)(CO[C@H](C)CN1C=NC2=C1N=CN=C2N)OCOC(=O)OC(C)C,3475262,2593,10047298,PT,38.428,11.624
+Trisomy 18,tenofovir disoproxil,CC(C)OC(=O)OCOP(=O)(CO[C@H](C)CN1C=NC2=C1N=CN=C2N)OCOC(=O)OC(C)C,3584277,2593,10053884,PT,32.359,11.624
+Spinal cord compression,thalidomide,O=C1N(C2CCC(=O)NC2=O)C(=O)C2=C1C=CC=C2,3412452,2616,10041549,PT,62.232,14.029
+Trisomy 18,theophylline,CN1C2=C(N=CN2)C(=O)N(C)C1=O,3584272,2620,10053884,PT,49.649,12.884
+Atrial septal defect,thiamine,CC1=C(CCO)SC=[N+]1CC1=CN=C(C)N=C1N,2808652,2832,10003664,PT,58.651,10.067
+Ventricular septal defect,thiamine,CC1=C(CCO)SC=[N+]1CC1=CN=C(C)N=C1N,3475276,2832,10047298,PT,38.592,10.067
+Atrial septal defect,topiramate,CC1(C)O[C@@H]2CO[C@@]3(COS(N)(=O)=O)OC(C)(C)O[C@H]3[C@@H]2O1,2808604,2706,10003664,PT,38.137,12.838
+Cleft lip,topiramate,CC1(C)O[C@@H]2CO[C@@]3(COS(N)(=O)=O)OC(C)(C)O[C@H]3[C@@H]2O1,2898363,2706,10009259,PT,59.169,12.838
+Atrial septal defect,valproic acid,CCCC(CCC)C(O)=O,2808590,2803,10003664,PT,48.113,11.076
+Bicuspid aortic valve,valproic acid,CCCC(CCC)C(O)=O,2817763,2803,10004552,PT,25.948,11.076
+Cerebellar atrophy,valproic acid,CCCC(CCC)C(O)=O,2878932,2803,10008027,PT,34.89,11.076
+Cerebral atrophy,valproic acid,CCCC(CCC)C(O)=O,2879963,2803,10008096,PT,37.652,11.076
+Low set ears,valproic acid,CCCC(CCC)C(O)=O,3181478,2803,10024929,PT,94.965,11.076
+Spina bifida,valproic acid,CCCC(CCC)C(O)=O,3411783,2803,10041524,PT,42.393,11.076
+Aortic aneurysm,valsartan,CCCCC(=O)N(CC1=CC=C(C=C1)C1=C(C=CC=C1)C1=NN=NN1)[C@@H](C(C)C)C(O)=O,2785615,2806,10002882,PT,22.898,10.526
+Atrial septal defect,venlafaxine,COC1=CC=C(C=C1)C(CN(C)C)C1(O)CCCCC1,2808657,2813,10003664,PT,62.57,10.563
+Patent ductus arteriosus,venlafaxine,COC1=CC=C(C=C1)C(CN(C)C)C1(O)CCCCC1,3289345,2813,10034130,PT,24.24,10.563
+Trisomy 18,vilanterol,OCC1=C(O)C=CC(=C1)[C@@H](O)CNCCCCCCOCCOCC1=C(Cl)C=CC=C1Cl,3584287,4799,10053884,PT,50.324,17.518
+Atrial septal defect,zidovudine,CC1=CN([C@H]2C[C@H](N=[N+]=[N-])[C@@H](CO)O2)C(=O)NC1=O,2808812,2861,10003664,PT,61.347,14.928
+Diaphragmatic hernia,zidovudine,CC1=CN([C@H]2C[C@H](N=[N+]=[N-])[C@@H](CO)O2)C(=O)NC1=O,2944618,2861,10012713,PT,33.891,14.928
+Patent ductus arteriosus,zidovudine,CC1=CN([C@H]2C[C@H](N=[N+]=[N-])[C@@H](CO)O2)C(=O)NC1=O,3289442,2861,10034130,PT,51.867,14.928
+Trisomy 21,zidovudine,CC1=CN([C@H]2C[C@H](N=[N+]=[N-])[C@@H](CO)O2)C(=O)NC1=O,3459427,2861,10044688,PT,85.093,14.928
+Ventricular septal defect,zidovudine,CC1=CN([C@H]2C[C@H](N=[N+]=[N-])[C@@H](CO)O2)C(=O)NC1=O,3475382,2861,10047298,PT,75.907,14.928
+Atrial septal defect,zinc oxide,O=[Zn],2808647,4240,10003664,PT,69.791,9.921
+Cleft lip,zinc oxide,O=[Zn],2898377,4240,10009259,PT,19.907,9.921
+Patent ductus arteriosus,zinc oxide,O=[Zn],3289334,4240,10034130,PT,20.166,9.921
+Ventricular septal defect,zinc oxide,O=[Zn],3475271,4240,10047298,PT,46.947,9.921
+Spinal cord compression,zoledronic acid,OC(CN1C=CN=C1)(P(O)(O)=O)P(O)(O)=O,3412422,2868,10041549,PT,27.048,13.061
