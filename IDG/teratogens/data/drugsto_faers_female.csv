@@ -1,0 +1,194 @@
+name	smiles	id	struct_id	meddra_name	meddra_code	level	llr_ratio
+"paroxetine"	"FC1=CC=C(C=C1)[C@@H]1CCNC[C@H]1COC1=CC2=C(OCO2)C=C1"	1913328	2068	"Atrial septal defect"	10003664	"PT"	73.28254032667141
+"paroxetine"	"FC1=CC=C(C=C1)[C@@H]1CCNC[C@H]1COC1=CC2=C(OCO2)C=C1"	2687052	2068	"Ventricular septal defect"	10047298	"PT"	39.52155828345339
+"paroxetine"	"FC1=CC=C(C=C1)[C@@H]1CCNC[C@H]1COC1=CC2=C(OCO2)C=C1"	2468561	2068	"Patent ductus arteriosus"	10034130	"PT"	37.84062087856346
+"paroxetine"	"FC1=CC=C(C=C1)[C@@H]1CCNC[C@H]1COC1=CC2=C(OCO2)C=C1"	2526066	2068	"Pulmonary valve stenosis"	10037450	"PT"	20.479050421020595
+"lamotrigine"	"NC1=NN=C(C(N)=N1)C1=C(Cl)C(Cl)=CC=C1"	1913434	1540	"Atrial septal defect"	10003664	"PT"	17.524640946212333
+"phenytoin"	"O=C1NC(=O)C(N1)(C1=CC=CC=C1)C1=CC=CC=C1"	1994908	2152	"Cerebellar atrophy"	10008027	"PT"	15.154229298230009
+"lamotrigine"	"NC1=NN=C(C(N)=N1)C1=C(Cl)C(Cl)=CC=C1"	2687135	1540	"Ventricular septal defect"	10047298	"PT"	14.686285553365249
+"botulinum toxin type A"	(null)	3049104	5368	"Facial asymmetry"	10068737	"PT"	13.92509380433788
+"paroxetine"	"FC1=CC=C(C=C1)[C@@H]1CCNC[C@H]1COC1=CC2=C(OCO2)C=C1"	2019735	2068	"Coarctation of the aorta"	10009807	"PT"	13.394846302120321
+"mycophenolate mofetil"	"COC1=C(C)C2=C(C(=O)OC2)C(O)=C1C\C=C(/C)CCC(=O)OCCN1CCOCC1"	2370819	1859	"Microtia"	10027555	"PT"	13.176797594094595
+"betamethasone"	"C[C@H]1C[C@H]2[C@@H]3CCC4=CC(=O)C=C[C@]4(C)[C@@]3(F)[C@@H](O)C[C@]2(C)[C@@]1(O)C(=O)CO"	2468722	348	"Patent ductus arteriosus"	10034130	"PT"	11.889372971125919
+"folic acid"	"NC1=NC(=O)C2=NC(CNC3=CC=C(C=C3)C(=O)N[C@@H](CCC(O)=O)C(O)=O)=CNC2=N1"	1913368	1231	"Atrial septal defect"	10003664	"PT"	10.050749948633655
+"ritonavir"	"CC(C)[C@H](NC(=O)N(C)CC1=CSC(=N1)C(C)C)C(=O)N[C@H](C[C@H](O)[C@H](CC1=CC=CC=C1)NC(=O)OCC1=CN=CS1)CC1=CC=CC=C1"	2664663	2391	"Trisomy 21"	10044688	"PT"	8.64399664147775
+"folic acid"	"NC1=NC(=O)C2=NC(CNC3=CC=C(C=C3)C(=O)N[C@@H](CCC(O)=O)C(O)=O)=CNC2=N1"	2687085	1231	"Ventricular septal defect"	10047298	"PT"	8.292890897883707
+"dabigatran etexilate"	"CCCCCCOC(=O)NC(=N)C1=CC=C(NCC2=NC3=CC(=CC=C3N2C)C(=O)N(CCC(=O)OCC)C2=NC=CC=C2)C=C1"	1887891	776	"Aortic dissection"	10002895	"PT"	8.104029062087186
+"ritonavir"	"CC(C)[C@H](NC(=O)N(C)CC1=CSC(=N1)C(C)C)C(=O)N[C@H](C[C@H](O)[C@H](CC1=CC=CC=C1)NC(=O)OCC1=CN=CS1)CC1=CC=CC=C1"	2607796	2391	"Spina bifida"	10041524	"PT"	8.064721522530087
+"emtricitabine"	"NC1=NC(=O)N(C=C1F)[C@@H]1CS[C@H](CO)O1"	2607835	1003	"Spina bifida"	10041524	"PT"	7.812940688510992
+"lamivudine"	"NC1=NC(=O)N(C=C1)[C@@H]1CS[C@H](CO)O1"	2664681	1539	"Trisomy 21"	10044688	"PT"	7.451425996266014
+"valproic acid"	"CCCC(CCC)C(O)=O"	2340510	2803	"Low set ears"	10024929	"PT"	7.297090203685742
+"paroxetine"	"FC1=CC=C(C=C1)[C@@H]1CCNC[C@H]1COC1=CC2=C(OCO2)C=C1"	2017352	2068	"Cleft palate"	10009269	"PT"	7.263061783504109
+"ritonavir"	"CC(C)[C@H](NC(=O)N(C)CC1=CSC(=N1)C(C)C)C(=O)N[C@H](C[C@H](O)[C@H](CC1=CC=CC=C1)NC(=O)OCC1=CN=CS1)CC1=CC=CC=C1"	2687075	2391	"Ventricular septal defect"	10047298	"PT"	7.1837391547719
+"paroxetine"	"FC1=CC=C(C=C1)[C@@H]1CCNC[C@H]1COC1=CC2=C(OCO2)C=C1"	2270320	2068	"Hypoplastic left heart syndrome"	10021076	"PT"	6.828243887592574
+"valproic acid"	"CCCC(CCC)C(O)=O"	1996105	2803	"Cerebral atrophy"	10008096	"PT"	6.7098933074684775
+"bevacizumab"	(null)	1887904	4956	"Aortic dissection"	10002895	"PT"	6.279748822605966
+"cefuroxime"	"CO\N=C(/C(=O)N[C@H]1[C@H]2SCC(COC(N)=O)=C(N2C1=O)C(O)=O)C1=CC=CO1"	2468746	565	"Patent ductus arteriosus"	10034130	"PT"	6.181506359868515
+"tacrolimus"	"CO[C@@H]1C[C@@H](CC[C@H]1O)\C=C(/C)[C@H]1OC(=O)[C@@H]2CCCCN2C(=O)C(=O)[C@]2(O)O[C@@H]([C@H](C[C@H]2C)OC)[C@H](C[C@@H](C)C\C(C)=C\[C@@H](CC=C)C(=O)C[C@H](O)[C@@H]1C)OC"	2370835	2552	"Microtia"	10027555	"PT"	6.1594216594216595
+"tacrolimus"	"CO[C@@H]1C[C@@H](CC[C@H]1O)\C=C(/C)[C@H]1OC(=O)[C@@H]2CCCCN2C(=O)C(=O)[C@]2(O)O[C@@H]([C@H](C[C@H]2C)OC)[C@H](C[C@@H](C)C\C(C)=C\[C@@H](CC=C)C(=O)C[C@H](O)[C@@H]1C)OC"	2017398	2552	"Cleft palate"	10009269	"PT"	6.0958230958230954
+"tenofovir disoproxil"	"CC(C)OC(=O)OCOP(=O)(CO[C@H](C)CN1C=NC2=C1N=CN=C2N)OCOC(=O)OC(C)C"	2607839	2593	"Spina bifida"	10041524	"PT"	6.032227784730913
+"tenofovir disoproxil"	"CC(C)OC(=O)OCOP(=O)(CO[C@H](C)CN1C=NC2=C1N=CN=C2N)OCOC(=O)OC(C)C"	2687201	2593	"Ventricular septal defect"	10047298	"PT"	5.999249061326658
+"methotrexate"	"CN(CC1=CN=C2N=C(N)N=C(N)C2=N1)C1=CC=C(C=C1)C(=O)N[C@@H](CCC(O)=O)C(O)=O"	1913431	1751	"Atrial septal defect"	10003664	"PT"	5.8894304540120945
+"zidovudine"	"CC1=CN([C@H]2C[C@H](N=[N+]=[N-])[C@@H](CO)O2)C(=O)NC1=O"	2468584	2861	"Patent ductus arteriosus"	10034130	"PT"	5.849704032556419
+"emtricitabine"	"NC1=NC(=O)N(C=C1F)[C@@H]1CS[C@H](CO)O1"	2687187	1003	"Ventricular septal defect"	10047298	"PT"	5.831664395330924
+"venlafaxine"	"COC1=CC=C(C=C1)C(CN(C)C)C1(O)CCCCC1"	1913422	2813	"Atrial septal defect"	10003664	"PT"	5.7473826059915
+"methyldopa"	"C[C@](N)(CC1=CC(O)=C(O)C=C1)C(O)=O"	2468725	1762	"Patent ductus arteriosus"	10034130	"PT"	5.452135882064623
+"valproic acid"	"CCCC(CCC)C(O)=O"	1913338	2803	"Atrial septal defect"	10003664	"PT"	5.445198836081474
+"lamivudine"	"NC1=NC(=O)N(C=C1)[C@@H]1CS[C@H](CO)O1"	2687100	1539	"Ventricular septal defect"	10047298	"PT"	5.388141376424387
+"paroxetine"	"FC1=CC=C(C=C1)[C@@H]1CCNC[C@H]1COC1=CC2=C(OCO2)C=C1"	1923168	2068	"Bicuspid aortic valve"	10004552	"PT"	5.378005478340267
+"zidovudine"	"CC1=CN([C@H]2C[C@H](N=[N+]=[N-])[C@@H](CO)O2)C(=O)NC1=O"	1913358	2861	"Atrial septal defect"	10003664	"PT"	5.344108398076212
+"citalopram"	"CN(C)CCCC1(OCC2=C1C=CC(=C2)C#N)C1=CC=C(F)C=C1"	2687026	663	"Ventricular septal defect"	10047298	"PT"	5.32779472079083
+"fluoxetine"	"CNCCC(OC1=CC=C(C=C1)C(F)(F)F)C1=CC=CC=C1"	1913401	1209	"Atrial septal defect"	10003664	"PT"	5.307480106100796
+"lamivudine"	"NC1=NC(=O)N(C=C1)[C@@H]1CS[C@H](CO)O1"	1913383	1539	"Atrial septal defect"	10003664	"PT"	5.274319191398957
+"zidovudine"	"CC1=CN([C@H]2C[C@H](N=[N+]=[N-])[C@@H](CO)O2)C(=O)NC1=O"	2664664	2861	"Trisomy 21"	10044688	"PT"	5.265122086570477
+"ritonavir"	"CC(C)[C@H](NC(=O)N(C)CC1=CSC(=N1)C(C)C)C(=O)N[C@H](C[C@H](O)[C@H](CC1=CC=CC=C1)NC(=O)OCC1=CN=CS1)CC1=CC=CC=C1"	2340515	2391	"Low set ears"	10024929	"PT"	5.128813322138259
+"zidovudine"	"CC1=CN([C@H]2C[C@H](N=[N+]=[N-])[C@@H](CO)O2)C(=O)NC1=O"	2687076	2861	"Ventricular septal defect"	10047298	"PT"	5.112190159082502
+"valproic acid"	"CCCC(CCC)C(O)=O"	1994898	2803	"Cerebellar atrophy"	10008027	"PT"	4.999030067895247
+"fluvastatin"	"CC(C)N1C(\C=C\[C@H](O)C[C@H](O)CC(O)=O)=C(C2=C1C=CC=C2)C1=CC=C(F)C=C1"	2017427	1229	"Cleft palate"	10009269	"PT"	4.963220952911675
+"methyldopa"	"C[C@](N)(CC1=CC(O)=C(O)C=C1)C(O)=O"	1913535	1762	"Atrial septal defect"	10003664	"PT"	4.8098254345285225
+"etanercept"	(null)	1913281	4978	"Atrial septal defect"	10003664	"PT"	4.80557729245216
+"valproic acid"	"CCCC(CCC)C(O)=O"	2607791	2803	"Spina bifida"	10041524	"PT"	4.636178467507274
+"rofecoxib"	"CS(=O)(=O)C1=CC=C(C=C1)C1=C(C(=O)OC1)C1=CC=CC=C1"	1996363	2397	"Cerebral atrophy"	10008096	"PT"	4.623960440548438
+"betamethasone"	"C[C@H]1C[C@H]2[C@@H]3CCC4=CC(=O)C=C[C@]4(C)[C@@]3(F)[C@@H](O)C[C@]2(C)[C@@]1(O)C(=O)CO"	1913530	348	"Atrial septal defect"	10003664	"PT"	4.574406287373996
+"citalopram"	"CN(C)CCCC1(OCC2=C1C=CC(=C2)C#N)C1=CC=C(F)C=C1"	1913296	663	"Atrial septal defect"	10003664	"PT"	4.536123672310443
+"ramipril"	"CCOC(=O)[C@H](CCC1=CC=CC=C1)N[C@@H](C)C(=O)N1[C@H]2CCC[C@H]2C[C@H]1C(O)=O"	2468590	2356	"Patent ductus arteriosus"	10034130	"PT"	4.535212690714357
+"fluvastatin"	"CC(C)N1C(\C=C\[C@H](O)C[C@H](O)CC(O)=O)=C(C2=C1C=CC=C2)C1=CC=C(F)C=C1"	1913556	1229	"Atrial septal defect"	10003664	"PT"	4.365422123154082
+"tenofovir disoproxil"	"CC(C)OC(=O)OCOP(=O)(CO[C@H](C)CN1C=NC2=C1N=CN=C2N)OCOC(=O)OC(C)C"	2664697	2593	"Trisomy 21"	10044688	"PT"	4.311702127659574
+"lamotrigine"	"NC1=NN=C(C(N)=N1)C1=C(Cl)C(Cl)=CC=C1"	2468646	1540	"Patent ductus arteriosus"	10034130	"PT"	4.242654651271942
+"betamethasone"	"C[C@H]1C[C@H]2[C@@H]3CCC4=CC(=O)C=C[C@]4(C)[C@@]3(F)[C@@H](O)C[C@]2(C)[C@@]1(O)C(=O)CO"	2687205	348	"Ventricular septal defect"	10047298	"PT"	4.2209123526396715
+"lamotrigine"	"NC1=NN=C(C(N)=N1)C1=C(Cl)C(Cl)=CC=C1"	2019776	1540	"Coarctation of the aorta"	10009807	"PT"	4.213836477987421
+"insulin aspart"	(null)	1923182	4981	"Bicuspid aortic valve"	10004552	"PT"	4.17653317856452
+"ritonavir"	"CC(C)[C@H](NC(=O)N(C)CC1=CSC(=N1)C(C)C)C(=O)N[C@H](C[C@H](O)[C@H](CC1=CC=CC=C1)NC(=O)OCC1=CN=CS1)CC1=CC=CC=C1"	2468583	2391	"Patent ductus arteriosus"	10034130	"PT"	4.157500699692135
+"lamivudine"	"NC1=NC(=O)N(C=C1)[C@@H]1CS[C@H](CO)O1"	2340530	1539	"Low set ears"	10024929	"PT"	4.089873173244061
+"riboflavin"	"CC1=CC2=C(C=C1C)N(C[C@H](O)[C@H](O)[C@H](O)CO)C1=NC(=O)NC(=O)C1=N2"	2687094	2834	"Ventricular septal defect"	10047298	"PT"	4.050884955752212
+"fluvastatin"	"CC(C)N1C(\C=C\[C@H](O)C[C@H](O)CC(O)=O)=C(C2=C1C=CC=C2)C1=CC=C(F)C=C1"	2468744	1229	"Patent ductus arteriosus"	10034130	"PT"	4.045555865143494
+"manganese sulfate"	(null)	2687095	4461	"Ventricular septal defect"	10047298	"PT"	4.013858723756335
+"labetalol"	"CC(CCC1=CC=CC=C1)NCC(O)C1=CC(C(N)=O)=C(O)C=C1"	2468711	1531	"Patent ductus arteriosus"	10034130	"PT"	3.979641818460125
+"retinol acetate"	"CC(=O)OC\C=C(/C)\C=C\C=C(/C)\C=C\C1=C(C)CCCC1(C)C"	2687090	2372	"Ventricular septal defect"	10047298	"PT"	3.9596527068437184
+"alpha-tocopherol acetate"	"CC(C)CCC[C@@H](C)CCC[C@@H](C)CCC[C@]1(C)CCC2=C(C)C(OC(C)=O)=C(C)C(C)=C2O1"	2687096	4195	"Ventricular septal defect"	10047298	"PT"	3.9385928393005827
+"lamivudine"	"NC1=NC(=O)N(C=C1)[C@@H]1CS[C@H](CO)O1"	2468608	1539	"Patent ductus arteriosus"	10034130	"PT"	3.9217794373269816
+"paroxetine"	"FC1=CC=C(C=C1)[C@@H]1CCNC[C@H]1COC1=CC2=C(OCO2)C=C1"	2607786	2068	"Spina bifida"	10041524	"PT"	3.905955158770417
+"zinc oxide"	"O=[Zn]"	2687093	4240	"Ventricular septal defect"	10047298	"PT"	3.849679950443939
+"atazanavir"	"COC(=O)N[C@H](C(=O)N[C@@H](CC1=CC=CC=C1)[C@@H](O)CN(CC1=CC=C(C=C1)C1=CC=CC=N1)NC(=O)[C@@H](NC(=O)OC)C(C)(C)C)C(C)(C)C"	2687224	254	"Ventricular septal defect"	10047298	"PT"	3.790828246288341
+"ritonavir"	"CC(C)[C@H](NC(=O)N(C)CC1=CSC(=N1)C(C)C)C(=O)N[C@H](C[C@H](O)[C@H](CC1=CC=CC=C1)NC(=O)OCC1=CN=CS1)CC1=CC=CC=C1"	2822489	2391	"Trisomy 18"	10053884	"PT"	3.7746991323817523
+"ondansetron"	"CN1C2=C(C3=CC=CC=C13)C(=O)C(CN1C=CN=C1C)CC2"	1913332	1992	"Atrial septal defect"	10003664	"PT"	3.763108808290155
+"rivastigmine"	"CCN(C)C(=O)OC1=CC=CC(=C1)[C@H](C)N(C)C"	1996256	2392	"Cerebral atrophy"	10008096	"PT"	3.7303780351578575
+"lopinavir"	"CC(C)[C@H](N1CCCNC1=O)C(=O)N[C@H](C[C@H](O)[C@H](CC1=CC=CC=C1)NC(=O)COC1=C(C)C=CC=C1C)CC1=CC=CC=C1"	2607817	1601	"Spina bifida"	10041524	"PT"	3.7165773031417557
+"nicotinamide"	"NC(=O)C1=CN=CC=C1"	2687088	1906	"Ventricular septal defect"	10047298	"PT"	3.6453410380765656
+"emtricitabine"	"NC1=NC(=O)N(C=C1F)[C@@H]1CS[C@H](CO)O1"	1913508	1003	"Atrial septal defect"	10003664	"PT"	3.6097055163832437
+"abacavir"	"NC1=NC(NC2CC2)=C2N=CN([C@@H]3C[C@H](CO)C=C3)C2=N1"	2340511	34	"Low set ears"	10024929	"PT"	3.5368826170622194
+"ramipril"	"CCOC(=O)[C@H](CCC1=CC=CC=C1)N[C@@H](C)C(=O)N1[C@H]2CCC[C@H]2C[C@H]1C(O)=O"	1923172	2356	"Bicuspid aortic valve"	10004552	"PT"	3.5163180761847026
+"memantine"	"CC12CC3CC(C)(C1)CC(N)(C3)C2"	1996341	1679	"Cerebral atrophy"	10008096	"PT"	3.5154820548909216
+"sucralfate"	(null)	3049063	4106	"Facial asymmetry"	10068737	"PT"	3.4485981308411215
+"emtricitabine"	"NC1=NC(=O)N(C=C1F)[C@@H]1CS[C@H](CO)O1"	2664694	1003	"Trisomy 21"	10044688	"PT"	3.434081886591219
+"etanercept"	(null)	1996035	4978	"Cerebral atrophy"	10008096	"PT"	3.3866401081311803
+"amlodipine"	"CCOC(=O)C1=C(COCCN)NC(C)=C(C1C1=C(Cl)C=CC=C1)C(=O)OC"	1887918	183	"Aortic dissection"	10002895	"PT"	3.3782991202346047
+"thiamine"	"CC1=C(CCO)SC=[N+]1CC1=CN=C(C)N=C1N"	2687098	2832	"Ventricular septal defect"	10047298	"PT"	3.3655513001411004
+"methyldopa"	"C[C@](N)(CC1=CC(O)=C(O)C=C1)C(O)=O"	2687209	1762	"Ventricular septal defect"	10047298	"PT"	3.3535045055235075
+"valproic acid"	"CCCC(CCC)C(O)=O"	2687057	2803	"Ventricular septal defect"	10047298	"PT"	3.319592628516004
+"atazanavir"	"COC(=O)N[C@H](C(=O)N[C@@H](CC1=CC=CC=C1)[C@@H](O)CN(CC1=CC=C(C=C1)C1=CC=CC=N1)NC(=O)[C@@H](NC(=O)OC)C(C)(C)C)C(C)(C)C"	2340545	254	"Low set ears"	10024929	"PT"	3.2734946115004897
+"magnesium oxide"	"O=[Mg]"	2687089	4293	"Ventricular septal defect"	10047298	"PT"	3.2695437223194976
+"hyaluronic acid"	(null)	3049109	3957	"Facial asymmetry"	10068737	"PT"	3.2685013225279986
+"dexamethasone"	"C[C@@H]1C[C@H]2[C@@H]3CCC4=CC(=O)C=C[C@]4(C)[C@@]3(F)[C@@H](O)C[C@]2(C)[C@@]1(O)C(=O)CO"	2608517	824	"Spinal cord compression"	10041549	"PT"	3.2496350364963504
+"phenobarbital"	"CCC1(C(=O)NC(=O)NC1=O)C1=CC=CC=C1"	1994955	2134	"Cerebellar atrophy"	10008027	"PT"	3.241636734981337
+"pyridoxine"	"CC1=C(O)C(CO)=C(CO)C=N1"	2687097	2836	"Ventricular septal defect"	10047298	"PT"	3.2295641695119497
+"methotrexate"	"CN(CC1=CN=C2N=C(N)N=C(N)C2=N1)C1=CC=C(C=C1)C(=O)N[C@@H](CCC(O)=O)C(O)=O"	2468645	1751	"Patent ductus arteriosus"	10034130	"PT"	3.2208683094142065
+"donepezil"	"COC1=CC2=C(C=C1OC)C(=O)C(CC1CCN(CC3=CC=CC=C3)CC1)C2"	1996286	946	"Cerebral atrophy"	10008096	"PT"	3.217558449709713
+"darunavir"	"CC(C)CN(C[C@@H](O)[C@H](CC1=CC=CC=C1)NC(=O)O[C@H]1CO[C@H]2OCC[C@@H]12)S(=O)(=O)C1=CC=C(N)C=C1"	2607795	4143	"Spina bifida"	10041524	"PT"	3.201159926908715
+"desmopressin"	"NC(=O)CC[C@@H]1NC(=O)[C@H](CC2=CC=CC=C2)NC(=O)[C@H](CC2=CC=C(O)C=C2)NC(=O)CCSSC[C@H](NC(=O)[C@H](CC(N)=O)NC1=O)C(=O)N1CCC[C@H]1C(=O)N[C@H](CCCNC(N)=N)C(=O)NCC(N)=O"	2468739	817	"Patent ductus arteriosus"	10034130	"PT"	3.162954067847493
+"cefotaxime"	"CO\N=C(/C(=O)N[C@H]1[C@H]2SCC(COC(C)=O)=C(N2C1=O)C(O)=O)C1=CSC(N)=N1"	2468700	546	"Patent ductus arteriosus"	10034130	"PT"	3.1306569049438835
+"etanercept"	(null)	2687015	4978	"Ventricular septal defect"	10047298	"PT"	3.1042896777406273
+"heparin"	(null)	2608493	1358	"Spinal cord compression"	10041549	"PT"	3.1013227999265114
+"etanercept"	(null)	2468533	4978	"Patent ductus arteriosus"	10034130	"PT"	3.0749092978587176
+"urapidil"	"COC1=C(C=CC=C1)N1CCN(CCCNC2=CC(=O)N(C)C(=O)N2C)CC1"	2468743	2796	"Patent ductus arteriosus"	10034130	"PT"	3.0428000760890246
+"lamotrigine"	"NC1=NN=C(C(N)=N1)C1=C(Cl)C(Cl)=CC=C1"	2340536	1540	"Low set ears"	10024929	"PT"	3.039613254482305
+"cyanocobalamin"	(null)	2687092	4196	"Ventricular septal defect"	10047298	"PT"	3.038562487381385
+"acyclovir"	"NC1=NC2=C(N=CN2COCCO)C(=O)N1"	2370838	85	"Microtia"	10027555	"PT"	3.0316424885600233
+"emtricitabine"	"NC1=NC(=O)N(C=C1F)[C@@H]1CS[C@H](CO)O1"	1878975	1003	"Anencephaly"	10002320	"PT"	2.97493630384547
+"rofecoxib"	"CS(=O)(=O)C1=CC=C(C=C1)C1=C(C(=O)OC1)C1=CC=CC=C1"	1887766	2397	"Aortic aneurysm"	10002882	"PT"	2.9465797557503564
+"darunavir"	"CC(C)CN(C[C@@H](O)[C@H](CC1=CC=CC=C1)NC(=O)O[C@H]1CO[C@H]2OCC[C@@H]12)S(=O)(=O)C1=CC=C(N)C=C1"	2340514	4143	"Low set ears"	10024929	"PT"	2.945777389369985
+"prednisolone"	"C[C@]12C[C@H](O)[C@H]3[C@@H](CCC4=CC(=O)C=C[C@]34C)[C@@H]1CC[C@]2(O)C(=O)CO"	1887944	2245	"Aortic dissection"	10002895	"PT"	2.9418363107602827
+"etanercept"	(null)	2240256	4978	"Hydrocephalus"	10020508	"PT"	2.906736857081881
+"pancrelipase"	(null)	3049101	5161	"Facial asymmetry"	10068737	"PT"	2.900081387341138
+"folic acid"	"NC1=NC(=O)C2=NC(CNC3=CC=C(C=C3)C(=O)N[C@@H](CCC(O)=O)C(O)=O)=CNC2=N1"	2468593	1231	"Patent ductus arteriosus"	10034130	"PT"	2.896548181631395
+"methotrexate"	"CN(CC1=CN=C2N=C(N)N=C(N)C2=N1)C1=CC=C(C=C1)C(=O)N[C@@H](CCC(O)=O)C(O)=O"	2687134	1751	"Ventricular septal defect"	10047298	"PT"	2.865240545175557
+"emtricitabine"	"NC1=NC(=O)N(C=C1F)[C@@H]1CS[C@H](CO)O1"	2468707	1003	"Patent ductus arteriosus"	10034130	"PT"	2.8408484920305743
+"carbamazepine"	"NC(=O)N1C2=CC=CC=C2C=CC2=C1C=CC=C2"	2607832	489	"Spina bifida"	10041524	"PT"	2.8351553509781358
+"emtricitabine"	"NC1=NC(=O)N(C=C1F)[C@@H]1CS[C@H](CO)O1"	2822492	1003	"Trisomy 18"	10053884	"PT"	2.83154589085738
+"lopinavir"	"CC(C)[C@H](N1CCCNC1=O)C(=O)N[C@H](C[C@H](O)[C@H](CC1=CC=CC=C1)NC(=O)COC1=C(C)C=CC=C1C)CC1=CC=CC=C1"	2664682	1601	"Trisomy 21"	10044688	"PT"	2.8266052200115213
+"tenofovir disoproxil"	"CC(C)OC(=O)OCOP(=O)(CO[C@H](C)CN1C=NC2=C1N=CN=C2N)OCOC(=O)OC(C)C"	1913526	2593	"Atrial septal defect"	10003664	"PT"	2.816458072590738
+"tenofovir disoproxil"	"CC(C)OC(=O)OCOP(=O)(CO[C@H](C)CN1C=NC2=C1N=CN=C2N)OCOC(=O)OC(C)C"	2468718	2593	"Patent ductus arteriosus"	10034130	"PT"	2.7958072590738423
+"ascorbic acid"	"OC[C@H](O)[C@H]1OC(=O)C(O)=C1O"	2687064	4072	"Ventricular septal defect"	10047298	"PT"	2.7751467314308846
+"raltegravir"	"CN1C(=O)C(O)=C(N=C1C(C)(C)NC(=O)C1=NN=C(C)O1)C(=O)NCC1=CC=C(F)C=C1"	2183563	2352	"Gastroschisis"	10018046	"PT"	2.774395941796823
+"torsemide"	"CC(C)NC(=O)NS(=O)(=O)C1=CN=CC=C1NC1=CC(C)=CC=C1"	2017420	2708	"Cleft palate"	10009269	"PT"	2.7560506771515945
+"ramipril"	"CCOC(=O)[C@H](CCC1=CC=CC=C1)N[C@@H](C)C(=O)N1[C@H]2CCC[C@H]2C[C@H]1C(O)=O"	1913366	2356	"Atrial septal defect"	10003664	"PT"	2.7512377488127715
+"tamoxifen"	"CC\C(=C(/C1=CC=CC=C1)C1=CC=C(OCCN(C)C)C=C1)C1=CC=CC=C1"	2608451	2561	"Spinal cord compression"	10041549	"PT"	2.7376106194690264
+"ritonavir"	"CC(C)[C@H](NC(=O)N(C)CC1=CSC(=N1)C(C)C)C(=O)N[C@H](C[C@H](O)[C@H](CC1=CC=CC=C1)NC(=O)OCC1=CN=CS1)CC1=CC=CC=C1"	1913357	2391	"Atrial septal defect"	10003664	"PT"	2.7110971172684017
+"temozolomide"	"CN1N=NC2=C(N=CN2C1=O)C(N)=O"	2240337	2589	"Hydrocephalus"	10020508	"PT"	2.7015503875968996
+"enoxaparin sodium"	(null)	2468560	4879	"Patent ductus arteriosus"	10034130	"PT"	2.690548780487805
+"levetiracetam"	"CC[C@H](N1CCCC1=O)C(N)=O"	2607798	1563	"Spina bifida"	10041524	"PT"	2.6252002638771086
+"lithium citrate"	(null)	1994943	4512	"Cerebellar atrophy"	10008027	"PT"	2.621423390021762
+"fluoxetine"	"CNCCC(OC1=CC=C(C=C1)C(F)(F)F)C1=CC=CC=C1"	2526095	1209	"Pulmonary valve stenosis"	10037450	"PT"	2.618249336870026
+"insulin lispro"	(null)	2687181	5002	"Ventricular septal defect"	10047298	"PT"	2.6154497553631915
+"nevirapine"	"CC1=CC=NC2=C1NC(=O)C1=CC=CN=C1N2C1CC1"	2340543	1904	"Low set ears"	10024929	"PT"	2.58285127502995
+"galsulfase"	(null)	2608744	5101	"Spinal cord compression"	10041549	"PT"	2.5671398777944456
+"tenofovir disoproxil"	"CC(C)OC(=O)OCOP(=O)(CO[C@H](C)CN1C=NC2=C1N=CN=C2N)OCOC(=O)OC(C)C"	2822493	2593	"Trisomy 18"	10053884	"PT"	2.561389236545682
+"valproic acid"	"CCCC(CCC)C(O)=O"	2017356	2803	"Cleft palate"	10009269	"PT"	2.509505334626576
+"clopidogrel"	"COC(=O)[C@@H](N1CCC2=C(C1)C=CS2)C1=C(Cl)C=CC=C1"	1887533	708	"Aortic aneurysm"	10002882	"PT"	2.507390139867077
+"levodopa"	"N[C@@H](CC1=CC(O)=C(O)C=C1)C(O)=O"	1996282	1567	"Cerebral atrophy"	10008096	"PT"	2.5
+"ritonavir"	"CC(C)[C@H](NC(=O)N(C)CC1=CSC(=N1)C(C)C)C(=O)N[C@H](C[C@H](O)[C@H](CC1=CC=CC=C1)NC(=O)OCC1=CN=CS1)CC1=CC=CC=C1"	1878953	2391	"Anencephaly"	10002320	"PT"	2.4902043101035547
+"ceftazidime"	"CC(C)(O\N=C(/C(=O)N[C@H]1[C@H]2SCC(C[N+]3=CC=CC=C3)=C(N2C1=O)C(O)=O)C1=CSC(N)=N1)C(O)=O"	2468670	559	"Patent ductus arteriosus"	10034130	"PT"	2.476756994932805
+"sildenafil"	"CCCC1=NN(C)C2=C1N=C(NC2=O)C1=CC(=CC=C1OCC)S(=O)(=O)N1CCN(C)CC1"	2871514	2441	"Pulmonary artery dilatation"	10058491	"PT"	2.465367799340339
+"alpha-tocopherol acetate"	"CC(C)CCC[C@@H](C)CCC[C@@H](C)CCC[C@]1(C)CCC2=C(C)C(OC(C)=O)=C(C)C(C)=C2O1"	1913379	4195	"Atrial septal defect"	10003664	"PT"	2.447231473771857
+"darunavir"	"CC(C)CN(C[C@@H](O)[C@H](CC1=CC=CC=C1)NC(=O)O[C@H]1CO[C@H]2OCC[C@@H]12)S(=O)(=O)C1=CC=C(N)C=C1"	2183542	4143	"Gastroschisis"	10018046	"PT"	2.438706602049734
+"carbamazepine"	"NC(=O)N1C2=CC=CC=C2C=CC2=C1C=CC=C2"	1996272	489	"Cerebral atrophy"	10008096	"PT"	2.4114883007288066
+"hydromorphone"	"CN1CC[C@@]23[C@H]4OC5=C2C(C[C@@H]1[C@@H]3CCC4=O)=CC=C5O"	2608631	1393	"Spinal cord compression"	10041549	"PT"	2.4058961542384982
+"manganese sulfate"	(null)	1913378	4461	"Atrial septal defect"	10003664	"PT"	2.400661909194332
+"lamotrigine"	"NC1=NN=C(C(N)=N1)C1=C(Cl)C(Cl)=CC=C1"	2607830	1540	"Spina bifida"	10041524	"PT"	2.390030977189524
+"abacavir"	"NC1=NC(NC2CC2)=C2N=CN([C@@H]3C[C@H](CO)C=C3)C2=N1"	2183538	34	"Gastroschisis"	10018046	"PT"	2.3888587358760547
+"metformin"	"CN(C)C(=N)NC(N)=N"	2017274	1725	"Cleft lip"	10009259	"PT"	2.3672504025764898
+"retinol acetate"	"CC(=O)OC\C=C(/C)\C=C\C=C(/C)\C=C\C1=C(C)CCCC1(C)C"	1913373	2372	"Atrial septal defect"	10003664	"PT"	2.3668028600612874
+"lamivudine"	"NC1=NC(=O)N(C=C1)[C@@H]1CS[C@H](CO)O1"	2183556	1539	"Gastroschisis"	10018046	"PT"	2.36168158114981
+"octreotide"	"C[C@@H](O)[C@H](CO)NC(=O)[C@@H]1CSSC[C@H](NC(=O)[C@@H](N)CC2=CC=CC=C2)C(=O)N[C@@H](CC2=CC=CC=C2)C(=O)N[C@@H](CC2=CNC3=C2C=CC=C3)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H]([C@@H](C)O)C(=O)N1"	3049003	1980	"Facial asymmetry"	10068737	"PT"	2.3589302358930238
+"lamivudine"	"NC1=NC(=O)N(C=C1)[C@@H]1CS[C@H](CO)O1"	2017387	1539	"Cleft palate"	10009269	"PT"	2.3535698190948304
+"sildenafil"	"CCCC1=NN(C)C2=C1N=C(NC2=O)C1=CC(=CC=C1OCC)S(=O)(=O)N1CCN(C)CC1"	2519584	2441	"Pulmonary artery aneurysm"	10037336	"PT"	2.3510777019252895
+"mycophenolate mofetil"	"COC1=C(C)C2=C(C(=O)OC2)C(O)=C1C\C=C(/C)CCC(=O)OCCN1CCOCC1"	2017364	1859	"Cleft palate"	10009269	"PT"	2.3478538230201402
+"ritonavir"	"CC(C)[C@H](NC(=O)N(C)CC1=CSC(=N1)C(C)C)C(=O)N[C@H](C[C@H](O)[C@H](CC1=CC=CC=C1)NC(=O)OCC1=CN=CS1)CC1=CC=CC=C1"	2082382	2391	"Double outlet right ventricle"	10013611	"PT"	2.339000839630563
+"oxybutynin"	"CCN(CC)CC#CCOC(=O)C(O)(C1CCCCC1)C1=CC=CC=C1"	1996051	2028	"Cerebral atrophy"	10008096	"PT"	2.325873309331517
+"tacrolimus"	"CO[C@@H]1C[C@@H](CC[C@H]1O)\C=C(/C)[C@H]1OC(=O)[C@@H]2CCCCN2C(=O)C(=O)[C@]2(O)O[C@@H]([C@H](C[C@H]2C)OC)[C@H](C[C@@H](C)C\C(C)=C\[C@@H](CC=C)C(=O)C[C@H](O)[C@@H]1C)OC"	2069303	2552	"Diaphragmatic hernia"	10012713	"PT"	2.3248913248913246
+"algeldrate"	"O[Al](O)O"	3032537	4250	"Right aortic arch"	10067407	"PT"	2.3161915262246024
+"phenytoin"	"O=C1NC(=O)C(N1)(C1=CC=CC=C1)C1=CC=CC=C1"	1996136	2152	"Cerebral atrophy"	10008096	"PT"	2.31592991194521
+"baclofen"	"NCC(CC(O)=O)C1=CC=C(Cl)C=C1"	1998586	282	"Cerebral palsy"	10008129	"PT"	2.3109152139461173
+"atazanavir"	"COC(=O)N[C@H](C(=O)N[C@@H](CC1=CC=CC=C1)[C@@H](O)CN(CC1=CC=C(C=C1)C1=CC=CC=N1)NC(=O)[C@@H](NC(=O)OC)C(C)(C)C)C(C)(C)C"	2468742	254	"Patent ductus arteriosus"	10034130	"PT"	2.304657472303866
+"epoetin alfa"	(null)	2370810	4995	"Microtia"	10027555	"PT"	2.302924791086351
+"riboflavin"	"CC1=CC2=C(C=C1C)N(C[C@H](O)[C@H](O)[C@H](O)CO)C1=NC(=O)NC(=O)C1=N2"	1913377	2834	"Atrial septal defect"	10003664	"PT"	2.302465233881163
+"morphine"	"CN1CC[C@]23[C@H]4OC5=C(O)C=CC(C[C@@H]1[C@@H]2C=C[C@@H]4O)=C35"	2608592	1845	"Spinal cord compression"	10041549	"PT"	2.300095369291088
+"valaciclovir"	"CC(C)[C@H](N)C(=O)OCCOCN1C=NC2=C1N=C(N)NC2=O"	2607834	2798	"Spina bifida"	10041524	"PT"	2.296501833316817
+"cyclizine"	"CN1CCN(CC1)C(C1=CC=CC=C1)C1=CC=CC=C1"	2607829	749	"Spina bifida"	10041524	"PT"	2.289198445020363
+"abacavir"	"NC1=NC(NC2CC2)=C2N=CN([C@@H]3C[C@H](CO)C=C3)C2=N1"	2664659	34	"Trisomy 21"	10044688	"PT"	2.284600582227266
+"topiramate"	"CC1(C)O[C@@H]2CO[C@@]3(COS(N)(=O)=O)OC(C)(C)O[C@H]3[C@@H]2O1"	2995182	2706	"Persistent left superior vena cava"	10064193	"PT"	2.27516582130316
+"venlafaxine"	"COC1=CC=C(C=C1)C(CN(C)C)C1(O)CCCCC1"	2687128	2813	"Ventricular septal defect"	10047298	"PT"	2.2702394526795895
+"zinc oxide"	"O=[Zn]"	1913376	4240	"Atrial septal defect"	10003664	"PT"	2.2564526120173447
+"cobicistat"	"CC(C)C1=NC(CN(C)C(=O)N[C@@H](CCN2CCOCC2)C(=O)N[C@H](CC[C@H](CC2=CC=CC=C2)NC(=O)OCC2=CN=CS2)CC2=CC=CC=C2)=CS1"	2183566	4299	"Gastroschisis"	10018046	"PT"	2.2469285281863183
+"levetiracetam"	"CC[C@H](N1CCCC1=O)C(N)=O"	2017278	1563	"Cleft lip"	10009259	"PT"	2.2446517764583924
+"progesterone"	"CC(=O)[C@H]1CC[C@H]2[C@@H]3CCC4=CC(=O)CC[C@]4(C)[C@H]3CC[C@]12C"	1913561	2279	"Atrial septal defect"	10003664	"PT"	2.228717143978031
+"fluoxetine"	"CNCCC(OC1=CC=C(C=C1)C(F)(F)F)C1=CC=CC=C1"	2468623	1209	"Patent ductus arteriosus"	10034130	"PT"	2.2110344827586204
+"atazanavir"	"COC(=O)N[C@H](C(=O)N[C@@H](CC1=CC=CC=C1)[C@@H](O)CN(CC1=CC=C(C=C1)C1=CC=CC=N1)NC(=O)[C@@H](NC(=O)OC)C(C)(C)C)C(C)(C)C"	2822494	254	"Trisomy 18"	10053884	"PT"	2.1886351646695306
+"zidovudine"	"CC1=CN([C@H]2C[C@H](N=[N+]=[N-])[C@@H](CO)O2)C(=O)NC1=O"	2607797	2861	"Spina bifida"	10041524	"PT"	2.1815112837587867
+"ritonavir"	"CC(C)[C@H](NC(=O)N(C)CC1=CSC(=N1)C(C)C)C(=O)N[C@H](C[C@H](O)[C@H](CC1=CC=CC=C1)NC(=O)OCC1=CN=CS1)CC1=CC=CC=C1"	2019745	2391	"Coarctation of the aorta"	10009807	"PT"	2.1731738035264483
+"venlafaxine"	"COC1=CC=C(C=C1)C(CN(C)C)C1(O)CCCCC1"	2468639	2813	"Patent ductus arteriosus"	10034130	"PT"	2.163470508966518
+"nimodipine"	"COCCOC(=O)C1=C(C)NC(C)=C(C1C1=CC(=CC=C1)[N+]([O-])=O)C(=O)OC(C)C"	2468752	1937	"Patent ductus arteriosus"	10034130	"PT"	2.144131109591203
+"ondansetron"	"CN1C2=C(C3=CC=CC=C13)C(=O)C(CN1C=CN=C1C)CC2"	2687053	1992	"Ventricular septal defect"	10047298	"PT"	2.143419689119171
+"insulin human"	(null)	1913439	5003	"Atrial septal defect"	10003664	"PT"	2.1392255711680788
+"metoprolol"	"COCCC1=CC=C(OCC(O)CNC(C)C)C=C1"	1913399	1786	"Atrial septal defect"	10003664	"PT"	2.138857668335547
+"tacrolimus"	"CO[C@@H]1C[C@@H](CC[C@H]1O)\C=C(/C)[C@H]1OC(=O)[C@@H]2CCCCN2C(=O)C(=O)[C@]2(O)O[C@@H]([C@H](C[C@H]2C)OC)[C@H](C[C@@H](C)C\C(C)=C\[C@@H](CC=C)C(=O)C[C@H](O)[C@@H]1C)OC"	2240445	2552	"Hydrocephalus"	10020508	"PT"	2.1288981288981286
+"paroxetine"	"FC1=CC=C(C=C1)[C@@H]1CCNC[C@H]1COC1=CC2=C(OCO2)C=C1"	2519603	2068	"Pulmonary artery stenosis"	10037338	"PT"	2.1121030739575937
+"alendronic acid"	"NCCCC(O)(P(O)(O)=O)P(O)(O)=O"	1887602	112	"Aortic aneurysm"	10002882	"PT"	2.066110838646395
+"metoprolol"	"COCCC1=CC=C(OCC(O)CNC(C)C)C=C1"	1923174	1786	"Bicuspid aortic valve"	10004552	"PT"	2.060999284765505
+"zidovudine"	"CC1=CN([C@H]2C[C@H](N=[N+]=[N-])[C@@H](CO)O2)C(=O)NC1=O"	1878954	2861	"Anencephaly"	10002320	"PT"	2.057759896411395
+"nicotinamide"	"NC(=O)C1=CN=CC=C1"	1913371	1906	"Atrial septal defect"	10003664	"PT"	2.0551026725828088
+"lamotrigine"	"NC1=NN=C(C(N)=N1)C1=C(Cl)C(Cl)=CC=C1"	2995184	1540	"Persistent left superior vena cava"	10064193	"PT"	2.0520980005632214
+"prednisolone"	"C[C@]12C[C@H](O)[C@H]3[C@@H](CCC4=CC(=O)C=C[C@]34C)[C@@H]1CC[C@]2(O)C(=O)CO"	2017354	2245	"Cleft palate"	10009269	"PT"	2.050477773161612
+"ampicillin"	"CC1(C)S[C@@H]2[C@H](NC(=O)[C@H](N)C3=CC=CC=C3)C(=O)N2[C@H]1C(O)=O"	2468723	198	"Patent ductus arteriosus"	10034130	"PT"	2.0289362292693083
+"zoledronic acid"	"OC(CN1C=CN=C1)(P(O)(O)=O)P(O)(O)=O"	2608452	2868	"Spinal cord compression"	10041549	"PT"	2.0134391629836745
+"metoclopramide"	"CCN(CC)CCNC(=O)C1=C(OC)C=C(N)C(Cl)=C1"	2897993	1782	"Aortic rupture"	10060874	"PT"	2.00218204488778
