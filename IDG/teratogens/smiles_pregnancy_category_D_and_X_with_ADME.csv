@@ -1,0 +1,170 @@
+﻿PRODUCT,NAME,SMILES,BA,BDDCS,CL,EOM,FU,T_HALF,MRTD,VD,S
+acetohydroxamic acid,acetohydroxamic acid,CC(=O)NO,55,,,,,,,,
+acitretin,acitretin,COC1=C(C)C(C)=C(\C=C\C(\C)=C\C=C\C(\C)=C\C(O)=O)C(C)=C1,59,2,,0,,,3.829192638,,
+alprazolam,alprazolam,CC1=NN=C2CN=C(C3=CC=CC=C3)C3=CC(Cl)=CC=C3N12,88,1,0.74,20,0.29,12,0.46360001,0.8,0.073
+amikacin sulfate,amikacin,NCC[C@H](O)C(=O)N[C@@H]1C[C@H](N)[C@@H](O[C@H]2O[C@H](CN)[C@@H](O)[C@H](O)[C@H]2O)[C@H](O)[C@H]1O[C@H]1O[C@H](CO)[C@@H](O)[C@H](N)[C@H]1O,0,3,1.1,98,0.88,2.4,25.61415482,0.16,
+amiodarone hydrochloride,amiodarone,CCCCC1=C(C(=O)C2=CC(I)=C(OCCN(CC)CC)C(I)=C2)C2=C(O1)C=CC=C2,,2,1.9,0,0.0002,820,41.37459183,60,0.7
+anastrozole,anastrozole,CC(C)(C#N)C1=CC(=CC(CN2C=NC=N2)=C1)C(C)(C)C#N,80,1,,10,,,0.056923833,,0.5
+atenolol,atenolol,CC(C)NCC(O)COC1=CC=C(CC(N)=O)C=C1,56,3,2.5,94,0.94,6.1,12.50267315,0.95,24.8
+atorvastatin,atorvastatin,CC(C)C1=C(C(=O)NC2=CC=CC=C2)C(=C(N1CC[C@@H](O)C[C@@H](O)CC(O)=O)C1=CC=C(F)C=C1)C1=CC=CC=C1,,2,,1,,,2.045730114,,0.0204
+atorvastatin calcium,atorvastatin,CC(C)C1=C(C(=O)NC2=CC=CC=C2)C(=C(N1CC[C@@H](O)C[C@@H](O)CC(O)=O)C1=CC=C(F)C=C1)C1=CC=CC=C1,,2,,1,,,2.045730114,,0.0204
+azathioprine sodium,azathioprine,CN1C=NC(=C1SC1=NC=NC2=C1NC=N2)[N+]([O-])=O,60,1,,1,,,18.03323555,,10
+benazepril,benazepril,CCOC(=O)[C@H](CCC1=CC=CC=C1)N[C@H]1CCC2=CC=CC=C2N(CC(O)=O)C1=O,18,1,,0.5,,,3.133089304,,78
+benazepril hcl,benazepril,CCOC(=O)[C@H](CCC1=CC=CC=C1)N[C@H]1CCC2=CC=CC=C2N(CC(O)=O)C1=O,18,1,,0.5,,,3.133089304,,78
+benazepril hydrochloride,benazepril,CCOC(=O)[C@H](CCC1=CC=CC=C1)N[C@H]1CCC2=CC=CC=C2N(CC(O)=O)C1=O,18,1,,0.5,,,3.133089304,,78
+benzphetamine hydrochloride,benzphetamine,C[C@@H](CC1=CC=CC=C1)N(C)CC1=CC=CC=C1,,0,,,,,10.44436073,,
+bleomycin,bleomycin,,,,1.26,,,3.9,0.353199989,0.43,
+bleomycin sulfate,bleomycin,,,,1.26,,,3.9,0.353199989,0.43,
+busulfan,busulfan,CS(=O)(=O)OCCCCOS(C)(=O)=O,70,1,2.4,1,1,3.4,0.231999993,0.55,0.1
+captopril,captopril,C[C@H](CS)C(=O)N1CCC[C@H]1C(O)=O,69,3,12,38,0.73,2,19.7234993,0.75,160
+captorpil,captopril,C[C@H](CS)C(=O)N1CCC[C@H]1C(O)=O,69,3,12,38,0.73,2,19.7234993,0.75,160
+carbamazepine,carbamazepine,NC(=O)N1C2=CC=CC=C2C=CC2=C1C=CC=C2,70,2,,0.5,,,113.0035858,,0.256
+carboplatin,carboplatin,,,3,1.5,77,1,2,,0.26,14
+carboplatin injection,carboplatin,,,3,1.5,77,1,2,,0.26,14
+carvedilol,carvedilol,COC1=C(OCCNCC(O)COC2=CC=CC3=C2C2=CC=CC=C2N3)C=CC=C1,,2,7.8,1,0.02,2.4,1.025866032,1.3,0.01
+chenodiol,chenodiol,C[C@H](CCC(O)=O)[C@H]1CC[C@H]2[C@@H]3[C@H](O)C[C@@H]4C[C@H](O)CC[C@]4(C)[C@H]3CC[C@]12C,,,5.7,,,1.42,,0.19,
+chlorambucil,chlorambucil,OC(=O)CCCC1=CC=C(C=C1)N(CCCl)CCCl,82,1,2.8,0.5,0.01,1.1,0.657421053,0.26,12
+cisplatin,cisplatin,,,1,,2.3,,,4.748819828,,2.53
+cladribine,cladribine,NC1=C2N=CN([C@H]3C[C@H](O)[C@@H](CO)O3)C2=NC(Cl)=N1,45,2,14,18,0.79,16,0.315024734,7.7,
+clofarabine,clofarabine,NC1=C2N=CN([C@@H]3O[C@H](CO)[C@@H](O)[C@@H]3F)C2=NC(Cl)=N1,50,3,7.7,55,0.53,4,4.234000206,1.75,1
+clomiphene citrate,clomifene,CCN(CC)CCOC1=CC=C(C=C1)C(=C(Cl)C1=CC=CC=C1)C1=CC=CC=C1,90,1,,8,,,3.519000053,,1.11
+clonazepam,clonazepam,[O-][N+](=O)C1=CC=C2NC(=O)CN=C(C2=C1)C1=C(Cl)C=CC=C1,98,1,0.88,0.5,0.15,38,0.421261668,2.9,0.1
+clonullzepam,clonazepam,[O-][N+](=O)C1=CC=C2NC(=O)CN=C(C2=C1)C1=C(Cl)C=CC=C1,98,1,0.88,0.5,0.15,38,0.421261668,2.9,0.1
+cyclophosphamide,cyclophosphamide,ClCCN(CCCl)P1(=O)NCCCO1,74,1,1.1,6.5,0.87,8,19.1505146,0.73,40
+cytarabine,cytarabine,NC1=NC(=O)N(C=C1)[C@@H]1O[C@H](CO)[C@@H](O)[C@@H]1O,20,1,41.67,11,0.87,0.17,11.10101223,0.67,
+danazol,danazol,C[C@]12CC[C@H]3[C@@H](CCC4=CC5=C(C[C@]34C)C=NO5)[C@@H]1CC[C@@]2(O)C#C,,2,15.71,,,2.31,33.78225327,5.18,0.0009
+dantrolene,dantrolene,[O-][N+](=O)C1=CC=C(C=C1)C1=CC=C(O1)\C=N\N1CC(=O)NC1=O,70,1,0.43,5,,10,21.22449112,0.37,2
+dasatinib,dasatinib,CC1=NC(NC2=NC=C(S2)C(=O)NC2=C(C)C=CC=C2Cl)=CC(=N1)N1CCN(CCO)CC1,15,2,,0.1,,,5.854599953,,
+daunorubicin hydrochloride,daunorubicin,COC1=C2C(=O)C3=C(C(O)=C4C[C@](O)(C[C@H](O[C@H]5C[C@H](N)[C@H](O)[C@H](C)O5)C4=C3O)C(C)=O)C(=O)C2=CC=C1,,2,47.57,0.5,0.06,14.24,2.047265768,32.05,0.0392
+demeclocycline hydrochloride,demeclocycline,CN(C)[C@H]1[C@@H]2C[C@@H]3[C@H](O)C4=C(Cl)C=CC(O)=C4C(=O)C3=C(O)[C@]2(O)C(=O)C(C(N)=O)=C1O,66,3,1.1,47,0.59,12,32.26756287,1.3,1.5
+dexrazoxane for injection,dexrazoxane,C[C@@H](CN1CC(=O)NC(=O)C1)N1CC(=O)NC(=O)C1,,3,3.1,42,1,2.5,,0.55,11
+dexrazoxane hydrochloride,dexrazoxane,C[C@@H](CN1CC(=O)NC(=O)C1)N1CC(=O)NC(=O)C1,,3,3.1,42,1,2.5,,0.55,11
+dextroamphetamine sulfate,dexamfetamine,C[C@H](N)CC1=CC=CC=C1,75,0,,40,,,7.395866394,,1
+diazepam,diazepam,CN1C2=CC=C(Cl)C=C2C(=NCC1=O)C1=CC=CC=C1,99,1,0.38,0.5,0.023,42,2.007844925,1,0.057
+dihydroergotamine mesylate,dihydroergotamine,CN1C[C@@H](C[C@H]2[C@H]1CC1=CNC3=CC=CC2=C13)C(=O)N[C@]1(C)O[C@@]2(O)[C@@H]3CCCN3C(=O)[C@H](CC3=CC=CC=C3)N2C1=O,1,1,15.07,,0.07,0.55,0.073399998,0.33,
+divalproex sodium,valproic acid,CCCC(CCC)C(O)=O,99,1,0.16,1.8,0.08,12,289.1505737,0.14,1.3
+docetaxel,docetaxel,CC(=O)O[C@@]12CO[C@@H]1C[C@H](O)[C@]1(C)[C@@H]2[C@H](OC(=O)C2=CC=CC=C2)[C@]2(O)C[C@H](OC(=O)[C@H](O)[C@@H](NC(=O)OC(C)(C)C)C3=CC=CC=C3)C(C)=C([C@@H](O)C1=O)C2(C)C,0,2,14,5,0.04,11,0.145699993,2.1,0.0065
+doxorubicin hydrochloride,doxorubicin,COC1=C2C(=O)C3=C(C(O)=C4C[C@](O)(C[C@H](O[C@H]5C[C@H](N)[C@H](O)[C@H](C)O5)C4=C3O)C(=O)CO)C(=O)C2=CC=C1,5,1,15,3.5,0.28,32,4.470755577,22,10
+doxycycline,doxycycline,C[C@@H]1[C@H]2[C@H](O)[C@H]3[C@H](N(C)C)C(O)=C(C(N)=O)C(=O)[C@@]3(O)C(O)=C2C(=O)C2=C(O)C=CC=C12,93,3,0.46,41,0.12,14,6.428500175,0.69,
+doxycycline hyclate,doxycycline,C[C@@H]1[C@H]2[C@H](O)[C@H]3[C@H](N(C)C)C(O)=C(C(N)=O)C(=O)[C@@]3(O)C(O)=C2C(=O)C2=C(O)C=CC=C12,93,3,0.46,41,0.12,14,6.428500175,0.69,
+doxycycline monohydrate,doxycycline,C[C@@H]1[C@H]2[C@H](O)[C@H]3[C@H](N(C)C)C(O)=C(C(N)=O)C(=O)[C@@]3(O)C(O)=C2C(=O)C2=C(O)C=CC=C12,93,3,0.46,41,0.12,14,6.428500175,0.69,
+durezol,difluprednate,CCCC(=O)O[C@@]1(CC[C@H]2[C@@H]3C[C@H](F)C4=CC(=O)C=C[C@]4(C)[C@@]3(F)[C@@H](O)C[C@]12C)C(=O)COC(C)=O,,,,,,,,,
+dutasteride,dutasteride,C[C@]12CC[C@H]3[C@@H](CC[C@H]4NC(=O)C=C[C@]34C)[C@@H]1CC[C@@H]2C(=O)NC1=C(C=CC(=C1)C(F)(F)F)C(F)(F)F,60,2,,0.5,,,0.0135,,
+efavirenz,efavirenz,FC(F)(F)[C@]1(OC(=O)NC2=C1C=C(Cl)C=C2)C#CC1CC1,42.5,2,,0.5,,,27.15213966,,0.005
+enalapril maleate,enalapril,CCOC(=O)[C@H](CCC1=CC=CC=C1)N[C@@H](C)C(=O)N1CCC[C@H]1C(O)=O,63.5,1,,10,,,1.771784782,,25
+enulllapril maleate,enalapril,CCOC(=O)[C@H](CCC1=CC=CC=C1)N[C@@H](C)C(=O)N1CCC[C@H]1C(O)=O,63.5,1,,10,,,1.771784782,,25
+epirubicin hydrochloride,epirubicin,COC1=C2C(=O)C3=C(C(O)=C4C[C@](O)(C[C@H](O[C@H]5C[C@H](N)[C@@H](O)[C@H](C)O5)C4=C3O)C(=O)CO)C(=O)C2=CC=C1,,1,20,9.5,0.25,36,5.752399921,45,
+ergotamine tartrate,ergotamine,CN1C[C@@H](C=C2[C@H]1CC1=CNC3=CC=CC2=C13)C(=O)N[C@]1(C)O[C@@]2(O)[C@@H]3CCCN3C(=O)[C@H](CC3=CC=CC=C3)N2C1=O,2,1,15,,0.02,2.1,0.147300005,3.6,2
+estradiol,estradiol,C[C@]12CC[C@H]3[C@@H](CCC4=C3C=CC(O)=C4)[C@@H]1CC[C@@H]2O,5,1,30,0.5,0.016,1.7,1.835598111,1.2,0.09
+estradiol pellet,estradiol,C[C@]12CC[C@H]3[C@@H](CCC4=C3C=CC(O)=C4)[C@@H]1CC[C@@H]2O,5,1,30,0.5,0.016,1.7,1.835598111,1.2,0.09
+etoposide,etoposide,COC1=CC(=CC(OC)=C1O)[C@H]1[C@@H]2[C@H](COC2=O)[C@H](O[C@@H]2O[C@@H]3CO[C@@H](C)O[C@H]3[C@H](O)[C@H]2O)C2=C1C=C1OCOC1=C2,52,3,0.5,38,0.12,5.7,6.298600197,0.18,0.22
+exemestane,exemestane,C[C@]12CC[C@H]3[C@@H](CC(=C)C4=CC(=O)C=C[C@]34C)[C@@H]1CCC2=O,42,2,,1,,,1.349468112,,
+extended phenytoin sodium,phenytoin,O=C1NC(=O)C(N1)(C1=CC=CC=C1)C1=CC=CC=C1,90,2,0.37,2,0.13,16.8,19.81963348,0.43,0.02
+finasteride,finasteride,CC(C)(C)NC(=O)[C@H]1CC[C@H]2[C@@H]3CC[C@H]4NC(=O)C=C[C@]4(C)[C@H]3CC[C@]12C,63,1,2.4,0.5,0.095,6,0.191729993,1.1,0.043
+floxuridine,floxuridine,OC[C@H]1O[C@H](C[C@@H]1O)N1C=C(F)C(=O)NC1=O,90,,,,,,,,
+fluconazole,fluconazole,OC(CN1C=NC=N1)(CN1C=NC=N1)C1=C(F)C=C(F)C=C1,90,3,0.31,75,0.89,30,9.328499794,0.75,1
+"fluconazole, sodium chloride",fluconazole,OC(CN1C=NC=N1)(CN1C=NC=N1)C1=C(F)C=C(F)C=C1,90,3,0.31,75,0.89,30,9.328499794,0.75,1
+fluconullzole,fluconazole,OC(CN1C=NC=N1)(CN1C=NC=N1)C1=C(F)C=C(F)C=C1,90,3,0.31,75,0.89,30,9.328499794,0.75,1
+fludarabine phosphate,fludarabine phosphate,NC1=C2N=CN([C@@H]3O[C@H](COP(O)(O)=O)[C@@H](O)[C@@H]3O)C2=NC(F)=N1,57.5,1,,,,,2.659800053,,3.53
+fluorouracil,fluorouracil,FC1=CNC(=O)NC1=O,28,1,26,5,0.64,0.12,92.25,0.23,12.2
+flutamide,flutamide,CC(C)C(=O)NC1=CC(=C(C=C1)[N+]([O-])=O)C(F)(F)F,90,2,,0.5,,,38.79000092,,0.0095
+fluvastatin,fluvastatin,CC(C)N1C(\C=C\[C@H](O)C[C@H](O)CC(O)=O)=C(C2=C1C=CC=C2)C1=CC=C(F)C=C1,24,1,16,1.5,0.0079,0.7,1.620987654,0.42,50
+fluvastatin sodium,fluvastatin,CC(C)N1C(\C=C\[C@H](O)C[C@H](O)CC(O)=O)=C(C2=C1C=CC=C2)C1=CC=C(F)C=C1,24,1,16,1.5,0.0079,0.7,1.620987654,0.42,50
+follitropin,follitropin,,,,,,,,,,
+fosinopirl sodium,fosinopril,CCC(=O)O[C@@H](O[P@](=O)(CCCCC1=CC=CC=C1)CC(=O)N1C[C@@H](C[C@H]1C(O)=O)C1CCCCC1)C(C)C,34,2,,0,,,2.359505653,,0.022
+fosinopril,fosinopril,CCC(=O)O[C@@H](O[P@](=O)(CCCCC1=CC=CC=C1)CC(=O)N1C[C@@H](C[C@H]1C(O)=O)C1CCCCC1)C(C)C,34,2,,0,,,2.359505653,,0.022
+fosinopril sodium,fosinopril,CCC(=O)O[C@@H](O[P@](=O)(CCCCC1=CC=CC=C1)CC(=O)N1C[C@@H](C[C@H]1C(O)=O)C1CCCCC1)C(C)C,34,2,,0,,,2.359505653,,0.022
+fosphenytoin sodium,fosphenytoin,OP(O)(=O)OCN1C(=O)NC(C1=O)(C1=CC=CC=C1)C1=CC=CC=C1,,,3.5,,0.05,0.16,,0.06,
+gemcitabine,gemcitabine,NC1=NC(=O)N(C=C1)[C@@H]1O[C@H](CO)[C@@H](O)C1(F)F,,1,32,8,1,1,93.90000153,1.5,15
+gemcitabine hydrochloride,gemcitabine,NC1=NC(=O)N(C=C1)[C@@H]1O[C@H](CO)[C@@H](O)C1(F)F,,1,32,8,1,1,93.90000153,1.5,15
+gentamicin,gentamicin,,,,1,,1,4.7,6.281325817,0.33,
+gentamicin sulfate,gentamicin,,,,1,,1,4.7,6.281325817,0.33,
+griseofulvin,griseofulvin,COC1=CC(OC)=C(Cl)C2=C1C(=O)[C@]1(O2)[C@H](C)CC(=O)C=C1OC,47.5,2,,0.3,,,35.43340683,,
+grisofulvin,griseofulvin,COC1=CC(OC)=C(Cl)C2=C1C(=O)[C@]1(O2)[C@H](C)CC(=O)C=C1OC,47.5,2,,0.3,,,35.43340683,,
+hydroxyurea,hydroxycarbamide,NC(=O)NO,79,3,1.5,80,1,3.4,1502.573242,0.52,50
+irbesartan,irbesartan,CCCCC1=NC2(CCCC2)C(=O)N1CC1=CC=C(C=C1)C1=CC=CC=C1C1=NN=NN1,70,2,2.3,2.5,0.1,14,10,0.94,0.08
+leflunomide,leflunomide,CC1=C(C=NO1)C(=O)NC1=CC=C(C=C1)C(F)(F)F,80,2,,1,,,1.232361436,,0.023
+letrozole,letrozole,N#CC1=CC=C(C=C1)C(N1C=NC=N1)C1=CC=C(C=C1)C#N,99,1,0.57,3.9,0.41,45,0.146156445,1.9,0.041
+leuprolide acetate,leuprorelin,CCNC(=O)[C@@H]1CCCN1C(=O)[C@H](CCCNC(N)=N)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](CC(C)C)NC(=O)[C@H](CC1=CC=C(O)C=C1)NC(=O)[C@H](CO)NC(=O)[C@H](CC1=CNC2=C1C=CC=C2)NC(=O)[C@H](CC1=CNC=N1)NC(=O)[C@@H]1CCC(=O)N1,,1,2,2,0.54,2.9,0.0117354,0.38,250
+lisinopril,lisinopril,NCCCC[C@H](N[C@@H](CCC1=CC=CC=C1)C(O)=O)C(=O)N1CCC[C@H]1C(O)=O,25,3,1.2,94,1,42,1.409199953,0.89,97
+lithium carbonate,lithium carbonate,,,3,,95,,,116.0026016,,13
+lithium carbonullte,lithium carbonate,,,3,,95,,,116.0026016,,13
+lorazepam,lorazepam,OC1N=C(C2=CC(Cl)=CC=C2NC1=O)C1=C(Cl)C=CC=C1,93,1,1,0.5,0.09,17,0.44479999,1.3,0.08
+losartan potassium,losartan,CCCCC1=NC(Cl)=C(CO)N1CC1=CC=C(C=C1)C1=C(C=CC=C1)C1=NN=NN1,35,2,8.2,12,0.01,1.8,3.948725939,0.37,0.048
+losartan potassium tablet,losartan,CCCCC1=NC(Cl)=C(CO)N1CC1=CC=C(C=C1)C1=C(C=CC=C1)C1=NN=NN1,35,2,8.2,12,0.01,1.8,3.948725939,0.37,0.048
+lovastatin,lovastatin,CC[C@H](C)C(=O)O[C@H]1C[C@@H](C)C=C2C=C[C@H](C)[C@H](CC[C@@H]3C[C@@H](O)CC(=O)O3)[C@@H]12,5,2,,10,,,3.287591219,,0.0004
+medroxyprogesterone,medroxyprogesterone,C[C@H]1C[C@H]2[C@@H]3CC[C@](OC(C)=O)(C(C)=O)[C@@]3(C)CC[C@@H]2[C@@]2(C)CCC(=O)C=C12,15,4,,44,,,0.061000001,,0.022
+medroxyprogesterone acetate,medroxyprogesterone,C[C@H]1C[C@H]2[C@@H]3CC[C@](OC(C)=O)(C(C)=O)[C@@]3(C)CC[C@@H]2[C@@]2(C)CCC(=O)C=C12,15,4,,44,,,0.061000001,,0.022
+megestrol acetate,megestrol acetate,CC(=O)O[C@@]1(CC[C@H]2[C@@H]3C=C(C)C4=CC(=O)CC[C@]4(C)[C@H]3CC[C@]12C)C(C)=O,90,4,,60,,,23.22400093,,0.002
+"melphalan usp, 2 mg",melphalan,N[C@@H](CC1=CC=C(C=C1)N(CCCl)CCCl)C(O)=O,71,1,7,12,0.14,1,0.327646911,0.48,0.1
+mercaptopurine,mercaptopurine,S=C1N=CNC2=C1NC=N2,12,2,15,22,0.85,1,16.42808342,1,
+methimazole,thiamazole,CN1C=CNC1=S,93,1,3.7,,,2.4,8.758882523,0.86,
+methotrexate,methotrexate,CN(CC1=CN=C2N=C(N)N=C(N)C2=N1)C1=CC=C(C=C1)C(=O)N[C@@H](CCC(O)=O)C(O)=O,33,3,2.1,81,0.37,3.9,1.100233674,0.43,0.45
+methylene blue,methylthioninium chloride,CN(C)C1=CC2=[S+]C3=CC(=CC=C3N=C2C=C1)N(C)C,,,,,,,,,
+methyltestosterone,methyltestosterone,C[C@]1(O)CC[C@H]2[C@@H]3CCC4=CC(=O)CC[C@]4(C)[C@H]3CC[C@]12C,50,,,,,,,,
+midazolam,midazolam,CC1=NC=C2CN=C(C3=CC(Cl)=CC=C3N12)C1=C(F)C=CC=C1,44,1,5.3,5.6,0.017,3.1,0.25569731,1.1,10.3
+midazolam hydrochloride,midazolam,CC1=NC=C2CN=C(C3=CC(Cl)=CC=C3N12)C1=C(F)C=CC=C1,44,1,5.3,5.6,0.017,3.1,0.25569731,1.1,10.3
+minocycline hydrochloride,minocycline,CN(C)[C@H]1[C@@H]2C[C@@H]3CC4=C(C(O)=CC=C4N(C)C)C(=O)C3=C(O)[C@]2(O)C(=O)C(C(N)=O)=C1O,97,1,1.2,11,0.005,17,6.869999886,1.6,50
+misoprostol,misoprostol,CCCCC(C)(O)C\C=C\[C@H]1[C@H](O)CC(=O)[C@@H]1CCCCCCC(=O)OC,80,1,,0.5,,,0.034767136,,
+mitoxantrone,mitoxantrone,OCCNCCNC1=CC=C(NCCNCCO)C2=C1C(=O)C1=C(O)C=CC(O)=C1C2=O,0,3,7.9,7,0.25,53,0.778400004,12,7.5
+moexipril hydrochloride,moexipril,CCOC(=O)[C@H](CCC1=CC=CC=C1)N[C@@H](C)C(=O)N1CC2=CC(OC)=C(OC)C=C2C[C@H]1C(O)=O,13,,6.3,,0.12,1.3,,,
+mycophenilic acid,mycophenolic acid,COC1=C(C\C=C(/C)CCC(O)=O)C(O)=C2C(=O)OCC2=C1C,,2,2.33,0.5,0.02,9.7,64.21630096,0.77,
+mycophenolate mofetil,mycophenolate mofetil,COC1=C(C)C2=C(C(=O)OC2)C(O)=C1C\C=C(/C)CCC(=O)OCCN1CCOCC1,,2,,0,,,47.45360184,,0.043
+neomycin sulfate,neomycin,,3,,,,,,,,
+nicotine,nicotine,CN1CCC[C@H]1C1=CC=CN=C1,30,1,18,16.7,0.95,2,3.522000074,2.6,
+norethindrone,norethindrone acetate,CC(=O)O[C@]1(CC[C@H]2[C@@H]3CCC4=CC(=O)CC[C@@H]4[C@H]3CC[C@]12C)C#C,,2,,0,,,0.629390001,,0.005
+norethindrone acetate,norethindrone acetate,CC(=O)O[C@]1(CC[C@H]2[C@@H]3CCC4=CC(=O)CC[C@@H]4[C@H]3CC[C@]12C)C#C,,2,,0,,,0.629390001,,0.005
+olmesartan medoxomil,olmesartan medoxomil,CCCC1=NC(=C(N1CC1=CC=C(C=C1)C1=C(C=CC=C1)C1=NN=NN1)C(=O)OCC1=C(C)OC(=O)O1)C(C)(C)O,26,1,,0,,,1.023000002,,2
+orlistat,orlistat,CCCCCCCCCCC[C@@H](C[C@@H]1OC(=O)[C@H]1CCCCCC)OC(=O)[C@H](CC(C)C)NC=O,1,4,,1,,,9.220999718,,
+oxaliplatin,oxaliplatin,,,1,0.1,,0.13,58.92,8.131500244,0.5,6
+paclitaxel,paclitaxel,CC(=O)O[C@@H]1C2=C(C)[C@H](C[C@@](O)([C@@H](OC(=O)C3=CC=CC=C3)[C@@H]3[C@@]4(CO[C@@H]4C[C@H](O)[C@@]3(C)C1=O)OC(C)=O)C2(C)C)OC(=O)[C@H](O)[C@@H](NC(=O)C1=CC=CC=C1)C1=CC=CC=C1,6.5,2,6.4,5,0.12,11,5.539103508,3,
+pamidronate disodium,pamidronic acid,NCCC(O)(P(O)(O)=O)P(O)(O)=O,1,3,2.5,46,0.7,32,5.46999979,1.8,
+paroxetine,paroxetine,FC1=CC=C(C=C1)[C@@H]1CCNC[C@H]1COC1=CC2=C(OCO2)C=C1,50,1,18,2,0.06,13,2.529035807,18,5.4
+paroxetine hydrochloride,paroxetine,FC1=CC=C(C=C1)[C@@H]1CCNC[C@H]1COC1=CC2=C(OCO2)C=C1,50,1,18,2,0.06,13,2.529035807,18,5.4
+paroxetine hydrochloride anhydrous,paroxetine,FC1=CC=C(C=C1)[C@@H]1CCNC[C@H]1COC1=CC2=C(OCO2)C=C1,50,1,18,2,0.06,13,2.529035807,18,5.4
+penicillamine,penicillamine,CC(C)(S)[C@@H](N)C(O)=O,50,3,10.65,45,0.12,3.04,,1.26,
+pentobarbital sodium,pentobarbital,CCCC(C)C1(CC)C(=O)NC(=O)NC1=O,80,,0.47,,0.39,22,12.61438942,0.91,
+perindopril erbumine,perindopril,CCC[C@H](N[C@@H](C)C(=O)N1[C@H]2CCCC[C@H]2C[C@H]1C(O)=O)C(=O)OCC,25,1,,8,,,0.60385102,,
+phendimetrazine tartrate,phendimetrazine,C[C@H]1[C@@H](OCCN1C)C1=CC=CC=C1,,0,,,,,,,
+phenobarbital,phenobarbital,CCC1(C(=O)NC(=O)NC1=O)C1=CC=CC=C1,99,1,0.063,24,0.49,99,9.300682068,0.54,1
+phenobarbital sodium,phenobarbital,CCC1(C(=O)NC(=O)NC1=O)C1=CC=CC=C1,99,1,0.063,24,0.49,99,9.300682068,0.54,1
+phentermine hydrochloride,phentermine,CC(C)(N)CC1=CC=CC=C1,,3,,,,,4.187948227,,
+phentermine resin,phentermine,CC(C)(N)CC1=CC=CC=C1,,3,,,,,4.187948227,,
+phenytoin,phenytoin,O=C1NC(=O)C(N1)(C1=CC=CC=C1)C1=CC=CC=C1,90,2,0.37,2,0.13,16.8,19.81963348,0.43,0.02
+phenytoin sodium,phenytoin,O=C1NC(=O)C(N1)(C1=CC=CC=C1)C1=CC=CC=C1,90,2,0.37,2,0.13,16.8,19.81963348,0.43,0.02
+pravastatin sodium,pravastatin,CC[C@H](C)C(=O)O[C@H]1C[C@H](O)C=C2C=C[C@H](C)[C@H](CC[C@@H](O)C[C@@H](O)CC(O)=O)[C@@H]12,18,3,14,47,0.5,0.78,1.571115375,0.46,300
+pravatatin,pravastatin,CC[C@H](C)C(=O)O[C@H]1C[C@H](O)C=C2C=C[C@H](C)[C@H](CC[C@@H](O)C[C@@H](O)CC(O)=O)[C@@H]12,18,3,14,47,0.5,0.78,1.571115375,0.46,300
+propylthiouracil,propylthiouracil,CCCC1=CC(=O)NC(=S)N1,85,1,3.1,,0.18,1.3,75.52809906,0.34,1.2
+quinapril,quinapril,CCOC(=O)[C@H](CCC1=CC=CC=C1)N[C@@H](C)C(=O)N1CC2=CC=CC=C2C[C@H]1C(O)=O,60,2,,3.1,,,2.606100082,,0.001
+quinapril hydrochloride,quinapril,CCOC(=O)[C@H](CCC1=CC=CC=C1)N[C@@H](C)C(=O)N1CC2=CC=CC=C2C[C@H]1C(O)=O,60,2,,3.1,,,2.606100082,,0.001
+raloxifene,raloxifene,OC1=CC=C(C=C1)C1=C(C(=O)C2=CC=C(OCCN3CCCCC3)C=C2)C2=C(S1)C=C(O)C=C2,2,2,10.8,0.1,0.05,12.1,21.11505699,7.5,0.013
+raloxifene hydrochloride,raloxifene,OC1=CC=C(C=C1)C1=C(C(=O)C2=CC=C(OCCN3CCCCC3)C=C2)C2=C(S1)C=C(O)C=C2,2,2,10.8,0.1,0.05,12.1,21.11505699,7.5,0.013
+ramipril,ramipril,CCOC(=O)[C@H](CCC1=CC=CC=C1)N[C@@H](C)C(=O)N1[C@H]2CCC[C@H]2C[C@H]1C(O)=O,28,1,,1.5,,,0.68599999,,
+ribavirin,ribavirin,NC(=O)C1=NN(C=N1)[C@@H]1O[C@H](CO)[C@@H](O)[C@H]1O,60,1,5.2,17,1,45,35.09999847,14,142
+rosuvastatin calcium,rosuvastatin,CC(C)C1=C(\C=C\[C@@H](O)C[C@@H](O)CC(O)=O)C(=NC(=N1)N(C)S(C)(=O)=O)C1=CC=C(F)C=C1,20,3,11,30,0.12,2,1.186650038,1.7,
+simvastatin,simvastatin,CCC(C)(C)C(=O)O[C@H]1C[C@@H](C)C=C2C=C[C@H](C)[C@H](CC[C@@H]3C[C@@H](O)CC(=O)O3)[C@@H]12,3,2,,10,,,1.365200043,,0.03
+tamoxifen citrate,tamoxifen,CC\C(=C(/C1=CC=CC=C1)C1=CC=C(OCCN(C)C)C=C1)C1=CC=CC=C1,,1,,0.5,,,1.182829976,,0.5
+tazarotene,tazarotene,CCOC(=O)C1=CN=C(C=C1)C#CC1=CC=C2SCCC(C)(C)C2=C1,,,37.2,,,6.22,,3.55,
+telmisartan,telmisartan,CCCC1=NC2=C(C=C(C=C2C)C2=NC3=C(C=CC=C3)N2C)N1CC1=CC=C(C=C1)C1=C(C=CC=C1)C(O)=O,50,2,8.4,0.5,0.004,20,2.220700026,5.3,
+temazepam,temazepam,CN1C2=CC=C(Cl)C=C2C(=NC(O)C1=O)C1=CC=CC=C1,91,1,,0.5,,,0.831262887,,0.604
+temozolomide,temozolomide,CN1N=NC2=C(N=CN2C1=O)C(N)=O,96,2,3.6,5.6,,1.5,25.45849991,0.5,
+teniposide,teniposide,COC1=CC(=CC(OC)=C1O)[C@H]1[C@@H]2[C@H](COC2=O)[C@H](O[C@@H]2O[C@@H]3CO[C@H](O[C@H]3[C@H](O)[C@H]2O)C2=CC=CS2)C2=CC3=C(OCO3)C=C12,41,2,0.19,9,0.0044,16,10.65987587,0.41,0.025
+testosterone,testosterone,C[C@]12CC[C@H]3[C@@H](CCC4=CC(=O)CC[C@]34C)[C@@H]1CC[C@@H]2O,4,2,24.5,,0.057,0.17,2.971709967,0.35,0.0234
+testosterone cypionate,testosterone cypionate,C[C@]12CC[C@H]3[C@@H](CCC4=CC(=O)CC[C@]34C)[C@@H]1CC[C@@H]2OC(=O)CCC1CCCC1,,,,,,,,,
+tetracycline hydrochloride,tetracycline,CN(C)[C@H]1[C@@H]2C[C@H]3C(=C(O)[C@]2(O)C(=O)C(C(N)=O)=C1O)C(=O)C1=C(C=CC=C1O)[C@@]3(C)O,77,3,1.5,58,0.78,9.4,74.92487335,1.2,1.7
+thioguanine,thioguanine,NC1=NC2=C(NC=N2)C(=S)N1,30,1,15.4,0.5,,24.35,,2.89,0.2
+tobramycin,tobramycin,NC[C@H]1O[C@H](O[C@@H]2[C@@H](N)C[C@@H](N)[C@H](O[C@H]3O[C@H](CO)[C@@H](O)[C@H](N)[C@H]3O)[C@H]2O)[C@H](N)C[C@@H]1O,1,3,1.6,93,1,2,19.25036049,0.23,1000
+tobramycin sulfate,tobramycin,NC[C@H]1O[C@H](O[C@@H]2[C@@H](N)C[C@@H](N)[C@H](O[C@H]3O[C@H](CO)[C@@H](O)[C@H](N)[C@H]3O)[C@H]2O)[C@H](N)C[C@@H]1O,1,3,1.6,93,1,2,19.25036049,0.23,1000
+topiramate,topiramate,CC1(C)O[C@@H]2CO[C@@]3(COS(N)(=O)=O)OC(C)(C)O[C@H]3[C@@H]2O1,70,3,0.27,70,0.72,34.8,19.65423393,0.8,9.8
+topiramate tablet,topiramate,CC1(C)O[C@@H]2CO[C@@]3(COS(N)(=O)=O)OC(C)(C)O[C@H]3[C@@H]2O1,70,3,0.27,70,0.72,34.8,19.65423393,0.8,9.8
+topotecan,topotecan,CC[C@@]1(O)C(=O)OCC2=C1C=C1N(CC3=CC4=C(CN(C)C)C(O)=CC=C4N=C13)C2=O,32,3,13,40,0.65,2.3,6.15719986,1.8,1
+topotecan hydrochloride,topotecan,CC[C@@]1(O)C(=O)OCC2=C1C=C1N(CC3=CC4=C(CN(C)C)C(O)=CC=C4N=C13)C2=O,32,3,13,40,0.65,2.3,6.15719986,1.8,1
+trandolapril,trandolapril,CCOC(=O)[C@H](CCC1=CC=CC=C1)N[C@@H](C)C(=O)N1[C@H]2CCCC[C@@H]2C[C@H]1C(O)=O,10,2,12.5,,0.17,0.26,1.061800003,0.25,
+trandolapril tablets,trandolapril,CCOC(=O)[C@H](CCC1=CC=CC=C1)N[C@@H](C)C(=O)N1[C@H]2CCCC[C@@H]2C[C@H]1C(O)=O,10,2,12.5,,0.17,0.26,1.061800003,0.25,
+tretinoin,tretinoin,C\C(\C=C\C1=C(C)CCCC1(C)C)=C/C=C/C(/C)=C/C(O)=O,,2,,0.5,,,3.701649904,,
+triazolam,triazolam,CC1=NN=C2CN=C(C3=CC(Cl)=CC=C3N12)C1=C(Cl)C=CC=C1,44,1,3,2,0.1,2.7,0.0208,0.58,0.045
+valproic acid,valproic acid,CCCC(CCC)C(O)=O,99,1,0.16,1.8,0.08,12,289.1505737,0.14,1.3
+valsartan,valsartan,CCCCC(=O)N(CC1=CC=C(C=C1)C1=C(C=CC=C1)C1=NN=NN1)[C@@H](C(C)C)C(O)=O,23,4,0.49,13,0.04,9.5,10.5,0.22,0.18
+vinblastine sulfate,vinblastine,CC[C@]1(O)C[C@@H]2CN(C1)CCC1=C(NC3=CC=CC=C13)[C@@](C2)(C(=O)OC)C1=C(OC)C=C2N(C)[C@@H]3[C@]4(CCN5CC=C[C@](CC)([C@@H]45)[C@@H](OC(C)=O)[C@]3(O)C(=O)OC)C2=C1,0,1,3.1,0.5,0.14,67,,28,10
+voriconazole,voriconazole,C[C@@H](C1=NC=NC=C1F)[C@](O)(CN1C=NC=N1)C1=C(F)C=C(F)C=C1,96,2,8.3,1.5,0.42,5.6,34.35442352,2.2,0.39
+zoledronic acid,zoledronic acid,OC(CN1C=CN=C1)(P(O)(O)=O)P(O)(O)=O,,3,2.2,39,0.78,11,0.0075,0.6,
